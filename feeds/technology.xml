@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel>
+<title>Technology News</title>
+<link>https://example.com/</link>
+<description>Aggregated headlines linking to original publishers</description>
+<item>
+<title>The Social Reckoning is flopping at the box office</title>
+<link>https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy</link>
+<guid isPermaLink="false">e50abc02ffccc0a1fc8a4c182208604e21bd8decedc908b4c05e229c625f5ecf</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 21:20:57 +0000</pubDate>
+<description>As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend against a budget that's somewhere within the $30-42 million range. That would make it […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DF-04750_r.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Epic Games reportedly pivoting to "AI first" game development model</title>
+<link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration</link>
+<guid isPermaLink="false">b9412986ffa5d3dc31bcfb4c509a0c02bc36ee818f73b69032050e7d90e3437b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 20:59:50 +0000</pubDate>
+<description>"No more hand-written code" or AI-free art for delayed Marvel/Star Wars shooter.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png" medium="image"/>
+</item>
+<item>
+<title>After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad</title>
+<link>https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad</link>
+<guid isPermaLink="false">3443fb3cee5ccceeecbc6d44f4cec94142d3d24643bf429a8bccaf9d5b54015a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 20:26:14 +0000</pubDate>
+<description>You can get a universe in your pocket if you have an iPhone 11 or later.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/no-mans-sky-iphone-1152x648-1791835932.jpg" medium="image"/>
+</item>
+<item>
+<title>WHO report on Russian lab worker death highlights "key uncertainty"</title>
+<link>https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty</link>
+<guid isPermaLink="false">53c634c5618ab36c4dfef67556a9460d06a385e6d4759a0ff0b0124213f89d3b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 18:46:43 +0000</pubDate>
+<description>Without a cause of death, it's unclear if Russia's precautions were the right ones.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
+<link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police</link>
+<guid isPermaLink="false">76480243a7cf9f82b55ed27eec89116f0cdbc206252dd5cf347bed69a0431328</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 18:21:36 +0000</pubDate>
+<description>“I may have information regarding this case," Claude AI told Philly police.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta releases its first frontier model, Muse Wonder</title>
+<link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder</link>
+<guid isPermaLink="false">1e2db47d258dd52efadf3b0139ff866b1af6c474a7845bb0b4fe8ea92fe96892</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 17:56:56 +0000</pubDate>
+<description>Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.</description>
+</item>
+<item>
+<title>Russia was not ready for the data center war it started with Ukraine</title>
+<link>https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine</link>
+<guid isPermaLink="false">0d4b180ce061542baaae6e86ca6b08efd6a91c1bb9dc843c7485440aeeb632de</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 17:52:36 +0000</pubDate>
+<description>Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Kremlin-with-barbed-wire-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Kremlin-with-barbed-wire-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>WindBorne wins a hefty US Air Force contract for its balloon data</title>
+<link>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data</link>
+<guid isPermaLink="false">5086a26c24b9017fd585e28f4acf764e2c26b7be89cf4188b28811e9c87871cb</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 17:19:14 +0000</pubDate>
+<description>A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.</description>
+</item>
+<item>
+<title>Meta has some Wonder Full new AI models</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model</link>
+<guid isPermaLink="false">846af7f67ce8bfa668821fc4bca4cc2c2edd679d302d8cdfb5aed97a87043c54</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 17:00:00 +0000</pubDate>
+<description>Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's best. The new models, Muse Wonder and Muse Wonder Full, are available […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Elon Musk has donated over $276 million to Republican midterm efforts</title>
+<link>https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations</link>
+<guid isPermaLink="false">2c4bce67f69f3293543eede3077e9886233ed7b6d667af02498718dc17153139</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 16:52:54 +0000</pubDate>
+<description>Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest political donations in American history - has been funneled into the Senate […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK175_STK022_DONALD_TRUMP_ELON_MUSK_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK175_STK022_DONALD_TRUMP_ELON_MUSK_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Long-lost horror gaming cult classic P.T. gets a much-needed PC port</title>
+<link>https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port</link>
+<guid isPermaLink="false">5fe5c3a1a72d071a2c4fada0c8435c3e90c935e17edacc7cf07b03a62af6b85d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 16:01:08 +0000</pubDate>
+<description>Kojima's discontinued "playable trailer" is no longer stuck on a few aging PS4 hard drives.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ptpc-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ptpc-1152x648.png" medium="image"/>
+</item>
+<item>
+<title>Honeyjar offers AI tools to improve PR and comms at every company</title>
+<link>https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company</link>
+<guid isPermaLink="false">f32ec83ece71d3f7fc37a5712ff25a30d09163ecaadddf3534b24fc9d4963f98</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 15:45:00 +0000</pubDate>
+<description>Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?</description>
+</item>
+<item>
+<title>The Yandex outage probably didn’t blitz Russian bots</title>
+<link>https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk</link>
+<guid isPermaLink="false">a84e8e40daff678afac817802979967d1becf2ac42649bc1ab9db228c9355b31</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 15:43:07 +0000</pubDate>
+<description>Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart citing Cloudflare data has been circulating around social media platforms, showing a sharp decline […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft president says UK is best placed to drive AI regulation</title>
+<link>https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation</link>
+<guid isPermaLink="false">3280ed302a3eecae2a9571c76cc6fbbc8b14987d34599cb0c4446fb45d1180ea</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 15:31:19 +0000</pubDate>
+<description>Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.</description>
+</item>
+<item>
+<title>This AI startup says it can generate permit-ready blueprints in minutes</title>
+<link>https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes</link>
+<guid isPermaLink="false">de563f5e428af2e8e50ba613b2ba86efdd7cec6659fa915b73e7a0b6a88482cb</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 15:27:59 +0000</pubDate>
+<description>Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.</description>
+</item>
+<item>
+<title>Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch</title>
+<link>https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch</link>
+<guid isPermaLink="false">3f121de0b66a91473bbe02a0573d2028af229f96db8194fd4d11fe6a6af48073</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 15:11:19 +0000</pubDate>
+<description>Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.</description>
+</item>
+<item>
+<title>Mechanism&amp;#8217;s first Switch 2 case is as awesome as I hoped it would be</title>
+<link>https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on</link>
+<guid isPermaLink="false">48650331f64d21e9be8f1ad172778b51e97df0fa98fef46560dfd97c5968618a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 15:00:00 +0000</pubDate>
+<description>Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modular lineup of mounts. You could already mount the Switch 2 in numerous […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/basecase4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>F1 in Singapore: There's a new fastest car now</title>
+<link>https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now</link>
+<guid isPermaLink="false">41c1e7e724806ff1ad22fe226e080daf0ac3f2f0d71c1cecd28d28365e983a19</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 14:43:14 +0000</pubDate>
+<description>Also, F1’s final sprint saw our first real wet racing of the year.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298551998-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298551998-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Smart ring maker Ultrahuman to roll out biological-age model across UAE</title>
+<link>https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae</link>
+<guid isPermaLink="false">98c6d5dc00b8bb59cd5cd2d6875d4be7a37aa585c6f6c2ce48626d8290d296d0</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 14:09:34 +0000</pubDate>
+<description>Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.</description>
+</item>
+<item>
+<title>TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings</title>
+<link>https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings</link>
+<guid isPermaLink="false">57fefa5a3eb487e8349482626e7e4b8065bc6064e777e098dba54cb7e0acf4a4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
+<description>Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your last 24 hours to secure ticket savings of up to $100, and get 50% off a second.</description>
+</item>
+<item>
+<title>Android is the best and worst thing about Googlebooks</title>
+<link>https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing</link>
+<guid isPermaLink="false">b64623cd88f611348e4efebb6a05b578b6352d390bb2bfa2a2d6ea4a93352b7c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
+<description>My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessing a native version of a useful app or quickly checking my […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/asus-googlebook-android-15.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>No Man’s Sky is coming to the iPhone and iPad</title>
+<link>https://www.theverge.com/entertainment/1009541/no-mans-sky-iphone-ipad-launch-date</link>
+<guid isPermaLink="false">6d3c2b66f3256447c9866fcd99729889472a64cc8a5175976ad1ab9a8d5ab36d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 14:00:00 +0000</pubDate>
+<description>The No Man's Sky universe is about to get a little bit smaller - but in a good way. Hello Games announced that its long-running sci-fi exploration game will be coming to iOS, with versions for both the iPhone and iPad available starting on October 28th. According to Hello's Sean Murray, the mobile version of […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/No-Mans-Sky-iPhone-Screen-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The OnePlus 16 is the company’s most interesting phone in years</title>
+<link>https://www.theverge.com/tech/1009570/oneplus-16-specs-features-china</link>
+<guid isPermaLink="false">7fd0ea7f0e26e79b59e17133c1f4bdcd7199fb18dcfb6ce06039650f82923864</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 13:13:53 +0000</pubDate>
+<description>Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oneplus-16.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/oneplus-16.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air</title>
+<link>https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air</link>
+<guid isPermaLink="false">c008d741a019d4f1e10ebfb371fe851eb22b01438f7545cbb612eb3a16345402</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 13:00:52 +0000</pubDate>
+<description>The Fitbit Edge offers more than the Air, but it's not a real smartwatch.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>CMF’s first wireless speakers look like musical milk cartons</title>
+<link>https://www.theverge.com/tech/1008191/nothing-cmf-speaker-m-s-series-bluetooth-design-customize</link>
+<guid isPermaLink="false">c008e34a499747b09e7180426303188936167b8ec2b4fce0791e3346977e01be</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+<description>The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cmf1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cmf1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Fitbit Edge is for folks who don’t want to go totally screenless</title>
+<link>https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker</link>
+<guid isPermaLink="false">5f8e496c8607a3e21c6340d90a632ae03892d7002154b391987e58d724839b80</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 13:00:00 +0000</pubDate>
+<description>The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup. Basically, if you have smartwatch fatigue but don't want to give up notifications, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Active-Run.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Active-Run.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Former Plaud exec raises $26M for AI app that listens to you in the background</title>
+<link>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background</link>
+<guid isPermaLink="false">923391ccc7454943d7b3b03ac14a4b70f2adc32e41d0bb8c74dc6d2b14142da9</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 12:47:59 +0000</pubDate>
+<description>One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, or record users' activity all the time and gather all possible context.</description>
+</item>
+<item>
+<title>Amazon has over 1 million robot workers. What’s next for human employees?</title>
+<link>https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work</link>
+<guid isPermaLink="false">f5415e83edf8eaa7a81b4dc16376795c716e128c2642169b9913cf15299a5666</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 12:43:10 +0000</pubDate>
+<description>The second-largest corporate employer has bet big on robot workers to scale.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
+<link>https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know</link>
+<guid isPermaLink="false">b76d9ebb51a6087e80eca51e78741c66a064267b9d2fa0f18779099c990eb006</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 12 Oct 2026 00:59:01 +0000</pubDate>
+<description>TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.</description>
+</item>
+<item>
+<title>Will the HomeView be Apple’s first smart home success?</title>
+<link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success</link>
+<guid isPermaLink="false">6ad735d17667970a5022d82ba396f0a6377286ea2e3efe485ea70de17a58b901</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
+<description>Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.</description>
+</item>
+<item>
+<title>Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start</title>
+<link>https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start</link>
+<guid isPermaLink="false">db6e495273e2a6e50685bedf5d6a9c5d5ed5d83225ce598cb50d5cfd5620ada7</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 20:51:47 +0000</pubDate>
+<description>What does this mean for a fall full of movies starring villainous tech CEOs?</description>
+</item>
+<item>
+<title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
+<link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next</link>
+<guid isPermaLink="false">dfeef58f7514840dcb2ef01c85cfcd2eecc411d71a0b3209b10b5238db630095</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
+<description>Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.</description>
+</item>
+<item>
+<title>Review: 4-hour Musk documentary feels like two different films</title>
+<link>https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films</link>
+<guid isPermaLink="false">5ab6449a476ec9f88bdea34f4de02599d0f82765018ff9d16dc4a53f70b67ce5</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 18:10:54 +0000</pubDate>
+<description>Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" medium="image"/>
+</item>
+<item>
+<title>The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
+<link>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know</link>
+<guid isPermaLink="false">70ab4b6aa47658ab6c4cb72b4a5a6c374f28ae2aabf3c9f81b98d1559ceb3b86</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 17:53:37 +0000</pubDate>
+<description>Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.</description>
+</item>
+<item>
+<title>Can the AI industry persuade data center opponents by getting rid of NDAs?</title>
+<link>https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas</link>
+<guid isPermaLink="false">2b537537572cb2b2a4a9c9a43b42577b4f090fcb4375c78e97aaed3470bdec51</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:52:33 +0000</pubDate>
+<description>On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.</description>
+</item>
+<item>
+<title>TechCrunch Mobility: A roadblock clears for self-driving trucks</title>
+<link>https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks</link>
+<guid isPermaLink="false">266468c857bec783bc156d43d9f91ad56d0d9b84321c753b190a42cc0aceffcf</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:02:00 +0000</pubDate>
+<description>Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.</description>
+</item>
+<item>
+<title>Dawn Myers is making it easier to style, detangle, and care for curly hair</title>
+<link>https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair</link>
+<guid isPermaLink="false">e02187d5b92c1bdfe0813f0218d6f45b7aaa79649077057104efeefc796e7956</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 16:00:00 +0000</pubDate>
+<description>Richualist is one of TechCrunch's Battlefield 200 Companies!</description>
+</item>
+<item>
+<title>Efferon wants to eradicate the devastating toll of pediatric sepsis</title>
+<link>https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis</link>
+<guid isPermaLink="false">5fd9c8664f71fe77e8b5366b13f489ce6da92deaa651e8b51dd8d5b08ff2c55e</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+<description>This Battlefield 200 startup has developed blood-purification tech to save children.</description>
+</item>
+<item>
+<title>Prime Video unveils Blade Runner 2099 full trailer at NYCC</title>
+<link>https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc</link>
+<guid isPermaLink="false">203675bb01a03b221a2004e70f4c95dedd7ac124d2a135c91362515985f51522</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 14:50:24 +0000</pubDate>
+<description>Also: New trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One .</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-1152x648-1791729996.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-1152x648-1791729996.jpg" medium="image"/>
+</item>
+<item>
+<title>What to know about the landmark Warner Bros. Discovery sale</title>
+<link>https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd</link>
+<guid isPermaLink="false">ba0bf96ce3b2df65ba526ca8ea043988897bffd3d8e12037145a388e2bd4157c</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 14:15:00 +0000</pubDate>
+<description>Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.</description>
+</item>
+<item>
+<title>These execs think voice AI hasn’t reached its ChatGPT moment yet</title>
+<link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet</link>
+<guid isPermaLink="false">fa2bbe1298fb27e978e2a15e6db169002ef35ace753293145b61025ea79278fa</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 11 Oct 2026 14:00:00 +0000</pubDate>
+<description>Voice AI often misses important points for its context layer, and causes the whole pipeline to break.</description>
+</item>
+<item>
+<title>One with the world? A new look at brains transformed by psychedelics.</title>
+<link>https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order</link>
+<guid isPermaLink="false">917caa68d005e05fa1abf2990f2d1e8f2d29526fb1b819a424ef698e1090d93d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 11:15:35 +0000</pubDate>
+<description>Participants meditated inside an MRI tube, with and without psilocybin.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Neanderthal wooden tools from Spain found preserved in stone</title>
+<link>https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone</link>
+<guid isPermaLink="false">b02cc7278c40c2d94c06bd842b17a7348a8ded7ff0ec880353de4ffe024d2a12</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 22:34:03 +0000</pubDate>
+<description>Dissolved rock precipitated around the tools, which then decayed.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x648.png" medium="image"/>
+</item>
+<item>
+<title>Ukraine’s drones knock out AI data center belonging to "Russia’s Google"</title>
+<link>https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google</link>
+<guid isPermaLink="false">22c3579861187b297e1846cedb985cbdf8d95ab243d7f759aa6651fe91c6dde4</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 22:04:07 +0000</pubDate>
+<description>One damaged data center has supercomputers used for training Yandex’s AI model.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg" medium="image"/>
+</item>
+<item>
+<title>A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis</title>
+<link>https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis</link>
+<guid isPermaLink="false">f553246a6e5e9918a738688e9761e676cc5782dfac8d2ffdefe9496f6103432e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 21:51:12 +0000</pubDate>
+<description>Stylish upcycling, with a retro flair, at Spain's Museo de Historia de la Computación.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Cray-1_Vertical_Chassis-1-810x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Cray-1_Vertical_Chassis-1-810x648.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA issues long-awaited call to industry for private space stations</title>
+<link>https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations</link>
+<guid isPermaLink="false">6936b3241d2831494e8ed05ff1b01968c4a75e58c4dec1b28caea6bbca1b010c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 21:34:09 +0000</pubDate>
+<description>"We’ve made it clear that NASA will never give up its presence in low-Earth orbit."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2012/11/323069main_s119e009662.jpg" medium="image"/>
+</item>
+<item>
+<title>What's been driving Hawaii's lava fountains?</title>
+<link>https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains</link>
+<guid isPermaLink="false">a879a9e1e87c2184a430adda64ce33fe95a56b0e1287f276b74076a76c9cf874</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 21:05:01 +0000</pubDate>
+<description>Before the lava fountains started, the ground was expanding by half a meter a day.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2243092854-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2243092854-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>AI coding agents generate more code, but not more software</title>
+<link>https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software</link>
+<guid isPermaLink="false">0c1c0b39505178a38f897d9179dd06981792327e09bedeebcdb9a1f4cae19c0f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 19:43:50 +0000</pubDate>
+<description>Study finds coding efficiency gains get "absorbed" by human review "bottleneck."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2264559974-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Outrage grows as CDC reportedly poised to fund "unethical" vaccine trial</title>
+<link>https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus</link>
+<guid isPermaLink="false">ba2dcb2d5a3c822b3a7aaabbc78aa781180162b592de12f43998d267bf005629</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 19:27:27 +0000</pubDate>
+<description>CDC allocated $1.6M for study on alleged harms of hepatitis B vaccine.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2252095020-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023</title>
+<link>https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023</link>
+<guid isPermaLink="false">7cd518d45de16bdf4e988bc4c91d5d2f5384ca30037cdc0b311cd2fa28bb73bb</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 09 Oct 2026 18:54:52 +0000</pubDate>
+<description>"The current decline may be just the beginning of a new downward cycle."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298480400-1024x648.jpg" medium="image"/>
+</item>
+</channel></rss>
