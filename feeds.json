@@ -19,12 +19,6 @@
       "enabled": true
     },
     {
-      "name": "Punch Nigeria",
-      "url": "https://punchng.com/feed/",
-      "category": "nigeria",
-      "enabled": true
-    },
-    {
       "name": "Vanguard Nigeria",
       "url": "https://www.vanguardngr.com/feed/",
       "category": "nigeria",
@@ -82,6 +76,222 @@
       "name": "Al Jazeera",
       "url": "https://www.aljazeera.com/xml/rss/all.xml",
       "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "New York Times World",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "France 24",
+      "url": "https://www.france24.com/en/rss",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Deutsche Welle",
+      "url": "https://rss.dw.com/rdf/rss-en-all",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Sky News World",
+      "url": "https://feeds.skynews.com/feeds/rss/world.xml",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "CBC Top Stories",
+      "url": "https://www.cbc.ca/webfeed/rss/rss-topstories",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "ABC News Australia",
+      "url": "https://www.abc.net.au/news/feed/45910/rss.xml",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "South China Morning Post",
+      "url": "https://www.scmp.com/rss/91/feed/",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Times of India Top Stories",
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "NDTV Top Stories",
+      "url": "https://feeds.feedburner.com/ndtvnews-top-stories",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Google News Top Stories",
+      "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Reuters via Google News",
+      "url": "https://news.google.com/rss/search?q=when:24h+site:reuters.com&ceid=US:en&hl=en-US&gl=US",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "AP News via Google News",
+      "url": "https://news.google.com/rss/search?q=when:24h+site:apnews.com&hl=en-US&gl=US&ceid=US:en",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "The Guardian International",
+      "url": "https://www.theguardian.com/international/rss",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "The Economist World",
+      "url": "https://www.economist.com/the-world-this-week/rss.xml",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Washington Post World",
+      "url": "https://feeds.washingtonpost.com/rss/world",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Wall Street Journal World",
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "CNBC Top News",
+      "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "MarketWatch Top Stories",
+      "url": "https://feeds.marketwatch.com/marketwatch/topstories",
+      "category": "world",
+      "enabled": true
+    },
+    {
+      "name": "Scientific American",
+      "url": "https://rss.sciam.com/ScientificAmerican-Global",
+      "category": "science",
+      "enabled": true
+    },
+    {
+      "name": "Nature News",
+      "url": "https://www.nature.com/nature.rss",
+      "category": "science",
+      "enabled": true
+    },
+    {
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/all.xml",
+      "category": "science",
+      "enabled": true
+    },
+    {
+      "name": "Engadget",
+      "url": "https://www.engadget.com/rss.xml",
+      "category": "technology",
+      "enabled": true
+    },
+    {
+      "name": "Wired",
+      "url": "https://www.wired.com/feed/rss",
+      "category": "technology",
+      "enabled": true
+    },
+    {
+      "name": "The Hacker News",
+      "url": "https://feeds.feedburner.com/TheHackersNews",
+      "category": "technology",
+      "enabled": true
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "category": "technology",
+      "enabled": true
+    },
+    {
+      "name": "9to5Mac",
+      "url": "https://9to5mac.com/feed/",
+      "category": "technology",
+      "enabled": true
+    },
+    {
+      "name": "The Athletic Soccer via Google News",
+      "url": "https://news.google.com/rss/search?q=site:theathletic.com+soccer&hl=en-US&gl=US&ceid=US:en",
+      "category": "sports",
+      "enabled": true
+    },
+    {
+      "name": "ESPN Top News",
+      "url": "https://www.espn.com/espn/rss/news",
+      "category": "sports",
+      "enabled": true
+    },
+    {
+      "name": "The Guardian Football",
+      "url": "https://www.theguardian.com/football/rss",
+      "category": "sports",
+      "enabled": true
+    },
+    {
+      "name": "The Guardian Nigeria",
+      "url": "https://guardian.ng/feed/",
+      "category": "nigeria",
+      "enabled": true
+    },
+    {
+      "name": "Channels Television",
+      "url": "https://www.channelstv.com/feed/",
+      "category": "nigeria",
+      "enabled": true
+    },
+    {
+      "name": "Premium Times Nigeria",
+      "url": "https://www.premiumtimesng.com/feed",
+      "category": "nigeria",
+      "enabled": true
+    },
+    {
+      "name": "Daily Trust",
+      "url": "https://dailytrust.com/feed/",
+      "category": "nigeria",
+      "enabled": true
+    },
+    {
+      "name": "BusinessDay Nigeria",
+      "url": "https://businessday.ng/feed/",
+      "category": "nigeria",
+      "enabled": true
+    },
+    {
+      "name": "TheCable Nigeria",
+      "url": "https://www.thecable.ng/feed",
+      "category": "nigeria",
       "enabled": true
     }
   ]
