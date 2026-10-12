@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+q#!/usr/bin/env python3
 """Fetch configured RSS/Atom feeds and create combined, deduplicated RSS files."""
 from __future__ import annotations
 import hashlib, html, json, re, time
