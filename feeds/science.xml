@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer</title>
+<link>https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer</link>
+<guid isPermaLink="false">d62f8061a15e4206d8f496dbb7ef096b2e350601c4558cd2000159d61c8811a3</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 13 Oct 2026 20:41:11 +0000</pubDate>
+<description>NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of Katherine Van Hooser, who will conclude more than 35 years of distinguished service to the agency on Wednesday, Oct. 21. In her new role, Koch will help lead NASA’s engineering community, […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg?w=1920" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/christina-koch-release-oct-13.jpg?w=1920" medium="image"/>
+</item>
+<item>
 <title>Comparing Off-World Rover Driving Distances</title>
 <link>https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances</link>
 <guid isPermaLink="false">7372c3e01f24fcadc20410b797b892d48e124f7de4e9cf4532a202bfc6950575</guid>
@@ -171,17 +182,6 @@
 <category>science</category>
 <pubDate>Tue, 13 Oct 2026 04:19:32 +0000</pubDate>
 <description>Scientists have uncovered a surprising hidden ability of light that allows it to develop spinning, twisting behavior as it travels through empty space, without special lenses, mirrors, or materials. Researchers discovered that light’s internal geometry can naturally produce left- and right-handed patterns, challenging long-standing assumptions about how light behaves. By carefully arranging a beam’s structure, scientists can control where and how these spinning patterns emerge, unlocking a new way to manipulate light.</description>
-</item>
-<item>
-<title>APOD: 2026 October 13 – Desert Stairway to Heaven</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven</link>
-<guid isPermaLink="false">8aa465f54d5a70898fcb2c615c94beae33d42314e0ee49c90e1c6f1e42d434f1</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 04:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 October 13 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway to Heaven Explanation: This stairway in Chile brings you only a little bit closer […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg?w=6750&amp;h=9000&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg?w=6750&amp;h=9000&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists just gave the powerhouses of our cells a high-tech upgrade</title>

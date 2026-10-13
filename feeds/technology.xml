@@ -4,6 +4,33 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Anthropic warns self-replicating AI could spread to your smart devices</title>
+<link>https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices</link>
+<guid isPermaLink="false">952c1975fabe325b2a0c9fde83d99a48463630e9c1313277487fafc253c64e98</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:16:34 +0000</pubDate>
+<description>Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]</description>
+</item>
+<item>
+<title>Helix Carbon says it can make iron cheaper by recycling blast furnace pollution</title>
+<link>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt</link>
+<guid isPermaLink="false">0a8f30980927fef31df97c0b475878e1e23f57bad0d06ef7fae2ceee9fb1430c</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:15:00 +0000</pubDate>
+<description>The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.</description>
+</item>
+<item>
+<title>FBI arrests OpenAI employee accused of planting hidden recording device in conference room</title>
+<link>https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room</link>
+<guid isPermaLink="false">5e9388d7a52876f9c801a5a0240805daed6a8d08a370a4fc2a995ce79aa9a2c6</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 20:59:11 +0000</pubDate>
+<description>It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence technology."</description>
+</item>
+<item>
 <title>Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit</title>
 <link>https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit</link>
 <guid isPermaLink="false">5c7e1c389deb1e931b0132ec7da1682a4d2d7ad57afcf5dc6bf54d7e548354f2</guid>
@@ -15,7 +42,7 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>OpenAI employee arrested for allegedly planting recording device</title>
+<title>OpenAI employee arrested for allegedly planting a bug in a conference room</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device</link>
 <guid isPermaLink="false">6ec803e44d1742ccbdc9716fc725a309384ba717e011d1917a3019ef40f75ca2</guid>
 <source>The Verge</source>
@@ -250,13 +277,13 @@
 <description>Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.</description>
 </item>
 <item>
-<title>Rivian spinoff Mind Robotics hires Doug Field as president</title>
+<title>Rivian partner Mind Robotics hires Doug Field as president</title>
 <link>https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple</link>
 <guid isPermaLink="false">c0d1db294d8f9f0c99a6c12d7b9ecd63c59efca72c9891f5ccfaf0e1585f04f6</guid>
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:30:00 +0000</pubDate>
-<description>Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had […]</description>
+<description>Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/c60a24b2-e1cf-4857-8c59-5fb7f9f74efe-Doug_Field_portrait.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/c60a24b2-e1cf-4857-8c59-5fb7f9f74efe-Doug_Field_portrait.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -969,24 +996,6 @@
 <description>Today Apple unveiled the long-awaited new Apple TV 4K model , which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding support. But even if you’re not upgrading, you can still buy the new Siri Remote for your current Apple TV. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple refreshes its HomePod mini with a new chip and $149 price tag</title>
-<link>https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag</link>
-<guid isPermaLink="false">e0a6e171910f6870bc76a3f7c2a6422763685c4c86b79f2d6dac7195d9d6195e</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 13:38:03 +0000</pubDate>
-<description>The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.</description>
-</item>
-<item>
-<title>Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells</title>
-<link>https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells</link>
-<guid isPermaLink="false">57a299737bb11ff83748d70c9dbfa747def2019828c14b2530e334882f187fce</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 13:37:19 +0000</pubDate>
-<description>The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.</description>
 </item>
 <item>
 <title>Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider</title>
@@ -1727,15 +1736,6 @@
 <description>We are starting the week off with a solid $50 price drop on AirPods Pro 3 and AirPods Max 2 at $120 off, but today’s 9to5Toys Lunch Break is headlined by MacBook Pro. We are now tracking a massive $600 price drop hits Apple’s 24GB M5 Pro to deliver one of the best MacBook deals of the year alongside a host of other configurations you’ll find below. You also still have a chance at M6 Mac mini all-time lows at up to $150 off if you’re quick (they are starting to disappear), a series of discounts on Apple’s iPhone 18 Pro cases, and this deal on Apple Pencil (USB-C) for your iPhone Duo. All of that and more awaits below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-MacBook-Pro-AirPods-cases.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-MacBook-Pro-AirPods-cases.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Cyberattack shuts down refrigerators at French supermarkets</title>
-<link>https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets</link>
-<guid isPermaLink="false">371925c159a2302062618c18ab7cdd4add25f4049cd5b992381976a738fa1eb4</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 15:23:34 +0000</pubDate>
-<description>Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]</description>
 </item>
 <item>
 <title>⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</title>
