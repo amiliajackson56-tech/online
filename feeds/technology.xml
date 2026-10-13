@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple’s HomeView ad is confusing to everyone except parents</title>
+<link>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</link>
+<guid isPermaLink="false">6b6f41fec886b5e4097a1e21344393a60ec3c71e3bf8c763254e1a7c6c9a7d86</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:10:00 +0000</pubDate>
+<description>Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/family_hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie</title>
+<link>https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie</link>
+<guid isPermaLink="false">79b21aa1ea4d41c2a40ca805a5fac6900b531a21cbb0dbae925bf1f91f086e3e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:08:44 +0000</pubDate>
+<description>The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.</description>
+<enclosure url="https://media.wired.com/photos/6ac90dd815a533466f61dc9f/master/pass/MCDDIGG_WB006.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ac90dd815a533466f61dc9f/master/pass/MCDDIGG_WB006.jpg" medium="image"/>
+</item>
+<item>
+<title>5 clever ways Gemini can automate everyday tasks</title>
+<link>https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks</link>
+<guid isPermaLink="false">244c6883cdf55b271f900c4e271991c32da24b199099598b33ae58977bc5369c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
+<description>If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more.</description>
+<enclosure url="https://www.engadget.com/img/gallery/5-clever-ways-gemini-can-automate-everyday-tasks/l-intro-1791468895.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/5-clever-ways-gemini-can-automate-everyday-tasks/l-intro-1791468895.jpg" medium="image"/>
+</item>
+<item>
+<title>ESA targets Anbernic emulation handhelds as "superfake" piracy enablers</title>
+<link>https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers</link>
+<guid isPermaLink="false">ea81f0891bb25bb24c5c259b790bd2de9a018af5bc205a463115e7bcc748af49</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:55:49 +0000</pubDate>
+<description>But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anbernic2-1152x648-1791926080.jpg" medium="image"/>
+</item>
+<item>
 <title>OpenAI says it found a 'sophisticated recording device' hidden in its offices</title>
 <link>https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices</link>
 <guid isPermaLink="false">c9e6150bbbe1f42354f2608b7917047ccda3bfd2fd72cef2d41f9dd7d581927f</guid>
@@ -13,6 +57,17 @@
 <description>The company asked its AI models to figure out what the device was.</description>
 <enclosure url="https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg" medium="image"/>
+</item>
+<item>
+<title>Topgolf saved over $11.3 million after leaving VMware</title>
+<link>https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware</link>
+<guid isPermaLink="false">55d06fe1f460609b623d1155bd576cfc901b0ce22dadd222b687e7dfb0ce735d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:33:43 +0000</pubDate>
+<description>Topgolf and VMware "ran deep" before the migration.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/11-TGFW-Tee-Line-X2-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Ghostscript flaw lets hackers hijack servers via PDF uploads</title>
@@ -129,6 +184,17 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 19:56:09 +0000</pubDate>
 <description>Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]</description>
+</item>
+<item>
+<title>Trump commercial railing against his enemies kept airing after court blocked it</title>
+<link>https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them</link>
+<guid isPermaLink="false">df9909a9219dcd377732700a5d36d1436e9c87a874ca41c7a41edc7e8b586b7c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 19:50:37 +0000</pubDate>
+<description>US attorney apologized to court, said government has stopped running Trump ads.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/trump-final-battle-ad-1152x648-1790710215.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft releases Windows 10 KB5126657 extended security update</title>
@@ -330,13 +396,13 @@
 <media:content url="https://www.engadget.com/img/gallery/what-is-nvidia-dlss-and-how-does-it-work/l-intro-1791492240.jpg" medium="image"/>
 </item>
 <item>
-<title>Beta 4 available now for iPadOS 27.2, watchOS 27.2, more</title>
+<title>Beta 4 available now for iPadOS 27.2, watchOS 27.2, more [U]</title>
 <link>https://9to5mac.com/2026/10/13/beta-4-available-now-for-ipados-27-2-watchos-27-2-more</link>
 <guid isPermaLink="false">0b9d3eaabfa85f4b39c16db7ffeac97a142918b8039aac6e6115bae22748ca31</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:27:41 +0000</pubDate>
-<description>Apple just released a fresh wave of beta updates, with developer beta 4 rolling out for iPadOS 27.2, watchOS 27.2, and more. more…</description>
+<description>Update, 5:56 p.m. ET: The public beta for iPadOS 27.2 is now available as well. Apple just released a fresh wave of beta updates, with developer beta 4 rolling out for iPadOS 27.2, watchOS 27.2, and more. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -347,7 +413,7 @@
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:24:11 +0000</pubDate>
-<description>Update, 5:56 p.m. ET: The public betas are also now available. Just one week after rolling out the first Release Candidates of macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2, the second RCs are now available for testing. Here are the details. more…</description>
+<description>Update, 5:56 p.m. ET: The public RCs are now available as well. Just one week after rolling out the first Release Candidates of macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2, the second RCs are now available for testing. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -358,18 +424,29 @@
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:23:36 +0000</pubDate>
-<description>Update, 5:56 p.m. ET: The public beta is also now available. Apple is rolling out the fourth developer beta for macOS 27.2 Golden Gate, ahead of the official release in the coming weeks. Here’s what to expect. more…</description>
+<description>Update, 5:56 p.m. ET: The public beta is now available as well. Apple is rolling out the fourth developer beta for macOS 27.2 Golden Gate, ahead of the official release in the coming weeks. Here’s what to expect. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.2-b4.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.2-b4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple releases fourth iOS 27.2 developer beta for iPhone</title>
+<title>Disney offers $20M for Character.AI’s scandal-plagued chatbot tech</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech</link>
+<guid isPermaLink="false">1cf0caa6f9098b3153d3e269989d7a68d7e1b93d2120160b9a7c842826c899ff</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 18:23:33 +0000</pubDate>
+<description>Disney may acquire tech from one of the first chatbot makers linked to child suicide.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple releases fourth iOS 27.2 developer beta for iPhone [U: Public]</title>
 <link>https://9to5mac.com/2026/10/13/apple-releases-fourth-ios-27-2-developer-beta-for-iphone</link>
 <guid isPermaLink="false">caaead37cc8287580e77856353059a6dcfb94e941cf35a8bd6b2a394d08d49db</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:22:18 +0000</pubDate>
-<description>Apple has released the fourth iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused release. more…</description>
+<description>Update, 5:56 p.m. ET: The public beta for iOS 27.2 is now available as well. Apple has released the fourth iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple has shown as an iPhone Duo-focused release. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.2-b4.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.2-b4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -436,6 +513,17 @@
 <description>Within reason, of course.</description>
 <enclosure url="https://www.engadget.com/img/gallery/dont-like-your-facebook-feed-meta-wants-to-know-what-you-want-to-see-instead/l-intro-1791914731.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/dont-like-your-facebook-feed-meta-wants-to-know-what-you-want-to-see-instead/l-intro-1791914731.jpg" medium="image"/>
+</item>
+<item>
+<title>Skydance’s Discovery+ prices increase by up to 20 percent</title>
+<link>https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent</link>
+<guid isPermaLink="false">aa09acc322ffec68596de1dc25074f434f014b9e9370a1d5a33395d2ad000d05</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 18:06:06 +0000</pubDate>
+<description>The higher prices are said to be unrelated to the Skydance merger.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Facebook is giving users more control over their algorithm</title>
@@ -604,17 +692,6 @@
 <description>Apple unveiled its new HomeView product today, and it’s available for pre-order now. But unfortunately HomeView isn’t coming to the EU, at least for now. Here’s why. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever</title>
-<link>https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale</link>
-<guid isPermaLink="false">4b7b65c68acce068f22431f7874c48d9a74d4395a524e7f91693667b3efdc4df</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 17:19:31 +0000</pubDate>
-<description>If you’re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making it significantly smaller and thinner than Amazon’s smallest six-inch Kindle. It’s also quite a bit […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xteinkx4pro12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/xteinkx4pro12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Pluto Security raises $42M as AI gives enterprise security teams a new headache</title>
@@ -918,17 +995,6 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 15:02:00 +0000</pubDate>
 <description>Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.</description>
-</item>
-<item>
-<title>Framework Laptop 12 (2026 upgrade) review: Intel's Core Series 3 fixes a key flaw</title>
-<link>https://www.engadget.com/2271233/framework-laptop-12-2026-upgrade-review</link>
-<guid isPermaLink="false">f87e27e617a31c32a423dc15684f5b8a26485fd96435a5d44386ce4fe65897fa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 15:00:00 +0000</pubDate>
-<description>Framework's Laptop 12 was conceived as a Chromebook killer, but now it has a flagship chip inside. Does it work as a grown-up machine?</description>
-<enclosure url="https://www.engadget.com/img/gallery/framework-laptop-12-2026-upgrade-review-intels-core-series-3-fixes-a-key-flaw/l-intro-1790623659.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/framework-laptop-12-2026-upgrade-review-intels-core-series-3-fixes-a-key-flaw/l-intro-1790623659.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple confirms HomePod mini 2 won’t have Siri AI at launch</title>
@@ -1315,6 +1381,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg" medium="image"/>
 </item>
 <item>
+<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
 <link>https://www.wired.com/story/wayfair-promo-code</link>
 <guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
@@ -1368,17 +1445,6 @@
 <description>Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.</description>
 <enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
-</item>
-<item>
-<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Lego Promo Code | 20% Off October 2026</title>
@@ -1859,17 +1925,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-air0000.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Amazon has over 1 million robot workers. What’s next for human employees?</title>
-<link>https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work</link>
-<guid isPermaLink="false">f5415e83edf8eaa7a81b4dc16376795c716e128c2642169b9913cf15299a5666</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 12:43:10 +0000</pubDate>
-<description>The second-largest corporate employer has bet big on robot workers to scale.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/amazon-robotics-mobile-robot-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</title>
 <link>https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html</link>
 <guid isPermaLink="false">87353277b1ca0d62137b6e36f3d992237d89d574e12313452a5949b3a8cf1055</guid>
@@ -2002,17 +2057,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg" medium="image"/>
 </item>
 <item>
-<title>Review: 4-hour Musk documentary feels like two different films</title>
-<link>https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films</link>
-<guid isPermaLink="false">5ab6449a476ec9f88bdea34f4de02599d0f82765018ff9d16dc4a53f70b67ce5</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 18:10:54 +0000</pubDate>
-<description>Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" medium="image"/>
-</item>
-<item>
 <title>Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro</title>
 <link>https://9to5mac.com/2026/10/11/kuxius-d5-charger-now-comes-in-burgundy-to-perfectly-match-your-iphone-18-pro</link>
 <guid isPermaLink="false">cad8530aa7a13a53c41b2d442c2aae31e12c76113d5bdadf6ab03b2874604929</guid>
@@ -2044,17 +2088,6 @@
 <description>In just a couple days, Apple should be unveiling its long-awaited new lineup of new Home products. That includes an updated HomePod mini, Apple TV 4K , the brand-new smart home hub called ‘HomeView’ , as well as a new lineup of smart home accessories, in collaboration with LG. Here’s what to expect with the HomePod mini 2. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Prime Video unveils Blade Runner 2099 full trailer at NYCC</title>
-<link>https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc</link>
-<guid isPermaLink="false">203675bb01a03b221a2004e70f4c95dedd7ac124d2a135c91362515985f51522</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 14:50:24 +0000</pubDate>
-<description>Also: New trailer for Godzilla Minus Zero , the sequel to Takashi Yamazaki’s kaiju epic Godzilla Minus One .</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-1152x648-1791729996.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NYCC1-1152x648-1791729996.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple planning huge iPhone Duo demo experiences at select retail stores: report</title>
@@ -2255,17 +2288,6 @@
 <media:content url="https://media.wired.com/photos/6ac216c90afe89d0a5d9a6f6/master/pass/Best%20Gifts%20for%20Lego%20Lovers%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>One with the world? A new look at brains transformed by psychedelics.</title>
-<link>https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order</link>
-<guid isPermaLink="false">917caa68d005e05fa1abf2990f2d1e8f2d29526fb1b819a424ef698e1090d93d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 11:15:35 +0000</pubDate>
-<description>Participants meditated inside an MRI tube, with and without psilocybin.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1308927414-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Smart Scales for Tracking Weight and Body Composition (2026)</title>
 <link>https://www.wired.com/gallery/best-smart-scales</link>
 <guid isPermaLink="false">7b7c30e838124878f54b615854034376920f70903fda962aad865815b6b28475</guid>
@@ -2332,17 +2354,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
 <title>TrendForce warns of higher notebook prices and weaker demand in 2027</title>
 <link>https://9to5mac.com/2026/10/09/trendforce-warns-of-higher-notebook-prices-and-weaker-demand-in-2027</link>
 <guid isPermaLink="false">9035adc1bc96d98575f78a0aa33415aac38905110b23acb1ec01fa3dc904bda8</guid>
@@ -2352,17 +2363,6 @@
 <description>TrendForce projects that global notebook shipments could decline by a high-single-digit percentage in 2027, depending on how manufacturers respond to rising component costs. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/A-serious-Mac-screen-sharing-vulnerability-is-being-actively-exploited.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Neanderthal wooden tools from Spain found preserved in stone</title>
-<link>https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone</link>
-<guid isPermaLink="false">b02cc7278c40c2d94c06bd842b17a7348a8ded7ff0ec880353de4ffe024d2a12</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 22:34:03 +0000</pubDate>
-<description>Dissolved rock precipitated around the tools, which then decayed.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>iPhone Duo buyers to get a special surprise at U.S. Apple Stores, report says</title>
