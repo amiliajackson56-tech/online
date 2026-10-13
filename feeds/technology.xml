@@ -4,6 +4,117 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>SAP warns of maximum severity OAuth2 SSRF security flaw</title>
+<link>https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw</link>
+<guid isPermaLink="false">6329800a19a7ee2159a43217e473c1120fb3f67b316d3fc9ad0fa9fde2d6a6fd</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:51:02 +0000</pubDate>
+<description>SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]</description>
+</item>
+<item>
+<title>SpaceXSI bundles X Premium, Grok and Cursor into one subscription</title>
+<link>https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription</link>
+<guid isPermaLink="false">1c21139e121f2f8343db051bd0236ce84805ec82f6fa9f08330e1fef3e244dfc</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:50:19 +0000</pubDate>
+<description>The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.</description>
+</item>
+<item>
+<title>You can buy the new, improved Siri Remote for your existing Apple TV 4K</title>
+<link>https://9to5mac.com/2026/10/13/you-can-buy-the-new-improved-siri-remote-for-your-existing-apple-tv-4k</link>
+<guid isPermaLink="false">299974bfc9700d21255250be88b744985f131a27095e3477e6d420e8708b192e</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:46:26 +0000</pubDate>
+<description>Today Apple unveiled the long-awaited new Apple TV 4K model , which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding support. But even if you’re not upgrading, you can still buy the new Siri Remote for your current Apple TV. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple HomeView hands-on: Siri AI is your new roommate</title>
+<link>https://www.engadget.com/2285178/apple-homeview-hands-on-siri-ai</link>
+<guid isPermaLink="false">0e3999202c23375345fc3145f2a1bcd4a0033180747b37b1ccf8fac827031727</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:46:19 +0000</pubDate>
+<description>It's more than just an enlarged Apple Watch.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-homeview-hands-on-siri-ai-is-your-new-roommate/l-intro-1791899108.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-homeview-hands-on-siri-ai-is-your-new-roommate/l-intro-1791899108.jpg" medium="image"/>
+</item>
+<item>
+<title>Character.AI just filed for bankruptcy, and former foe Disney may buy it for parts</title>
+<link>https://www.engadget.com/2285177/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts</link>
+<guid isPermaLink="false">a229d61713704964fba43849e18e7b38001b43354a0243e0f74660aba2e39b78</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:45:10 +0000</pubDate>
+<description>Character.AI, a controversial generative AI startup that lets users create their own chatbot characters, has filed for Chapter 11 bankruptcy</description>
+<enclosure url="https://www.engadget.com/img/gallery/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/l-intro-1791899023.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/character-ai-just-filed-for-bankruptcy-and-former-foe-disney-may-buy-it-for-parts/l-intro-1791899023.jpg" medium="image"/>
+</item>
+<item>
+<title>How to use a ChatGPT Dot when it rolls out to you</title>
+<link>https://www.engadget.com/2281998/how-to-use-opeai-dot-rollout-schedule</link>
+<guid isPermaLink="false">069d0f382beaca549387d7db7afd2b3d7f698cbcc6f2be8699b906b06b03bd5b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:45:00 +0000</pubDate>
+<description>OpenAI is hoping that Dots will make automating online tasks a lot easier. Here's what you'll need to use them, how to set them up and what they're capable of.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-use-a-chatgpt-dot-when-it-rolls-out-to-you/l-intro-1791542426.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-use-a-chatgpt-dot-when-it-rolls-out-to-you/l-intro-1791542426.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple refreshes its Homepod mini with a new chip and $149 price tag</title>
+<link>https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag</link>
+<guid isPermaLink="false">e0a6e171910f6870bc76a3f7c2a6422763685c4c86b79f2d6dac7195d9d6195e</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:38:03 +0000</pubDate>
+<description>The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.</description>
+</item>
+<item>
+<title>Apple’s new smart home line-up includes a smart lock, thermostat and video doorbells</title>
+<link>https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells</link>
+<guid isPermaLink="false">57a299737bb11ff83748d70c9dbfa747def2019828c14b2530e334882f187fce</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:37:19 +0000</pubDate>
+<description>The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.</description>
+</item>
+<item>
+<title>Apple unveils Apple Home Collection smart home accessories developed with LG and Schneider</title>
+<link>https://9to5mac.com/2026/10/13/apple-unveils-apple-home-collection-smart-home-accessories-developed-with-lg-and-schneider</link>
+<guid isPermaLink="false">2faa14e0789fdb143c78194f0e7fea61e7b3bac50baaf7645bfb6a712badca14</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:30:06 +0000</pubDate>
+<description>Apple today confirmed that it is working with at least two third-party companies to develop a new lineup of smart home accessories, including cameras, thermostats, and a smart lock. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-home-collection.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-home-collection.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>The ‘Godzilla Minus Zero’ Filmmakers Terrified Bystanders With Their Monster Sounds</title>
+<link>https://www.wired.com/story/new-york-comic-con-panel</link>
+<guid isPermaLink="false">69e06e915c0d5f6ae6a422138ec4b51b4f7b1af96fda0952b97315d298fc7125</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:30:00 +0000</pubDate>
+<description>The team behind director Takashi Yamazaki’s new film created their kaiju roars by setting up speakers on top of an outdoor dam. The people walking by weren’t prepared for what they heard.</description>
+<enclosure url="https://media.wired.com/photos/6acd2d70e56eb9b1c9065004/master/pass/Godzilla-Minus-Zero-Filmmakers-Terrified-Bystanders-Culture-GMZ_KV1-Still_Godzilla-clean_2026-07-07_copyright.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acd2d70e56eb9b1c9065004/master/pass/Godzilla-Minus-Zero-Filmmakers-Terrified-Bystanders-Culture-GMZ_KV1-Still_Godzilla-clean_2026-07-07_copyright.jpg" medium="image"/>
+</item>
+<item>
+<title>The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026</title>
+<link>https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026</link>
+<guid isPermaLink="false">9a845b395df164fb630cb033cc3cb67beb279bc0d619d1ad7c86ace54a309ca1</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 13:28:06 +0000</pubDate>
+<description>The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.</description>
+</item>
+<item>
 <title>Where to preorder the new Apple TV 4K</title>
 <link>https://www.theverge.com/gadgets/1009921/apple-tv-4k-2026-preorder-buy</link>
 <guid isPermaLink="false">5cc7b14eb02762ed880b1bfe13a6d30b82fd5dd3343c740b246e5919c597e99b</guid>
@@ -104,8 +215,8 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 13:05:00 +0000</pubDate>
 <description>All about the HomeView, Homepod mini, Apple Home Collection and more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791897752.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791897752.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791898734.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/everything-apple-announced-home-view-homepod-mini-2-event/l-intro-1791898734.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple announces new Apple TV 4K with upgraded Siri Remote, A19 chip, more</title>
@@ -828,17 +939,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png" medium="image"/>
 </item>
 <item>
-<title>Epic reportedly delays its Disney video game so it can be made using more AI</title>
-<link>https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai</link>
-<guid isPermaLink="false">7f6006113355e789804dd261ec8dd3049c417b71416d9cc2f217b6db12870772</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 20:48:19 +0000</pubDate>
-<description>Developers were apparently ordered to use AI for both code and asset creation.</description>
-<enclosure url="https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/l-intro-1791837940.jpg" medium="image"/>
-</item>
-<item>
 <title>After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad</title>
 <link>https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad</link>
 <guid isPermaLink="false">3443fb3cee5ccceeecbc6d44f4cec94142d3d24643bf429a8bccaf9d5b54015a</guid>
@@ -932,17 +1032,6 @@
 <description>Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]</description>
 </item>
 <item>
-<title>Meta says it's caught up to the frontier with its latest Wonder AI models</title>
-<link>https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models</link>
-<guid isPermaLink="false">c42ca11ca64f7aa11606550669720245ee42649cc1c44b2bcea32114e4fc3612</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 18:51:52 +0000</pubDate>
-<description>The models add "active memory" and "active focus" abilities.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/l-intro-1791830967.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/l-intro-1791830967.jpg" medium="image"/>
-</item>
-<item>
 <title>WHO report on Russian lab worker death highlights "key uncertainty"</title>
 <link>https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty</link>
 <guid isPermaLink="false">53c634c5618ab36c4dfef67556a9460d06a385e6d4759a0ff0b0124213f89d3b</guid>
@@ -952,17 +1041,6 @@
 <description>Without a cause of death, it's unclear if Russia's precautions were the right ones.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/GettyImages-1250822831-1152x648.jpeg" medium="image"/>
-</item>
-<item>
-<title>Norway fined a Microsoft subsidiary $9.6 million for allegedly misusing Grindr user data</title>
-<link>https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data</link>
-<guid isPermaLink="false">47a382145e998146be7b8791c7659151fc66ee0390d3b63c753f756958c34d26</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 18:34:57 +0000</pubDate>
-<description>Xandr has three weeks to appeal the record penalty.</description>
-<enclosure url="https://www.engadget.com/img/gallery/norway-fined-a-microsoft-subsidiary-9-6-million-for-allegedly-misusing-grindr-user-data/l-intro-1791828674.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/norway-fined-a-microsoft-subsidiary-9-6-million-for-allegedly-misusing-grindr-user-data/l-intro-1791828674.jpg" medium="image"/>
 </item>
 <item>
 <title>Anthropic's Claude AI submitted false murder tip to Philadelphia police</title>
@@ -1483,33 +1561,6 @@
 <description>TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.</description>
 </item>
 <item>
-<title>Will the HomeView be Apple’s first smart home success?</title>
-<link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success</link>
-<guid isPermaLink="false">6ad735d17667970a5022d82ba396f0a6377286ea2e3efe485ea70de17a58b901</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 21:14:40 +0000</pubDate>
-<description>Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.</description>
-</item>
-<item>
-<title>Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start</title>
-<link>https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start</link>
-<guid isPermaLink="false">db6e495273e2a6e50685bedf5d6a9c5d5ed5d83225ce598cb50d5cfd5620ada7</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 20:51:47 +0000</pubDate>
-<description>What does this mean for a fall full of movies starring villainous tech CEOs?</description>
-</item>
-<item>
-<title>48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next</title>
-<link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next</link>
-<guid isPermaLink="false">dfeef58f7514840dcb2ef01c85cfcd2eecc411d71a0b3209b10b5238db630095</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 19:00:00 +0000</pubDate>
-<description>Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.</description>
-</item>
-<item>
 <title>Review: 4-hour Musk documentary feels like two different films</title>
 <link>https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films</link>
 <guid isPermaLink="false">5ab6449a476ec9f88bdea34f4de02599d0f82765018ff9d16dc4a53f70b67ce5</guid>
@@ -1519,15 +1570,6 @@
 <description>Alex Gibney's provocative film is compelling but overlong, and there's not much new here for Ars readers.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/musk3-1152x648-1791058712.jpg" medium="image"/>
-</item>
-<item>
-<title>The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know</title>
-<link>https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know</link>
-<guid isPermaLink="false">70ab4b6aa47658ab6c4cb72b4a5a6c374f28ae2aabf3c9f81b98d1559ceb3b86</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 17:53:37 +0000</pubDate>
-<description>Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.</description>
 </item>
 <item>
 <title>Kuxiu’s D5 charger now comes in Burgundy to perfectly match your iPhone 18 Pro</title>
@@ -1874,17 +1916,6 @@
 <media:content url="https://media.wired.com/photos/6ac8bde343102e19d08d1480/master/pass/Pikio%20Helmut.jpg" medium="image"/>
 </item>
 <item>
-<title>Disney Plus Discount Codes: 52% Off October 2026</title>
-<link>https://www.wired.com/story/disney-plus-discounts</link>
-<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
-</item>
-<item>
 <title>Home Depot Promo Codes: 30% Off in October 2026</title>
 <link>https://www.wired.com/story/home-depot-promo-code</link>
 <guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
@@ -1907,6 +1938,17 @@
 <media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
+<title>Disney Plus Discount Codes: 52% Off October 2026</title>
+<link>https://www.wired.com/story/disney-plus-discounts</link>
+<guid isPermaLink="false">67fb0b1c6bb330f792063948f727d159439722426ed98d8513dbdb11e57b97c4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
+<description>Cut your subscription costs with the latest active Disney+ bundle deals, verified student offers, and partner promotions.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
+</item>
+<item>
 <title>30% Off Canon Promo Codes | October 2026</title>
 <link>https://www.wired.com/story/canon-promo-code</link>
 <guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
@@ -1916,17 +1958,6 @@
 <description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>eBay Coupons: 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ebay-coupon-code</link>
-<guid isPermaLink="false">c6105ba8f6b8195afed164bff94ab8a590c290c90e6d6ba934659bbc868037a0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
 <title>TrendForce warns of higher notebook prices and weaker demand in 2027</title>
@@ -2145,15 +2176,6 @@
 <description>iOS 27 brings new features to Apple Wallet , Maps , Notes , Messages , and more —and it packs key upgrades for the Mail app too. Here’s everything new for Apple Mail in iOS 27. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-mail-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto</title>
-<link>https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto</link>
-<guid isPermaLink="false">6357cd14602a52ca9762e16100a4a3465b29db658ca32242bde61e3fd0eda9c1</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 17:17:23 +0000</pubDate>
-<description>Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]</description>
 </item>
 <item>
 <title>Deals: AirPods Max 2 $120 off, Mac mini, MacBook Air, Magic Mouse 25% off, Nomad iPhone 18 Pro cases, more</title>
@@ -2968,28 +2990,6 @@
 <description>iOS 27.2 is coming surprisingly soon. iOS 27.1 will focus on iPhone Duo changes only, so new features for everyone else will arrive in iOS 27.2. Here’s when to expect the update’s release. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Meta launches Muse for iPad following weeks as the top iPhone app</title>
-<link>https://9to5mac.com/2026/10/07/meta-launches-muse-for-ipad-following-weeks-as-the-top-iphone-app</link>
-<guid isPermaLink="false">91d82c4781a3899bc1c2990d11470b278ec4f471a76e8c7c0215a75752ca820e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 07 Oct 2026 14:19:14 +0000</pubDate>
-<description>Meta’s Muse AI agent app has spent the last several weeks as the #1 free iPhone app on the U.S. App Store. The latest Muse app update adds a new platform to tackle: iPad. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>In My Cart: Here are the Prime Day deals we’re buying today</title>
-<link>https://9to5mac.com/2026/10/07/in-cart-here-prime-day-deals-we-have-in-our-carts-today</link>
-<guid isPermaLink="false">9fa2f644881b5b91d0cad232da07daf5beb9e1244c36a816c8d9ecef58f8bfd4</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 07 Oct 2026 14:17:34 +0000</pubDate>
-<description>The Amazon fall Prime Day sale is well within its final 24 hours now, and it’s time to take a look at what we have in our carts before the deals disappear. Just because there are literally millions of discounts live today it does not mean all of them are good, but here is the gear we are grabbing for ourselves, from Apple’s latest and add-ons to elevate the experience, upgrades for the home workstation, and additions to your brick-built collections, scope it all out below and let us know what you’re picking up too. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/In-My-Cart-for-fall-Prime-Day.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/In-My-Cart-for-fall-Prime-Day.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow</title>
