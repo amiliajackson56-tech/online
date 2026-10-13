@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Is Mini DisplayPort becoming obsolete?</title>
+<link>https://www.engadget.com/2282398/mini-displayport-becoming-obsolete</link>
+<guid isPermaLink="false">d51653868f2db9943ec88bb89c5f9e23d3fd8111b55bc792d1e716c7285b720f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 23:30:00 +0000</pubDate>
+<description>Mini DisplayPort was on lots of computers for a time, but it's not nearly as common now thanks to more modern standards.</description>
+<enclosure url="https://www.engadget.com/img/gallery/is-mini-displayport-becoming-obsolete/l-intro-1791563878.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/is-mini-displayport-becoming-obsolete/l-intro-1791563878.jpg" medium="image"/>
+</item>
+<item>
 <title>An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office</title>
 <link>https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office</link>
 <guid isPermaLink="false">57a3a65bb47fe93ff7d565660da68ff69ad7bb7d7f71f96404fbaffa0dfd4c1b</guid>
@@ -84,6 +95,17 @@
 <description>The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.</description>
 <enclosure url="https://www.engadget.com/img/gallery/apple-tv-4k-2022-vs-2026-whats-new-and-is-it-worth-the-100-jump/l-intro-1791931548.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/apple-tv-4k-2022-vs-2026-whats-new-and-is-it-worth-the-100-jump/l-intro-1791931548.jpg" medium="image"/>
+</item>
+<item>
+<title>Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says</title>
+<link>https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says</link>
+<guid isPermaLink="false">092e759d65146aeb5ec4ef1c5908df597df72f00feb42e7987d8c0fe76747add</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:48:12 +0000</pubDate>
+<description>"I can always find a couple of biotech stocks to smoke," Shkreli said in a livestream.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Cerebras CEO pushes back on AI doomsday warnings</title>
@@ -677,17 +699,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How the iPhone Duo's camera is different from the iPhone 18 Pro's</title>
-<link>https://www.engadget.com/2282217/iphone-duo-vs-iphone-18-pro-camera-differences</link>
-<guid isPermaLink="false">6a96ba814fd924d0faaf5808e26e3d4efc4c035049e21ce140363b7ea0bfc5de</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
-<description>Going beyond the number of cameras and megapixels.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-the-iphone-duos-camera-is-different-from-the-iphone-18-pros/l-intro-1791557586.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-the-iphone-duos-camera-is-different-from-the-iphone-18-pros/l-intro-1791557586.jpg" medium="image"/>
-</item>
-<item>
 <title>Ray-Ban Meta Audio glasses review: No camera, no problem</title>
 <link>https://www.engadget.com/2285337/ray-ban-meta-audio-glasses-review</link>
 <guid isPermaLink="false">91ca17a10294b6de96cd0a3413cd846a303d9880342c041238e3823524f48cc0</guid>
@@ -697,6 +708,17 @@
 <description>Normal-looking glasses with solid audio and way better battery life is a win for everyone.</description>
 <enclosure url="https://www.engadget.com/img/gallery/ray-ban-meta-audio-glasses-review-no-camera-no-problem/l-intro-1791904502.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/ray-ban-meta-audio-glasses-review-no-camera-no-problem/l-intro-1791904502.jpg" medium="image"/>
+</item>
+<item>
+<title>How the iPhone Duo's camera is different from the iPhone 18 Pro's</title>
+<link>https://www.engadget.com/2282217/iphone-duo-vs-iphone-18-pro-camera-differences</link>
+<guid isPermaLink="false">6a96ba814fd924d0faaf5808e26e3d4efc4c035049e21ce140363b7ea0bfc5de</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 18:00:00 +0000</pubDate>
+<description>Going beyond the number of cameras and megapixels.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-the-iphone-duos-camera-is-different-from-the-iphone-18-pros/l-intro-1791557586.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-the-iphone-duos-camera-is-different-from-the-iphone-18-pros/l-intro-1791557586.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s how HomeView’s facial recognition works</title>
@@ -1011,17 +1033,6 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 15:45:50 +0000</pubDate>
 <description>Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]</description>
-</item>
-<item>
-<title>iPhone Duo vs Xiaomi 18 Fold: How these foldables stack up</title>
-<link>https://www.engadget.com/2282149/iphone-duo-vs-xiaomi-18-fold-foldable-comparison</link>
-<guid isPermaLink="false">369235373b976995dd191205392f9ab22d60357308ad8b405b84035ac23fa241</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 15:45:00 +0000</pubDate>
-<description>We compare the two on their design, displays, durability and more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/iphone-duo-vs-xiaomi-18-fold-how-these-foldables-stack-up/l-intro-1791554727.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/iphone-duo-vs-xiaomi-18-fold-how-these-foldables-stack-up/l-intro-1791554727.jpg" medium="image"/>
 </item>
 <item>
 <title>Deals: M5 Pro MacBook Pro $600 off, Mac mini, AirPods Pro 3, Apple Watch clearance deals $199 off, more</title>
@@ -1923,17 +1934,6 @@
 <description>The documentary chronicles how Star Trek’s positions on everything from race to AI were way ahead of their time.</description>
 <enclosure url="https://media.wired.com/photos/6ac7e6077b0b9cc54f6b8d04/master/pass/NYCC-Star-Trek-Documentary-Culture-Shatner-on-Stage-w-Rod-Roddenberry-Peter-Diamandis.JPG" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac7e6077b0b9cc54f6b8d04/master/pass/NYCC-Star-Trek-Documentary-Culture-Shatner-on-Stage-w-Rod-Roddenberry-Peter-Diamandis.JPG" medium="image"/>
-</item>
-<item>
-<title>Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air</title>
-<link>https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air</link>
-<guid isPermaLink="false">c008d741a019d4f1e10ebfb371fe851eb22b01438f7545cbb612eb3a16345402</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 13:00:52 +0000</pubDate>
-<description>The Fitbit Edge offers more than the Air, but it's not a real smartwatch.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Edge-Olive-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Google Fitbit Edge: Specs, Features, Price, Release Date</title>
