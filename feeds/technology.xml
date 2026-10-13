@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI says it found a 'sophisticated recording device' hidden in its offices</title>
+<link>https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices</link>
+<guid isPermaLink="false">c9e6150bbbe1f42354f2608b7917047ccda3bfd2fd72cef2d41f9dd7d581927f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:34:17 +0000</pubDate>
+<description>The company asked its AI models to figure out what the device was.</description>
+<enclosure url="https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/l-intro-1791926918.jpg" medium="image"/>
+</item>
+<item>
+<title>Ghostscript flaw lets hackers hijack servers via PDF uploads</title>
+<link>https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads</link>
+<guid isPermaLink="false">af713d77fa98c062541e63b37195314b51ea0349f86b44f16a2edc495adb1014</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:33:26 +0000</pubDate>
+<description>A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]</description>
+</item>
+<item>
+<title>PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter</title>
+<link>https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter</link>
+<guid isPermaLink="false">4909f5386ee99f4cdb53709a50183742d6a38b84f7b13bb53e9b954614ad7c46</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 21:29:20 +0000</pubDate>
+<description>Earlier today, Apple confirmed that the wall-mounted HomeView does not come with a power adapter in the box. Now, the company has published a support document detailing the device’s power requirements, including what to look for when purchasing a compatible adapter. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Anthropic warns self-replicating AI could spread to your smart devices</title>
 <link>https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices</link>
 <guid isPermaLink="false">952c1975fabe325b2a0c9fde83d99a48463630e9c1313277487fafc253c64e98</guid>
@@ -48,7 +79,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 20:45:25 +0000</pubDate>
-<description>An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee, 35-year-old Abdulrahman Alfozan, is charged with using or attempting to use a device to intercept oral communications, according to a report from The San Francisco Standard. OpenAI's post about the incident says […]</description>
+<description>An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -310,24 +341,24 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple releases second RCs for macOS Sequoia 15.8.2 and Tahoe 26.7.2</title>
+<title>Apple releases second RCs for macOS Sequoia 15.8.2 and Tahoe 26.7.2 [U]</title>
 <link>https://9to5mac.com/2026/10/13/apple-releases-second-rcs-for-macos-sequoia-15-8-2-and-tahoe-26-7-2</link>
 <guid isPermaLink="false">79a6df186b795300a554ebb46a5b15390feeac1b5c25107bef7bbc1b832a5865</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:24:11 +0000</pubDate>
-<description>Just one week after rolling out the first Release Candidates of macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2, the second RCs are now available for testing. Here are the details. more…</description>
+<description>Update, 5:56 p.m. ET: The public betas are also now available. Just one week after rolling out the first Release Candidates of macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2, the second RCs are now available for testing. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/07/macOS-Tahoe.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>macOS 27.2 Golden Gate beta 4 now available, here’s what’s coming</title>
+<title>macOS 27.2 Golden Gate beta 4 now available, here’s what’s coming [U: Public]</title>
 <link>https://9to5mac.com/2026/10/13/macos-27-2-golden-gate-beta-4-now-available-heres-whats-coming</link>
 <guid isPermaLink="false">244d16f1ce91454d986cea5cfae04c632b953300b55a58101ca9687668b2ce66</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 18:23:36 +0000</pubDate>
-<description>Apple is rolling out the fourth developer beta for macOS 27.2 Golden Gate, ahead of the official release in the coming weeks. Here’s what to expect. more…</description>
+<description>Update, 5:56 p.m. ET: The public beta is also now available. Apple is rolling out the fourth developer beta for macOS 27.2 Golden Gate, ahead of the official release in the coming weeks. Here’s what to expect. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.2-b4.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.2-b4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -909,17 +940,6 @@
 <description>Today Apple introduced HomePod mini 2 with Siri AI as a major tentpole feature. HomePod mini 2 ships on October 30, but checking the fine print on Apple’s website, it seems Siri AI won’t be available on launch day. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-mini-2-pink-green-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-mini-2-pink-green-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Is the Apple Watch Series 10 still worth your money in 2026?</title>
-<link>https://www.engadget.com/2282092/apple-watch-series-10-still-worth-money-in-2026</link>
-<guid isPermaLink="false">1a890c980bb5789230b1293958dffffb9076efc07c4bc0d1ba7f55861a24d9ed</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 14:45:00 +0000</pubDate>
-<description>While the Apple Watch Series 10 has been out for a couple of years, it can almost keep up with newer models.</description>
-<enclosure url="https://www.engadget.com/img/gallery/is-the-apple-watch-series-10-still-worth-your-money-in-2026/l-intro-1791552326.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/is-the-apple-watch-series-10-still-worth-your-money-in-2026/l-intro-1791552326.jpg" medium="image"/>
 </item>
 <item>
 <title>Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’</title>
@@ -1683,15 +1703,6 @@
 <description>Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.</description>
 <enclosure url="https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg" medium="image"/>
-</item>
-<item>
-<title>Ledger confirms spy chip implant behind wallet crypto thefts</title>
-<link>https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts</link>
-<guid isPermaLink="false">125770a2db2c97bc75c0319b6f5ac12a3d6191cd4344fb2083f3f7d4f3c56e6d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 16:27:23 +0000</pubDate>
-<description>Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]</description>
 </item>
 <item>
 <title>You can now start the iPhone Duo pre-order process</title>
@@ -2924,17 +2935,6 @@
 <description>Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks. The activity, per CrowdStrike Intelligence, was active from late September to early October 2026, and resulted in data exfiltration from various South Korea-based financial firms,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg" medium="image"/>
-</item>
-<item>
-<title>New MacBook Pro leak could be very good news for ‘pro’ users</title>
-<link>https://9to5mac.com/2026/10/08/new-macbook-pro-leak-could-be-very-good-news-for-pro-users</link>
-<guid isPermaLink="false">25fae5727a30cc65f8ae481474d347b1ad82a4dbba12571ebf91732ce42d09c7</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 13:40:59 +0000</pubDate>
-<description>Apple’s redesigned MacBook Pro is coming soon , and the latest leak offers potentially great news for truly ‘pro’ users worried about the rumored thinner design. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macbook-ultra-pro-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia</title>
