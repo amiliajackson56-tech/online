@@ -4,6 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Cerebras CEO pushes back on AI doomsday warnings</title>
+<link>https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings</link>
+<guid isPermaLink="false">42b26e2f5aa4b54c951ee56905113b58ac30a150602e61a07cddc32741734510</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:36:59 +0000</pubDate>
+<description>Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.</description>
+</item>
+<item>
+<title>OpenAI engineer arrested for allegedly planting spy device in office</title>
+<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office</link>
+<guid isPermaLink="false">90c3851b2fc258bb13e03fe843012d0dfca27055d93691761fd2eb2a40e388a0</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:33:02 +0000</pubDate>
+<description>A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]</description>
+</item>
+<item>
+<title>Are Chromebooks still worth buying after the Googlebooks release?</title>
+<link>https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release</link>
+<guid isPermaLink="false">a8029fd70e60384226cd9789ee934881b34209ca65ba51e18743ec590744378e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 22:30:00 +0000</pubDate>
+<description>Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place.</description>
+<enclosure url="https://www.engadget.com/img/gallery/are-chromebooks-still-worth-buying-after-the-googlebooks-release/l-intro-1791559713.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/are-chromebooks-still-worth-buying-after-the-googlebooks-release/l-intro-1791559713.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple’s HomeView ad is confusing to everyone except parents</title>
 <link>https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction</link>
 <guid isPermaLink="false">6b6f41fec886b5e4097a1e21344393a60ec3c71e3bf8c763254e1a7c6c9a7d86</guid>
@@ -977,17 +1006,6 @@
 <media:content url="https://www.engadget.com/img/gallery/apples-iphone-market-share-rose-despite-a-downturn-in-smartphone-shipments/l-intro-1791904418.jpg" medium="image"/>
 </item>
 <item>
-<title>When is the best time to charge your Samsung Galaxy Watch?</title>
-<link>https://www.engadget.com/2282134/samsung-galaxy-watch-best-time-of-day-charge-battery</link>
-<guid isPermaLink="false">42b87ce1e31cea2519cfb55e542a2278b2c263944ff6782fa6abe3a1f535ff87</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 15:15:00 +0000</pubDate>
-<description>Though newer Galaxy Watches have built-in battery protection, choosing the right time of day to charge your watch will get you the best results.</description>
-<enclosure url="https://www.engadget.com/img/gallery/when-is-the-best-time-to-charge-your-samsung-galaxy-watch/l-intro-1791554317.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/when-is-the-best-time-to-charge-your-samsung-galaxy-watch/l-intro-1791554317.jpg" medium="image"/>
-</item>
-<item>
 <title>The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between</title>
 <link>https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between</link>
 <guid isPermaLink="false">40cd3d12f4f0e742880b7fc39fc9fa1d0bfa1b879da89b119d3e89c009ed2a9e</guid>
@@ -1062,15 +1080,6 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 13:51:02 +0000</pubDate>
 <description>SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]</description>
-</item>
-<item>
-<title>SpaceXSI bundles X Premium, Grok, and Cursor into one subscription</title>
-<link>https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription</link>
-<guid isPermaLink="false">1c21139e121f2f8343db051bd0236ce84805ec82f6fa9f08330e1fef3e244dfc</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 13:50:19 +0000</pubDate>
-<description>The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.</description>
 </item>
 <item>
 <title>You can buy the new, improved Siri Remote for your existing Apple TV 4K</title>
@@ -1381,17 +1390,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg" medium="image"/>
 </item>
 <item>
-<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
 <link>https://www.wired.com/story/wayfair-promo-code</link>
 <guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
@@ -1445,6 +1443,17 @@
 <description>Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.</description>
 <enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+</item>
+<item>
+<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Lego Promo Code | 20% Off October 2026</title>
@@ -1683,15 +1692,6 @@
 <description>iCloud+ is best known for adding iCloud storage, but Apple keeps improving and expanding its suite of benefits for subscribers. Here’s everything new for iCloud+ added in the last few weeks. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Anthropic takes risky AI tests offline after models breach govt sites</title>
-<link>https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites</link>
-<guid isPermaLink="false">238435ff1579625f14a9a62348ae06cdd13debfcbe328da3bfefd3f2dc8df65b</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 18:51:59 +0000</pubDate>
-<description>Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]</description>
 </item>
 <item>
 <title>WHO report on Russian lab worker death highlights "key uncertainty"</title>
