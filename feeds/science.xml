@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective</title>
+<link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective</link>
+<guid isPermaLink="false">a202a9d4db5dcd29abee7f61bc3e55a31f105b43ab8c174b8fd9937768f7d1fe</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 13 Oct 2026 15:02:21 +0000</pubDate>
+<description>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproportional damping. As the damping interaction increases, the […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png?w=989" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png?w=989" medium="image"/>
+</item>
+<item>
 <title>NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission</title>
 <link>https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission</link>
 <guid isPermaLink="false">996b79babe601422f5346cc8bc120bd9b858cbd3b4de67a510e6695ddf41a479</guid>
@@ -648,17 +659,6 @@
 <description>As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11. NASA team members will engage with fans at the agency’s Experience Zone, located at the […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920" medium="image"/>
-</item>
-<item>
-<title>APOD: 2026 October 10 – Lunar Farside</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside</link>
-<guid isPermaLink="false">b5c109cca896d75505a2a24a764651550f5f62520e1eb3951b7fa98227fa59fc</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Sat, 10 Oct 2026 04:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 October 10…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally locked in synchronous rotation, the Moon always presents its familiar nearside to denizens of […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&amp;h=1600&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/farside_lro1600.jpg?w=1600&amp;h=1600&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists may have found why diabetic wounds refuse to heal</title>
