@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Lagos-Calabar highway reroute puts project planning, procurement under scrutiny</title>
-<link>https://businessday.ng/news/article/lagos-calabar-highway-reroute-puts-project-planning-procurement-under-scrutiny</link>
-<guid isPermaLink="false">ccb6e69e91f3dfb0827a82f249f5d8a14e93e08d2b78b1cb00f4c65bd2988f26</guid>
-<source>BusinessDay Nigeria</source>
-<category>nigeria</category>
-<pubDate>Tue, 13 Oct 2026 02:00:10 +0000</pubDate>
-<description>The Federal Government’s decision to reroute sections of the Lagos-Calabar Coastal Highway through the existing East-West Road has renewed questions</description>
-<enclosure url="https://cdn.businessday.ng/wp-content/uploads/2025/05/Lagos-Calabar-coastal-highway-1.png" type="image/jpeg"/>
-<media:content url="https://cdn.businessday.ng/wp-content/uploads/2025/05/Lagos-Calabar-coastal-highway-1.png" medium="image"/>
-</item>
-<item>
 <title>A deadly week in Zamfara</title>
 <link>https://dailytrust.com/a-deadly-week-in-zamfara</link>
 <guid isPermaLink="false">8b88ec199f976d3d34cd27f40708df291c742ed95138f88848c4f0c878ee7923</guid>
@@ -321,6 +310,17 @@
 <description>TikTok has denied implementing restrictions on its platform in parts of Northern Nigeria following weeks of complaints from users who</description>
 <enclosure url="https://cdn.businessday.ng/2022/08/TikTok-1-1.png" type="image/jpeg"/>
 <media:content url="https://cdn.businessday.ng/2022/08/TikTok-1-1.png" medium="image"/>
+</item>
+<item>
+<title>Deloitte Cyprus implicated in Abramovich’s asset-hiding scandal</title>
+<link>https://businessday.ng/news/article/deloitte-cyprus-implicated-in-abramovichs-asset-hiding-scandal</link>
+<guid isPermaLink="false">b9be62e8346cab070581876ebd163242732c561a4ecb570a887ff8a3e563f580</guid>
+<source>BusinessDay Nigeria</source>
+<category>nigeria</category>
+<pubDate>Mon, 12 Oct 2026 21:05:07 +0000</pubDate>
+<description>Accounting giant Deloitte helped falsify corporate documents to conceal vast fortunes belonging to Roman Abramovich, Russian billionaire, a joint investigation</description>
+<enclosure url="https://cdn.businessday.ng/2022/04/Deloitte.png" type="image/jpeg"/>
+<media:content url="https://cdn.businessday.ng/2022/04/Deloitte.png" medium="image"/>
 </item>
 <item>
 <title>IPO: Dangote Refinery Extends Offer Period By Two Weeks</title>
