@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>6 Best Coffee Grinders Based on Particle Analysis and Tasting (2026)</title>
+<link>https://www.wired.com/gallery/best-coffee-grinders-2026</link>
+<guid isPermaLink="false">518093b78f365388645a8e31e32f44e75a86ee10375742df563d618b84e925cb</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 09:02:00 +0000</pubDate>
+<description>We used particle size analysis and real-world testing to find the best conical burr, flat burr, and blade grinders for every budget and style of coffee drinker.</description>
+<enclosure url="https://media.wired.com/photos/6acd00506c4911baed144762/master/pass/Coffee%20Grinders%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acd00506c4911baed144762/master/pass/Coffee%20Grinders%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>What Flock Actually Costs Cities Across the Country</title>
+<link>https://www.wired.com/story/how-much-does-flock-actually-cost-cities</link>
+<guid isPermaLink="false">c296bc032a944859a18bf128cf7f647c27738402dd3e3310e1860ea57b65c68e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+<description>WIRED examined contracts from over two dozen cities and towns that shed light on how Flock’s pricing and business model functions, and how it stacks up against its peers.</description>
+<enclosure url="https://media.wired.com/photos/6ac9662bc39c424531f330d6/master/pass/How-Much-Flock-Costs-In-Your-City-Business.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ac9662bc39c424531f330d6/master/pass/How-Much-Flock-Costs-In-Your-City-Business.jpg" medium="image"/>
+</item>
+<item>
+<title>Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers</title>
+<link>https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html</link>
+<guid isPermaLink="false">08cfd38e9d135daec84e9c8807931ef6ee66f5018e0b160d09cd9cb74a9a3d3e</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 08:48:41 +0000</pubDate>
+<description>Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg" medium="image"/>
+</item>
+<item>
 <title>X bundles Premium, Grok and Cursor under a single monthly subscription</title>
 <link>https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor</link>
 <guid isPermaLink="false">b2c735eaad2e3374753ef67153de1a348f2386374a54474ba4995197943c984c</guid>
@@ -15,6 +48,28 @@
 <media:content url="https://www.engadget.com/img/gallery/x-subscription-unifies-x-premium-grok-and-cursor-plans/l-intro-1791880522.jpg" medium="image"/>
 </item>
 <item>
+<title>Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control</title>
+<link>https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html</link>
+<guid isPermaLink="false">81cc829d876c6a2ed51604c5bcb8d281ecb8a3c072616f09c0fd4005a357db81</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 08:44:01 +0000</pubDate>
+<description>Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in MarkLogic 11.3.7 and MarkLogic 12.1.0. Affected</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGRzVYOU1S12WE6ja5ZSrhInOGaNdwCGGwWch1oJn_SDtoy90ycGVjd-JeDjwSSH8XDzKlkoKsu_vlND1iW0aWJgEqf3Ti18goDI0yXeaLbF2DHrokj8Qdvm1kHEi8wqdm6_axRi17PVBqtlgFWLpZnv6Eufx_bFMkpWcnz6ymbQI4IDB7lgYi3QrZ7w/s1600/amrk.jpg" medium="image"/>
+</item>
+<item>
+<title>GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code</title>
+<link>https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html</link>
+<guid isPermaLink="false">6888d3f1bf78a5a7891c1c4d827efa5333441cd2287e7f237c3f79511106f059</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 08:43:37 +0000</pubDate>
+<description>GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. "GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg" medium="image"/>
+</item>
+<item>
 <title>Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies</title>
 <link>https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html</link>
 <guid isPermaLink="false">56358479006c5238f71c844af40cf853be110a5b8e4b221ab27519739b26156d</guid>
@@ -24,6 +79,17 @@
 <description>Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa. The preinstalled</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWazS9FTiMttWg9JuwySbOkXe9WBGk6EnDbYXfmFzGaoTsXD3FQKLo7YxjnYk9MIZlfmdt08nW3qRKbLggGv2H7ondflK4CbpXu98CiCxnccJfwnrvUwEhMVIHUdt7GO198VkHXASs12AKWj4r44vpT5mF5BHLqX9spJT24dZmpMGqOKyuqoh25f1UuqpY/s1600/android-malware.jpg" medium="image"/>
+</item>
+<item>
+<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
@@ -90,17 +156,6 @@
 <description>Enjoy big savings on your next adventure with our Booking.com promo codes, coupons, and handpicked travel deals.</description>
 <enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
-</item>
-<item>
-<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Newegg Promo Codes and Coupons for October 2026</title>
@@ -2145,28 +2200,6 @@
 <media:content url="https://media.wired.com/photos/6ac201081f48c9ec501c8cc7/master/pass/Update%20best%20mac%20desktops%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Best Battery-Powered Leaf Blowers (2026): Tested for Power, Battery Life, and Noise</title>
-<link>https://www.wired.com/story/best-battery-powered-leaf-blowers</link>
-<guid isPermaLink="false">e19cb0a426651f812b73321679d1e77e6aca9bc91822426f98b71c0fbf924646</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 10:10:00 +0000</pubDate>
-<description>It’s finally time to ditch the gas canister—I tested these cordless leaf blowers on gravel, wood chips, and even a 5-pound concrete paver.</description>
-<enclosure url="https://media.wired.com/photos/6ac69bd0cff4fa83959f96ee/master/pass/The%20Best%20Battery-Powered%20Leaf%20Blowers%20for%20Taking%20Back%20Your%20Weekend%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ac69bd0cff4fa83959f96ee/master/pass/The%20Best%20Battery-Powered%20Leaf%20Blowers%20for%20Taking%20Back%20Your%20Weekend%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>Even ‘Law &amp; Order’ Is Terrified of AI</title>
-<link>https://www.wired.com/story/even-law-and-order-is-terrified-of-ai</link>
-<guid isPermaLink="false">e96fb96d807384f58da29df75048be93141221302fb22e92c6bf3421569fd360</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 10:00:00 +0000</pubDate>
-<description>In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.</description>
-<enclosure url="https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg" medium="image"/>
-</item>
-<item>
 <title>GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys</title>
 <link>https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html</link>
 <guid isPermaLink="false">68ce0dcd2db006a487f4fb8647bc50e00cf1d885e6c0e0101514caaba87c3a6d</guid>
@@ -3034,38 +3067,5 @@
 <description>The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages. "The unauthorized bot activities included edits to our wikis, some unsuccessful attempts to exploit a public note-taking tool we host, and heavy traffic,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg" medium="image"/>
-</item>
-<item>
-<title>Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers</title>
-<link>https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html</link>
-<guid isPermaLink="false">7cefa7d6817f0998ed17c2c1c250e09e52abdb4bf4ab55fd927d7ac0bb12ae85</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 06 Oct 2026 11:02:30 +0000</pubDate>
-<description>In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent workflows. The ecosystem around it fell short. Earlier this year, our team at OX Security, traced critical vulnerabilities in Anthropic's MCP</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg" medium="image"/>
-</item>
-<item>
-<title>Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports</title>
-<link>https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html</link>
-<guid isPermaLink="false">0b1fb37b29c25d4c371dfa6489ba3c7ada530fab5a7f4b9e88e7b4061682b9fb</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 06 Oct 2026 09:21:47 +0000</pubDate>
-<description>Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply chain compromises are still accepted, and reports filed before October 1 are</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg" medium="image"/>
-</item>
-<item>
-<title>Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products</title>
-<link>https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html</link>
-<guid isPermaLink="false">f57b4be0b51a470e49c854e28c3b47b423c03f4ae85e5ddffa6e8b6091db56c5</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 06 Oct 2026 06:58:56 +0000</pubDate>
-<description>A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg" medium="image"/>
 </item>
 </channel></rss>
