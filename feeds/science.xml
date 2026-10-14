@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Astronauts to Answer Questions from Florida Students</title>
+<link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students</link>
+<guid isPermaLink="false">a7205791ca6e487d38d573340062139205277d4f78537597b604117b21cbf541</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 14 Oct 2026 19:12:51 +0000</pubDate>
+<description>Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Sally Ride Elementary School […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision</title>
 <link>https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision</link>
 <guid isPermaLink="false">c7688ad2c96b05f7142565e5e47e9a4348ac2310451678aa2513961821eb52e5</guid>
@@ -203,6 +214,15 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11267-z Author Correction: Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride</description>
+</item>
+<item>
+<title>Growing plane and ship traffic degrade the air of western North America</title>
+<link>https://www.nature.com/articles/d41586-026-03239-0</link>
+<guid isPermaLink="false">5951c04f83fc12dedf12d61231cf3b180e0190d5b50861de3e9f66a2bc1ba8aa</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 14 October 2026; doi:10.1038/d41586-026-03239-0 Pollution from transport across the Pacific Ocean is raising ozone levels above a region whose own emissions have dropped.</description>
 </item>
 <item>
 <title>&lt;b&gt;The world is closer to a major conservation target than scientists thought&lt;/b&gt;</title>
@@ -652,17 +672,6 @@
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26813/PIA26813.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>Perseverance Navcam Image Marks Record Drive</title>
-<link>https://science.nasa.gov/photojournal/perseverance-navcam-image-marks-record-drive</link>
-<guid isPermaLink="false">ab5f1fab23a311541e5a5f793eb92df9a9ba21e37661706ef3590d1a5bc2cfc1</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 17:42:51 +0000</pubDate>
-<description>Description Rover tracks and a rocky Martian landscape are shown in this image captured by one of the navigation cameras (navcams) aboard NASA’s Perseverance Mars rover on Oct. 11, 2026, the 2,006th Martian day, or sol, of the mission. During that sol’s drive, spanning 299.6 feet (91.31 meters), the mission passed a major milestone: pushing Perseverance’s total […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26812/PIA26812.png?w=1288&amp;h=968&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26812/PIA26812.png?w=1288&amp;h=968&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>James Webb reveals a massive cosmic structure that challenges our understanding of the Universe</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261012185021.htm</link>
 <guid isPermaLink="false">43d93783ae07d3362365194257657c10681c5b2518270f865017097ffc90362a</guid>
@@ -1075,15 +1084,6 @@
 <category>science</category>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-02714-y An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.</description>
-</item>
-<item>
-<title>Daily briefing: Visit a huge climate experiment in the Amazon rainforest</title>
-<link>https://www.nature.com/articles/d41586-026-03255-0</link>
-<guid isPermaLink="false">93329a96be9efe30263322e2681fa81549fd5440ad1b2893be61754189418ef8</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03255-0 Step into the rainforest with climatologist David Lapola. Plus, watch an ‘invisible’ tattoo be revealed by ultraviolet light and explore PhD remuneration across Europe.</description>
 </item>
 <item>
 <title>Scientists discover why a 100-year-old mushroom disease won't go away</title>
