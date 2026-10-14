@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple Maps launches Detailed City Experience in Austin, Texas</title>
+<link>https://9to5mac.com/2026/10/14/apple-maps-launches-detailed-city-experience-in-austin-texas</link>
+<guid isPermaLink="false">a636324fc6e8b1e26abc464a9fcc9b97c05ba70178384dc32173f52221067248</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 23:03:45 +0000</pubDate>
+<description>Apple is rolling out its stunning Detailed City Experience in Apple Maps for users in Austin, TX. This marks a robust overhaul of Apple Maps in Austin, similar to what we’ve seen in other markets like San Francisco, Chicago, and London. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-maps-austin.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-maps-austin.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>Intero Biosystems wants drugmakers to test on mini human intestines, not animals</title>
+<link>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals</link>
+<guid isPermaLink="false">7c34c80e0e28e54d6d932e3bddf190dbd7383c01718672bd5b1c46fe39bd8610</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 23:00:00 +0000</pubDate>
+<description>Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.</description>
+</item>
+<item>
+<title>Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks</link>
+<guid isPermaLink="false">469f69b082b97ddb2a7b19a5068e13dd6c3616648e25b5139d5e74ecc05c73fa</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:56:47 +0000</pubDate>
+<description>Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]</description>
+</item>
+<item>
+<title>McKinsey is making job applicants spar with a fake AI client</title>
+<link>https://www.theverge.com/news/1011654/mckinsey-ai-client-interview</link>
+<guid isPermaLink="false">e10522981d38e793152787797cd4fb6749a807f08d0b72e0c28761faa63e8ecb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:53:31 +0000</pubDate>
+<description>Consulting firm McKinsey &amp; Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation "aims to reflect 80% of the scenarios McKinsey consultants might encounter in their day-to-day work," the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>WhatsApp takes on Zoom and Google Meet with guest calling</title>
+<link>https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling</link>
+<guid isPermaLink="false">3e2ef8647ea115131233a484761502c7dfc3bdb2d8b9ac3c203c8aa971ac8187</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:39:29 +0000</pubDate>
+<description>WhatsApp users can now invite others to join group and one-on-one calls even if they don’t have an account. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-guest-calling.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-guest-calling.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>The best feature of Apple’s HomeView might be its simplicity</title>
 <link>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</link>
 <guid isPermaLink="false">162541f59fe12beba958e8319d2df617d86b67481cacccb3943e7fee89747fc2</guid>
@@ -44,6 +95,17 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-sep-2026-keynote.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>Fridge hack costing millions and sparking fires stemmed from poor security</title>
+<link>https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security</link>
+<guid isPermaLink="false">4e9e0f30a6ed5468c045025cd269d7424106bb3274e367505038466753e572bd</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 21:35:09 +0000</pubDate>
+<description>Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mass-fridge-hack-1024x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Flock CEO says its microphones detect ‘just gunshots’ — its website says different</title>
 <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different</link>
 <guid isPermaLink="false">f128d7374bd21babbc94be665e367e265b09b13d0378e6498b88e8317db0e2c4</guid>
@@ -75,6 +137,17 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>Epic says its new vibe-coded Epic Games Launcher is faster than Steam</title>
+<link>https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app</link>
+<guid isPermaLink="false">7581d8c596d581b57a659008bf4987e9e59085f6d61a72871fc816b7597fcc7b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 21:15:56 +0000</pubDate>
+<description>But the new "Preview" app "will have some bugs," Epic warns.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/egslauncher-1152x648.png" medium="image"/>
+</item>
+<item>
 <title>Apple Invites update makes it easier to manage guests and track RSVPs</title>
 <link>https://9to5mac.com/2026/10/14/apple-invites-update-makes-it-easier-to-manage-guests-and-track-rsvps</link>
 <guid isPermaLink="false">a444639d6b9cbe60c49aea90dc04314bfac60ff777caef02cdc04af8f398a89a</guid>
@@ -95,6 +168,17 @@
 <description>OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping</title>
+<link>https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping</link>
+<guid isPermaLink="false">56ade80e4b8673b8a9408756b7ff3f368b6ef8fec4f1d74cb252dfef1a76460e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 21:03:11 +0000</pubDate>
+<description>Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple showcases iPad Pro and iPhone 18 Pro Max’s role in ‘landmark fashion show’</title>
@@ -504,17 +588,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod</title>
-<link>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</link>
-<guid isPermaLink="false">d5ad1f3536af54db3532deea5e44826eed7f708917a65f4c6ae1213dc8f4a317</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:19:11 +0000</pubDate>
-<description>There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Xbox has a teeny new gamepad</title>
 <link>https://www.engadget.com/2286791/xbox-has-a-teeny-new-gamepad</link>
 <guid isPermaLink="false">6332e53038826bcaaadabca116b9b5c6f48103eeb7cfb42782a91f31469ee474</guid>
@@ -823,15 +896,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 14:00:10 +0000</pubDate>
 <description>AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]</description>
-</item>
-<item>
-<title>NTangible bets it can predict how athletes will perform under pressure</title>
-<link>https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure</link>
-<guid isPermaLink="false">1df5cb8353b5ebcdf298758364fba58d7920167161b31f3f77e0e7a324c358e4</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-<description>NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's "clutch" factor.</description>
 </item>
 <item>
 <title>WhatsApp adds a guest option for joining calls without an account</title>
@@ -1156,17 +1220,6 @@
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
-<title>Nothing Headphone (1) Pro Review: Studio Quality</title>
-<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
-<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
-<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
 <link>https://www.wired.com/story/the-case-for-lowercase</link>
 <guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
@@ -1176,6 +1229,17 @@
 <description>a certain kind of person writes in all lowercase now. why?</description>
 <enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
+</item>
+<item>
+<title>Nothing Headphone (1) Pro Review: Studio Quality</title>
+<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
+<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
+<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)</title>
@@ -1255,6 +1319,50 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
+<title>HBO Max Promo Code: 50% Off | October 2026</title>
+<link>https://www.wired.com/story/max-promo-code</link>
+<guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.</description>
+<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber Eats Promo Codes: $15 Off│October 2026</title>
+<link>https://www.wired.com/story/uber-eats-promo-code</link>
+<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
+<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Dell Coupon Codes: 20% Off for October 2026</title>
 <link>https://www.wired.com/story/dell-coupon-code</link>
 <guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
@@ -1286,50 +1394,6 @@
 <description>Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.</description>
 <enclosure url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
-</item>
-<item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
-<title>HBO Max Promo Code: 50% Off | October 2026</title>
-<link>https://www.wired.com/story/max-promo-code</link>
-<guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
-</item>
-<item>
-<title>Uber Eats Promo Codes: $15 Off│October 2026</title>
-<link>https://www.wired.com/story/uber-eats-promo-code</link>
-<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
 </item>
 <item>
 <title>Dyson Promo Codes: 25% Off in October 2026</title>
@@ -1630,15 +1694,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Microsoft: Windows 11 24H2 Home and Pro reached end of support</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support</link>
-<guid isPermaLink="false">4afb23784c56d19b9fd01b9e25da624d9594bd49681de7397574132c431220f4</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 19:04:38 +0000</pubDate>
-<description>Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]</description>
-</item>
-<item>
 <title>iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app</title>
 <link>https://9to5mac.com/2026/10/13/ios-27-2-beta-4-no-longer-includes-apples-overhauled-health-app</link>
 <guid isPermaLink="false">7a47126a5752cd6227c0406c515a2d27c2d2b5b801f4cad66906967112ecfbc0</guid>
@@ -1749,17 +1804,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-two-models.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Skydance’s Discovery+ prices increase by up to 20 percent</title>
-<link>https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent</link>
-<guid isPermaLink="false">aa09acc322ffec68596de1dc25074f434f014b9e9370a1d5a33395d2ad000d05</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 18:06:06 +0000</pubDate>
-<description>The higher prices are said to be unrelated to the Skydance merger.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1238343880-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another</title>
 <link>https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html</link>
 <guid isPermaLink="false">f459c5923c1f2f1f0f0399d778e50fd56cd0cc834f0c02647efe67e017a828a7</guid>
@@ -1780,17 +1824,6 @@
 <description>Apple announced its HomeView smart display this morning. Apple says HomeView can recognize up to six different people to deliver a “personalized experience” for each user. John Gruber at Daring Fireball has more details on how HomeView’s facial recognition feature works. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The Paris Auto Show is full of interesting cars Americans can’t have</title>
-<link>https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show</link>
-<guid isPermaLink="false">e0945cabc7345471dd490f6a1a85d98bef73e583aab02bcf79dd07489ec76eb6</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 17:33:20 +0000</pubDate>
-<description>Small EVs and efficient people carriers update familiar names for the modern age.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/c2v-french-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far</title>
@@ -1835,17 +1868,6 @@
 <description>Apple unveiled its new HomeView product today, and it’s available for pre-order now. But unfortunately HomeView isn’t coming to the EU, at least for now. Here’s why. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>Google wants to host your personal vibe-coded apps in the Play Store</title>
-<link>https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store</link>
-<guid isPermaLink="false">c49df01b10d488b69559affaf9c50b1183a15aed543b40132459241591e51e37</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 17:00:39 +0000</pubDate>
-<description>Google plans to help turn those personal AI-generated apps into wide releases.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Will HomeView support third-party apps? Here’s what Apple says</title>
@@ -2913,28 +2935,6 @@
 <description>While some of the Prime Day Apple deals are starting to disappear, you can still land a solid discount on AirPods Pro 3 and we are highlighting best holiday pricing still live in today’s 9to5Toys Lunch Break . Amazon is still delivering all five colors of Apple’s latest AirPods Max 2 down at $120 off, all-time lows on the M6 Mac mini at up to $150 off, the new M5 Max Mac Studio at $200 off , and all M5 MacBook Air models at $200 off. Alongside ongoing all-time lows on Apple Watch Series 12, we also tracking the return of Prime Day pricing on Apple’s latest Magic Mouse , and we have an exclusive discount on all of Nomad’s new iPhone 18 Pro case collection for 9to5 readers. Scope it all out below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Mac-mini-MacBook-Air-Nomad-cases.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Mac-mini-MacBook-Air-Nomad-cases.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Will Apple’s ‘Welcome home’ event be livestreamed? Here’s what we know</title>
-<link>https://9to5mac.com/2026/10/09/will-apples-welcome-home-event-be-livestreamed-heres-what-we-know</link>
-<guid isPermaLink="false">e12198d26f0d0c4b73dae94584afdb04a8fa4a17ff99056fe3de1deda691968e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 15:18:17 +0000</pubDate>
-<description>Apple has confirmed a special ‘Welcome home’ product launch event is happening next Tuesday, October 13. But it hasn’t yet said whether there will be a keynote video. Here’s what we know. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-event-welcome-home-tv.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-event-welcome-home-tv.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple TV reveals ‘unconventional’ rom-com show with The White Lotus star</title>
-<link>https://9to5mac.com/2026/10/09/apple-tv-reveals-unconventional-rom-com-show-with-the-white-lotus-star</link>
-<guid isPermaLink="false">ec9a9b4c72298618adce79ab87726101f35d5b061f920c6033eb3a2e0d6f3c82</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 14:44:12 +0000</pubDate>
-<description>Apple TV just debuted the first look at Prodigies, a new series from The White Lotus star Will Sharpe that offers an “unconventional take” on the romantic comedy genre. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/prodigies-will-sharpe.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/prodigies-will-sharpe.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>TP-Link Sued by Four More U.S. States Over Router Security and China Ties</title>
