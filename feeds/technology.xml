@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity</title>
+<link>https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity</link>
+<guid isPermaLink="false">141c6c1dfeb273cd347e4e1bec370921bcfd7db515db6ca74184d19ce6baca50</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+<description>“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.</description>
+<enclosure url="https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg" medium="image"/>
+</item>
+<item>
 <title>Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave</title>
 <link>https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</link>
 <guid isPermaLink="false">0c18f2a3df012bdd1f2e05bbbd286d4b4bd89ecbd922d3596274cabf2f7db028</guid>
@@ -2220,17 +2231,6 @@
 <description>Inspired by new guidance from the Trump administration, right-wing election groups are targeting nursing homes, baselessly claiming that left-wing groups are stealing residents’ votes.</description>
 <enclosure url="https://media.wired.com/photos/6ac92cd871639cc251fda20c/master/pass/GettyImages-2153933839.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac92cd871639cc251fda20c/master/pass/GettyImages-2153933839.jpg" medium="image"/>
-</item>
-<item>
-<title>The Best Gifts for the Techie in Your Life (2026)</title>
-<link>https://www.wired.com/story/best-tech-gifts</link>
-<guid isPermaLink="false">044528b78938ce5320cabc1972888f3c4f174f801fc673b0aa0f59aa5d786f2b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 10:00:00 +0000</pubDate>
-<description>Don’t buy a loved one something you wouldn’t want for yourself. These are the must-haves that tech enthusiasts have on their wish lists this year.</description>
-<enclosure url="https://media.wired.com/photos/6ac974ffd996135719f573b5/master/pass/9%20WIRED-Approved%20Gifts%20for%20the%20Techie%20in%20Your%20Life%20102026%20top%20art%20source%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ac974ffd996135719f573b5/master/pass/9%20WIRED-Approved%20Gifts%20for%20the%20Techie%20in%20Your%20Life%20102026%20top%20art%20source%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE</title>
