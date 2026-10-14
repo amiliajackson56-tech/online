@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>PSG on 'different level' - are they building greatest European dynasty?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">74a68b8da34047ece5f8789ee87f536fa4ff623f695839b9d532694d3edf837c</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Wed, 14 Oct 2026 21:55:37 +0000</pubDate>
-<description>Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but where do they rank against Europe's most dominant clubs?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eae/live/535d4700-ac27-11f1-9bd9-7b7da208bd5c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eae/live/535d4700-ac27-11f1-9bd9-7b7da208bd5c.jpg" medium="image"/>
-</item>
-<item>
 <title>Isco snatches late Betis win as they edge past Porto</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">ef346fb551257d1c205a60ac875f0789ff89c0e20a4a7f61f27401d9fbb25258</guid>
@@ -24,6 +13,17 @@
 <description>Isco scores an 84th minute penalty to help Real Betis snatch a late 3-2 win against Porto, giving them back to back wins at the start of this season's Champions League.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f1/live/b04016c0-c813-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f1/live/b04016c0-c813-11f1-a64c-550be9e3c66b.jpg" medium="image"/>
+</item>
+<item>
+<title>Championship roundup: Soucek doubles up as West Ham hit nine-man Lincoln for six</title>
+<link>https://www.theguardian.com/football/2026/oct/14/championship-roundup-soucek-doubles-up-as-west-ham-hit-nine-man-lincoln-for-six</link>
+<guid isPermaLink="false">e1930c62ed4f671f64961f6140adc3423acac3b8970231057a8a23d493263454</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Wed, 14 Oct 2026 21:40:12 +0000</pubDate>
+<description>Tomas Soucek rounds off big victory after two reds Portsmouth strike late to beat 10-man Sheffield United West Ham returned to winning ways after they cruised to a 6-0 Championship victory against nine-man Lincoln at the ProAmpac Stadium. The hosts had Tom Hamer sent off after just three minutes and Conor McGrandles followed him off the pitch 20 minutes later, with Konstantinos Mavropanos heading West Ham ahead on the stroke of half-time. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/789b2b527e2ab20a821878f71216104421dd1f72/330_0_2290_1832/master/2290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=111b92668550efd14173c2ea7a280f22" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/789b2b527e2ab20a821878f71216104421dd1f72/330_0_2290_1832/master/2290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=111b92668550efd14173c2ea7a280f22" medium="image"/>
 </item>
 <item>
 <title>Real Madrid stun Roma after dramatic late comeback</title>
@@ -279,6 +279,17 @@
 <media:content url="https://i.guim.co.uk/img/media/1ec604cb6ba66bc69731fd21f6157b1b86d12ffb/249_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9e8f17d0b0d9fb5be767b9b222b961c" medium="image"/>
 </item>
 <item>
+<title>Wilcox the target again in another damaging Man Utd fallout</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">5990f9e3f1b13f8b1531dccda7e58f38ac3302377afe65e32f93ebc52c268e48</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 14 Oct 2026 15:30:03 +0000</pubDate>
+<description>Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the spotlight back on director of football Jason Wilcox.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png" medium="image"/>
+</item>
+<item>
 <title>Dionisi set to remain in charge of Watford</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">e7985c430902d4c94db27943ab6d723e00c9c37924d1aa85be170da524af6180</guid>
@@ -398,17 +409,6 @@
 <description>The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
-</item>
-<item>
-<title>Tottenham’s forgotten man Richarlison scores for under-21s: ‘I was missing it’</title>
-<link>https://www.theguardian.com/football/2026/oct/14/tottenham-richarlison-under-21s-cheltenham-efl-trophy</link>
-<guid isPermaLink="false">be4129ffb3946069e7009dcd0a1b3a21f3546b8fa93bf5c3a37c558e6c85cb07</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Wed, 14 Oct 2026 09:07:48 +0000</pubDate>
-<description>Brazilian in limbo after being left out of first team Cheltenham’s Cotterill: ‘His attitude was great’ Tottenham’s forgotten man Richarlison has been hailed for his attitude after he scored for the under-21s on Tuesday. Richarlison has not played for the first team since an opening-day defeat at Brentford on 22 August after he was left out of the 25-man Premier League squad list, having been told he was not part of the plans for this season. Failed moves to Trabzonspor and Vasco da Gama, after talks with Everton collapsed in the final days before the transfer window in England shut, have left Richarlison in limbo for the first half of the campaign. However, the Brazil international made a surprise appearance in the Jersey Mike’s (EFL) Trophy tie at Cheltenham. He scored after 56 minutes in a 2-2 draw and converted a spot-kick in a 7-6 penalty shootout loss. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ed6097857bd84134d135d28cc78fb1b187255cd1/375_415_5190_4151/master/5190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48a4f3260c4306e0455a1466bd396e5d" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ed6097857bd84134d135d28cc78fb1b187255cd1/375_415_5190_4151/master/5190.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48a4f3260c4306e0455a1466bd396e5d" medium="image"/>
 </item>
 <item>
 <title>'Possessed' Davidson fills Weir gap as Scots set up glamour Sweden tie</title>
@@ -904,17 +904,6 @@
 <description>In an exclusive interview, former Ipswich manager talks of his lasting affection for the club, savouring time out with family and friends and ideas for his next move It was on the Portman Road pitch, bathed in bright early May light while immersed in the relief and joy of a third promotion in five years, that Kieran McKenna realised the moment was right. The thought had flickered earlier in the season that this might be his final campaign at Ipswich, only to be pushed into the subconscious by the Championship’s remorseless grind. “But standing out there, I felt this was probably time,” he says of those moments after QPR had been swept aside and a return to the Premier League assured. “Another big victory, a full stadium, in front of my family and the fans. It was an amazing way to go out on a high.” Five months later McKenna has no regrets about electing to cut things short while the going was so good. The golf bag lying outside his garage speaks of a man enjoying the break and, more p</description>
 <enclosure url="https://i.guim.co.uk/img/media/b209f1c39ef4ee52448a469b2daddd3d27f23152/1103_191_4081_3265/master/4081.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f4384c7597ad96fe99431af08d23f7e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b209f1c39ef4ee52448a469b2daddd3d27f23152/1103_191_4081_3265/master/4081.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f4384c7597ad96fe99431af08d23f7e" medium="image"/>
-</item>
-<item>
-<title>Which footballers have ended scoring droughts with a goal off their backside? | The Knowledge</title>
-<link>https://www.theguardian.com/football/2026/oct/07/which-footballers-have-ended-scoring-droughts-with-a-goal-off-their-backside</link>
-<guid isPermaLink="false">217f84e8e345f213741ab322b24d327e2fac2e63b069e6df74afb9bf7fa5d0ae</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Wed, 07 Oct 2026 07:00:36 +0000</pubDate>
-<description>Plus: two political leaders at the same club game, a very long-term suspension and extremely quick equalisers Mail us with all of your questions and answers “Oli McBurnie is back in the Scotland squad,” noted John Cant last week. “With his record of 16 appearances [now 20] and zero goals, he said in a recent interview, ‘a tap-in on Saturday or one that goes in off my backside would be lovely’. The backside comes up often when players talk of breaking a goal drought – but has it ever actually happened?” We dreamed of a perfect answer to this question: a usually prolific striker enduring a barren run that ends when an errant clearance ricochets off their derriere and dribbles over the line at 0.00001mph. Alas, no such examples were forthcoming – but all backside goals have a certain earthy charm, so let’s get stuck in. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/46375e1bc64de85b52aaf1c6553e4fb0c40d1560/638_168_3918_3135/master/3918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36d85adc49ab892281a56dee8dfaaddd" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/46375e1bc64de85b52aaf1c6553e4fb0c40d1560/638_168_3918_3135/master/3918.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36d85adc49ab892281a56dee8dfaaddd" medium="image"/>
 </item>
 <item>
 <title>More woe for Arsenal as Manchester City march on – Women’s Football Weekly podcast</title>

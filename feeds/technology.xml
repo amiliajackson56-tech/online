@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The best feature of Apple’s HomeView might be its simplicity</title>
+<link>https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature</link>
+<guid isPermaLink="false">162541f59fe12beba958e8319d2df617d86b67481cacccb3943e7fee89747fc2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:00:02 +0000</pubDate>
+<description>I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home dashboard? No. But is it the right product for Apple Home at […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6079.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6079.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</title>
+<link>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes</link>
+<guid isPermaLink="false">fe20a4e0a1e456d21bf15ed7d7585ce8432357d67beddcebb6c8dd41fa31ea1b</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+<description>Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.</description>
+</item>
+<item>
 <title>Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO</title>
 <link>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo</link>
 <guid isPermaLink="false">3db5fa5df9545cb3d6ecdfa2f67b19ed76c6baebb6d4910d76818d0675e9d5b8</guid>
@@ -504,17 +524,6 @@
 <description>The $50 Xbox Nano Controller is five inches long and weighs 3.5 ounces.</description>
 <enclosure url="https://www.engadget.com/img/gallery/xbox-has-a-teeny-new-gamepad/l-intro-1791998227.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/xbox-has-a-teeny-new-gamepad/l-intro-1791998227.jpg" medium="image"/>
-</item>
-<item>
-<title>Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS</title>
-<link>https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds</link>
-<guid isPermaLink="false">254114c8f099046d941843906a2cc4fd03944997b31f0993fcb23586b0e95432</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 17:13:27 +0000</pubDate>
-<description>Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Researchers use AI to design proteins that cut up other proteins</title>
@@ -1072,15 +1081,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Scimplify raises $25M to challenge China’s grip on critical materials with AI</title>
-<link>https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai</link>
-<guid isPermaLink="false">75861fc4432aec080c02c69c4d400ffc4d48622ad2a4d7d159e0d0408e728b2a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
-<description>Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.</description>
-</item>
-<item>
 <title>Beat the iPhone Duo pre-order rush with Apple's Get Ready tool</title>
 <link>https://www.engadget.com/2284584/beat-preorder-iphone-duo-rush-apple-get-ready-tool</link>
 <guid isPermaLink="false">3ee70d6f17360697efcc3f2b442656348657e950caf84b8264e27357e7442649</guid>
@@ -1255,17 +1255,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Dell Coupon Codes: 20% Off for October 2026</title>
 <link>https://www.wired.com/story/dell-coupon-code</link>
 <guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
@@ -1299,6 +1288,28 @@
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
 <title>HBO Max Promo Code: 50% Off | October 2026</title>
 <link>https://www.wired.com/story/max-promo-code</link>
 <guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
@@ -1319,17 +1330,6 @@
 <description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
 <enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>Dyson Promo Codes: 25% Off in October 2026</title>
@@ -2266,6 +2266,17 @@
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
 </item>
 <item>
+<title>Lego Promo Code | 20% Off October 2026</title>
+<link>https://www.wired.com/story/lego-promo-code</link>
+<guid isPermaLink="false">94a111a844abddf618ecfaeebfa7b1861613b377fca2e6fbf18c7f34cfbc0f01</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+</item>
+<item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
 <link>https://www.wired.com/story/wayfair-promo-code</link>
 <guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
@@ -2275,17 +2286,6 @@
 <description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
 <enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
-</item>
-<item>
-<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Nike Promo Codes and Discounts: 30% for October 2026</title>
@@ -2299,15 +2299,15 @@
 <media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
 </item>
 <item>
-<title>Lego Promo Code | 20% Off October 2026</title>
-<link>https://www.wired.com/story/lego-promo-code</link>
-<guid isPermaLink="false">94a111a844abddf618ecfaeebfa7b1861613b377fca2e6fbf18c7f34cfbc0f01</guid>
+<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>The iPhone Duo’s cooling system hides a clever trick inside its hinge</title>
