@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions</title>
+<link>https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions</link>
+<guid isPermaLink="false">3fa0bfa68880e9dde16786ce34c4f7b322e1dab9aea241732acedf8f72f1f68e</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 14 Oct 2026 13:32:25 +0000</pubDate>
+<description>NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13.jpg?w=1920" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-announcement-advisory-oct-13.jpg?w=1920" medium="image"/>
+</item>
+<item>
 <title>Scientists reveal why some workout recovery tricks can backfire</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261013015805.htm</link>
 <guid isPermaLink="false">ce601ad16e552e0beff9dbb169ae9c1ca727225e070179399be84c72cb2f8a08</guid>
@@ -234,17 +245,6 @@
 <description>Description A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late September 2026. The tests demonstrate that the spacecraft is prepared to face the harsh conditions of launch, its journey to the Moon, and landing on the surface. Its final trial was […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26708/PIA26708.jpg?w=8272&amp;h=6200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26708/PIA26708.jpg?w=8272&amp;h=6200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective</title>
-<link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective</link>
-<guid isPermaLink="false">a202a9d4db5dcd29abee7f61bc3e55a31f105b43ab8c174b8fd9937768f7d1fe</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 13 Oct 2026 15:02:21 +0000</pubDate>
-<description>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproportional damping. As the damping interaction increases, the […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png?w=989" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/two-mode-interaction-in-a-lightly-damped-system.png?w=989" medium="image"/>
 </item>
 <item>
 <title>James Webb reveals a massive cosmic structure that challenges our understanding of the Universe</title>
