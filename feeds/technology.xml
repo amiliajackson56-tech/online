@@ -4,6 +4,90 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Cisco patches new Secure Email Gateway zero-day exploited in attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day</link>
+<guid isPermaLink="false">b84c40d0c528ab6b72d268e85026a18f4fc3324f91d9f7124e36464cc6039a57</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:29:14 +0000</pubDate>
+<description>Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]</description>
+</item>
+<item>
+<title>Apple&amp;#8217;s new HomeView smart display is $10 cheaper at Amazon</title>
+<link>https://www.theverge.com/gadgets/1011227/apple-homeview-smart-display-deal-sale</link>
+<guid isPermaLink="false">429a0c5fe6b3398f92e4dde28c527ec77973cf6ff3eef48fccebdafe5367b65c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:24:42 +0000</pubDate>
+<description>Apple only just announced on Tuesday that its first smart display, the HomeView, will arrive on November 13th, but you can already save a couple bucks on it. Right now, you can buy the display for $289.99 ($10 off) in gray and the creamy white “starlight” colorway at Amazon. Sure, it’s a small discount, but […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-welcome-home-roundup.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Sprout Pi adds Bluetooth, streaming, and USB-C to your aging iPod</title>
+<link>https://www.theverge.com/gadgets/1011266/sprout-pi-adds-bluetooth-streaming-and-usb-c-to-your-aging-ipod</link>
+<guid isPermaLink="false">d5ad1f3536af54db3532deea5e44826eed7f708917a65f4c6ae1213dc8f4a317</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:19:11 +0000</pubDate>
+<description>There's an entire cottage industry of iPod mods out there, but Sprout Pi and Sprout Pico are two of the few full motherboard replacements that combine many of the most popular mods into a single upgrade. Both versions add Bluetooth, Wi-Fi, USB-C, a microSD card slot, FLAC playback, and more. And while cracking open an […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0f3990d2-e51e-4687-9d87-785c5c71246c_gallery-lg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Xbox has a teeny new gamepad</title>
+<link>https://www.engadget.com/2286791/xbox-has-a-teeny-new-gamepad</link>
+<guid isPermaLink="false">6332e53038826bcaaadabca116b9b5c6f48103eeb7cfb42782a91f31469ee474</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:18:17 +0000</pubDate>
+<description>The $50 Xbox Nano Controller is five inches long and weighs 3.5 ounces.</description>
+<enclosure url="https://www.engadget.com/img/gallery/xbox-has-a-teeny-new-gamepad/l-intro-1791998227.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/xbox-has-a-teeny-new-gamepad/l-intro-1791998227.jpg" medium="image"/>
+</item>
+<item>
+<title>Anbernic’s next dual-screen handheld could replace your aging Nintendo 3DS</title>
+<link>https://www.theverge.com/tech/1011200/anbernic-rg-dds-dual-screen-handheld-emulator-nintendo-3ds</link>
+<guid isPermaLink="false">254114c8f099046d941843906a2cc4fd03944997b31f0993fcb23586b0e95432</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:13:27 +0000</pubDate>
+<description>Anbernic shared a new video of its upcoming dual-screen handheld it announced last week showing the device playing 3DS, Xbox, and PS3 games through emulation. While competitors like Ayaneo have been making dual-screen handhelds for a few years, Anbernic only recently introduced its own dual-screen devices including the RG DS and RG DS Plus. Those […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/dds1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>YouTube Music adds new labels for AI-generated content</title>
+<link>https://www.engadget.com/2286764/youtube-music-adds-new-labels-for-ai-generated-content</link>
+<guid isPermaLink="false">c9e6534361b5fbd4fa8ba29f2aa68246e814e32457d327eb2b950d632a7b82bf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:01:12 +0000</pubDate>
+<description>Now please let us hide all of it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/youtube-music-adds-new-labels-for-ai-generated-content/l-intro-1791997195.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/youtube-music-adds-new-labels-for-ai-generated-content/l-intro-1791997195.jpg" medium="image"/>
+</item>
+<item>
+<title>Mosqitter is turning its mosquito traps into an AI-powered surveillance network</title>
+<link>https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network</link>
+<guid isPermaLink="false">1c8d7dd5e8ff778a55e5b90fab1261c004758a62b59ffa7f91d33e4ecb1e85b1</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
+<description>Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.</description>
+</item>
+<item>
+<title>My AI doppelganger tells me what to eat</title>
+<link>https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health</link>
+<guid isPermaLink="false">bce858a37e75c4f00f738c35b23dab659f397cc6918e7a0aea5be21b69d7af67</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 17:00:00 +0000</pubDate>
+<description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mornings have had a new rhythm. When I wake up, the first […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268801_DigitalTwin_made_me_a_doppelganger_to_test_my_health_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Epic thinks you'll love its new vibe coded game launcher</title>
 <link>https://www.engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher</link>
 <guid isPermaLink="false">29216d5bcb352108a9e0e4504ef13c0bd3b504a78cad4ca56242b7b278b52374</guid>
@@ -11,8 +95,19 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 16:46:59 +0000</pubDate>
 <description>Gross, Tim. Gross.</description>
-<enclosure url="https://www.engadget.com/img/gallery/epic-releases-a-new-vibe-coded-game-launcher-after-laying-off-1000-employees-in-march/l-intro-1791996219.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/epic-releases-a-new-vibe-coded-game-launcher-after-laying-off-1000-employees-in-march/l-intro-1791996219.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/l-intro-1791996791.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/l-intro-1791996791.jpg" medium="image"/>
+</item>
+<item>
+<title>OpenAI claims an ex-employee took its product plans and presented them to Apple</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans</link>
+<guid isPermaLink="false">52cefc42575c00abb39b9a52049360bdd59a7bdcb87bc684dce0b9441fa83d71</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 16:43:24 +0000</pubDate>
+<description>OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia. The […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Netflix to lay off roughly 1,000 employees in biggest round of job cuts since 2022</title>
@@ -37,6 +132,28 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg" medium="image"/>
 </item>
 <item>
+<title>Repairing the iPhone Duo&amp;#8217;s folding screen costs as much as a new iPhone</title>
+<link>https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare</link>
+<guid isPermaLink="false">4b2d544d56832edfe1e7cdeeed836a9239cce6747ec197495d6859695de15557</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 16:21:28 +0000</pubDate>
+<description>If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reported by MacRumors, and they can be high: Battery service, for example, will cost $229, inner display damage will cost $999, and […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0005.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Honey, Xbox shrunk its controller</title>
+<link>https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing</link>
+<guid isPermaLink="false">62ba3cc81fe7b5dec2b834f549e431efc9a1d0747b39bb356dcc10999eab29c7</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 16:16:46 +0000</pubDate>
+<description>Microsoft is officially announcing its Xbox Nano controller today, a smaller and cheaper controller that's designed to fit into your pocket. The more compact controller is also designed for "younger players, smaller hands, or anyone seeking something portable for play on the go." The $49.99 Xbox Nano is Microsoft's smallest controller, and it's shorter than […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxnano.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxnano.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>OpenAI alleges ex-employee took ‘highly confidential’ device files to Apple</title>
 <link>https://9to5mac.com/2026/10/14/openai-alleges-ex-employee-took-highly-confidential-device-files-to-apple</link>
 <guid isPermaLink="false">133b5aa02f8461ba3b871832ca891ecae071d5bd3c2017f79686534360328913</guid>
@@ -48,6 +165,28 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>Microsoft has a new machine learning tool to improve weather forecasts</title>
+<link>https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft</link>
+<guid isPermaLink="false">0ffd9a974781584f9f58d0c098894fe589647c7879cf2b413ee9a8be9618b6f6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 16:05:21 +0000</pubDate>
+<description>Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effective way to make more accurate weather forecasts two to six weeks in advance - allowing farmers and emergency responders […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK438_CLIMATE_CHANGE_G.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Now you can call anyone with WhatsApp, even if they don&amp;#8217;t have WhatsApp</title>
+<link>https://www.theverge.com/tech/1011202/meta-whatsapp-guest-calls</link>
+<guid isPermaLink="false">cfa8a47566ff04f2c6ed948e27a39645b00a800e40a36394f7ba940515d26744</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 16:03:10 +0000</pubDate>
+<description>WhatsApp's new guest calling feature allows you to invite anyone to a call, without needing them to make an account first. They won't need the app, either, since Meta also added support for calls on the web version of WhatsApp earlier this year. You can invite guests just by sending them the call link, and […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header-JPG.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Prismm helps banks keep inherited money in-house</title>
 <link>https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house</link>
 <guid isPermaLink="false">98758ad03cbf699b04b0438fe7999896929d2ba4409955fdd72b1c3d4ea6b8ba</guid>
@@ -55,6 +194,17 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
 <description>With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.</description>
+</item>
+<item>
+<title>Square’s new kiosk lets you talk to AI for help with your order</title>
+<link>https://www.theverge.com/tech/1009086/square-kiosk</link>
+<guid isPermaLink="false">bddfffa0852196a7c048ed9259d179350df80d8124731b2526e9ef0c041f83e0</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+<description>Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, has an "agentic, conversational voice layer" that "fully understands a seller's menu and listens and responds in real […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Square-Kiosk-Payment.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>2026 standout Titanium Court is springing onto consoles and mobile on October 29</title>
@@ -123,17 +273,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-third-party-video-apps-youtube.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Anthropic’s self-replicating AI warning is alarming deja vu</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk</link>
-<guid isPermaLink="false">3fcbdb0ebb6d7b0af9db5d03355e8f824bcecab5c796a185632446288d8802a2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 15:19:02 +0000</pubDate>
-<description>Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that spread from device to device and prove remarkably difficult to contain. Welcome to the unsettling world of AI worms, where, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Deezer will soon let you filter out AI-generated music</title>
 <link>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music</link>
 <guid isPermaLink="false">ab12d93437757467fe01f7c740db232fb7db599a7cbb4fe7efd64b631f6ab01a</guid>
@@ -152,28 +291,6 @@
 <description>Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.</description>
 </item>
 <item>
-<title>Netflix is laying off around 1,000 employees</title>
-<link>https://www.theverge.com/tech/1011058/netflix-layoff-six-percent-thousand-employees</link>
-<guid isPermaLink="false">1efb8a667c80a4d6b13e0ead4c70eeae0bd2b4d47fad91307f7ea9bc80f7ca6a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 15:12:58 +0000</pubDate>
-<description>Following a report last week that Netflix was planning to lay off five percent of the company, today the streamer's co-CEOs Ted Sarandos and Greg Peters announced in an email that it would actually be laying off six percent of its workforce, or around 1,000 employees, according to Variety, which obtained a copy of the […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23923974/acastro_STK072_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>HomeView doesn’t natively support any video apps yet — not even Apple’s</title>
-<link>https://www.theverge.com/tech/1011062/apple-homeview-airplay-apps-streaming</link>
-<guid isPermaLink="false">f646aef71abc7abc2389b965119dea6cd3fc22b9760ad388538815ad7e5d344e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 15:10:12 +0000</pubDate>
-<description>Apple says HomeView is "the perfect way" to enjoy its audio and video entertainment apps, but some notable examples like Apple TV only work if you AirPlay it through your iPhone. As noted on the HomeView spec page, Apple TV, Apple Books audiobooks, Apple Music Classical, and Apple News Plus aren't natively supported on the […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Apple-TV.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace</title>
 <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace</link>
 <guid isPermaLink="false">21708234358eadea5e8015e469fb1f19eb094f970f3f6a6860d34c5387f64307</guid>
@@ -181,17 +298,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 15:08:00 +0000</pubDate>
 <description>Zenzap is used by organizations including Starbucks and Taco Bell.</description>
-</item>
-<item>
-<title>Ukraine claims Starlink is suddenly disrupting service for its military</title>
-<link>https://www.theverge.com/science/1011110/ukraine-starlink-restrictions-drone-mission-disruptions</link>
-<guid isPermaLink="false">56c493396d4cd54ecd4846971d9b19b492b337f615cb0a0ccbe490e273dea06b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 15:06:12 +0000</pubDate>
-<description>Ukrainian officials claim the Elon Musk-owned Starlink put new limits on its service in the area without warning, disrupting the country's drone operations and missions, according to reports from Reuters and the Financial Times. The move comes just days after Musk wrote on X that Ukrainian President Volodymyr Zelenskyy "has gone too far," in response […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299992780.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299992780.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Floqer’s AI agents research sales prospects so teams don’t have to</title>
@@ -221,28 +327,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 14:55:47 +0000</pubDate>
 <description>Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.</description>
-</item>
-<item>
-<title>$15 gets you Psychonauts 2, the latest Like a Dragon game, and more</title>
-<link>https://www.theverge.com/gadgets/1011050/humble-choice-valve-index-borderlands-odyssey-deal-sale</link>
-<guid isPermaLink="false">dcbb50d8800e2735573d124841d79b290653630f431cf5d1265f5bceb64069f2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:45:45 +0000</pubDate>
-<description>There are several deals happening right now on video games and gaming-related tech that are worth sharing. To start, this month’s Humble Choice drop of Steam PC games is really good. The $14.99 per month service is offering subscribers Like A Dragon: Pirate Yakuza in Hawaii, Price of Persia: The Lost Crown, Psychonauts 2, Deep […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23077163/psychonauts2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23077163/psychonauts2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Apple&amp;#8217;s new Find My-compatible remote will also work with your old Apple TV</title>
-<link>https://www.theverge.com/gadgets/1011069/apple-tv-remote-find-my</link>
-<guid isPermaLink="false">cc45c85ebb021936a4a4a59dbe9c1c5931a566ef217085e2f243cbb942a7c1df</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:39:32 +0000</pubDate>
-<description>You don't need to buy the new Apple TV 4K just to get the updated Siri Remote with Find My and a built-in speaker, as it works with every model released going back to the Apple TV HD and is available to buy standalone for $59. Previous Siri Remotes had a basic iOS feature to […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-TV-4K-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>TechCrunch Disrupt 2026: Day 2</title>
@@ -314,17 +398,6 @@
 <description>NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's "clutch" factor.</description>
 </item>
 <item>
-<title>Halo&amp;#8217;s co-creator wrote a novel about AI taking over the world</title>
-<link>https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny</link>
-<guid isPermaLink="false">a3a20206b204a726218057c8b4d56a1719db2d74a3f7d667069b93b29ce849d6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:00:00 +0000</pubDate>
-<description>Back in 2019, author Margaret Stohl was handed a manuscript written by Jason Jones, who's best known as the co-creator of sci-fi gaming series Halo and Destiny. The two had worked together at Bungie, and Jones wanted Stohl's opinion on a book he was writing about AI taking over the world. It was an oral […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>WhatsApp adds a guest option for joining calls without an account</title>
 <link>https://www.engadget.com/2286108/whatsapp-adds-a-guest-option-for-joining-calls-without-an-account</link>
 <guid isPermaLink="false">5c42763e9f80578a595d9d56db2ed6d06c08071ec67083581590f9a0c9e1b8d1</guid>
@@ -356,39 +429,6 @@
 <description>Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1259126916-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1259126916-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Epic&amp;#8217;s new games launcher is ‘vibe coded’</title>
-<link>https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux</link>
-<guid isPermaLink="false">ef87b05ded13b11f7ce0ed4a53e6b0099db0deaf2ce53937760cb28604f32083</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 13:55:02 +0000</pubDate>
-<description>Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is "way faster" and now supports Linux. But the company, which has been publicly making a big push into AI-assisted development, also notes that the refresh was "vibe coded." "Programming is hard," Epic says in […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Epic is bringing Fortnite to Linux</title>
-<link>https://www.theverge.com/games/1010808/epic-fortnite-linux-anti-cheat</link>
-<guid isPermaLink="false">ddc70df01ef15230f78b1eee9330804dbaa04390a86a2f2bef1c5013df3655a7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 13:54:58 +0000</pubDate>
-<description>Epic is working on bringing Fortnite to Linux through its Epic Games Launcher. The new launcher is releasing in preview today, and for the first time on Linux, and while Fortnite isn't available there just yet, Epic wants to make that a reality. So far, part of the reason Fortnite hasn't been available on Linux […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/fortnite-reload-elite-zadie-slurp-rush-map-1920x1080-7515cd7aa2e9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Fujifilm’s new square format instant camera adds analog color filters</title>
-<link>https://www.theverge.com/tech/1010990/fujifilm-instax-square-2-analog-instant-film-camera-filters</link>
-<guid isPermaLink="false">ee3b73a87aeb9b8e4e15833cf33edcb678d6e8fe2cfc85b77608ba5ad3838773</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 13:43:36 +0000</pubDate>
-<description>Continuing the analog approach of the Instax Square SQ6 that launched in 2018 and follow-ups like the Square SQ1 and SQ40, the new Fujifilm Instax Square 2 skips digital functionality while still introducing the ability to customize the look and feel of instant photos. A new mood filter switch slides one of two colored filters […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/instax.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/instax.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple says beloved MacBook is now ‘obsolete,’ more products too</title>
@@ -667,17 +707,6 @@
 <description>Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enabled. [...]</description>
 </item>
 <item>
-<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
-<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
-<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
-<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
-</item>
-<item>
 <title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
 <link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
 <guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
@@ -687,6 +716,17 @@
 <description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
 <enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
+<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
+<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
+<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
 <title>People are hating on Apple Music's redesigned black-and-white logo</title>
@@ -810,6 +850,39 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
+<title>HBO Max Promo Code: 50% Off | October 2026</title>
+<link>https://www.wired.com/story/max-promo-code</link>
+<guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.</description>
+<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber Eats Promo Codes: $15 Off│October 2026</title>
+<link>https://www.wired.com/story/uber-eats-promo-code</link>
+<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
+<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
 <title>Peacock Promo Codes: 40% Off October 2026</title>
 <link>https://www.wired.com/story/peacock-promo-code</link>
 <guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
@@ -854,39 +927,6 @@
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
-<title>HBO Max Promo Code: 50% Off | October 2026</title>
-<link>https://www.wired.com/story/max-promo-code</link>
-<guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
-</item>
-<item>
-<title>Uber Eats Promo Codes: $15 Off│October 2026</title>
-<link>https://www.wired.com/story/uber-eats-promo-code</link>
-<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
 <title>Dyson Promo Codes: 25% Off in October 2026</title>
 <link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
 <guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
@@ -898,17 +938,6 @@
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
-<title>Tuft &amp; Needle Promo Codes: 30% Off | October 2026</title>
-<link>https://www.wired.com/story/tuft-and-needle-promo-code</link>
-<guid isPermaLink="false">275ae5ded4579351a88db07721bcd9aab1c5d6c32b94acfaf4bbc002f77da095</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 30% on best-selling mattresses with our top Tuft &amp; Needle coupon codes.</description>
-<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
-</item>
-<item>
 <title>Castlery Promo Codes: 15% Off for October 2026</title>
 <link>https://www.wired.com/story/castlery-promo-code</link>
 <guid isPermaLink="false">f4d2aeef20f25418e792a8534cd4ae1f4f149c12625d6eb0772585156d7618ac</guid>
@@ -918,6 +947,17 @@
 <description>Refresh your living space for less with these verified Castlery coupons, including free shipping offers and furniture set discounts.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
+</item>
+<item>
+<title>Tuft &amp; Needle Promo Codes: 30% Off | October 2026</title>
+<link>https://www.wired.com/story/tuft-and-needle-promo-code</link>
+<guid isPermaLink="false">275ae5ded4579351a88db07721bcd9aab1c5d6c32b94acfaf4bbc002f77da095</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 30% on best-selling mattresses with our top Tuft &amp; Needle coupon codes.</description>
+<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
 <title>Walgreens Photo Coupons: Up to 70% Off This October</title>
@@ -1117,17 +1157,6 @@
 <description>A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]</description>
 </item>
 <item>
-<title>Are Chromebooks still worth buying after the Googlebooks release?</title>
-<link>https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release</link>
-<guid isPermaLink="false">a8029fd70e60384226cd9789ee934881b34209ca65ba51e18743ec590744378e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 22:30:00 +0000</pubDate>
-<description>Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place.</description>
-<enclosure url="https://www.engadget.com/img/gallery/are-chromebooks-still-worth-buying-after-the-googlebooks-release/l-intro-1791559713.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/are-chromebooks-still-worth-buying-after-the-googlebooks-release/l-intro-1791559713.jpg" medium="image"/>
-</item>
-<item>
 <title>Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie</title>
 <link>https://www.wired.com/story/everyone-hates-digger-its-perfect-climate-movie</link>
 <guid isPermaLink="false">79b21aa1ea4d41c2a40ca805a5fac6900b531a21cbb0dbae925bf1f91f086e3e</guid>
@@ -1137,17 +1166,6 @@
 <description>The deeply uncomfortable film forces audiences to confront what types of stories we tell ourselves about who has economic and political power.</description>
 <enclosure url="https://media.wired.com/photos/6ac90dd815a533466f61dc9f/master/pass/MCDDIGG_WB006.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ac90dd815a533466f61dc9f/master/pass/MCDDIGG_WB006.jpg" medium="image"/>
-</item>
-<item>
-<title>5 clever ways Gemini can automate everyday tasks</title>
-<link>https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks</link>
-<guid isPermaLink="false">244c6883cdf55b271f900c4e271991c32da24b199099598b33ae58977bc5369c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 22:00:00 +0000</pubDate>
-<description>If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-clever-ways-gemini-can-automate-everyday-tasks/l-intro-1791468895.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-clever-ways-gemini-can-automate-everyday-tasks/l-intro-1791468895.jpg" medium="image"/>
 </item>
 <item>
 <title>ESA targets Anbernic emulation handhelds as "superfake" piracy enablers</title>
@@ -1348,15 +1366,6 @@
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 19:04:38 +0000</pubDate>
 <description>Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]</description>
-</item>
-<item>
-<title>Niobia takes the guesswork out of some of tech’s most expensive mistakes</title>
-<link>https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes</link>
-<guid isPermaLink="false">3a7d8bc7d9be8966ad2e703a0a0e3280f0bae5bdac27482b7bb8fc048b00a9ec</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 19:00:00 +0000</pubDate>
-<description>The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.</description>
 </item>
 <item>
 <title>iOS 27.2 beta 4 no longer includes Apple’s overhauled Health app</title>
@@ -1584,15 +1593,6 @@
 <description>Google plans to help turn those personal AI-generated apps into wide releases.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>TFG London cyberattack disrupts systems at Hobbs and Whistles retailers</title>
-<link>https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers</link>
-<guid isPermaLink="false">9d89d55cb3e4330e18e9d621ba8120543b3ff11720049c25cd2ca8ed77c691a2</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 16:44:18 +0000</pubDate>
-<description>TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]</description>
 </item>
 <item>
 <title>Will HomeView support third-party apps? Here’s what Apple says</title>
@@ -2057,6 +2057,17 @@
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
 </item>
 <item>
+<title>Lego Promo Code | 20% Off October 2026</title>
+<link>https://www.wired.com/story/lego-promo-code</link>
+<guid isPermaLink="false">94a111a844abddf618ecfaeebfa7b1861613b377fca2e6fbf18c7f34cfbc0f01</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+</item>
+<item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
 <link>https://www.wired.com/story/wayfair-promo-code</link>
 <guid isPermaLink="false">46b2d1d5338167151c44b18359199046c3084b4513d702d9ff550dd41e1c45ab</guid>
@@ -2066,17 +2077,6 @@
 <description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
 <enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
-</item>
-<item>
-<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Nike Promo Codes and Discounts: 30% for October 2026</title>
@@ -2090,15 +2090,15 @@
 <media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
 </item>
 <item>
-<title>Lego Promo Code | 20% Off October 2026</title>
-<link>https://www.wired.com/story/lego-promo-code</link>
-<guid isPermaLink="false">94a111a844abddf618ecfaeebfa7b1861613b377fca2e6fbf18c7f34cfbc0f01</guid>
+<title>B&amp;H Photo Promo Codes and Deals This October 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 13 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Newegg Promo Codes and Coupons for October 2026</title>
