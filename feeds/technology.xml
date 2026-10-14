@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hirudo Android malware replaces banking apps to evade security checks</title>
+<link>https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks</link>
+<guid isPermaLink="false">bd41300e09337722ab0cb29c8aab4c8a686b1b8846b9a2902b0799ebc4910e1d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:41:20 +0000</pubDate>
+<description>A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]</description>
+</item>
+<item>
+<title>Apple’s frenetic HomeView video showed the one use-case for this device</title>
+<link>https://9to5mac.com/2026/10/14/apples-frenetic-homeview-video-showed-the-one-use-case-for-this-device</link>
+<guid isPermaLink="false">0504e2667f4f2efbb48d0d00aa2313a8fec79cf67f58787178bef2b67805d7bf</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:36:08 +0000</pubDate>
+<description>The launch video Apple created to show off the long-awaited HomeView product couldn’t have been more different from its usual fare. While just watching it gave me a feeling of anxiety, I suspect it perfectly encapsulates the one use-case for this device … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apples-HomeView-video-showed-the-one-use-case-for-this-device.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apples-HomeView-video-showed-the-one-use-case-for-this-device.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>8BitDo Ultimate 2C review: A fabulous Switch 2 controller at a fraction of the price</title>
+<link>https://www.engadget.com/2286164/8bitdo-ultimate-2c-review-a-fabulous-switch-2-controller-at-a-fraction-of-the-price</link>
+<guid isPermaLink="false">255cc9f9b5c574e2be9eb75e42e5fd90027effcd1105e8014046b5993a5a7194</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:30:00 +0000</pubDate>
+<description>Hall effect sticks, haptics and extra bumpers... for how much?</description>
+<enclosure url="https://www.engadget.com/img/gallery/8bitdo-ultimate-2c-review-a-fabulous-switch-2-controller-at-a-fraction-of-the-price/l-intro-1791930449.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/8bitdo-ultimate-2c-review-a-fabulous-switch-2-controller-at-a-fraction-of-the-price/l-intro-1791930449.jpg" medium="image"/>
+</item>
+<item>
+<title>Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days</title>
+<link>https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html</link>
+<guid isPermaLink="false">2c2810e8b4ea0e8480b2ab75a2583c557e9b2be18a0688f12f37ecce43415c9c</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:19:02 +0000</pubDate>
+<description>A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg" medium="image"/>
+</item>
+<item>
+<title>Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks</title>
+<link>https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</link>
+<guid isPermaLink="false">a95ca09cfb1e085592159cf574034b531fcee713a2284b80fc8118e3c12b7d0c</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:08:22 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg" medium="image"/>
+</item>
+<item>
 <title>Scimplify raises $25M to challenge China’s grip on critical materials with AI</title>
 <link>https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai</link>
 <guid isPermaLink="false">75861fc4432aec080c02c69c4d400ffc4d48622ad2a4d7d159e0d0408e728b2a</guid>
@@ -46,6 +99,39 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-pre-order-the-iphone-duo-and-where-are-the-best-retailers-to-buy-it-from/l-intro-1791819941.jpg" medium="image"/>
 </item>
 <item>
+<title>My Friend Has No Soul</title>
+<link>https://www.wired.com/story/my-friend-has-no-soul</link>
+<guid isPermaLink="false">5ea50dc1a5d4598b5e8b291ea4302a5d53ac22a0bd39310d1942df1cbc6ea93d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+<description>The second iteration of the viral Friend AI necklace is louder and less interesting.</description>
+<enclosure url="https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acdf17fe71041f109e915b0/master/pass/E4.jpg" medium="image"/>
+</item>
+<item>
+<title>Breville Eye Q Toaster Review: Neat Sensors, but Less-Than-Perfect Toast</title>
+<link>https://www.wired.com/review/breville-eye-q-toaster</link>
+<guid isPermaLink="false">bd31394ef86301c216e4122048d5ac2a705bf0ceb224250ef65428a062f3774d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+<description>The Breville Eye Q uses optical sensors to measure the darkness of your toast. Cool tech, but the toasting quality needs improvement.</description>
+<enclosure url="https://media.wired.com/photos/6ace56e6d9cd42daf5a15def/master/pass/Review%20Breville%20Eye%20Q%20Toaster%20102026%20top%20art%20SOURCE%20Breville.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace56e6d9cd42daf5a15def/master/pass/Review%20Breville%20Eye%20Q%20Toaster%20102026%20top%20art%20SOURCE%20Breville.jpg" medium="image"/>
+</item>
+<item>
+<title>An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.</title>
+<link>https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</link>
+<guid isPermaLink="false">7b712b7943a44d07d41980f3920e89b40fe670eedac187ed51dc196aa996e845</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 11:00:00 +0000</pubDate>
+<description>The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
+</item>
+<item>
 <title>Microsoft: Recent Windows updates may trigger Remote Desktop failures</title>
 <link>https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures</link>
 <guid isPermaLink="false">6a8a9699f05e8c91626c1a278feb7083547dd3a3346134c50ba03d9307697e82</guid>
@@ -53,17 +139,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 10:48:09 +0000</pubDate>
 <description>Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enabled. [...]</description>
-</item>
-<item>
-<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
-<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
-<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
-<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
 <title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
@@ -77,6 +152,17 @@
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
+<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
+<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
+<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
+<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
+</item>
+<item>
 <title>People are hating on Apple Music's redesigned black-and-white logo</title>
 <link>https://www.engadget.com/2286289/people-are-hating-on-apple-music-redesigned-black-and-white-logo</link>
 <guid isPermaLink="false">3bf1928f128a5174e2b7fc41302a27e117391dd822f5169b6a32fb04406e1761</guid>
@@ -88,17 +174,6 @@
 <media:content url="https://www.engadget.com/img/gallery/people-are-hating-on-apple-music-redesigned-black-and-white-logo/l-intro-1791973238.jpg" medium="image"/>
 </item>
 <item>
-<title>Nothing Headphone (1) Pro: Studio Quality</title>
-<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
-<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
-<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
 <link>https://www.wired.com/story/the-case-for-lowercase</link>
 <guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
@@ -108,6 +183,17 @@
 <description>a certain kind of person writes in all lowercase now. why?</description>
 <enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
+</item>
+<item>
+<title>Nothing Headphone (1) Pro: Studio Quality</title>
+<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
+<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
+<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Qualcomm wins lawsuit against Arm but will only receive two bucks</title>
@@ -143,17 +229,6 @@
 <media:content url="https://media.wired.com/photos/6ace9af8b7c3e684c0712364/master/pass/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg" medium="image"/>
 </item>
 <item>
-<title>Tesla’s Roadster 2 Is Late—and Entering a Different EV World</title>
-<link>https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world</link>
-<guid isPermaLink="false">dc36994a7859ff3e9a348b5ee843874b60df4185f1bdbf13e3a50f49f400694c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 09:15:00 +0000</pubDate>
-<description>Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.</description>
-<enclosure url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" medium="image"/>
-</item>
-<item>
 <title>Cat-Like Whiskers Help Tiny Drones Fly in the Dark</title>
 <link>https://www.wired.com/story/cat-like-whiskers-help-tiny-drones-fly-in-the-dark</link>
 <guid isPermaLink="false">4af3c5dc6c7492a1c8fe176d513cede925710f96064017f3c3abfd5c2837c8ae</guid>
@@ -163,6 +238,17 @@
 <description>Researchers took lessons from nocturnal animals to help rescue drones overcome a key challenge: flying in the dark.</description>
 <enclosure url="https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/master/pass/2026_Q3_Web_TUDelft_Drones_0182.jpeg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/master/pass/2026_Q3_Web_TUDelft_Drones_0182.jpeg" medium="image"/>
+</item>
+<item>
+<title>Tesla’s Roadster 2 Is Late—and Entering a Different EV World</title>
+<link>https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world</link>
+<guid isPermaLink="false">dc36994a7859ff3e9a348b5ee843874b60df4185f1bdbf13e3a50f49f400694c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 09:15:00 +0000</pubDate>
+<description>Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.</description>
+<enclosure url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" medium="image"/>
 </item>
 <item>
 <title>AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity</title>
@@ -198,6 +284,50 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
+<title>HBO Max Promo Code: 50% Off | October 2026</title>
+<link>https://www.wired.com/story/max-promo-code</link>
+<guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.</description>
+<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
+</item>
+<item>
+<title>Uber Eats Promo Codes: $15 Off│October 2026</title>
+<link>https://www.wired.com/story/uber-eats-promo-code</link>
+<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
+<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Dell Coupon Codes: 20% Off for October 2026</title>
 <link>https://www.wired.com/story/dell-coupon-code</link>
 <guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
@@ -231,61 +361,6 @@
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
-<title>HBO Max Promo Code: 50% Off | October 2026</title>
-<link>https://www.wired.com/story/max-promo-code</link>
-<guid isPermaLink="false">75822efb8b9e2f54a0a93b237bc4e0448876e74960837921ab3a30a2b6639f36</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows and save up to 50% today with HBO Max discount codes and subscription deals.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
-</item>
-<item>
-<title>Uber Eats Promo Codes: $15 Off│October 2026</title>
-<link>https://www.wired.com/story/uber-eats-promo-code</link>
-<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Dyson Promo Codes: 25% Off in October 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>Castlery Promo Codes: 15% Off for October 2026</title>
 <link>https://www.wired.com/story/castlery-promo-code</link>
 <guid isPermaLink="false">f4d2aeef20f25418e792a8534cd4ae1f4f149c12625d6eb0772585156d7618ac</guid>
@@ -306,6 +381,17 @@
 <description>Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and health products this fall.</description>
 <enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in October 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Tuft &amp; Needle Promo Codes: 30% Off | October 2026</title>
@@ -336,7 +422,7 @@
 <source>The Hacker News</source>
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 01:59:25 +0000</pubDate>
-<description>A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by</description>
+<description>A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE6tXAfDSv5HwaNsBdrtgbjvOoTMYJuMGQPGpLM5auUfz9dUSuExG-IY_42zMx-VP8GbM-oXAVGbKjHIqNOHy08-lKsCPrJMbhPrDw-9UlJpapcAMZohyphenhypheng7IZh192IoEGs66NRp6TNCWIFYsO5oh9gKkIeILKD_8zdzCHBmoJCeCi65kZjDvQyZwzicV2I/s1600/opens.jpg" medium="image"/>
 </item>
@@ -1244,17 +1330,6 @@
 <media:content url="https://www.engadget.com/img/gallery/netflix-will-broadcast-the-2030-fifa-world-cup-in-spain-and-andorra/l-intro-1791909883.jpg" medium="image"/>
 </item>
 <item>
-<title>Here's why your phone's proximity sensors are so important</title>
-<link>https://www.engadget.com/2282192/why-phone-proximity-sensor-important</link>
-<guid isPermaLink="false">41c67b35d1303c9ee78ca96aa75354d2955cf2982ee70577ecb6a46ce3a6be92</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 16:45:00 +0000</pubDate>
-<description>Your phone would lose a long list of features and basic functions if it didn't have proximity sensors.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-why-your-phones-proximity-sensors-are-so-important/l-intro-1791557254.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-why-your-phones-proximity-sensors-are-so-important/l-intro-1791557254.jpg" medium="image"/>
-</item>
-<item>
 <title>TFG London cyberattack disrupts systems at Hobbs and Whistles retailers</title>
 <link>https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers</link>
 <guid isPermaLink="false">9d89d55cb3e4330e18e9d621ba8120543b3ff11720049c25cd2ca8ed77c691a2</guid>
@@ -1982,15 +2057,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Norway fines Microsoft ad firm $9.6 million over Grindr data sharing</title>
-<link>https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing</link>
-<guid isPermaLink="false">24510e9c9f9260aa53595b66fb8d330baaeb9c5338bbe77d9d16f8db6abaa579</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 20:13:52 +0000</pubDate>
-<description>Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]</description>
-</item>
-<item>
 <title>I Got My Muse AI Agent to Sext Me—and Meta Says That’s Totally Fine</title>
 <link>https://www.wired.com/story/i-got-my-muse-ai-agent-to-sext-me-and-meta-says-thats-totally-fine</link>
 <guid isPermaLink="false">e5971f60433bf89c37b1ad4bce2d073813de2b9c961a5441a2b6b6c25f9b0c68</guid>
@@ -2057,17 +2123,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/bradley.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him</title>
-<link>https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him</link>
-<guid isPermaLink="false">4077f3ad381dd8fd42f66ddb90d0c532587a53d197d719b0b6553ff17dd932bb</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 17:55:12 +0000</pubDate>
-<description>Musk, we find your lack of security disturbing.</description>
-<enclosure url="https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/master/pass/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/master/pass/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg" medium="image"/>
-</item>
-<item>
 <title>Russia was not ready for the data center war it started with Ukraine</title>
 <link>https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine</link>
 <guid isPermaLink="false">0d4b180ce061542baaae6e86ca6b08efd6a91c1bb9dc843c7485440aeeb632de</guid>
@@ -2088,17 +2143,6 @@
 <description>Apple has announced that ‘Remnants,’ the first immersive horror film on Vision Pro, is coming this week. Here’s a teaser video. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/remnants-apple-immersive.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/remnants-apple-immersive.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Muse Wonder Puts Meta Back at the AI Frontier</title>
-<link>https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier</link>
-<guid isPermaLink="false">5ce09feadbf0c473d40aac0c051c41eadfc2b0a842c6c39820f2189e15cd8ab0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 17:00:27 +0000</pubDate>
-<description>Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.</description>
-<enclosure url="https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg" medium="image"/>
 </item>
 <item>
 <title>You can now start the iPhone Duo pre-order process</title>
@@ -2948,17 +2992,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Nomad-iPhone-18-Pro-Duo-leather-cases-2026.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple announces special event for October 13: ‘Welcome home’</title>
-<link>https://9to5mac.com/2026/10/08/apple-announces-special-event-for-october-13-welcome-home</link>
-<guid isPermaLink="false">03a7283479ce54acd2cb5b9d962685753bbeb88f580c21b84508ca3a87737443</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 16:03:08 +0000</pubDate>
-<description>Today Apple announced a special event happening next Tuesday, October 13 with the tagline ‘Welcome home.” more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-event-welcome-home-logo.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-event-welcome-home-logo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks</title>
 <link>https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html</link>
 <guid isPermaLink="false">16fe04c34c078c706055904f4e60aafdd2c87b7f4af6ccb46d6bb076c68d3bc7</guid>
@@ -3034,38 +3067,5 @@
 <description>The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary tools to recover their data. Zohar Pinhasi (aka Zack Silver and Zack Green) has been charged with two counts of wire fraud and one count of wire</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg" medium="image"/>
-</item>
-<item>
-<title>Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm</title>
-<link>https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html</link>
-<guid isPermaLink="false">a947937fc68c594b4b756c91a1ca4632da0015a2176e3001dc373b479d918fdd</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 08 Oct 2026 05:46:20 +0000</pubDate>
-<description>The npm package known as "tensorlake," a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain attack. The malicious version 0.5.144 "contains obfuscated malware that harvests credentials, exfiltrates secrets, establishes persistence, and executes remotely supplied code," Socket said</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg" medium="image"/>
-</item>
-<item>
-<title>Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</title>
-<link>https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html</link>
-<guid isPermaLink="false">d19160e8f030fa9c6064cfaec96bb968f2a2e24e343f794891de058a198a39eb</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 07 Oct 2026 18:48:17 +0000</pubDate>
-<description>Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google said on October 6. Google's own systems were not breached, but any domain ending in .gh (Ghana), .sl (Sierra Leone) or .as (American Samoa) was put at risk. With such a certificate, an attacker could pose as the real site over an encrypted</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg" medium="image"/>
-</item>
-<item>
-<title>Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer</title>
-<link>https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html</link>
-<guid isPermaLink="false">39f490a9561dabbd8fe35b167ed728435fb6509d6e3ca9294bf0f7d05c76da58</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 07 Oct 2026 17:43:20 +0000</pubDate>
-<description>Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg" medium="image"/>
 </item>
 </channel></rss>
