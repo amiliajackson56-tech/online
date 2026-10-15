@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Power Up: Roll Out Solar Arrays Boost Space Station Power Supply</title>
+<link>https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply</link>
+<guid isPermaLink="false">403bcfdcb0f581475d0c699419b764935179d51cc9194bc09137a913c6e09e15</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 15 Oct 2026 17:30:39 +0000</pubDate>
+<description>From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life support systems, daily activities, and hundreds of research investigations that improve life on Earth and prepare humans for deep space exploration. Over the past five years, NASA augmented the station’s […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/irosa-rollout-20260909.mp4" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/irosa-rollout-20260909.mp4" medium="image"/>
+</item>
+<item>
 <title>NASA to Conduct Low-Altitude Flights Over Texas Farmland</title>
 <link>https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland</link>
 <guid isPermaLink="false">05694927c60ab3949de24d686a12b4ca7496415c5ad5d0dda9d70d2ecf23e600</guid>
@@ -196,6 +207,15 @@
 <description>Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03152-6 Drugs that can reverse multiple sclerosis in mice and a new species of penguin are just the beginning.</description>
 </item>
 <item>
+<title>Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon</title>
+<link>https://www.nature.com/articles/d41586-026-03233-6</link>
+<guid isPermaLink="false">63c0436333cab2bc644d30e2589eada447fc40aa996c12882d95189e50b1cd1f</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 15 October 2026; doi:10.1038/d41586-026-03233-6 Programmer whose forward-thinking and reliable code helped to save the Apollo 11 mission.</description>
+</item>
+<item>
 <title>ArXiv versus AI slop: will capping preprint submissions work?</title>
 <link>https://www.nature.com/articles/d41586-026-03194-w</link>
 <guid isPermaLink="false">634ea495c3d824abd8f0f2dad1909bf9cd74cb041bfb8c7e95a60f73816216ef</guid>
@@ -252,17 +272,6 @@
 <description>Editor’s Note: This article was updated Thursday, Oct. 15, 2026, to reflect a change to the event start time. Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 12:30 p.m. EDT Friday, Oct. 16, […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg?w=2048" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/florida-student-downlink-oct-14.jpg?w=2048" medium="image"/>
-</item>
-<item>
-<title>NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision</title>
-<link>https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision</link>
-<guid isPermaLink="false">c7688ad2c96b05f7142565e5e47e9a4348ac2310451678aa2513961821eb52e5</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 16:46:58 +0000</pubDate>
-<description>Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists reveal why some workout recovery tricks can backfire</title>
@@ -1172,15 +1181,6 @@
 <category>science</category>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 12 October 2026; doi:10.1038/d41586-026-03240-7 The incident has prompted discussions about the use of artificial intelligence in scientific imagery.</description>
-</item>
-<item>
-<title>Author Correction: Timing and trajectory of &lt;i&gt;BCR::ABL1&lt;/i&gt;-driven chronic myeloid leukaemia</title>
-<link>https://www.nature.com/articles/s41586-026-11253-5</link>
-<guid isPermaLink="false">88c168429e41d5a11912348e55e48eccf4902f8af257b7e030eddbc7a9e0c9e8</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 12 October 2026; doi:10.1038/s41586-026-11253-5 Author Correction: Timing and trajectory of BCR::ABL1 -driven chronic myeloid leukaemia</description>
 </item>
 <item>
 <title>Scientists discover why a 100-year-old mushroom disease won't go away</title>
