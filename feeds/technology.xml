@@ -4,6 +4,66 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Meta launches an open-weight AI model that runs on Macs</title>
+<link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs</link>
+<guid isPermaLink="false">8243c9a70d3f19e15eb8c3747fe4d12714491a340cfa3eafd37a0866cf92c4a7</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
+<description>Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.</description>
+</item>
+<item>
+<title>Here’s Apple’s official response to OpenAI’s trade secret theft allegations</title>
+<link>https://9to5mac.com/2026/10/15/heres-apples-official-response-to-openais-trade-secret-theft-allegations</link>
+<guid isPermaLink="false">c85a519d1b08c47926898516fca351686f938364e2f9308a546cb7be43720a24</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:57:37 +0000</pubDate>
+<description>Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Bluesky&amp;#8217;s AI tool now lets you make games and apps to share on social</title>
+<link>https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps</link>
+<guid isPermaLink="false">e85c6a5b67dae4b4f4efc90ea5a12571143b310455f6c7b48a03c7fb4a67741f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:57:16 +0000</pubDate>
+<description>Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make "small" social apps like games, polls, and dashboards that you can then share with others as their own websites. In an interview at TechCrunch Disrupt, Bluesky CEO Toni Schneider said […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</title>
+<link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps</link>
+<guid isPermaLink="false">f159e33b88a953e59ea9ebeb254fccbcc54f6cfe49844470011b43389aeb3ccd</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
+<description>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.</description>
+</item>
+<item>
+<title>Withings now charges $100 per year to sync your data to other apps</title>
+<link>https://www.theverge.com/tech/1012350/withings-plus-subscription-new-users-october-13-2026</link>
+<guid isPermaLink="false">65785fc134257f1ce731a8f35a4be75c3d4cf2f4151d2b276a5644b6a593b8df</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:52:13 +0000</pubDate>
+<description>If you're a new user of Withings' fitness-tracking smartwatches or smart scales and want to sync and access your health data through third party apps like Apple Health or Google Health it's now going to cost you. According to a discussion on Withings' support forums spotted by MacRumors, new Withings accounts created from October 13th, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268601_withings_bodyfit_AKrales_0099.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Android gets AI defenses against messaging scams, fake calls</title>
+<link>https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls</link>
+<guid isPermaLink="false">470fcf5377611ea1e436b183d4db5361ef448215d9f75863907feae8545ad322</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:48:43 +0000</pubDate>
+<description>Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]</description>
+</item>
+<item>
 <title>Bluesky wants to make it easier to buy, sell, and fundraise on the network</title>
 <link>https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network</link>
 <guid isPermaLink="false">2ca769c8037782041c07719f47fb1d531386a3fd1074392ed437310b13c6a61b</guid>
@@ -53,6 +113,17 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 19:14:26 +0000</pubDate>
 <description>METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.</description>
+</item>
+<item>
+<title>What did the Liberty Bell sound like? Science is on the case.</title>
+<link>https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case</link>
+<guid isPermaLink="false">7d1f06a993c7e4a6e7acfc44af354046714028372dabf59e3018851c8a962e46</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 19:10:03 +0000</pubDate>
+<description>Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/bell-ALT-1152x648-1778533198.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/05/bell-ALT-1152x648-1778533198.jpg" medium="image"/>
 </item>
 <item>
 <title>Sonos adds iPhone Duo support with latest app update</title>
@@ -108,6 +179,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg" medium="image"/>
 </item>
 <item>
+<title>Black Sea drone attacks enter NATO country's territorial waters for first time</title>
+<link>https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time</link>
+<guid isPermaLink="false">ebe42c389a7cbace8523d07368e92b1b0262b18cca8a516209c40b463ccdd0db</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:48:11 +0000</pubDate>
+<description>Suspected Russian drones attack chemical tanker within Romanian waters.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader</title>
 <link>https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader</link>
 <guid isPermaLink="false">fe73c061a85e6fe764ee470a4d34c194fe9fc7f246639375655baf6d98f04efa</guid>
@@ -117,6 +199,17 @@
 <description>E Ink's new display tech offers improved color reproduction and refresh rates.</description>
 <enclosure url="https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg" medium="image"/>
+</item>
+<item>
+<title>Microplastics in water aren’t inert and make damaging chemicals on their own</title>
+<link>https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own</link>
+<guid isPermaLink="false">3963c640e2ced6de61c3b565b7284124794dc191aca10783f7fe1081c875fe2b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:39:17 +0000</pubDate>
+<description>Its effect on people remains an ongoing question.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1922961716-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1922961716-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Riot will sunset League of Legends Classic in January 2027</title>
@@ -148,6 +241,17 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 18:20:59 +0000</pubDate>
 <description>A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]</description>
+</item>
+<item>
+<title>Trump cancels Pentagon plans to livestream firing squad execution</title>
+<link>https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution</link>
+<guid isPermaLink="false">7b9c2d9aab800a7c25900885a80ce8144b234e5106fff42685f4b19c4dafa17b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:16:36 +0000</pubDate>
+<description>8 in 10 Americans opposed the Pentagon's plans, a Thursday poll showed.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2294712564-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2294712564-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Meta and Apple team up to make Muse AI models run better on Macs</title>
@@ -271,7 +375,7 @@
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 17:05:19 +0000</pubDate>
-<description>Trump's newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”</description>
+<description>Trump’s newly installed press secretary tells WIRED that in the early 2010s, she promoted a product for a company then called Beachbody, which she described as “sort of a pyramid scheme.”</description>
 <enclosure url="https://media.wired.com/photos/6acfbfe28180da3345611aef/master/pass/GettyImages-2299988078.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfbfe28180da3345611aef/master/pass/GettyImages-2299988078.jpg" medium="image"/>
 </item>
@@ -298,7 +402,7 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/meta-muse-spark-mac.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Rocket Lab announces another delay for its medium-lift Neutron rocket</title>
+<title>Neutron's first launch slips again amid trouble with carbon composites</title>
 <link>https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket</link>
 <guid isPermaLink="false">d9565dcb996553e777d23ee8a4aacd55071a31b8007831f8352b62c79f6fe727</guid>
 <source>Ars Technica</source>
@@ -382,28 +486,6 @@
 <description>E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo, PocketBook, and Boox, while Amazon's Kindle Colorsoft uses a customized version to improve performance. The new Kaleido 4 technology addresses […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eink4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The best reason to care about Nvidia’s RTX Spark: ‘everything’ will run on Arm</title>
-<link>https://www.theverge.com/tech/1011705/nvidia-rtx-spark-everything-runs-on-arm</link>
-<guid isPermaLink="false">0ca427e6baffb65ca903a58b6bf8d2682f51a678cafbedbb71a8b3aa216d4997</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 16:00:00 +0000</pubDate>
-<description>Fourteen years ago this month, Microsoft released an Nvidia-powered Windows PC that would become one of the greatest tech flops in modern history. The original Microsoft Surface, which ran a stripped-down version of Windows on an Nvidia Tegra chip, bombed so hard that Microsoft had to write off $900 million in inventory. The problem was […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&amp;strip=all&amp;crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20261008_144946.jpg?quality=90&amp;strip=all&amp;crop=12.666665649414,10.133333333333,77.466665649414,78.311116536458" medium="image"/>
-</item>
-<item>
-<title>Nvidia, Apple, Google, Microsoft, Amazon, and Meta gave Trump a combined $92 million for his ballroom</title>
-<link>https://www.theverge.com/policy/1012047/nvidia-apple-google-microsoft-amazon-meta-trump-ballroom</link>
-<guid isPermaLink="false">4207c8c4238aa5aa6d5a2b8a242ce169c03a2464b98230c157152b1a116c04ef</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 15:46:00 +0000</pubDate>
-<description>We knew that a number of big tech firms were helping to fund the construction of Trump's ballroom, but we didn't know just how much they were giving to the cause. Now the Washington Post published a list of all the major donors to the White House ballroom project, along with how much each contributed. […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”</title>
@@ -1173,24 +1255,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-guest-calling.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes</title>
-<link>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes</link>
-<guid isPermaLink="false">fe20a4e0a1e456d21bf15ed7d7585ce8432357d67beddcebb6c8dd41fa31ea1b</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
-<description>Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.</description>
-</item>
-<item>
-<title>Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO</title>
-<link>https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo</link>
-<guid isPermaLink="false">3db5fa5df9545cb3d6ecdfa2f67b19ed76c6baebb6d4910d76818d0675e9d5b8</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:48:20 +0000</pubDate>
-<description>Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.</description>
-</item>
-<item>
 <title>Apple just closed the day above $5 trillion for the first time</title>
 <link>https://9to5mac.com/2026/10/14/apple-just-closed-the-day-above-5-trillion-for-the-first-time</link>
 <guid isPermaLink="false">b7137aaf728faf024b82348855e8cedb86c016c2d8d69220a4a1848b5f1b5200</guid>
@@ -1244,17 +1308,6 @@
 <description>The Apple Invites app got updated yet again today, with new features including RSVP improvements and a larger Home Screen widget. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-invites-app.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-invites-app.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping</title>
-<link>https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping</link>
-<guid isPermaLink="false">56ade80e4b8673b8a9408756b7ff3f368b6ef8fec4f1d74cb252dfef1a76460e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:03:11 +0000</pubDate>
-<description>Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Black-Sea-sailors-rescued-by-Bulgaria-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple showcases iPad Pro and iPhone 18 Pro Max’s role in ‘landmark fashion show’</title>
@@ -1674,15 +1727,6 @@
 <media:content url="https://media.wired.com/photos/6ace946f5ba8ef37cd443e51/master/pass/Formlabs-3D-Printer-Gear-Form-Studio-1%E2%80%93media-kit-003.jpg" medium="image"/>
 </item>
 <item>
-<title>CISA warns admins to immediately fix Ivanti flaw exploited as zero-day</title>
-<link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day</link>
-<guid isPermaLink="false">388a73b0fe5c16c7e72c166ae2583079c14dfa7e531c6ef0589e49ac69b12e9e</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 12:58:07 +0000</pubDate>
-<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]</description>
-</item>
-<item>
 <title>Anthropic warns small AI models could self-replicate through IoT devices</title>
 <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices</link>
 <guid isPermaLink="false">ea9491c23d8daf1cc1ec2c316d6be33eb26175487388e32103fd29909ad5ee3e</guid>
@@ -1760,17 +1804,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg" medium="image"/>
 </item>
 <item>
-<title>The Internet’s undersea backbone is slipping into the danger zone</title>
-<link>https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone</link>
-<guid isPermaLink="false">aa3e863dbe2a031d39689ddc662f0d6e5074f220eee8d38d7ba5bfc669648d75</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 11:15:24 +0000</pubDate>
-<description>Elisabeth Braw’s book Undersea War on rising risks for undersea infrastructure.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Undersea-cable-ship-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Undersea-cable-ship-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks</title>
 <link>https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</link>
 <guid isPermaLink="false">a95ca09cfb1e085592159cf574034b531fcee713a2284b80fc8118e3c12b7d0c</guid>
@@ -1780,17 +1813,6 @@
 <description>Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg" medium="image"/>
-</item>
-<item>
-<title>OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say</title>
-<link>https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say</link>
-<guid isPermaLink="false">37d82df9fe7c9facac1eca8fe69982906309a86583ace4126d64548733639c47</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 11:00:30 +0000</pubDate>
-<description>Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>My Friend Has No Soul</title>
@@ -1848,17 +1870,6 @@
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>cool kids are writing in all lowercase now. does that make you mad?</title>
-<link>https://www.wired.com/story/the-case-for-lowercase</link>
-<guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-<description>a certain kind of person writes in all lowercase now. why?</description>
-<enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
-</item>
-<item>
 <title>Nothing Headphone (1) Pro Review: Studio Quality</title>
 <link>https://www.wired.com/review/nothing-headphone-1-pro</link>
 <guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
@@ -1868,6 +1879,17 @@
 <description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
 <enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>cool kids are writing in all lowercase now. does that make you mad?</title>
+<link>https://www.wired.com/story/the-case-for-lowercase</link>
+<guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>a certain kind of person writes in all lowercase now. why?</description>
+<enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
 </item>
 <item>
 <title>I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)</title>
@@ -1947,6 +1969,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Expedia Coupons: 40% Off</title>
 <link>https://www.wired.com/story/expedia-coupon</link>
 <guid isPermaLink="false">05eec51210a6e120d1a88dc197213715e91bbe20738fc82f355c5e304ba9c74f</guid>
@@ -1969,15 +2002,26 @@
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<title>Dell Coupon Codes: 20% Off for October 2026</title>
+<link>https://www.wired.com/story/dell-coupon-code</link>
+<guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+<description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>HBO Max Promo Code: 50% Off | October 2026</title>
@@ -2000,28 +2044,6 @@
 <description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
 <enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Dell Coupon Codes: 20% Off for October 2026</title>
-<link>https://www.wired.com/story/dell-coupon-code</link>
-<guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
-</item>
-<item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>Castlery Promo Codes: 15% Off for October 2026</title>
@@ -2143,17 +2165,6 @@
 <description>Crystal Lake, Tip Toe, and Carrie are just a few of the shows you should be watching right now.</description>
 <enclosure url="https://media.wired.com/photos/6ace6f6bd04b6454bd09a710/master/pass/Show-Guide-Crystal-Lake-Culture-NUP_211121_00008.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace6f6bd04b6454bd09a710/master/pass/Show-Guide-Crystal-Lake-Culture-NUP_211121_00008.jpg" medium="image"/>
-</item>
-<item>
-<title>Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says</title>
-<link>https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says</link>
-<guid isPermaLink="false">092e759d65146aeb5ec4ef1c5908df597df72f00feb42e7987d8c0fe76747add</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 22:48:12 +0000</pubDate>
-<description>"I can always find a couple of biotech stocks to smoke," Shkreli said in a livestream.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/06/GettyImages-803564026-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Everyone Hates ‘Digger.’ It’s the Perfect Climate Movie</title>
@@ -3023,17 +3034,6 @@
 <description>In just a couple days, Apple should be unveiling its long-awaited new lineup of new Home products. That includes an updated HomePod mini, Apple TV 4K , the brand-new smart home hub called ‘HomeView’ , as well as a new lineup of smart home accessories, in collaboration with LG. Here’s what to expect with the HomePod mini 2. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/01/homepod-mini-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple planning huge iPhone Duo demo experiences at select retail stores: report</title>
-<link>https://9to5mac.com/2026/10/11/apple-planning-huge-iphone-duo-demo-experiences-at-select-retail-stores-report</link>
-<guid isPermaLink="false">4dcb1921969f61d91f9f33d297d38f66a5f5843d1835a7f709aa948ce3bf434b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sun, 11 Oct 2026 14:31:59 +0000</pubDate>
-<description>iPhone Duo is just about two weeks away from releasing, and according to Bloomberg’s Mark Gurman , Apple has big retail plans ahead for its first foldable iPhone, to make sure every customer gets to see it to the fullest. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
 </item>
 <item>
 <title>P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands</title>
