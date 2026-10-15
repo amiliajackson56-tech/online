@@ -4,13 +4,86 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more</title>
+<link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more</link>
+<guid isPermaLink="false">d0efebcc7c6f1b1c3d0fe2321c129bab838767176eeafd7187b02f8a2b7a9b25</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
+<description>Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.</description>
+</item>
+<item>
+<title>ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
+<link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
+<guid isPermaLink="false">06720af8fb4892a0dc1df4b42e82b12d260b3cea7fdd36baa09acf5c4acfc2d2</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:49:33 +0000</pubDate>
+<description>Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg" medium="image"/>
+</item>
+<item>
+<title>E Ink's new Kaleido 4 could inch us closer to the perfect color e-reader</title>
+<link>https://www.engadget.com/2288006/e-ink-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader</link>
+<guid isPermaLink="false">fe73c061a85e6fe764ee470a4d34c194fe9fc7f246639375655baf6d98f04efa</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:41:58 +0000</pubDate>
+<description>E Ink's new display tech offers improved color reproduction and refresh rates.</description>
+<enclosure url="https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/e-inks-new-kaleido-4-could-inch-us-closer-to-the-perfect-color-e-reader/l-intro-1792089646.jpg" medium="image"/>
+</item>
+<item>
+<title>Riot will sunset League of Legends Classic in January 2027</title>
+<link>https://www.engadget.com/2287985/riot-will-sunset-league-of-legends-classic-in-january-2027</link>
+<guid isPermaLink="false">648018a5340cec96017caedc1c68bfff214d3c380ce21119decbda3dfed17a62</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:30:08 +0000</pubDate>
+<description>The throwback League of Legends Classic mode may reappear as a limited-time event in the future.</description>
+<enclosure url="https://www.engadget.com/img/gallery/riot-will-sunset-league-of-legends-classic-in-january-2027/l-intro-1792088892.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/riot-will-sunset-league-of-legends-classic-in-january-2027/l-intro-1792088892.jpg" medium="image"/>
+</item>
+<item>
+<title>Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right</title>
+<link>https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review</link>
+<guid isPermaLink="false">f6f331a81a9ff82269a7120f93e125c49eec8a36da397b70ca260e87d78356ec</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
+<description>This tablet is a great value, even if Android apps still aren't great on a big screen.</description>
+<enclosure url="https://www.engadget.com/img/gallery/alexa-tablet-12-pro-review-amazons-premium-tablet-gets-almost-everything-right/l-intro-1792087746.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/alexa-tablet-12-pro-review-amazons-premium-tablet-gets-almost-everything-right/l-intro-1792087746.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth</title>
+<link>https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth</link>
+<guid isPermaLink="false">ca7379e38d224cc8f586f82931ccf0d039b04d672215ff957dd5204f48274630</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:20:59 +0000</pubDate>
+<description>A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]</description>
+</item>
+<item>
+<title>Meta and Apple team up to make Muse AI models run better on Macs</title>
+<link>https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx</link>
+<guid isPermaLink="false">a4dc299544df68f2cb5ed32f87c137228d43bfec7db4772da5163db36038e83f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 18:15:36 +0000</pubDate>
+<description>Meta announced the Muse Spark Open AI model today, claiming that it's the "most capable US open-weight model to date." But the company also says that it's the "the first model in its class" that can "run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework." Meta and Apple, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16</title>
 <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16</link>
 <guid isPermaLink="false">dbb4ac50000ed94ab766970f433a2c6da885f40daa3793108731e074b0e494d5</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 18:00:00 +0000</pubDate>
-<description>Savings of up to $200 end October 16 for TechCrunch Founder Summit end on October 16. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.</description>
+<description>Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and make the day count for your business.</description>
 </item>
 <item>
 <title>Apple is about to kick off four weeks straight of new product launches</title>
@@ -322,17 +395,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 15:02:36 +0000</pubDate>
 <description>We'll likely learn more about how this will work at the company's upcoming "AI &amp; Autonomy Day" event in December.</description>
-</item>
-<item>
-<title>Shelly’s new presence sensor simultaneously detects up to 10 people without a camera</title>
-<link>https://www.theverge.com/tech/1011967/shellys-new-presence-sensor-simultaneously-detects-up-to-ten-people-without-a-camera</link>
-<guid isPermaLink="false">3eaa797feaedaf5450c048cd4bbedb6d55398f9b11f1126e8c9d62c6b6cb6148</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 15:00:00 +0000</pubDate>
-<description>Following the launch of its $50 subscription-free security camera last month, Shelly announced another new accessory for smart home automation today that can keep track of multiple people as they move through rooms or large spaces without recording them. The Shelly Presence Gen4 sensor uses mmWave radar technology instead of a camera to detect the […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/shelly1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Ramp reaches $60B valuation as it pushes deeper into AI</title>
@@ -1184,15 +1246,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-widget-ios-27-extra-large.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Flock CEO: We haven’t ‘fired’ any police departments as customers</title>
-<link>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers</link>
-<guid isPermaLink="false">7425440c386463055eca57d6f36defb88851e1b79541164506727b6b87de631c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 20:26:25 +0000</pubDate>
-<description>Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.</description>
-</item>
-<item>
 <title>Apple Intelligence reportedly coming to China in December, but without Siri AI</title>
 <link>https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai</link>
 <guid isPermaLink="false">8aa85b898a99f83eecd21d837720db5524d963259b5ced8da57f275b2d49d391</guid>
@@ -1213,28 +1266,6 @@
 <description>FCC chair threatens E-Rate fund, blames schools for kids' excessive screen time.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/classroom-tablets-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Fitbit Edge vs Fitbit Air: The differences beyond a screen</title>
-<link>https://www.engadget.com/2287042/fitbit-edge-vs-air-differences-compared</link>
-<guid isPermaLink="false">bdd266cef184b838e1f1262973c536539138c972650474c10e43036dda0b362c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 20:13:18 +0000</pubDate>
-<description>Google's latest wearable seems like a Fitbit Air with a screen, but the two actually have less in common than you might think.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-air-the-differences-beyond-a-screen/l-intro-1792008020.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fitbit-edge-vs-fitbit-air-the-differences-beyond-a-screen/l-intro-1792008020.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA explains how it's making batteries for the Moon's extreme temperatures</title>
-<link>https://www.engadget.com/2287038/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures</link>
-<guid isPermaLink="false">605f7325ba7b7ad436d36f03a489a7ad210500c6aa095680d5a25763225915b2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 20:07:03 +0000</pubDate>
-<description>Lithium-ion just isn't cut out for the cosmos.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures/l-intro-1792008359.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nasa-explains-how-its-making-batteries-for-the-moons-extreme-temperatures/l-intro-1792008359.jpg" medium="image"/>
 </item>
 <item>
 <title>ElevationLab pulls AirTag Silencer after backlash over stalking concerns</title>
@@ -1277,17 +1308,6 @@
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 19:41:43 +0000</pubDate>
 <description>The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]</description>
-</item>
-<item>
-<title>Ubisoft plans to close another studio and lay off up to 122 workers</title>
-<link>https://www.engadget.com/2286986/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers</link>
-<guid isPermaLink="false">2ab10201f4777d633b951a7baf78359f5f7f9647f1da9a20331b2beb04c437aa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 19:31:35 +0000</pubDate>
-<description>Cuts are coming to RedLynx and Ubisoft Singapore.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers/l-intro-1792006137.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ubisoft-plans-to-close-another-studio-and-lay-off-up-to-122-workers/l-intro-1792006137.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple TV just confirmed a new season for one of my favorite shows this year</title>
@@ -1663,15 +1683,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg" medium="image"/>
 </item>
 <item>
-<title>Hirudo Android malware replaces banking apps to evade security checks</title>
-<link>https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks</link>
-<guid isPermaLink="false">bd41300e09337722ab0cb29c8aab4c8a686b1b8846b9a2902b0799ebc4910e1d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 11:41:20 +0000</pubDate>
-<description>A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]</description>
-</item>
-<item>
 <title>Apple’s frenetic HomeView video showed the one use-case for this device</title>
 <link>https://9to5mac.com/2026/10/14/apples-frenetic-homeview-video-showed-the-one-use-case-for-this-device</link>
 <guid isPermaLink="false">0504e2667f4f2efbb48d0d00aa2313a8fec79cf67f58787178bef2b67805d7bf</guid>
@@ -1782,17 +1793,6 @@
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>cool kids are writing in all lowercase now. does that make you mad?</title>
-<link>https://www.wired.com/story/the-case-for-lowercase</link>
-<guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-<description>a certain kind of person writes in all lowercase now. why?</description>
-<enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
-</item>
-<item>
 <title>Nothing Headphone (1) Pro Review: Studio Quality</title>
 <link>https://www.wired.com/review/nothing-headphone-1-pro</link>
 <guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
@@ -1802,6 +1802,17 @@
 <description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
 <enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>cool kids are writing in all lowercase now. does that make you mad?</title>
+<link>https://www.wired.com/story/the-case-for-lowercase</link>
+<guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>a certain kind of person writes in all lowercase now. why?</description>
+<enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
 </item>
 <item>
 <title>I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)</title>
@@ -1881,6 +1892,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
 <title>Expedia Coupons: 40% Off</title>
 <link>https://www.wired.com/story/expedia-coupon</link>
 <guid isPermaLink="false">05eec51210a6e120d1a88dc197213715e91bbe20738fc82f355c5e304ba9c74f</guid>
@@ -1903,15 +1925,26 @@
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<title>Dell Coupon Codes: 20% Off for October 2026</title>
+<link>https://www.wired.com/story/dell-coupon-code</link>
+<guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+<description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>HBO Max Promo Code: 50% Off | October 2026</title>
@@ -1934,28 +1967,6 @@
 <description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
 <enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>Dell Coupon Codes: 20% Off for October 2026</title>
-<link>https://www.wired.com/story/dell-coupon-code</link>
-<guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
-</item>
-<item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>Castlery Promo Codes: 15% Off for October 2026</title>
@@ -3056,16 +3067,5 @@
 <description>Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg" medium="image"/>
-</item>
-<item>
-<title>Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</title>
-<link>https://thehackernews.com/2026/10/credential-stealing-github-actions.html</link>
-<guid isPermaLink="false">bf89595af7c39e7a025ec626eeeb09ce33b8e83a8d0e785473c5926e951fd3f1</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 09 Oct 2026 19:14:28 +0000</pubDate>
-<description>Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. "Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC," StepSecurity</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg" medium="image"/>
 </item>
 </channel></rss>
