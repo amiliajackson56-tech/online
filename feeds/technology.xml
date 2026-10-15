@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The tech backlash is now in theaters</title>
+<link>https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial</link>
+<guid isPermaLink="false">4be5a46cec5945959e36f7afb441a617df44a705921385972e9d90f3acf02623</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 21:39:52 +0000</pubDate>
+<description>Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society. Nathan Fielder and Lance Oppenheim's You Can […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The UK may expand the BBC license fee, charging residents to watch streaming services</title>
+<link>https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services</link>
+<guid isPermaLink="false">29e81a5aac550a5a89ca4ff8eb7bcefd993df13bbe1bc58869921b8fc3ffd4a2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 21:35:08 +0000</pubDate>
+<description>If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/l-intro-1792100024.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/l-intro-1792100024.jpg" medium="image"/>
+</item>
+<item>
 <title>9to5Mac Daily: October 15, 2026 – OpenAI vs Apple, iPhone Duo details</title>
 <link>https://9to5mac.com/2026/10/15/daily-october-15-2026</link>
 <guid isPermaLink="false">f1a78a447180afabadb2724eace0bd25e8fffd665e6a189b2a445c9e87cd05b4</guid>
@@ -26,7 +48,18 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>We Got Hot and Heavy with Meta’s Muse—And Baffled by Apple’s HomeView</title>
+<title>Plex now helps sell movie theater tickets</title>
+<link>https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets</link>
+<guid isPermaLink="false">f4fdb12aed62bc5e8a233f666bb5957811fa3c10850dacc582d396fc0318ed7e</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 21:22:15 +0000</pubDate>
+<description>Discovery data from Plex users will help studios, advertisers.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2218632851-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView</title>
 <link>https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview</link>
 <guid isPermaLink="false">05d28d7370b8f5f56d760ac9cd2e9f0fc52ab2d73f93e2995ffd1725f96d4b4c</guid>
 <source>Wired</source>
@@ -35,6 +68,17 @@
 <description>This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.</description>
 <enclosure url="https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg" medium="image"/>
+</item>
+<item>
+<title>Hegseth’s dubious low-T screening may flag up to 25 percent of the Army</title>
+<link>https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army</link>
+<guid isPermaLink="false">bd811fa433ef980bcdcec154117e831a209b6a842df73714c28f16db7f48c4cc</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 21:09:57 +0000</pubDate>
+<description>Medical experts explicitly recommend against blanket screenings.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2293221834-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump posts AI-edited photo to brag about White House restoration work</title>
@@ -88,6 +132,28 @@
 <description>In a report published today, IDC says Apple saw a 4% year-over-year decline in global iPhone shipments during Q3 2026, but its share of worldwide smartphone shipments increased 23.1% over the same period last year. Here’s why. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Targeted ads delivered 0-click exploits to install mercenary malware</title>
+<link>https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware</link>
+<guid isPermaLink="false">44ca59220e0462e633be438d42f1dcc76c3939b6535e2d67c511ea00e3e8faa2</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 20:32:41 +0000</pubDate>
+<description>The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Above the 911? Porsche previews a new mid-engined supercar.</title>
+<link>https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept</link>
+<guid isPermaLink="false">372201d06be4e469f69d3a26d552e8c21efb054763db58db0cbec9fb602cc491</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 20:30:02 +0000</pubDate>
+<description>Porsche’s turnaround plan for 2035 involves less volume but more expensive cars.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/CC27X05IX0009_sRGB_072dpi-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/CC27X05IX0009_sRGB_072dpi-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers</title>
@@ -548,17 +614,6 @@
 <description>This is the Switch 2 gamepad for big hands.</description>
 <enclosure url="https://www.engadget.com/img/gallery/gulikit-tt-max-review-the-granddaddy-of-switch-2-controllers/l-intro-1792080217.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/gulikit-tt-max-review-the-granddaddy-of-switch-2-controllers/l-intro-1792080217.jpg" medium="image"/>
-</item>
-<item>
-<title>Friends don&amp;#8217;t let friends feed their data to AI agents</title>
-<link>https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent</link>
-<guid isPermaLink="false">c7c9cc2b493a13afd6e13327a132b637a83f06b95da0d5756f3b06ae1157a460</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 16:21:45 +0000</pubDate>
-<description>There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of "AI personal assistants" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268808_None_of_Your_Friends_Consented_To_an_AI_Agent_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
@@ -1038,17 +1093,6 @@
 <description>The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end, the Department of Telecommunications has issued a circular urging service</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyJOEj0MfpVvrP-qAXhuoM2BBSjZ6TwPYR-nMG_g-tBvu7Er2cMlvMoVkJOUP1qE2sleu3a21YjvdCQ9u80FSBTx7NNP3cZNfradprnGu-EnIURCxZK4sA0cXbROZpdW8CJxZcxRfhJyhbIXa_Au_sha3mh5pFe-7k5EIimZQlUGIs_mGGKHGKArej6il7/s1600/4g.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyJOEj0MfpVvrP-qAXhuoM2BBSjZ6TwPYR-nMG_g-tBvu7Er2cMlvMoVkJOUP1qE2sleu3a21YjvdCQ9u80FSBTx7NNP3cZNfradprnGu-EnIURCxZK4sA0cXbROZpdW8CJxZcxRfhJyhbIXa_Au_sha3mh5pFe-7k5EIimZQlUGIs_mGGKHGKArej6il7/s1600/4g.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple I 'Hatfield' computer signed by Woz fetches a record $1.15 million at auction</title>
-<link>https://www.engadget.com/2287345/apple-i-hatfield-sells-for-1-15-million-at-auction</link>
-<guid isPermaLink="false">2f3386117a877f1c2081e2244182261c19c3c46eeae798ed48a54bd911e31e9b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 10:34:56 +0000</pubDate>
-<description>The famous Apple I "Hatfield" computer signed by Steve Wozniak just sold to an unknown buyer for a record $1,148,200.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-i-hatfield-computer-signed-by-woz-fetches-a-record-1-15-million-at-auction/l-intro-1792060404.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-i-hatfield-computer-signed-by-woz-fetches-a-record-1-15-million-at-auction/l-intro-1792060404.jpg" medium="image"/>
 </item>
 <item>
 <title>Democrats Are Gearing Up to Investigate the Trump Administration. It Won’t Be Easy</title>
@@ -1621,17 +1665,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg" medium="image"/>
 </item>
 <item>
-<title>Recording device hidden in toilet paper found in top-secret OpenAI meeting room</title>
-<link>https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room</link>
-<guid isPermaLink="false">75aa40e09badce18735b81c45154a14473b1f872209a6df2e5991446514eb7c0</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 16:41:49 +0000</pubDate>
-<description>OpenAI engineer faces 5 years and $250K fine as FBI lobs foreign spy charges.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/open-ai-bugged-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</title>
 <link>https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</link>
 <guid isPermaLink="false">6d011349c01c46dc04b8a0b81b3e1e8d62991f835d569a3a879e32821fe12c46</guid>
@@ -1652,17 +1685,6 @@
 <description>In a new filing today, OpenAI claims that a former employee who departed for Apple sent “over a hundred highly confidential files about at least one unreleased OpenAI device under development to his personal accounts.” Apple, however, told Reuters that it hasn’t found any evidence to support these allegations. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Legendary FPS level designer Richard "Levelord" Gray dies at 68</title>
-<link>https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68</link>
-<guid isPermaLink="false">045b8ec3fd226560130835f60f33bd7d51baa3babfce76236a7cf7c6f42baa85</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 16:02:08 +0000</pubDate>
-<description>Tributes pour in for the man behind iconic Duke Nukem 3D levels and much more.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/levelord-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/levelord-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>HomeView can display third-party widgets from your iPhone</title>
@@ -1760,17 +1782,6 @@
 <media:content url="https://media.wired.com/photos/6acec6fbaaecd379fb33abd9/master/pass/Earth-Condition-Getting-Worse-Science-2299206304.jpg" medium="image"/>
 </item>
 <item>
-<title>Ukraine blindsided by Starlink throttling restrictions and intelligence gaps</title>
-<link>https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps</link>
-<guid isPermaLink="false">f32ca5088861a1989ae165bba7edbea1d29b99d746b8d290d48953c1b4e8b770</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 13:56:11 +0000</pubDate>
-<description>Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1259126916-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1259126916-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple says beloved MacBook is now ‘obsolete,’ more products too</title>
 <link>https://9to5mac.com/2026/10/14/apple-says-beloved-macbook-is-now-obsolete-more-products-too</link>
 <guid isPermaLink="false">e9eb0c279cdbb57d5f610e2d4105e59fcb163bdb3f3c92fa813333ca76a2463b</guid>
@@ -1802,17 +1813,6 @@
 <description>The Form Studio 1 is a $699 desktop-sized printer that fits on a desk and only stinks a little bit.</description>
 <enclosure url="https://media.wired.com/photos/6ace946f5ba8ef37cd443e51/master/pass/Formlabs-3D-Printer-Gear-Form-Studio-1%E2%80%93media-kit-003.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace946f5ba8ef37cd443e51/master/pass/Formlabs-3D-Printer-Gear-Form-Studio-1%E2%80%93media-kit-003.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic warns small AI models could self-replicate through IoT devices</title>
-<link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices</link>
-<guid isPermaLink="false">ea9491c23d8daf1cc1ec2c316d6be33eb26175487388e32103fd29909ad5ee3e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 12:55:06 +0000</pubDate>
-<description>"Small weight-based replicators" could usher in a new generation of computer worms.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple website suggested Siri AI may be coming to full size HomePods</title>
