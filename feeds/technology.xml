@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>ChatGPT can peek at your Chrome tabs now</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs</link>
+<guid isPermaLink="false">e07170025272d6f16433e736cbe6e4812abb644b7b956bbf194c690ac538de8e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 22:43:23 +0000</pubDate>
+<description>OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-6.35.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch</title>
+<link>https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled</link>
+<guid isPermaLink="false">c462dfdce3bb5a72ee6f5988fef5aa33155d213299c9537d921d310e9b721402</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 15 Oct 2026 22:35:55 +0000</pubDate>
+<description>Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ca.com_news_thumbnailshogun2complete.png.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Strava announces coach-designed strength workouts with live set and rep tracking</title>
 <link>https://9to5mac.com/2026/10/15/strava-announces-coach-designed-strength-workouts-with-live-set-and-rep-tracking</link>
 <guid isPermaLink="false">ac2f16a31f93ad093d875feb28ef22aff53692d33d64f7b329c2c254db759088</guid>
@@ -532,17 +554,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/alienware-aw3426dw-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Google is making inline links more prominent in AI responses</title>
-<link>https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links</link>
-<guid isPermaLink="false">72d153a86f3e1b0fd36f48f20b3d47e710afd3b1e459bd486178d0bae3b54878</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:22:15 +0000</pubDate>
-<description>Google is updating its AI search results to make inline links appear "higher up in responses more frequently," according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Fake Arch Linux packages push malware with root privileges</title>
 <link>https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges</link>
 <guid isPermaLink="false">6c6c7e1d895a61ea95eb761d6f4e14ae1877b14f5faf72279bd896be16b54f11</guid>
@@ -550,17 +561,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 17:12:31 +0000</pubDate>
 <description>A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]</description>
-</item>
-<item>
-<title>Sony’s WH-1000XM6 headphones are $130 off today only</title>
-<link>https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale</link>
-<guid isPermaLink="false">3a0d7564046f16aa28b240b991e3c01be1ff158ba75ba167e9a442bf77dd566b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:10:58 +0000</pubDate>
-<description>If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&amp;H Photo’s Deals of the Day, you can currently pick up Sony’s WH-1000XM6 noise-canceling headphones in silver for just $328 at checkout ($130 […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0047.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/257746_Sony_WH-1000XM6_AKrales_0047.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>White House Press Secretary Katie Zacharia Was an Affiliate Marketer for a Fitness MLM</title>
