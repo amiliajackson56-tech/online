@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance</title>
+<link>https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance</link>
+<guid isPermaLink="false">9cfcfa918cded6899b3c8a7046d00aa27950712af4ad70eee4665519ddbbd98a</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 15 Oct 2026 14:57:21 +0000</pubDate>
+<description>NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected. In particular, NASA measured whether the thermal protection […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/combineda1anda2-heatshield4k.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>Chandra Finds Possible Origin of ‘Treble Clef’ Waves</title>
+<link>https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves</link>
+<guid isPermaLink="false">97aa28d78d85e165a610ac4d240aaff6db8e8d62d01168dd288a1f17d35e1bae</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 15 Oct 2026 14:19:06 +0000</pubDate>
+<description>A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/trebleclef-lg.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>Mysterious brain activity under anesthesia challenges what we know about consciousness</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261015003440.htm</link>
 <guid isPermaLink="false">6c0014b5454b4c6f0e14db2e1f146d822e12710d1163691739d5130b7b465fe9</guid>
@@ -297,28 +319,6 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 04:39:11 +0000</pubDate>
 <description>A promising new treatment for knee arthritis uses tiny, dissolvable particles to block abnormal blood vessels, easing inflammation and pain without joint replacement surgery. In a study of 194 patients, 80% experienced clinically meaningful pain relief lasting at least 12 months.</description>
-</item>
-<item>
-<title>APOD: 2026 October 14 – Mars and the Beehive Under an Aurora</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora</link>
-<guid isPermaLink="false">29d8aa2115fe95031362d4044fb2b3b04cb2da9bf05e4f0d0e4cbf99db89e88a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 04:05:00 +0000</pubDate>
-<description>What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesličky_01_1500px.png?w=1500&amp;h=1000&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/2026_10_10_PZ_Jesličky_01_1500px.png?w=1500&amp;h=1000&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>Hurricane Simon Lurks Off the Mexican Coast</title>
-<link>https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast</link>
-<guid isPermaLink="false">cc77e498becd23e764e50ce4aeb799176d9cd3384e012784947b4bff32c2cb8f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 04:01:00 +0000</pubDate>
-<description>Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg?w=2048&amp;h=1707&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/hurricane-simon-lurks-off-the-mexican-coast/hurricanesimon_vir_20261011.jpg?w=2048&amp;h=1707&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>AI can act exactly like a human, but we still don't think it's conscious</title>
