@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission</title>
+<link>https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission</link>
+<guid isPermaLink="false">93afb0f4dd6f8f94668d9fd56725602a8493f9663da4a9e0908a17de1c1a06cc</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 15 Oct 2026 19:58:08 +0000</pubDate>
+<description>NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA Satellites Observe Historic 2026 El Niño</title>
 <link>https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino</link>
 <guid isPermaLink="false">4b31a65269f1add9289cca2be3cafe5ad8450bafc5f240bb1b7ab26ce89cf0fc</guid>
@@ -270,17 +281,6 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 22:03:26 +0000</pubDate>
 <description>A major study found that several cancers are rising faster among younger adults in England, even as smoking, diet, and other established risk factors have generally improved. Excess weight explains only part of the increase, leaving scientists searching for other possible causes, including changes in the gut microbiome and early-life exposures.</description>
-</item>
-<item>
-<title>NASA to Host News Conference Previewing US Spacewalks 100, 101</title>
-<link>https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101</link>
-<guid isPermaLink="false">1e38e2859466937fdee6ef092e9368f1ad1c6fa5294519da98538c7ee0a4a782</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 20:13:29 +0000</pubDate>
-<description>NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]</description>
-<enclosure url="https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://images-assets.nasa.gov/image/iss075e0011109/iss075e0011109~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists reveal why some workout recovery tricks can backfire</title>
