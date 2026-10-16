@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it</title>
+<link>https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation</link>
+<guid isPermaLink="false">2e52dbb169fb54370c21fc49bae4a700c5f7eadad1b3260a0746e04f2ca57d1a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:48:05 +0000</pubDate>
+<description>Tesla has finally unveiled the next-generation Roadster.</description>
+<enclosure url="https://www.engadget.com/img/gallery/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/l-intro-1792115458.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/l-intro-1792115458.jpg" medium="image"/>
+</item>
+<item>
+<title>The Tesla Roadster flew, drove upside down, and hit 60mph in under a second</title>
+<link>https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk</link>
+<guid isPermaLink="false">11d4fc51a8b79e9c1c9bf2196cf6bb388f9042ec0b09d79507eb511d88edb501</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 01:28:27 +0000</pubDate>
+<description>Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUtthGyaMAEkD-g.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>The Tesla Roadster 2 Is Here—and It Flies</title>
 <link>https://www.wired.com/story/tesla-roadster-2-launch</link>
 <guid isPermaLink="false">1da7da4298bf77277549bcf4eb32f68ccf26c16fd066432ac6fb7bb45bf78ac0</guid>
@@ -24,7 +46,7 @@
 <description>The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.</description>
 </item>
 <item>
-<title>‘Tenzing’ premieres on Apple TV, starring Tom Hiddleston and Willem Dafoe</title>
+<title>‘Tenzing’ premieres on Apple TV, starring Genden Phuntsok, Tom Hiddleston and Willem Dafoe</title>
 <link>https://9to5mac.com/2026/10/15/tenzing-premieres-on-apple-tv-starring-tom-hiddleston-and-willem-dafoe</link>
 <guid isPermaLink="false">b8faf2ca301482e98cb4f02e5cd0c56b9b854bf02f815823aa2be0614d37ac84</guid>
 <source>9to5Mac</source>
@@ -625,17 +647,6 @@
 <description>Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.</description>
 </item>
 <item>
-<title>Volvo will use Nvidia’s tech for hands-free, point-to-point driving</title>
-<link>https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban</link>
-<guid isPermaLink="false">308c58ea57762ef3b778c2c5a83a899dc12fef68712538d9ce5d299c940383b7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:30:00 +0000</pubDate>
-<description>Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Volvo-EX60-Oculus-7.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Fake Arch Linux packages push malware with root privileges</title>
 <link>https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges</link>
 <guid isPermaLink="false">6c6c7e1d895a61ea95eb761d6f4e14ae1877b14f5faf72279bd896be16b54f11</guid>
@@ -886,8 +897,8 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 14:01:51 +0000</pubDate>
 <description>Elon Musk has been saying the demo might be a literal "banger."</description>
-<enclosure url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792072946.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792072946.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792115672.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/tesla-roadster-launch-live-blog/l-intro-1792115672.jpg" medium="image"/>
 </item>
 <item>
 <title>Is AI pentesting as good as a human pentester?</title>
@@ -1067,17 +1078,6 @@
 <description>United has launched a tracker that you can use to check if your flight has Starlink Wi-Fi.</description>
 <enclosure url="https://www.engadget.com/img/gallery/united-offers-starlink-wi-fi-flight-tracker/l-intro-1792079058.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/united-offers-starlink-wi-fi-flight-tracker/l-intro-1792079058.jpg" medium="image"/>
-</item>
-<item>
-<title>Adobe rebuilt Photoshop and Premiere for NVIDIA's RTX Spark platform</title>
-<link>https://www.engadget.com/2287388/adobe-rebuilt-photoshop-and-premiere-for-nvidia-rtx-spark</link>
-<guid isPermaLink="false">6c4093ea09b5c03502da83e3fb850764218b7dac8970d45ac4d1e99a138ba0d6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-<description>Adobe has 'rearchitected' Photoshop, Premiere and Substance 3D to work faster on computers powered by NVIDIA's RTX Spark AI superchip.</description>
-<enclosure url="https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/adobe-rebuilt-photoshop-and-premiere-for-nvidias-rtx-spark-platform/l-intro-1792065422.jpg" medium="image"/>
 </item>
 <item>
 <title>Police arrests 95 suspects in international CSAM crackdown action</title>
@@ -1991,17 +1991,6 @@
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>Nothing Headphone (1) Pro Review: Studio Quality</title>
-<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
-<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
-<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
 <link>https://www.wired.com/story/the-case-for-lowercase</link>
 <guid isPermaLink="false">414bd040737017f247f4a5bbb37b94629751b2e667dececb948bb49d560d99cb</guid>
@@ -2011,6 +2000,17 @@
 <description>a certain kind of person writes in all lowercase now. why?</description>
 <enclosure url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace518c0cd03eee45eddd24/master/pass/lowercase_internet_style_sm.jpg" medium="image"/>
+</item>
+<item>
+<title>Nothing Headphone (1) Pro Review: Studio Quality</title>
+<link>https://www.wired.com/review/nothing-headphone-1-pro</link>
+<guid isPermaLink="false">56e49739865e48aaabaa0ea89d5276ef3eeae8b8b9d4f2b584183a950300e3df</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+<description>Nothing’s best headphones yet double down on design, comfort, sound quality, and highly adjustable EQ settings.</description>
+<enclosure url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace413d24c9f1116aeab823/master/pass/Nothing%20Headphone%20(1)%20Pro%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>I Ranked 28 Energy Drinks, From Celsius to Black Rifle (2026)</title>
@@ -2090,17 +2090,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Expedia Coupons: 40% Off</title>
 <link>https://www.wired.com/story/expedia-coupon</link>
 <guid isPermaLink="false">05eec51210a6e120d1a88dc197213715e91bbe20738fc82f355c5e304ba9c74f</guid>
@@ -2123,26 +2112,15 @@
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
-<title>Dell Coupon Codes: 20% Off for October 2026</title>
-<link>https://www.wired.com/story/dell-coupon-code</link>
-<guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
-</item>
-<item>
-<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
-<link>https://www.wired.com/story/corsair-coupon</link>
-<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
 <title>HBO Max Promo Code: 50% Off | October 2026</title>
@@ -2167,6 +2145,28 @@
 <media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
 </item>
 <item>
+<title>Dell Coupon Codes: 20% Off for October 2026</title>
+<link>https://www.wired.com/story/dell-coupon-code</link>
+<guid isPermaLink="false">c5ceb6b2160aebf24ca4d5396573cf0bdb0f091ea6647692b42d49168cbc4886</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get 20% off with verified Dell promo code, plus today’s coupons for up to $600 off laptops, Alienware monitors, and all things tech.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e571d60947a48460b/master/pass/WIRED-Coupons-16.jpg" medium="image"/>
+</item>
+<item>
+<title>Corsair Discount Code: Up to 50% Off for October 2026</title>
+<link>https://www.wired.com/story/corsair-coupon</link>
+<guid isPermaLink="false">e67208ab31041caec3b79a4607e1ab1d87b105c922a79cac010a3a6074fdef6e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Upgrade your gaming setup or PC build for less with these verified Corsair coupon codes, student discounts, and refurbished deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
 <title>Castlery Promo Codes: 15% Off for October 2026</title>
 <link>https://www.wired.com/story/castlery-promo-code</link>
 <guid isPermaLink="false">f4d2aeef20f25418e792a8534cd4ae1f4f149c12625d6eb0772585156d7618ac</guid>
@@ -2178,17 +2178,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
 </item>
 <item>
-<title>Tuft &amp; Needle Promo Codes: 30% Off | October 2026</title>
-<link>https://www.wired.com/story/tuft-and-needle-promo-code</link>
-<guid isPermaLink="false">275ae5ded4579351a88db07721bcd9aab1c5d6c32b94acfaf4bbc002f77da095</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 30% on best-selling mattresses with our top Tuft &amp; Needle coupon codes.</description>
-<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
-</item>
-<item>
 <title>Walgreens Photo Coupons: Up to 70% Off This October</title>
 <link>https://www.wired.com/story/walgreens-photo-coupon</link>
 <guid isPermaLink="false">a2544911f76a9213a7436eb8c999b1b338623a29d44335302942681e0a009456</guid>
@@ -2198,6 +2187,17 @@
 <description>Preserving your memories doesn't have to be expensive. Use a verified Walgreens coupon code for discounts of up to 70% off premium wall decor, stationery, and personalized gifts, as well as beauty, lenses, and health products this fall.</description>
 <enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
+<title>Tuft &amp; Needle Promo Codes: 30% Off | October 2026</title>
+<link>https://www.wired.com/story/tuft-and-needle-promo-code</link>
+<guid isPermaLink="false">275ae5ded4579351a88db07721bcd9aab1c5d6c32b94acfaf4bbc002f77da095</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 30% on best-selling mattresses with our top Tuft &amp; Needle coupon codes.</description>
+<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
 <title>Dyson Promo Codes: 25% Off in October 2026</title>
