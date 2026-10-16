@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>All the news about the iPhone Duo</title>
+<link>https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements</link>
+<guid isPermaLink="false">d56d7345469111cea7224f27acc3347c26d4f484c8c6bf708bb8ff31d64b6f08</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 23:36:26 +0000</pubDate>
+<description>Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Apple poaches longtime Meta executive to lead global litigation</title>
 <link>https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation</link>
 <guid isPermaLink="false">c044e680d26b3d57c1693737b9b94cb1886fd349b6e74ec7cd940ca3f85e3885</guid>
@@ -616,17 +627,6 @@
 <description>Millions kept changing hands long after the election outcomes were effectively settled.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/polymarket-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>The incredible flying Tesla Roadster is just for show</title>
-<link>https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk</link>
-<guid isPermaLink="false">8753c3420820c4882715952203a27c5ecb81d0dcb9b209e2bcdb53dd40a848ab</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 14:15:29 +0000</pubDate>
-<description>Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair "kickflip" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? "We were promised flying cars," sure, but isn't the operative word in that […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>MapQuest will now show you where Flock cameras are in your neighborhood</title>
@@ -2519,17 +2519,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
 </item>
 <item>
-<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
-<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
-<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
-<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
-</item>
-<item>
 <title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
 <link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
 <guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
@@ -2539,6 +2528,17 @@
 <description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
 <enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
+<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
+<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
+<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
