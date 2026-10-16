@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Zero-click attacks used targeted ads to deliver Candiru spyware</title>
+<link>https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware</link>
+<guid isPermaLink="false">ede028256a25d1488816f6e3c3abc350b7cfde7dd08c12034942e45fa6565c4e</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 17:20:03 +0000</pubDate>
+<description>Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]</description>
+</item>
+<item>
+<title>Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+</title>
+<link>https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt</link>
+<guid isPermaLink="false">0431ea67fd9ca712cf55e85475d39e748c6dce46660f8746bb3ca16b8f83f6b0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 17:03:29 +0000</pubDate>
+<description>Dust off your old Sega Genesis and Super Nintendo cartridges.</description>
+<enclosure url="https://www.engadget.com/img/gallery/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/l-intro-1792170102.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/l-intro-1792170102.jpg" medium="image"/>
+</item>
+<item>
+<title>Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor</title>
+<link>https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html</link>
+<guid isPermaLink="false">ffdcabb15288bf144b88d0dbd9598a1f314716e88738655af300cf637050828e</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:43:39 +0000</pubDate>
+<description>Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor. Google Threat Intelligence Group, Mandiant, and ManageEngine's Threat Analysis</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg" medium="image"/>
+</item>
+<item>
 <title>If memory shortages last, tech companies should offer cheap battery replacements</title>
 <link>https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements</link>
 <guid isPermaLink="false">7e9bd17229c415d49f0a371a3cd2fa6c89810c4bc1815c3ff6038b85df365391</guid>
@@ -26,7 +57,7 @@
 <media:content url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" medium="image"/>
 </item>
 <item>
-<title>A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
+<title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
 <link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet</link>
 <guid isPermaLink="false">bf815e64fedf96f62911c9258793a81dcd82d3c3f7410b6ae396a20d2680c5c1</guid>
 <source>TechCrunch</source>
@@ -733,17 +764,6 @@
 <description>Benchmark says the Valley’s rule against backing rivals is getting harder to keep.</description>
 </item>
 <item>
-<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
-<link>https://www.wired.com/story/total-wireless-promo-code</link>
-<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
 <title>Surfshark Promo Codes: 87% Off | October 2026</title>
 <link>https://www.wired.com/story/surfshark-coupon</link>
 <guid isPermaLink="false">4c8534bddadc727025884fa6ce22a3da59745a5b0ddd4184efffd35d8478be4c</guid>
@@ -753,6 +773,17 @@
 <description>Save up to 87% with a Surfshark coupon code, 3 months of VPN free today, and more from WIRED.</description>
 <enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
+</item>
+<item>
+<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
+<link>https://www.wired.com/story/total-wireless-promo-code</link>
+<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Skechers Coupon Codes 20% Off</title>
@@ -1387,17 +1418,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/53194639182_2982a6d6de_h-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>GuliKit TT Max review: The granddaddy of Switch 2 controllers</title>
-<link>https://www.engadget.com/2287745/gulikit-tt-max-review</link>
-<guid isPermaLink="false">f37d1e52020add93a9ffe614424cde9a12fddcfa50c0ca390a5287d08401e903</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 16:30:00 +0000</pubDate>
-<description>This is the Switch 2 gamepad for big hands.</description>
-<enclosure url="https://www.engadget.com/img/gallery/gulikit-tt-max-review-the-granddaddy-of-switch-2-controllers/l-intro-1792080217.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/gulikit-tt-max-review-the-granddaddy-of-switch-2-controllers/l-intro-1792080217.jpg" medium="image"/>
-</item>
-<item>
 <title>Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
 <link>https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html</link>
 <guid isPermaLink="false">925554bf2f9c48bc27c2b52eaac561e7935629cb66c9da36a31243a32b27015d</guid>
@@ -1916,15 +1936,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-maps-austin.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
-<link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks</link>
-<guid isPermaLink="false">469f69b082b97ddb2a7b19a5068e13dd6c3616648e25b5139d5e74ecc05c73fa</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 22:56:47 +0000</pubDate>
-<description>Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]</description>
-</item>
-<item>
 <title>WhatsApp takes on Zoom and Google Meet with guest calling</title>
 <link>https://9to5mac.com/2026/10/14/whatsapp-takes-on-zoom-and-google-meet-with-guest-calling</link>
 <guid isPermaLink="false">3e2ef8647ea115131233a484761502c7dfc3bdb2d8b9ac3c203c8aa971ac8187</guid>
@@ -2343,17 +2354,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
 </item>
 <item>
-<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
-<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
-<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
-<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
-</item>
-<item>
 <title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
 <link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
 <guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
@@ -2363,6 +2363,17 @@
 <description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
 <enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
+<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
+<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
+<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
@@ -3056,16 +3067,5 @@
 <description>Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg" medium="image"/>
-</item>
-<item>
-<title>Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</title>
-<link>https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html</link>
-<guid isPermaLink="false">87353277b1ca0d62137b6e36f3d992237d89d574e12313452a5949b3a8cf1055</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 11:55:00 +0000</pubDate>
-<description>The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up. Regardless, the tech world is mesmerized by the capabilities and potential of these services. Less than a year</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg" medium="image"/>
 </item>
 </channel></rss>
