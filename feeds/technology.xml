@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>BeyondTrust patches zero-day exploited in attacks since August</title>
+<link>https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august</link>
+<guid isPermaLink="false">379db0c8ad00f8039620736a4c0cf13b4678e0fd5ecb1878295b78c60452f469</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 06:18:08 +0000</pubDate>
+<description>BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]</description>
+</item>
+<item>
 <title>Even Benchmark thinks AI is eroding the venture pact against backing rivals</title>
 <link>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals</link>
 <guid isPermaLink="false">c926d16bda3c4f26a6fb413785071d76596678b3b8da204fbb9f37fa65e51338</guid>
@@ -55,6 +64,17 @@
 <description>Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
+</item>
+<item>
+<title>PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions</title>
+<link>https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</link>
+<guid isPermaLink="false">a2dfa0394e0653a8dabfc5abcf52d6ba3f9cba0fd2cb2dd6fbc5b238df868190</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 04:59:36 +0000</pubDate>
+<description>A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg" medium="image"/>
 </item>
 <item>
 <title>A Tesla Flying Car? I Don’t Know, Man</title>
@@ -1861,15 +1881,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Why-the-Apple-Home-Collection-will-accelerate-smart-home-adoption.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>The Blind Spots of Agentic Pentesting and How to Close Them</title>
-<link>https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them</link>
-<guid isPermaLink="false">72ff0cae679e5944f08e4543cfa9f00ad8b21fdd90c454b1a8fe73ea5cf2ce20</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 14:00:10 +0000</pubDate>
-<description>AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]</description>
-</item>
-<item>
 <title>Earth’s Condition Is ‘Serious and Getting Worse’ as Climate Change Intensifies</title>
 <link>https://www.wired.com/story/climate-change-is-getting-worse-el-nino-looms</link>
 <guid isPermaLink="false">e5c27aa3938d04e29a774da513055831360a05319370af45e1ebfea130f77589</guid>
@@ -2024,17 +2035,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
 </item>
 <item>
-<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
-<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
-<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
-<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
 <link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
 <guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
@@ -2044,6 +2044,17 @@
 <description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
 <enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
+</item>
+<item>
+<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
+<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
+<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
+<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
@@ -2145,17 +2156,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg" medium="image"/>
 </item>
 <item>
-<title>Peacock Promo Codes: 40% Off October 2026</title>
-<link>https://www.wired.com/story/peacock-promo-code</link>
-<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
-<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
 <title>Expedia Coupons: 40% Off</title>
 <link>https://www.wired.com/story/expedia-coupon</link>
 <guid isPermaLink="false">05eec51210a6e120d1a88dc197213715e91bbe20738fc82f355c5e304ba9c74f</guid>
@@ -2176,6 +2176,17 @@
 <description>Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.</description>
 <enclosure url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
+</item>
+<item>
+<title>Peacock Promo Codes: 40% Off October 2026</title>
+<link>https://www.wired.com/story/peacock-promo-code</link>
+<guid isPermaLink="false">84f38d2175ae15bb5645da2d18cd78202d3b88bd2a6dc5deb48aca1e7ca07648</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 05:00:00 +0000</pubDate>
+<description>Stream your favorite shows for up to $80 off this month, and save on subscription plans with the latest Peacock TV coupons from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
 <title>HBO Max Promo Code: 50% Off | October 2026</title>
@@ -3056,16 +3067,5 @@
 <description>Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. "Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure," iVerify said in a new report published Thursday. The name</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg" medium="image"/>
-</item>
-<item>
-<title>The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't</title>
-<link>https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html</link>
-<guid isPermaLink="false">6966a661074ee54f4a2dc61e0bc4ae3daa75fa0cd48731dcb1112f2045e8ca67</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 10 Oct 2026 11:00:00 +0000</pubDate>
-<description>In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do. That gap is the clearest</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif" medium="image"/>
 </item>
 </channel></rss>
