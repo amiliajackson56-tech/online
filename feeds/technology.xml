@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple poaches longtime Meta executive to lead global litigation</title>
+<link>https://9to5mac.com/2026/10/16/apple-poaches-longtime-meta-executive-to-lead-global-litigation</link>
+<guid isPermaLink="false">c044e680d26b3d57c1693737b9b94cb1886fd349b6e74ec7cd940ca3f85e3885</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 22:53:24 +0000</pubDate>
+<description>Bloomberg reports that Apple has hired Scott Tucker, who spent nearly six years as Meta’s vice president and deputy general counsel for global litigation. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-logo-aluminum-shadow-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-logo-aluminum-shadow-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple&amp;#8217;s updated App Store rules go after &amp;#8216;nudify&amp;#8217; AI apps</title>
+<link>https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment</link>
+<guid isPermaLink="false">67d3c07f032253c01ad3a59484e57be7287886c933893b1cb12364162d34c560</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 22:51:22 +0000</pubDate>
+<description>Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn't pull X or Grok from the App […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Apple’s new App Store rules crack down on AI nudification and ‘bait-and-switch’ apps</title>
 <link>https://9to5mac.com/2026/10/16/apples-new-app-store-rules-crack-down-on-ai-nudification-and-bait-and-switch-apps</link>
 <guid isPermaLink="false">aaec1fc4f8f8639530463256e048dfd6a2593bd80e7e7705719760c26569e221</guid>
@@ -638,17 +660,6 @@
 <description>OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task. The incident, the AI company said, involved an internal research model part</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta’s new terms may allow it to train AI on news sites for free</title>
-<link>https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers</link>
-<guid isPermaLink="false">ca580b1475b7847a1b70cd0acc279b029b315ee708cea4f4be2fa3cae1b4ac52</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 14:02:40 +0000</pubDate>
-<description>Meta's new terms appear to give it permission to crawl and scrape websites "associated" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30th, say Meta can use this outside content to "develop, improve, research," and "train" […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Super Scam Me documentary shows what it takes to catch a romance scammer</title>
@@ -2508,17 +2519,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
 </item>
 <item>
-<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
-<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
-<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
-<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
-</item>
-<item>
 <title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
 <link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
 <guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
@@ -2528,6 +2528,17 @@
 <description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
 <enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
+</item>
+<item>
+<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
+<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
+<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
+<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
@@ -2979,17 +2990,6 @@
 <description>Today Apple introduced a fourth-generation Apple TV 4K with Siri AI, and A19 chip, and more. But the company also shared welcome news for current Apple TV users: Siri AI is compatible with select older models too. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/WWDC-26-13.34.34.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/WWDC-26-13.34.34.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple announces HomePod mini 2: Siri AI, new colors, Sound Glow, more</title>
-<link>https://9to5mac.com/2026/10/13/apple-announces-homepod-mini-2-siri-ai-new-colors-sound-glow-more</link>
-<guid isPermaLink="false">97c9a2eacd225fb27aa57499d547bc0af975cddc5d71ba11efc420089e8c5d3b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 13:08:20 +0000</pubDate>
-<description>Apple has officially announced the new HomePod mini 2 smart speaker. The new product was announced by Apple today alongside the new HomeView smart display and fourth-gen Apple TV 4K . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod.-mini-2.webp?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod.-mini-2.webp?w=1600" medium="image"/>
 </item>
 <item>
 <title>[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls</title>
