@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>HomeView will include these Apple apps at launch</title>
+<link>https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch</link>
+<guid isPermaLink="false">be0e888ef08dc02c0a3a8a9488e05e9571552ff01cafa15ef8b758f349eaca68</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 19:50:31 +0000</pubDate>
+<description>Apple’s HomeView is available to pre-order now and ships November 13. Here are the Apple apps you’ll be able to use on HomeView at launch. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-facetime.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Porsche’s electric Macan Turbo is an automotive existential crisis</title>
+<link>https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis</link>
+<guid isPermaLink="false">00434c49344b0f53757c29277b0a0b23245f7c644d10a5510ca4f7a5ff2a3e6d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 19:40:00 +0000</pubDate>
+<description>Maybe it was the grey color, the slightly bulbous roofline, or the vaguely SUV-like proportions of the electric Porsche Macan, but as I shuttled kids and groceries around city and suburban streets, I never once noticed a longing stare from other drivers. Unlike with other cars I’ve tested, no enthusiasts stopped to ask me questions. […]</description>
+</item>
+<item>
+<title>HomeKit Weekly: Get your Halloween and Christmas automations set up now</title>
+<link>https://9to5mac.com/2026/10/16/homekit-weekly-get-your-halloween-and-christmas-automations-set-up-now</link>
+<guid isPermaLink="false">706944d2c51d2c75c4357938b76ccdf976c7c432dbc6e50547315a48728c567d</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
+<description>It’s time to get your Halloween decorations out and automate them because the gear you buy for October is the same gear you’ll use in December. Set it up once now, and all you’ll do in November is swap what’s plugged into your gear. My first real Apple Home project years ago was automating Christmas lights, and it’s still the easiest win in your entire smart home, and it’s really one of the most useful things you can do. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/homekit27-halloween.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/homekit27-halloween.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Why Apple is finally making its own smart home devices</title>
 <link>https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home</link>
 <guid isPermaLink="false">b8d3c0b390f6096cce7f02c407ad1acb8ea7b7b3de7fca25e62d676a82b443fa</guid>
@@ -388,7 +419,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 14:15:29 +0000</pubDate>
-<description>Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air "kickflip" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? "We were promised flying cars," sure, but isn't the operative word in that […]</description>
+<description>Last night, Elon Musk gave the people what they want: a car driving vertically up a multistory ramp, launching off the edge, executing a midair "kickflip" over a lineup of Teslas, and landing via cold-gas thrusters. That's what the people want, right? "We were promised flying cars," sure, but isn't the operative word in that […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -1290,15 +1321,6 @@
 <description>Apple is widely reported to have Samsung as its key supplier in building the iPhone Duo’s folding display. As a result, some have claimed that Apple is just “using a Samsung display.” Here’s how Apple addressed that question in a new interview . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more</title>
-<link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more</link>
-<guid isPermaLink="false">d0efebcc7c6f1b1c3d0fe2321c129bab838767176eeafd7187b02f8a2b7a9b25</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 18:56:46 +0000</pubDate>
-<description>Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.</description>
 </item>
 <item>
 <title>ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
@@ -2387,17 +2409,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
 </item>
 <item>
-<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
-<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
-<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
-<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
-</item>
-<item>
 <title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
 <link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
 <guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
@@ -2407,6 +2418,17 @@
 <description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
 <enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
+<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
+<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
+<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
+<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
 <title>cool kids are writing in all lowercase now. does that make you mad?</title>
@@ -3045,27 +3067,5 @@
 <description>Apple officially confirmed that it will hold a product launch event tomorrow, October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at tomorrow’s Apple event. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple gets a $360 price target from JP Morgan despite iPhone demand concerns</title>
-<link>https://9to5mac.com/2026/10/12/apple-gets-a-360-price-target-from-jp-morgan-despite-iphone-demand-concerns</link>
-<guid isPermaLink="false">231da8addf385f6b10eec0eb94fa7bef6d863950e81865070840545245572eaa</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 22:23:50 +0000</pubDate>
-<description>Just days after Apple’s stock took a hit over reports of iPhone 18 Pro production cuts, JP Morgan has raised its AAPL price target by $20. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-stock-up.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>9to5Mac Daily: October 12, 2026 – Last-minute Apple event rumors</title>
-<link>https://9to5mac.com/2026/10/12/daily-october-12-2026</link>
-<guid isPermaLink="false">f5655289d6b3cf91e898175459921fbf5b50326f0d1afca3e77e2508abab6791</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 21:57:21 +0000</pubDate>
-<description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
