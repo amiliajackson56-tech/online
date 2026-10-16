@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Names Stephen Cash Marshall Space Flight Center Director</title>
+<link>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director</link>
+<guid isPermaLink="false">29660a1a941a2683cf54e451081220973ece14ffe4141a0e3cd55cde46f294c3</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 20:14:39 +0000</pubDate>
+<description>NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg?w=1638" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg?w=1638" medium="image"/>
+</item>
+<item>
 <title>Artemis II Heat Shield After Splashdown</title>
 <link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown</link>
 <guid isPermaLink="false">5357de9353ef4cacb37b6e1a9913005f0f26b4206cb8243b8b16bcc846ff5e2f</guid>
@@ -189,7 +200,7 @@
 <source>Nature News</source>
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading and cognitive resilience.</description>
+<description>Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.</description>
 </item>
 <item>
 <title>Unprecedented atlas explores mitochondria across the tree of life</title>
@@ -261,15 +272,6 @@
 <description>A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Transit, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from animal feeding operations. Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. The FarmFlux mission will deploy […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960" medium="image"/>
-</item>
-<item>
-<title>NASA Welcomes All Ages, Experience Levels for Space Apps Challenge</title>
-<link>https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge</link>
-<guid isPermaLink="false">445e2ac1690df128a14d06d7b3454637617a78f94adeb05dec051a387ca95ac4</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 16:13:08 +0000</pubDate>
-<description>Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]</description>
 </item>
 <item>
 <title>Mysterious brain activity under anesthesia challenges what we know about consciousness</title>

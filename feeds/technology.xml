@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds</title>
+<link>https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds</link>
+<guid isPermaLink="false">5977245b1390cd96f5b29ec2d1fa1ce4868a90ddb7f3cb4443a4429237f4cb4d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 20:05:08 +0000</pubDate>
+<description>The short-lived White House press secretary was listed as an adviser to a Kristi Noem-linked company that aims to use AI for mining. Both the company and she say she never worked there.</description>
+<enclosure url="https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad24f19ed303ecbe8441980/master/pass/GettyImages-2299989251.jpg" medium="image"/>
+</item>
+<item>
+<title>Report: Apple’s antitrust negotiations with the DOJ spark concerns of a weak settlement</title>
+<link>https://9to5mac.com/2026/10/16/report-apples-antitrust-negotiations-with-the-doj-spark-concerns-of-a-weak-settlement</link>
+<guid isPermaLink="false">d063f241eb76826b0c686c5d04209e9bf9c7439d2843af9fd400b0de368b4837</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 20:04:21 +0000</pubDate>
+<description>The Information reports that PayPal and Epic Games are among the developers concerned that a potential antitrust settlement between Apple and the DOJ might not go far enough in addressing the company’s allegedly anticompetitive practices. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Critical BlockStrap flaw lets hackers run code on Magento servers</title>
+<link>https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers</link>
+<guid isPermaLink="false">c0bd42b621bad7f686dba44568cc344233913d2ad7415250051c4af4d273a243</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 20:00:59 +0000</pubDate>
+<description>Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]</description>
+</item>
+<item>
+<title>iPhone Duo vs iPhone 18 Pro: Here’s every key difference</title>
+<link>https://9to5mac.com/2026/10/16/iphone-18-pro-vs-iphone-duo-heres-every-key-difference</link>
+<guid isPermaLink="false">b0d778a9344b6c38afeee2ce44536bfa256c975766b26702e186746175b71cd8</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 19:55:17 +0000</pubDate>
+<description>Apple has strong pitches for all of its flagship iPhones this fall, but which model is right for you? Here’s an overview of the key differences between iPhone Duo and iPhone 18 Pro. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-vs-iphone-duo-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>HomeView will include these Apple apps at launch</title>
 <link>https://9to5mac.com/2026/10/16/homeview-will-include-these-apple-apps-at-launch</link>
 <guid isPermaLink="false">be0e888ef08dc02c0a3a8a9488e05e9571552ff01cafa15ef8b758f349eaca68</guid>
@@ -1850,15 +1892,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg" medium="image"/>
 </item>
 <item>
-<title>UK Legal Aid Agency: Hackers stole records dating back to 1978</title>
-<link>https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978</link>
-<guid isPermaLink="false">fa38ca262e05021f96802be46a1c36e06fc3dcfefcaf618ae8deb7d00261b838</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 08:06:47 +0000</pubDate>
-<description>The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]</description>
-</item>
-<item>
 <title>Opera Air gets a minimalist makeover with a focus on distraction-free browsing</title>
 <link>https://9to5mac.com/2026/10/15/opera-air-gets-a-minimalist-makeover-with-a-focus-on-distraction-free-browsing</link>
 <guid isPermaLink="false">9ac548d8e97cbc9b656428d7bbdd9278f33d70554053035db362462d1fd8852b</guid>
@@ -2464,17 +2497,6 @@
 <media:content url="https://media.wired.com/photos/6ace47d9d672a344b2157934/master/pass/Update%20Best%20Energy%20Drinks%20102026%20top%20art%20SOURCE%20Costco.jpg" medium="image"/>
 </item>
 <item>
-<title>Men Can’t Stop Faking How Much They Know About AI</title>
-<link>https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai</link>
-<guid isPermaLink="false">035e3d775c4df7ec877decf24bea15e5187addf0747ebb9fc0580ccd09cbc931</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 09:30:00 +0000</pubDate>
-<description>More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.</description>
-<enclosure url="https://media.wired.com/photos/6ace9af8b7c3e684c0712364/master/pass/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace9af8b7c3e684c0712364/master/pass/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg" medium="image"/>
-</item>
-<item>
 <title>AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host</title>
 <link>https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</link>
 <guid isPermaLink="false">dce2d98112cca9f3273759ecef710cd86ad2600946b0ad8ba2eb5682a0f36a3e</guid>
@@ -3045,27 +3067,5 @@
 <description>While a folding iPhone posed a new challenge for Apple’s thermal engineering team, they came up with a creative way to leverage the device’s hinge to their advantage. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-hinge-closeup.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Watch the trailer for Apple TV’s ‘Being Heumann’</title>
-<link>https://9to5mac.com/2026/10/12/watch-the-trailer-for-apple-tvs-being-heumann</link>
-<guid isPermaLink="false">ea25146aeaebf881485f63de636a55582517ebc708ef9aa6de25d6a613041f16</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 00:05:58 +0000</pubDate>
-<description>Apple TV today released the official trailer for “ Being Heumann ,” an Apple Original Films release from “ CODA ” director Siân Heder. Watch it below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/being-heumann.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/being-heumann.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple ‘Welcome home’ event: Three new products are coming tomorrow</title>
-<link>https://9to5mac.com/2026/10/12/apple-welcome-home-event-three-new-products</link>
-<guid isPermaLink="false">b1006040860e2e9a3c6aa2d6a8bdab1eedf745dc9ec349288c32d92caf19789c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 23:39:16 +0000</pubDate>
-<description>Apple officially confirmed that it will hold a product launch event tomorrow, October 13. With a “Welcome home” tagline, the launch is expected to focus on new smart home products. Here’s everything to expect at tomorrow’s Apple event. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-welcome-home.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
