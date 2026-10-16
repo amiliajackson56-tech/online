@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>If memory shortages last, tech companies should offer cheap battery replacements</title>
+<link>https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements</link>
+<guid isPermaLink="false">7e9bd17229c415d49f0a371a3cd2fa6c89810c4bc1815c3ff6038b85df365391</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:32:00 +0000</pubDate>
+<description>If a company like Apple could offer $29 batteries before, it can do so again.</description>
+<enclosure url="https://www.engadget.com/img/gallery/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/l-intro-1792168203.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/l-intro-1792168203.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s Exactly How Tesla Made Its New 230-Mph Car ‘Fly’</title>
+<link>https://www.wired.com/story/how-tesla-made-its-new-230-mph-car-fly</link>
+<guid isPermaLink="false">1e662b76e44115f12d261a76bc287e0ebad52a2cb2187c8c83e04b214ddf27b4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:30:12 +0000</pubDate>
+<description>It turns out the Roadster 2 both sucks and blows.</description>
+<enclosure url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" medium="image"/>
+</item>
+<item>
+<title>A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
+<link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet</link>
+<guid isPermaLink="false">bf815e64fedf96f62911c9258793a81dcd82d3c3f7410b6ae396a20d2680c5c1</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
+<description>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]</description>
+</item>
+<item>
+<title>Razer Barracuda V2 Pro Review: A Gaming Headset for the Office</title>
+<link>https://www.wired.com/review/razer-barracuda-v2-pro</link>
+<guid isPermaLink="false">145adcfb9f59fa67c776e06ce71ae5a94fb12f2e55d60097d0b8b0a785fe7095</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
+<description>The Razer Barracuda V2 Pro headset has a place in the office as well as at your gaming battle station.</description>
+<enclosure url="https://media.wired.com/photos/6ad23b95526f09405ee8956f/master/pass/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad23b95526f09405ee8956f/master/pass/Razer%20Barracuda%20V2%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
 <title>Thank Gen Z for the ‘Girls’ Revival</title>
 <link>https://www.wired.com/story/thank-gen-z-for-the-girls-revival</link>
 <guid isPermaLink="false">839fb21e43a5c581f944795670c0f263cc5a20f0a4509555695e047a29b360c6</guid>
@@ -13,6 +55,17 @@
 <description>The HBO series served as a stand-in for everything wrong with white millennial women during its original run. Then Gen Z started watching.</description>
 <enclosure url="https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/master/pass/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfdbcff99bae5deb44dd4d/master/pass/Thank-Gen-Z-for-Girls-Revival-Culture-TCDGIRL_EC147.jpg" medium="image"/>
+</item>
+<item>
+<title>UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</title>
+<link>https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</link>
+<guid isPermaLink="false">23e4826e2b125739a8b095fb52756c3fda2fc1f6eaf919f78459099bef8e2583</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:16:44 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes. The activity is being tracked by</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg" medium="image"/>
 </item>
 <item>
 <title>Waymo’s robotaxis are headed to Canada</title>
@@ -41,7 +94,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
-<description>according to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</description>
+<description>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</description>
 </item>
 <item>
 <title>Tressfecta wants to make hair braiding a less arduous task for hairstylists</title>
@@ -62,6 +115,17 @@
 <description>Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.</description>
 </item>
 <item>
+<title>Here’s the difference the variable aperture of the iPhone 18 Pro makes at night</title>
+<link>https://9to5mac.com/2026/10/16/heres-the-difference-the-variable-aperture-of-the-iphone-18-pro-makes-at-night</link>
+<guid isPermaLink="false">b5211a514a33fe29a3aed306ef17b1e66589a3082964483aa458eeba0908791e</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
+<description>I previously tested the difference the wider aperture of the iPhone 18 Pro makes when it comes to depth of field . The executive summary is that the difference is small, but definitely present. I said at the time that I’d intended to test the difference it made to Night mode shots when an unmissable night video opportunity had me write about that instead. So belatedly, let me turn my attention to Night mode photos … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-18-Pro-night-shot.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-18-Pro-night-shot.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>HomePod is about to get free upgrade with these new features</title>
 <link>https://9to5mac.com/2026/10/16/homepod-is-about-to-get-free-upgrade-with-these-new-features</link>
 <guid isPermaLink="false">76d4d8b987545dcb07fec2069796f8d8e4a1d8fc8d5d82eef34d0e7b1c0ca15c</guid>
@@ -71,6 +135,17 @@
 <description>Apple unveiled three new Home products this week: HomeView , HomePod mini 2 , and a new Apple TV 4K . While there’s no new full-size HomePod launching, Apple did announce three features coming to the existing HomePod 2 via a free software update. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/homepod-2-sale.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/homepod-2-sale.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees</title>
+<link>https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees</link>
+<guid isPermaLink="false">96acdef40d3eeadb1b6559ca999eb74bf5bb447aaab39b3e2bca627d3521e6b7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 15:41:00 +0000</pubDate>
+<description>Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple&amp;#8217;s HomeView has an app problem</title>
@@ -1259,15 +1334,6 @@
 <media:content url="https://www.engadget.com/img/gallery/trump-ballrooms-biggest-donors-were-overwelmingly-tech-and-telecom-companies/l-intro-1792086397.jpg" medium="image"/>
 </item>
 <item>
-<title>Volvo makes a bigger bet on Nvidia for hands-free automated driving</title>
-<link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia</link>
-<guid isPermaLink="false">6bbf57ab8476ba4b7a0318a9184f2b53a578c5bf707e9b729401315cb920f834</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 17:34:40 +0000</pubDate>
-<description>Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.</description>
-</item>
-<item>
 <title>Fake Arch Linux packages push malware with root privileges</title>
 <link>https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges</link>
 <guid isPermaLink="false">6c6c7e1d895a61ea95eb761d6f4e14ae1877b14f5faf72279bd896be16b54f11</guid>
@@ -1343,17 +1409,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft says it made Windows 11 zippier, especially on PCs with less RAM</title>
-<link>https://www.engadget.com/2287714/microsoft-says-it-made-windows-11-zippier-especially-on-pcs-with-less-ram</link>
-<guid isPermaLink="false">483f878d3c4dd35fd2134afa8122da7d484227baa378d267c2d3ace0ea160a83</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 16:01:18 +0000</pubDate>
-<description>The whole RAM price thing is partly Microsoft's fault so it's the least it can do.</description>
-<enclosure url="https://www.engadget.com/img/gallery/microsoft-says-it-made-windows-11-zippier-especially-on-pcs-with-less-ram/l-intro-1792080015.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/microsoft-says-it-made-windows-11-zippier-especially-on-pcs-with-less-ram/l-intro-1792080015.jpg" medium="image"/>
-</item>
-<item>
 <title>Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks</title>
 <link>https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html</link>
 <guid isPermaLink="false">c4b7926adcfb8ca7088112a52fbbc844a15a3773a88ab5e8232942633c27f4ed</guid>
@@ -1407,17 +1462,6 @@
 <description>The AI music labels are rolling out now in YouTube Music and will come to YouTube soon.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-1152x648.png" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/youtube-music-gen-ai-labels-fill2-1152x648.png" medium="image"/>
-</item>
-<item>
-<title>Rewilding could help vulnerable islands keep pace with rising seas</title>
-<link>https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands</link>
-<guid isPermaLink="false">3dc31d043f94e1cbfb99d0b9769d8660b089d5f5677b0ef5e76af7497fe97edc</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 15:05:40 +0000</pubDate>
-<description>Seabirds, native plants, and healthy reefs can help atolls build as seas rise.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/researchersatoll-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/researchersatoll-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans</title>
@@ -2376,28 +2420,6 @@
 <media:content url="https://media.wired.com/photos/6ace7f14e7efb271b8268bc8/master/pass/2026_Q3_Web_TUDelft_Drones_0182.jpeg" medium="image"/>
 </item>
 <item>
-<title>Tesla’s Roadster 2 Is Late—and Entering a Different EV World</title>
-<link>https://www.wired.com/story/tesla-roadster-2-is-late-and-entering-a-different-ev-world</link>
-<guid isPermaLink="false">dc36994a7859ff3e9a348b5ee843874b60df4185f1bdbf13e3a50f49f400694c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 09:15:00 +0000</pubDate>
-<description>Nine years after its reveal, the overdue Roadster is set to debut on Thursday to an EV market that has grown skeptical of electric hypercars.</description>
-<enclosure url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aceb1911c96dec39a5cc07b/master/pass/Tesla-Roadster-Walkup-Gear-AP-551443509667.jpg" medium="image"/>
-</item>
-<item>
-<title>AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity</title>
-<link>https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity</link>
-<guid isPermaLink="false">141c6c1dfeb273cd347e4e1bec370921bcfd7db515db6ca74184d19ce6baca50</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
-<description>“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.</description>
-<enclosure url="https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg" medium="image"/>
-</item>
-<item>
 <title>AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host</title>
 <link>https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</link>
 <guid isPermaLink="false">dce2d98112cca9f3273759ecef710cd86ad2600946b0ad8ba2eb5682a0f36a3e</guid>
@@ -3025,17 +3047,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/switch-to-safari.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple and Epic clash over document production in latest App Store court filing</title>
-<link>https://9to5mac.com/2026/10/12/apple-and-epic-clash-over-document-production-in-latest-app-store-court-filing</link>
-<guid isPermaLink="false">903d15e05cb2ee5ec462d3fb18fabe1b111846908f8467eb1c38772404b5b747</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 21:36:56 +0000</pubDate>
-<description>Epic Games is accusing Apple of “manufacturing” a pause in the legal proceedings over its proposed new App Store commission rates. Apple disagrees. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/03/epic-app-store.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</title>
 <link>https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html</link>
 <guid isPermaLink="false">6297931f11be8be3b1576ac6ea66cef90802dddda730cb48ac08a94cbda4b3f8</guid>
@@ -3056,16 +3067,5 @@
 <description>The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up. Regardless, the tech world is mesmerized by the capabilities and potential of these services. Less than a year</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg" medium="image"/>
-</item>
-<item>
-<title>Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports</title>
-<link>https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html</link>
-<guid isPermaLink="false">001d5c2cb7d776f3d0934251eeeb36a1c3b17f6cebb7edf15b3efffba1830128</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 12 Oct 2026 11:21:48 +0000</pubDate>
-<description>Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased products from CryptoBilis. The incident is said to have resulted in losses totaling more than $86</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4nzJQQovkKtR-dl3ihW4VRAfIxiKwNwwVEHyH06we8iIkQbaxVqhryWIwB9MflLHfBYAd_opklCfnkLxg-GKqB2yt4CisdNcf2lRvOoaYHo9Pa6m1OWatzNsFHmY1ICBH_0P2XX4ykgFE7Gqviz0C0_8J0Qqz36_3gygDyHbot9z5obuYEHunIFsZmPQV/s1600/ledgers.jpg" medium="image"/>
 </item>
 </channel></rss>

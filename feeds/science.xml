@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Artemis II Heat Shield After Splashdown</title>
+<link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown</link>
+<guid isPermaLink="false">5357de9353ef4cacb37b6e1a9913005f0f26b4206cb8243b8b16bcc846ff5e2f</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
+<description>Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>I Am Artemis: Allison Mjoen</title>
 <link>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen</link>
 <guid isPermaLink="false">85f88b8870b3ee66e38ab8edc2cec933ebae6379276a13a1430367bc5b923f94</guid>
@@ -241,17 +252,6 @@
 <category>science</category>
 <pubDate>Thu, 15 Oct 2026 16:13:08 +0000</pubDate>
 <description>Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, […]</description>
-</item>
-<item>
-<title>NASA Awards Enable Research, Technology to Build Future Workforce</title>
-<link>https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce</link>
-<guid isPermaLink="false">53bbcf1ad4102f256186ed445bbd3500c5819c2ad55cb939cfaeb2596c9502f8</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 15:57:47 +0000</pubDate>
-<description>NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space. Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/01/taking-in-the-view-surface-from-hls.webp?w=1280" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2024/01/taking-in-the-view-surface-from-hls.webp?w=1280" medium="image"/>
 </item>
 <item>
 <title>Mysterious brain activity under anesthesia challenges what we know about consciousness</title>
