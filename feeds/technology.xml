@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack</title>
+<link>https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack</link>
+<guid isPermaLink="false">cdb2e3ee5c435a5ed4fed0e08de0686b5099e7f75a155955dda607d4b7be6a4d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:18:51 +0000</pubDate>
+<description>ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]</description>
+</item>
+<item>
+<title>Meta removes language that may have allowed it to scrape news sites</title>
+<link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
+<guid isPermaLink="false">0b81a58f5b3fe1314623827b8a9e8ec43bb517860bb380baf5cd60ad6a17ac11</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
+<description>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</title>
+<link>https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale</link>
+<guid isPermaLink="false">5e77e5d05a55500be66cf2f3f00a60d1f7766b24672f6bc1f42b1c9f394a4931</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:00:00 +0000</pubDate>
+<description>If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Common problems with Amazon Alexa and how to fix them</title>
+<link>https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes</link>
+<guid isPermaLink="false">696e77f53ddc7a42e6fa7ac6f7773e54e46375f3699ef0fa0dc1950bf1b64940</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:00:00 +0000</pubDate>
+<description>Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie.</description>
+<enclosure url="https://www.engadget.com/img/gallery/common-problems-with-amazon-alexa-and-how-to-fix-them/l-intro-1791500328.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/common-problems-with-amazon-alexa-and-how-to-fix-them/l-intro-1791500328.jpg" medium="image"/>
+</item>
+<item>
 <title>Drupal patches critical RCE flaws, warns exploits may emerge soon</title>
 <link>https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon</link>
 <guid isPermaLink="false">58f47558d22e32b235c6f909a5b482a49e12ef9118f9b40647bf210b5b6ee566</guid>
@@ -513,28 +555,6 @@
 <description>Thrusters are as good at flipping cars as they are at hunting ballistic missiles.</description>
 <enclosure url="https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg" medium="image"/>
-</item>
-<item>
-<title>We can finally hear some of Wu-Tang Clan&amp;#8217;s Once Upon A Time in Shaolin album</title>
-<link>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</link>
-<guid isPermaLink="false">09244700ab260576936c00a4476b0585b5a8321d42f326e97dd3c7289211f9ef</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 20:50:27 +0000</pubDate>
-<description>Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</title>
-<link>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</link>
-<guid isPermaLink="false">be1f6d896cd0ca7c16ee4f8f46db74a6f5e9cacb7c0a7cff9fe84930d9f34c43</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 20:49:04 +0000</pubDate>
-<description>After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles." Video released by CHP shows the Tesla speeding […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>9to5Mac Overtime 086: Apple’s smart home reboot</title>
@@ -1134,17 +1154,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Steam Achievement Sets will stop DLCs from ruining your 100 percent record</title>
-<link>https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs</link>
-<guid isPermaLink="false">282d403f1d3cd8fad928de1cb6015af067db565ce2ce3a5a6ce2287a621fc993</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:54:54 +0000</pubDate>
-<description>Steam has launched Achievement Sets in beta.</description>
-<enclosure url="https://www.engadget.com/img/gallery/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record/l-intro-1792151622.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/steam-achievement-sets-will-stop-dlcs-from-ruining-your-100-percent-record/l-intro-1792151622.jpg" medium="image"/>
-</item>
-<item>
 <title>AI Decision Models and Their Impact on AI SOC Platforms</title>
 <link>https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html</link>
 <guid isPermaLink="false">3f11a9ccfb4f1a93f7c7a87a7450dc27107411d9b2b2b37a6164cc993a79a347</guid>
@@ -1167,17 +1176,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
-<link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
-<guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
-<description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
-<enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
 <link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
 <guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
@@ -1187,6 +1185,17 @@
 <description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
 <enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
+</item>
+<item>
+<title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
+<link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
+<guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
+<description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
+<enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight</title>
@@ -1947,15 +1956,6 @@
 <description>Today marks a milestone for MacPaw, as the company is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done, following a development process that began back in 2019. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Police arrests 95 suspects in international CSAM crackdown action</title>
-<link>https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown</link>
-<guid isPermaLink="false">3f2ea439d67872821129d7c1a1d745789179406dd9bf46429bc8f25b7dc94695</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 11:55:38 +0000</pubDate>
-<description>Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]</description>
 </item>
 <item>
 <title>Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early</title>
