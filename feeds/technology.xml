@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple’s HomeView is just the latest threat to online recipe writers</title>
+<link>https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting</link>
+<guid isPermaLink="false">742b811341ce80f2fbc9bb5222b0bed0147459cc30b5369177d74a0f0379b4ce</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+<description>When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-Cooking_73277b.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>It’s a dream week for tech docs</title>
+<link>https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer</link>
+<guid isPermaLink="false">4110b70294c70551abaab2d3114cfff0b5a71f424fef850bcbf139fc22594041</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 12:00:00 +0000</pubDate>
+<description>Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Marc Andreessen and the future of […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-148.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out</title>
 <link>https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games</link>
 <guid isPermaLink="false">ee96fdea00444958812d8be5b0247c52b333da89d879be5d81f4b16b760ae2e1</guid>
@@ -695,17 +717,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>A fake WhatsApp clone is showing up before the real version on the Play Store</title>
-<link>https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android</link>
-<guid isPermaLink="false">bf25cd44780fc5b4162cf1c233776ddd5d4fc3ec6736bb1e2f52fc8a5b8ed87b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:02:23 +0000</pubDate>
-<description>After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a "sponsored" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/acastro_STK460_googlePlay_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more</title>
 <link>https://9to5mac.com/2026/10/16/best-iphone-duo-cases-now-available-purchase</link>
 <guid isPermaLink="false">4ec31787cf4c17075a178662749107dd024cafb37fa1f86f544431b84377754d</guid>
@@ -715,17 +726,6 @@
 <description>Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grain covers. Those, of course, join some ultra-affordable models starting from $27 or less and you can scope them all out below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops</title>
-<link>https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions</link>
-<guid isPermaLink="false">54ebdfe79863725a246639b5c6b95702e14b5aa2d35c657c4437d094bff7889d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:00:00 +0000</pubDate>
-<description>Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new "superchip." RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Maybe Chatbots Shouldn’t Get to Say ‘I’ or ‘Me’</title>
