@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Websites are closing their doors to AI agents</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
+<guid isPermaLink="false">b31543fcd7d1501be961df37b837ad04655b4329769fd3a14ac52809f997151e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+<description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Bose’s new wired earbuds are simple in the best way</title>
+<link>https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review</link>
+<guid isPermaLink="false">5a085879e93b85775cd00edfea606620b1f4093363ac85183b12ff03be25f4af</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+<description>After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How to create iPhone Shortcuts with Apple Intelligence (and why you should)</title>
+<link>https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should</link>
+<guid isPermaLink="false">9ec66ef89afb82531fcc3253eac1f069814635353a9b1b31c96c7ffa61a79f21</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+<description>When it works, it works!</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/l-intro-1791819599.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/l-intro-1791819599.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27</title>
+<link>https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27</link>
+<guid isPermaLink="false">497bf7fc5c24459cf4f6d2c5c4db142b2d03a8973653609758e38aa1d53c28fe</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
+<description>Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . When installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are waiting until the last minute to deploy Apple Silicon-native tools. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>These common charging habits could be degrading your EV battery</title>
 <link>https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery</link>
 <guid isPermaLink="false">18d52449538f2230fecb7ad5f67047b2710eac3369ea1ca426702b23af239016</guid>
@@ -752,17 +796,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2296621320-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple&amp;#8217;s HomeView has an app problem</title>
-<link>https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast</link>
-<guid isPermaLink="false">ab0965bfa7423bc1191f681b33627e2fbb18523b907ed4fb14a1ccd7f790dbb3</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:38:17 +0000</pubDate>
-<description>It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VST_101626_YTB.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Jev is Vercel’s fastest-adopted AI model ever</title>
 <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever</link>
 <guid isPermaLink="false">08ae3f1b7d83d7996372b532a7118fab56ae90751c7c40f1d1392f071b635de9</guid>
@@ -803,17 +836,6 @@
 <description>iPhone Duo pre-orders opened today, but if you weren’t there right at the start, you likely now can’t get one before 2027 . That makes the iPhone Duo launch a massive success, but also reflects a missed opportunity for Apple. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades</title>
-<link>https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus</link>
-<guid isPermaLink="false">1192e69af9972b8ca491268b4f3abd55cbbc81513a96988fe5d90fba0b190b49</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 15:08:38 +0000</pubDate>
-<description>Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a "reworked industrial design" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/analogue1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Best iPhone Duo cases now available for purchase: Fabric, leather, aramid fiber, metal, more</title>
@@ -1406,17 +1428,6 @@
 <category>technology</category>
 <pubDate>Thu, 15 Oct 2026 23:33:45 +0000</pubDate>
 <description>Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.</description>
-</item>
-<item>
-<title>Withings wants new users to pay $100 a year to sync with Apple Health</title>
-<link>https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health</link>
-<guid isPermaLink="false">dc6c392179ffe78b1777a6649a3ef6731b1166e49b2f5868cefb17e83a73348b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 23:02:04 +0000</pubDate>
-<description>The smart health company is gating third-party app syncing to its own subscription plan for new users.</description>
-<enclosure url="https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/l-intro-1792105014.jpg" medium="image"/>
 </item>
 <item>
 <title>KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell</title>
@@ -2990,17 +3001,6 @@
 <description>Today Apple unveiled its new HomeView product in two models, one with a speaker base and the other built for wall mounting. But if you buy the latter, just know you’ll need to spend more for a separate mount. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-wall-mounted-model.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-wall-mounted-model.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>You can buy the new, improved Siri Remote for your existing Apple TV 4K</title>
-<link>https://9to5mac.com/2026/10/13/you-can-buy-the-new-improved-siri-remote-for-your-existing-apple-tv-4k</link>
-<guid isPermaLink="false">299974bfc9700d21255250be88b744985f131a27095e3477e6d420e8708b192e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 13:46:26 +0000</pubDate>
-<description>Today Apple unveiled the long-awaited new Apple TV 4K model , which includes an updated Siri Remote with a built-in speaker as part of its Find My and Precision Finding support. But even if you’re not upgrading, you can still buy the new Siri Remote for your current Apple TV. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/siri-remote-4th-gen-apple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation</title>
