@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Anthropic says its workforce has become less junior and is spending more time in meetings</title>
+<link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings</link>
+<guid isPermaLink="false">ec0f189f0b04dacca897c257b7171eae40492c104343e16c1337c315f46a6815</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 20:21:19 +0000</pubDate>
+<description>The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.</description>
+</item>
+<item>
 <title>TikTok bans Musk documentary account</title>
 <link>https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary</link>
 <guid isPermaLink="false">e41822633f704ba720543e489022b1bfba1ee44653b8640ea5dd381c4fbdd743</guid>
@@ -1660,15 +1669,6 @@
 <description>A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta launches an open-weight AI model that runs on Macs</title>
-<link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs</link>
-<guid isPermaLink="false">8243c9a70d3f19e15eb8c3747fe4d12714491a340cfa3eafd37a0866cf92c4a7</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 20:04:53 +0000</pubDate>
-<description>Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.</description>
 </item>
 <item>
 <title>Here’s Apple’s official response to OpenAI’s trade secret theft allegations</title>
