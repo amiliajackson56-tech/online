@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>EE announces iPhone Handoff pricing details for UK customers</title>
+<link>https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk</link>
+<guid isPermaLink="false">c9d4bad6a8ef458d89fa32d0b096bbb260365625d3f7ed57c13b3051949e66bb</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:54:02 +0000</pubDate>
+<description>As part of its iPhone Duo preorder announcement, UK carrier EE has announced pricing details for iPhone Handoff – making it the first carrier in the UK to do so. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-rc.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Ember’s new temperature-controlled mug makes my nightly tea ritual even better</title>
+<link>https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better</link>
+<guid isPermaLink="false">39b6d838e3143428ec008fb0852b45fba8817a044eeda983683b4b1a352487bb</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:30:00 +0000</pubDate>
+<description>The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.</description>
+</item>
+<item>
+<title>Why are some locations blurred out on Google Maps?</title>
+<link>https://www.engadget.com/2284032/why-some-places-blurry-google-maps</link>
+<guid isPermaLink="false">d86264eb75cb2a8a7a10582574985eba5bf0f2c044185946b361d31eb8c60d79</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 15:30:00 +0000</pubDate>
+<description>When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-are-some-locations-blurred-out-on-google-maps/l-intro-1791496081.jpg" medium="image"/>
+</item>
+<item>
 <title>Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack</title>
 <link>https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack</link>
 <guid isPermaLink="false">cdb2e3ee5c435a5ed4fed0e08de0686b5099e7f75a155955dda607d4b7be6a4d</guid>
@@ -11,28 +42,6 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 15:18:51 +0000</pubDate>
 <description>ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]</description>
-</item>
-<item>
-<title>Meta removes language that may have allowed it to scrape news sites</title>
-<link>https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites</link>
-<guid isPermaLink="false">0b81a58f5b3fe1314623827b8a9e8ec43bb517860bb380baf5cd60ad6a17ac11</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 15:04:36 +0000</pubDate>
-<description>After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update</title>
-<link>https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale</link>
-<guid isPermaLink="false">5e77e5d05a55500be66cf2f3f00a60d1f7766b24672f6bc1f42b1c9f394a4931</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 15:00:00 +0000</pubDate>
-<description>If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Common problems with Amazon Alexa and how to fix them</title>
@@ -555,6 +564,28 @@
 <description>Thrusters are as good at flipping cars as they are at hunting ballistic missiles.</description>
 <enclosure url="https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/l-intro-1792184255.jpg" medium="image"/>
+</item>
+<item>
+<title>We can finally hear some of Wu-Tang Clan&amp;#8217;s Once Upon A Time in Shaolin album</title>
+<link>https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli</link>
+<guid isPermaLink="false">09244700ab260576936c00a4476b0585b5a8321d42f326e97dd3c7289211f9ef</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 20:50:27 +0000</pubDate>
+<description>Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record. Once Upon A Time in Shaolin has a […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2298537487.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars</title>
+<link>https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash</link>
+<guid isPermaLink="false">be1f6d896cd0ca7c16ee4f8f46db74a6f5e9cacb7c0a7cff9fe84930d9f34c43</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 20:49:04 +0000</pubDate>
+<description>After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles." Video released by CHP shows the Tesla speeding […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>9to5Mac Overtime 086: Apple’s smart home reboot</title>
@@ -1101,17 +1132,6 @@
 <description>Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.</description>
 </item>
 <item>
-<title>An OpenAI research agent 'stole' test Ethereum to finish a coding task</title>
-<link>https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task</link>
-<guid isPermaLink="false">f87e61197f65779e790f1adb9b78b75ea830a07f050d8e5bf8f560eb4f32ad94</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 12:50:24 +0000</pubDate>
-<description>An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.</description>
-<enclosure url="https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task/l-intro-1792154835.jpg" medium="image"/>
-</item>
-<item>
 <title>iPhone Duo sells out immediately, now backordered until next year</title>
 <link>https://9to5mac.com/2026/10/16/iphone-duo-pre-orders-now-backordered-to-next-year</link>
 <guid isPermaLink="false">ed7dd4ef377b7f4ec9ece6d1484fad2f97d07333c5d3894ddef4b7a41f9db8fc</guid>
@@ -1176,17 +1196,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
-<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
-<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
-<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
-<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
-</item>
-<item>
 <title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
 <link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
 <guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
@@ -1196,6 +1205,17 @@
 <description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
 <enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
+<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
+<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
+<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
+<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
 </item>
 <item>
 <title>The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight</title>
@@ -1344,17 +1364,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
-<link>https://www.wired.com/story/total-wireless-promo-code</link>
-<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
 <title>Skechers Coupon Codes 20% Off</title>
 <link>https://www.wired.com/story/skechers-coupon-codes</link>
 <guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
@@ -1364,6 +1373,17 @@
 <description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
 <enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
+</item>
+<item>
+<title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
+<link>https://www.wired.com/story/total-wireless-promo-code</link>
+<guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>HP Coupon Codes and Deals October 2026</title>
@@ -1638,15 +1658,6 @@
 <description>Apple has responded to OpenAI’s allegations that one of its former employees who departed for Apple took confidential files along with him. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps</title>
-<link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps</link>
-<guid isPermaLink="false">f159e33b88a953e59ea9ebeb254fccbcc54f6cfe49844470011b43389aeb3ccd</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 19:55:25 +0000</pubDate>
-<description>Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.</description>
 </item>
 <item>
 <title>Android gets AI defenses against messaging scams, fake calls</title>
@@ -2990,17 +3001,6 @@
 <description>Update: The all-new HomeView smart display, next-generation Apple TV 4K, and HomePod mini 2 are now available for pre-order. Just after the reveal of AirPods Max 2 with $120 in savings, and there’s still time to land the mid-range M6 Mac mini at nearly $150 off . Those deals are joining some brilliant M5 Pro MacBook Pro discounts this week with as much as $600 off the list prices (there are a pair of configurations that are actually $200 less than the pre-price hike MSRPs right now). On top of that, the $199 clearance deal on this Black Titanium Apple Watch Ultra 3 is back, we have Anker’s new Nano Neo 45W/60W dynamic charger for your iPhone 18 Pro at just $20, and a whole lot more waiting below, including the iPhone Duo-ready Apple Pencil (USB-C). more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Deals-MacBook-Pro-AirPods-Ultra.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Deals-MacBook-Pro-AirPods-Ultra.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple confirms HomePod mini 2 won’t have Siri AI at launch</title>
-<link>https://9to5mac.com/2026/10/13/apple-confirms-homepod-mini-2-wont-have-siri-ai-at-launch</link>
-<guid isPermaLink="false">b0dd97fe398895c5c1613a436d8f4708d2e3b41d64fe6a9d3d028f0158ae8047</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 14:47:06 +0000</pubDate>
-<description>Today Apple introduced HomePod mini 2 with Siri AI as a major tentpole feature. HomePod mini 2 ships on October 30, but checking the fine print on Apple’s website, it seems Siri AI won’t be available on launch day. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-mini-2-pink-green-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-mini-2-pink-green-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation</title>
