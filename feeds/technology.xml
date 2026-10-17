@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>HTC Made Smart Glasses That Are Way More Private</title>
+<link>https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta</link>
+<guid isPermaLink="false">9f5b1b980a793cf1a932f0cfbf62f6d40e116e34ff6d6bf9780fbb7b4b1c28f6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 10:30:00 +0000</pubDate>
+<description>These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.</description>
+<enclosure url="https://media.wired.com/photos/6ad2cf84d0032abb88177a54/master/pass/7-full_SM.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad2cf84d0032abb88177a54/master/pass/7-full_SM.jpg" medium="image"/>
+</item>
+<item>
+<title>Don’t Let a Crypto Inheritance Get Stuck on the Blockchain</title>
+<link>https://www.wired.com/story/crypto-inheritance-how-to</link>
+<guid isPermaLink="false">186640425f632aa004130189c5fb8f0506a3c5581210908970d0d767e36313fe</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 17 Oct 2026 10:30:00 +0000</pubDate>
+<description>Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn’t have to be.</description>
+<enclosure url="https://media.wired.com/photos/6ad1f0ac654d391d88f8bd34/master/pass/Bitcoin%20Legacy.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad1f0ac654d391d88f8bd34/master/pass/Bitcoin%20Legacy.jpg" medium="image"/>
+</item>
+<item>
 <title>Microplastics React With Water, a New Study Says. That’s a Problem for Biology</title>
 <link>https://www.wired.com/story/microplastics-react-with-water-new-study-says-thats-a-problem-for-biology</link>
 <guid isPermaLink="false">5b8f7c06c9afe946288978f352a888b7beb8949a6d24526704cc0d4914fa0577</guid>
@@ -1106,17 +1128,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>Skechers Coupon Codes 20% Off</title>
-<link>https://www.wired.com/story/skechers-coupon-codes</link>
-<guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
-<description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
-<enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
-</item>
-<item>
 <title>Total Wireless Promo Codes &amp; Deals: 50% Off Select Plans</title>
 <link>https://www.wired.com/story/total-wireless-promo-code</link>
 <guid isPermaLink="false">b6650a5bc0b1fd7bbfb22c69c30bf17d51a804af993e9ff4fe65df76943a69c3</guid>
@@ -1126,6 +1137,17 @@
 <description>Find great deals for Total Wireless, like 50% off select plans, and enjoy big savings.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Skechers Coupon Codes 20% Off</title>
+<link>https://www.wired.com/story/skechers-coupon-codes</link>
+<guid isPermaLink="false">a6e009ecefdbae423044503e6a838ddb0b56e47bec165e66263fa7c5f45dd3a8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 05:00:00 +0000</pubDate>
+<description>Learn how to find, compare, and apply the best Skechers online discounts to save on comfortable sneakers, athletic apparel, and accessories.</description>
+<enclosure url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
 <title>HP Coupon Codes and Deals October 2026</title>
@@ -2561,28 +2583,6 @@
 <description>The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg" medium="image"/>
-</item>
-<item>
-<title>The Politics of Solar Energy Are Getting Weird, Mean, and a Little MAGA</title>
-<link>https://www.wired.com/story/the-politics-of-solar-energy-are-getting-weird-mean-and-a-little-maga</link>
-<guid isPermaLink="false">b7759926fe52d087ebd12bce3319829839b4d9f38547f86e59a69a4c4a48f231</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>A mysterious super PAC that doubles as a pro-solar-energy outfit is funding some of the most knives-out attack ads of the midterms season.</description>
-<enclosure url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acef92248e0f30c1c04574c/master/pass/Business_The%20Green%20Movement%20Goes%20Knives%20Out%20for%20the%20Midterms_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>JackRabbit MG Cargo Bike Review (2026): Compact and Powerful</title>
-<link>https://www.wired.com/review/jackrabbit-mg-cargo-electric-bicycle</link>
-<guid isPermaLink="false">4e1ee63fe6bb37e6b4af7e95c60a5321f56c58fd354be58f70933035e7c94890</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 10:30:00 +0000</pubDate>
-<description>This compact, plucky ride is the cargo ebike for people who don’t want a cargo ebike. It’s even fun to ride.</description>
-<enclosure url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace50eeb4ce7b4026cc7e3c/master/pass/Review%20JackRabbit%20MG%20Cargo%20Review%20102026%20top%20art%20SOURCE%20Jackrabbit.jpg" medium="image"/>
 </item>
 <item>
 <title>AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host</title>
