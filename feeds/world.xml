@@ -4,15 +4,68 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Papers: 'French protests become violent' and SAS men 'arrested for murder'</title>
+<link>https://www.bbc.co.uk/news/articles/cwp9g4ryl4gro?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">f87153d0f52bad5d5249e8ff602cf45f2bb42c73aea47419f956f1c281b7759a</guid>
+<source>BBC News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:40:34 +0000</pubDate>
+<description>The Times reports soldiers accused of murder were sent into war zones while still under police investigation.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b836/live/67d3c2d0-ca7d-11f1-a00e-1561d16c9c25.png" medium="image"/>
+</item>
+<item>
+<title>19 dead, 25 hurt in stampede at India religious festival</title>
+<link>https://www.scmp.com/news/asia/south-asia/article/3371278/19-dead-25-hurt-stampede-india-religious-festival</link>
+<guid isPermaLink="false">70637b4031d5658498b61db02c129df8dfe86219d28c4b27df6fbd179a95f7d6</guid>
+<source>South China Morning Post</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:31:57 +0000</pubDate>
+<description>At least 19 people were killed and two dozen more injured on Saturday in eastern India after a stampede that occurred during sudden rainfall at a Hindu religious gathering, officials and Indian media said. West Bengal’s Chief Minister Suvendhu Adhikari told reporters the fatalities included a seven-year-old girl, adding that 25 other people were injured outside a pavilion “in a stampede” at the Hindu festival of Durga Puja in the city of Kolkata. “Six bodies have so far been identified,”...</description>
+<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/64fba989-a5c5-4fce-81d2-02a048cfa72b_3fa00724.jpg?itok=QzHzJAPu&amp;v=1792279908" type="image/jpeg"/>
+<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/64fba989-a5c5-4fce-81d2-02a048cfa72b_3fa00724.jpg?itok=QzHzJAPu&amp;v=1792279908" medium="image"/>
+</item>
+<item>
+<title>Dubai NRI’s 3.41 crore FCNR deposits get tax notice; ITAT spots yen-rupee error</title>
+<link>https://timesofindia.indiatimes.com/business/india-business/dubai-based-woman-invests-3-41-crore-in-fcnr-deposits-along-with-husband-gets-tax-notice-for-unexplained-money-itat-gives-relief-saying-bank-confirmed-source-and-ao-mistook-yen-for-rupees/articleshow/135016779.cms</link>
+<guid isPermaLink="false">4b0914ea999d2f89f042bf4099caae3de93e535472da0fd9070c25a6e4f0d83c</guid>
+<source>Times of India Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:29:00 +0000</pubDate>
+<description>A woman, who originally hails from Beawar, and now resides in Dubai, United Arab Emirates (UAE), decided to put money into investments in India. She along with her husband invested Rs 3.41 crore in two Foreign Currency Non-Resident (FCNR) term deposits. The husband’s name appeared as the first holder of both deposits, with the woman listed as the second holder.</description>
+<enclosure url="https://static.toiimg.com/photo/msid-135017069,imgsize-626462.cms" type="image/jpeg"/>
+<media:content url="https://static.toiimg.com/photo/msid-135017069,imgsize-626462.cms" medium="image"/>
+</item>
+<item>
+<title>Hurricane Trudy strengthens to category 2 as it heads toward Mexico</title>
+<link>https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico</link>
+<guid isPermaLink="false">21f85ee07e9a628d357804766da976063dac74c9a213105e1f6659261614267e</guid>
+<source>The Guardian World</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:24:40 +0000</pubDate>
+<description>Hurricane warning in effect from Manzanillo to Cabo Corrientes as storm moves toward Pacific coast Trudy strengthened to a category 2 hurricane as it moved toward Mexico’s south-western and west-central Pacific coast on Saturday, the US National Hurricane Center said. A hurricane warning was in effect from Manzanillo in Colima state to Cabo Corrientes in Jalisco. The latest NHC data showed Trudy with maximum sustained winds of 100mph (155km/h) and about 205 miles (330km) south/south-east of Cabo Corrientes and 115 miles (180km) south/south-west of Manzanillo, moving north-west at 10mph (17km/h). Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/a78115f167c62cf861f81f58446e1b9e6c266ea1/0_0_5417_4333/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=586a1cddf4151c0851d4bf6916b56e7d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/a78115f167c62cf861f81f58446e1b9e6c266ea1/0_0_5417_4333/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=586a1cddf4151c0851d4bf6916b56e7d" medium="image"/>
+</item>
+<item>
 <title>Two people, including child, killed after person drives through soccer game in Kansas</title>
 <link>https://www.theguardian.com/us-news/2026/oct/17/kansas-soccer-game-killings</link>
 <guid isPermaLink="false">f2abb7d0735ec7b501fcae629162b741bc21823a79faf360d21003d2a2e26da0</guid>
 <source>The Guardian World</source>
 <category>world</category>
-<pubDate>Sat, 17 Oct 2026 23:09:31 +0000</pubDate>
+<pubDate>Sat, 17 Oct 2026 23:22:06 +0000</pubDate>
 <description>The driver of the vehicle is in custody, and two juveniles were in the vehicle, according to Wichita police department Two people, including a child, were killed during a soccer game in Wichita, Kansas, when a person drove a vehicle through the field at Stryker soccer complex, police have confirmed. Multiple other people were injured. The driver of the vehicle is in custody, Aaron Moses of the Wichita police department said Saturday in a news conference . There were two juveniles in the vehicle, he said. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ce7d7457e9fa3b7bfa25d9792cb8370c78feaa97/540_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68d10d5c5759bff37a430bc12cbba0c7" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ce7d7457e9fa3b7bfa25d9792cb8370c78feaa97/540_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68d10d5c5759bff37a430bc12cbba0c7" medium="image"/>
+</item>
+<item>
+<title>Saudi-led coalition intercepts drones as Egypt weighs sending help</title>
+<link>https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss</link>
+<guid isPermaLink="false">9b26445cd5737b5a28d6f6453fdd706cd796f8e77017c70cac6d5f28bf1a7c72</guid>
+<source>Al Jazeera</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:21:57 +0000</pubDate>
+<description>Forces intercepted and destroyed four drones over Saudi Arabia's Riyadh, Eastern Province and southern region.</description>
 </item>
 <item>
 <title>Manifest: From reality TV to Wembley Arena in one turbulent year</title>
@@ -26,6 +79,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1182/live/ee2b5bb0-ca1c-11f1-bc2e-018d645d8d21.jpg" medium="image"/>
 </item>
 <item>
+<title>Auburn takes down Georgia: Tigers score massive upset over No. 1 Bulldogs on walk-off FG - CBS Sports</title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQVFJmSTRrRl94N2ZqLWNhNjlUbFlfUzF5SnFpY3MzUVpwSm9ZOG1lY0F3c3JubFFyZFZ6aDdyTTVPZ01ocE85VWZoNldZYlhGd3U0Mmdfa0VFbmktYm5CT0dhai1QU3MxWUJkYm1oVU1RSy1sMzFBZ1hEVDdob01hTU5sV29nVEtPMXZIN1BTS29wb1Rl?oc=5</link>
+<guid isPermaLink="false">bc87c674ed5c8fd36947108d2308c825b863a15278b21db19448c5052a5917e3</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:07:40 +0000</pubDate>
+<description>Auburn takes down Georgia: Tigers score massive upset over No. 1 Bulldogs on walk-off FG CBS Sports All the numbers behind Auburn's stunning upset of No. 1 Georgia ESPN Auburn football beats No. 1 Georgia KCCI Auburn shocks No. 1 Georgia as college football’s top-ranked team loses for second straight week The New York Times Auburn shocks No. 1 Georgia; Emotional Alex Golesh reveals son, 12, predicted win AL.com</description>
+</item>
+<item>
 <title>The playground murder: Trauma, loss and a love that endured</title>
 <link>https://www.bbc.co.uk/news/articles/cvj64l74e48po?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">8e149e8dec20ccea3911c45a15634b8705ecd9f417ef3d7dbd500d6c482235ef</guid>
@@ -37,13 +99,24 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3597/live/91a88040-c94d-11f1-9a39-31b474234113.jpg" medium="image"/>
 </item>
 <item>
-<title>European diplomats attacked in West Bank a day after beating of Post photographer - The Washington Post</title>
-<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVRQVkt2NVFCMG16ZmVhbmRvSTdsY2tLSlk5RTk1Mk5VbmdxSGI1TmNYOHRvWjNtay1Cc3otam10ckYzMjRsMmtvcmpQY0VJVm11b1h2Q0J6REpDUV9GM1ZMQjBrbElobDJjc2dTNGhTaHp1X0hRSVRHRko3OUE2Nkxnai00b0tBd0hMX1hCRGMtMTNZQ3N1YmhONC1naldZbXkyT2ppZUk1Z052SDRTaEdOc2plN1V1UnFKb3Bhdw?oc=5</link>
-<guid isPermaLink="false">7012070c72478e422af3a8e6d044e5f2a0ac060079fabf4bb16ebfb69b5c6fa4</guid>
-<source>Google News Top Stories</source>
+<title>California - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE5lZElDblFaYWZwaTFzV095cEJ1SUZHUEVWRnIxSXJRS2t0NmY3MXhTR3phT3YzT3lCNkZEdFJ6TjdUNjQtMmhOUA?oc=5</link>
+<guid isPermaLink="false">15553647455bc26806650d5a39ca6e394e073164c0ca2c7b7a79a785d519e6b5</guid>
+<source>AP News via Google News</source>
 <category>world</category>
-<pubDate>Sat, 17 Oct 2026 22:56:21 +0000</pubDate>
-<description>European diplomats attacked in West Bank a day after beating of Post photographer The Washington Post European diplomats attacked by Israeli settlers in West Bank BBC Israeli settlers attack European diplomats during West Bank olive harvest Al Jazeera Israeli Settlers Attack Palestinians and European Officials in West Bank The New York Times Lapid says he doesn’t trust Netanyahu not to launch Iran strike that could disrupt election The Times of Israel</description>
+<pubDate>Sat, 17 Oct 2026 23:00:11 +0000</pubDate>
+<description>California AP News</description>
+</item>
+<item>
+<title>SC: No need for nod to prosecute govt official seeking bribe</title>
+<link>https://timesofindia.indiatimes.com/india/sc-no-need-for-nod-to-prosecute-govt-official-seeking-bribe/articleshow/135022237.cms</link>
+<guid isPermaLink="false">88d093284bf4ed3716edff52b71a99bfd8529102c900faef209a80e59cedc01a</guid>
+<source>Times of India Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 23:00:01 +0000</pubDate>
+<description></description>
+<enclosure url="https://static.toiimg.com/photo/msid-135022238,imgsize-1794616.cms" type="image/jpeg"/>
+<media:content url="https://static.toiimg.com/photo/msid-135022238,imgsize-1794616.cms" medium="image"/>
 </item>
 <item>
 <title>Jamnagar on Rubio's two-day itinerary: Musk mellows on Reliance, ‘appreciates’ post</title>
@@ -90,13 +163,13 @@
 <media:content url="https://i.guim.co.uk/img/media/0d6c9c28d97cae6b01281fe77fc415463008dfe7/597_0_6581_5265/master/6581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c12551148207e8e627db448a27ada011" medium="image"/>
 </item>
 <item>
-<title>Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’ - NBC News</title>
-<link>https://news.google.com/rss/articles/CBMiugFBVV95cUxPZEd2a1FvRUJPLTdiNzRLUC1jM2VONFNaUEVHZ192UkFjMndWbi1KV0pOWjkxLXBDU3hQeERuZmhRYUJlNFRtbUxRYjd0V1M5MzJFRmxWZ2lGTEoyNl9QeEZrbmttbDlxdEMxWldaM2tfQVc2T2Y3b0pWUjFMZjBSRXdQUERnWWxsRUswRzJoVEpoLVBxSThPZHVuMElfVUJQbjFfamZ1SUhlbkRJa0xGblBWTGtHaXdONnc?oc=5</link>
-<guid isPermaLink="false">24d06cfa55f76ba100e5d5e67c780df66652d7671f5dbe57cee85bacb8da1d24</guid>
-<source>Google News Top Stories</source>
+<title>NFL Scores, News &amp; Stats | Latest Super Bowl News - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE9fRi02OXd4bXBMeDZqWl9nMVZwbF9YY3QyQzluc1o4U2RIR1VWMGR6VjVzTjVuSlFtOVVpeWhRRQ?oc=5</link>
+<guid isPermaLink="false">d4af335eaef7f0353b4e6b2614c3be4378c676c17b3b603a0d3409bbe06370ad</guid>
+<source>AP News via Google News</source>
 <category>world</category>
-<pubDate>Sat, 17 Oct 2026 22:31:00 +0000</pubDate>
-<description>Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’ NBC News Teacher fought US school attacker before armed dad shot suspect 'multiple times' BBC Second vigil carries pain, heaviness as community learns more details about Bend school shooting KGW What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom CNN Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children The Source - Bend, Oregon</description>
+<pubDate>Sat, 17 Oct 2026 22:31:50 +0000</pubDate>
+<description>NFL Scores, News &amp; Stats | Latest Super Bowl News AP News</description>
 </item>
 <item>
 <title>Jonathan Glazer was ‘shocked into silence’ by NAZA documentary</title>
@@ -132,15 +205,6 @@
 <media:content url="https://live-production.wcms.abc-cdn.net.au/106036995ef37ceb51fc9aa3eace4d26?impolicy=wcms_crop_resize&amp;cropH=1152&amp;cropW=2048&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" medium="image"/>
 </item>
 <item>
-<title>Steve Sarkisian vows an ‘evaluation’ of everything — even Arch Manning - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMipAFBVV95cUxPek9UMWJGT0ZTZ29jZ1NxX3NhWm9vQjFDNGh5Vmx2T3Mwa05Ec0lFSVBoQmVpWWJVaDhGcUMtckNUaFRoejFqT2Z1eWoxbDVMS3BYcW10VFN1RDRQQXQ4d2czTll4UDZLQXozMVloaFNRWE1nOGFyLU5idEN6VEFJSUJBNXdiTVJpT00zZHVYNnVJQjFzc2Nld29Bc2lsb0xJX0lVcw?oc=5</link>
-<guid isPermaLink="false">2c52676912dfbf468261af208c5d8dcd11fd0c13ac17df308b9cacfb7ec4efcc</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 22:29:16 +0000</pubDate>
-<description>Steve Sarkisian vows an ‘evaluation’ of everything — even Arch Manning The New York Times Sarkisian: Texas to 'evaluate everything' after loss to Florida ESPN Steve Sarkisian buyout, contract details: How much it would cost Texas to move on amid sudden slide CBS Sports Why the Texas running game is still lacking explosiveness Burnt Orange Nation Texas damages CFP hopes with Florida loss that puts heat on Steve Sarkisian | Opinion USA Today</description>
-</item>
-<item>
 <title>Dubois destroys Wardley in two rounds to retain title</title>
 <link>https://www.bbc.co.uk/sport/boxing/articles/c6gelq3zdy8wo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">0186b68a3eac616bd265184a0591d445f791f0f6311da2b934bba83b8391e03f</guid>
@@ -159,15 +223,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 22:27:19 +0000</pubDate>
 <description>Trump-Zelenskiy rift threatens vital support for Kyiv Reuters</description>
-</item>
-<item>
-<title>The aftermath of a school shooting in Oregon, in photos - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa3BVQ3NxY3E3dWFiU3BuWXlPb2ZMcnIyTFBySENFRDJhaGJEMUl2MHVyRF9TWDdicXh2dHVaUU9McmFRd3BXT2lBeFZjZkFBeVhoTk9COXNCdFJDbTdQTk1pOTNPVi1VRE8xX2NzRUV3a3RHWXBibUt0cERROWY0ekhMS3hHaUlPUU0yMjJYcG9Kdm9tM1dLcTNPdDZTcDh6Y2JQcXRaM1o?oc=5</link>
-<guid isPermaLink="false">9bc499eb3bf495c59a931d134e65d3fbbe02d691d9fb6a194ad755ac0a92eefe</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 22:26:00 +0000</pubDate>
-<description>The aftermath of a school shooting in Oregon, in photos AP News</description>
 </item>
 <item>
 <title>Muhammad Ali’s former training camp restored for $1m and reopened as museum</title>
@@ -212,6 +267,24 @@
 <description>Extremists assaulted residents and broke a European diplomatic vehicle’s window, witnesses said, as settler violence surges in the territory during the olive harvest.</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Israeli Settlers Attack Palestinians and European Officials in West Bank - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQemJmTlpuZGp1bFNxSUJ0SXYyUXVYUjkwbmg5ck0yUFYyUUstbEdlNUx3UERxc0lvS3J0bDhzdkZYeVl4bHJUR1VfazJqU3ZGQWNHV2dKSEVnXzlwem1WOThDaHplMlZEV2EtV3hZSVg3Y1h1anRpRWhxRGgxcWQ0cUhMRFg1bE5VWGdEWUgtbFprTXRKMDBYNHVubjRrTHhvcFZGU1VGQmNVTjJacFVRcDltVQ?oc=5</link>
+<guid isPermaLink="false">a0e90b7f11d2007a1ab585d3ccda4a04924fe1ac760ceea695a48ce0b6d4d1a7</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 22:15:45 +0000</pubDate>
+<description>Israeli Settlers Attack Palestinians and European Officials in West Bank The New York Times European diplomats attacked by Israeli settlers in West Bank BBC Israeli settlers attack European diplomats during West Bank olive harvest Al Jazeera Lapid says he doesn’t trust Netanyahu not to launch Iran strike that could disrupt election The Times of Israel Israeli settlers attack European diplomats in West Bank The Guardian</description>
+</item>
+<item>
+<title>Vehicle drives through Kansas soccer game, killing two, including a child, police say - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTXduZ3p6ZDh4VG5wY05HRmxTR2lvak9YbnNwN0FaYTlCMzE5enY5S3BpcmxNdk96V0dueGs1dWkzTkEzMmIyZnhFLTd3NW5VQUFVMFpRX2tNYWVaVWhQMmlWSHNCWVRhTUdhYVVzRGVPOU1oT0tlenFIRzdwR2RVU1pTclpfdmNqbHJiNXJ4MGpuaTFMaVJ0dzlzeE5NMG9PcHRHdUdjZENTdEotdkwtRzBjNzNuX1ZydDhjdTBxX1U?oc=5</link>
+<guid isPermaLink="false">3d020f4aa8518cf18bd0c0cb24d64ba3601930d6662e336ada64dbbd5cf168cc</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 22:10:58 +0000</pubDate>
+<description>Vehicle drives through Kansas soccer game, killing two, including a child, police say Reuters</description>
 </item>
 <item>
 <title>Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat</title>
@@ -282,7 +355,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 22:00:46 +0000</pubDate>
-<description>Dubois vs Wardley 2: Londoner retains title with dominant second-round stoppage BBC Daniel Dubois vs. Fabio Wardley LIVE: Boxing latest updates, results and analysis ESPN Daniel Dubois smashes through Fabio Wardley to win WBO heavyweight world championship rematch in the second round Sky Sports Daniel Dubois vs. Fabio Wardley Live Updates, Highlights and Results Bleacher Report Daniel Dubois vs. Fabio Wardley 2: Here’s Where to Watch the WBO Title Boxing Match Live Online Variety</description>
+<description>Dubois vs Wardley 2: Londoner retains title with dominant second-round stoppage BBC Daniel Dubois vs. Fabio Wardley: Fight results as Dubois stops Wardley in Round 2 ESPN Daniel Dubois smashes through Fabio Wardley to win WBO heavyweight world championship rematch in the second round Sky Sports Daniel Dubois delivers devastating second-round stoppage of Fabio Wardley to retain WBO title The Guardian Daniel Dubois vs. Fabio Wardley Live Updates, Highlights and Results Bleacher Report</description>
 </item>
 <item>
 <title>Beyond EVs and perception, how China is gaining ground in Central Asia</title>
@@ -296,13 +369,13 @@
 <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/725a7f09-1771-46df-980f-42b5240e1969_3a64ac1c.jpg?itok=-PP67260&amp;v=1792210966" medium="image"/>
 </item>
 <item>
-<title>Officers responding to ‘mass casualty incident’ at Wichita sports complex involving a vehicle - CNN</title>
+<title>2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex - CNN</title>
 <link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOEJ6REVSSGpqUnhpVVlBVFRVbE0yOUtJUVVHS25sNHc0bGNYNUpaQ3pkV3ZqdGlLS3NzZ196ZVZaQTctQkJWb3RCODF2Rmh5UEhPdDQ5emM0T0lVTVZfOThHQ3BWSExEVnl0TmZIWjlKeEhP?oc=5</link>
 <guid isPermaLink="false">7612913187eff7488ae8b62ad308cd8a66b2e22d0e973705303d4d77bbf5ce72</guid>
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 21:55:50 +0000</pubDate>
-<description>Officers responding to ‘mass casualty incident’ at Wichita sports complex involving a vehicle CNN See more headlines &amp; perspectives on Google News</description>
+<description>2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex CNN ‘Tragedy’: 1 child, 1 adult killed in ‘mass casualty’ incident at Stryker Sports Complex KWCH Large emergency response at Stryker Sports Complex after ‘incident’ KSN-TV Two killed, multiple injured when truck hits crowd at Wichita youth soccer game Wichita Eagle Police on scene of incident with multiple injuries in northeast Wichita KAKE</description>
 </item>
 <item>
 <title>Hurricane Trudy strengthens to Category 2 as it approaches Mexico coast - AP News</title>
@@ -323,15 +396,6 @@
 <description></description>
 <enclosure url="https://static.toiimg.com/photo/msid-135020334,imgsize-64008.cms" type="image/jpeg"/>
 <media:content url="https://static.toiimg.com/photo/msid-135020334,imgsize-64008.cms" medium="image"/>
-</item>
-<item>
-<title>U.S. News: Top U.S. News Today - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5</link>
-<guid isPermaLink="false">b01ce86589ef9d7becb7eea2611a82119d19b9612a2abfc715cd90f934f5b3b0</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 21:54:40 +0000</pubDate>
-<description>U.S. News: Top U.S. News Today AP News</description>
 </item>
 <item>
 <title>Violent Protests Rip Through Cities Across France</title>
@@ -359,7 +423,7 @@
 <guid isPermaLink="false">eb1c5765d35897095273f7b464693f90ace65a4c31e25b2812e9fd5ddc48fa8c</guid>
 <source>AP News via Google News</source>
 <category>world</category>
-<pubDate>Sat, 17 Oct 2026 21:43:30 +0000</pubDate>
+<pubDate>Sat, 17 Oct 2026 21:43:58 +0000</pubDate>
 <description>Kentucky Wildcats football AP News</description>
 </item>
 <item>
@@ -383,22 +447,13 @@
 <description>Michigan quarterback Bryce Underwood benched and replaced by Tommy Carr against Penn State AP News</description>
 </item>
 <item>
-<title>Trump signs order putting Russia sanctions on hold, drawing bipartisan anger - The Washington Post</title>
-<link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3k5eWRlOVpmZUFuR1pVdXllbU5veXJ0UTJHMUdwWUQxY0t2OTZNWDR4dktfc3NFZlQ4aHRjd3BhVC1ZdF9yLUhIeE9ZSElGdjBoeVFJX1MxNFJadHFlaG1QTHJTcVl1MEZOWllvTjduYUpuRURxRjNpRFU5M3ZhY3ItbnZoWHljeE9EdjV4bzBhMFUtZkYxb09TX2hWNElWTjZlZW1vbDF6LUF2Ul9lY0p3?oc=5</link>
-<guid isPermaLink="false">2fb85207a090347c52f037f14d1d5565976545e3794d6cc4681d4f0066e1d7a1</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 21:36:18 +0000</pubDate>
-<description>Trump signs order putting Russia sanctions on hold, drawing bipartisan anger The Washington Post Trump waives new Russia sanctions in the "national interests" Axios GOP Lawmakers Slam Trump Waiver of Russia Sanctions Yahoo Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen AP News Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress NBC News</description>
-</item>
-<item>
 <title>Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour - AP News</title>
 <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFA3aml3ZXJlRXJ4MkFBeHNZYkZvNGJGempQWkJpZDJxQTlnbFFPb1Nkb3RvNUZCR2JCNWZPT2tqNFQ1Y3NJWHNqWm5WcEtHWkJrMzN3cTdjQVV2ZmhnSUF6Y2tjWXZ0TVp1bnJrVURyYzdTU0psdXpDNFRTQjgwQUNybXphRW93NFYwa3JVdUJHRjYzUE8xTUphLVdLZDg?oc=5</link>
 <guid isPermaLink="false">f75cec0781e1dc1522641210d4d9fc0daae7437deb20d3944535d63d5e1ebf4e</guid>
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 21:35:00 +0000</pubDate>
-<description>Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour AP News ‘I Am Much Better, Thank You’: Pope Leo Leaves Hospital, Days After Lung Surgery The New York Times Pope’s surgeon: No clinical reason to cancel visit to South America Vatican News Pro-Western opposition keeps control of Czech Senate after big election gains AP News Pope Leo XIV’s brother shares his own cancer battle, the role of faith and his 1 request OSV News</description>
+<description>Pope returns to Vatican days after surgery; surgeon says he should be fit for Latin America tour AP News Pope Leo returns to Vatican four days after cancer surgery Reuters ‘I Am Much Better, Thank You’: Pope Leo Leaves Hospital, Days After Lung Surgery The New York Times Pope’s surgeon: No clinical reason to cancel visit to South America Vatican News Pope Leo XIV has lung cancer called adenocarcinoma. Here’s what that means AP News</description>
 </item>
 <item>
 <title>Champions Cup roundup: La Rochelle beat Lions after emotional tribute to Andrews</title>
@@ -456,18 +511,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 21:27:00 +0000</pubDate>
-<description>Police clash with protesters during huge demonstrations across France CNN Half a million protesters sweep France in major show of youth unrest CNN Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest Fox News Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests BBC Unrest Mars Day of Protest in France, as Student Movement Turns National The New York Times</description>
-</item>
-<item>
-<title>Martha’s Vineyard rejects 54-acre housing plan after seven marathon meetings</title>
-<link>https://timesofindia.indiatimes.com/world/us/marthas-vineyard-rejected-a-54-acre-subdivision-with-26-below-market-lots-and-19-luxury-homes-after-seven-marathon-meetings-leaving-land-bought-for-6-6-million-in-2017-undeveloped-for-now/articleshow/135009806.cms</link>
-<guid isPermaLink="false">465cb88c39a5c0fecbd83b87d89953f89bab9176409fbafacffc0928eb078a05</guid>
-<source>Times of India Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 21:24:00 +0000</pubDate>
-<description>Martha's Vineyard's planning board has turned down the Katama Meadows housing initiative after thorough discussions. This project sought to meet housing demands through a mix of affordable and market-rate homes catering to essential workers. However, environmental concerns regarding nitrogen pollution and the inclusion of luxury properties raised significant opposition, leading to the decision. The land remains with the developers, who may consider a revised proposal in the future.</description>
-<enclosure url="https://static.toiimg.com/photo/msid-135018521,imgsize-331922.cms" type="image/jpeg"/>
-<media:content url="https://static.toiimg.com/photo/msid-135018521,imgsize-331922.cms" medium="image"/>
+<description>Police clash with protesters during huge demonstrations across France CNN Half a million protesters sweep France in major show of youth unrest CNN Unrest Mars Day of Protest in France, as Student Movement Turns National The New York Times Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest Fox News 'No place for violence,' Macron says, as protesters clash with police in cities across France BBC</description>
 </item>
 <item>
 <title>AI helps to track lobsters when 'no two shells are the same'</title>
@@ -512,6 +556,15 @@
 <description>California officials who process ballots from suspected noncitizens risk prosecution, US warns AP News</description>
 </item>
 <item>
+<title>Texas, Minnesota candidates fuel latest 2026 midterm election news - Fox News</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHBhaFFtSWNuUnlBcEMzZnRMNU1tWW9XWU9WYkdMNTRiTGhhaUR0X3gyU19TVWFHeXl4ZHBoQ3Zxa1ctdWc1T1NMS0dMbGNmcm9qbE5kb25mVHBTdnpGM19KR3VpN0dMWlotWG40NEE2bjA3X184eTQ0aVE2RVhnYjJWVlliYkQ5Tzh0Z2hsVnRtY1RMRjRxcldSVmRKZUFxSHA2bHM2SGlNR3dDcnk5SzFQZkQ?oc=5</link>
+<guid isPermaLink="false">7bd8c365e03e6a30e0bf0ed68fe8409214d1514cb6058c2fff120a80ded940b2</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 21:16:18 +0000</pubDate>
+<description>Texas, Minnesota candidates fuel latest 2026 midterm election news Fox News Peggy Flanagan, Michele Tafoya square off in testy Minnesota Senate debate MPR News Buy SpaceX ahead of earnings, says Evercore ISI CNBC Republicans eye a potential opportunity in Minnesota in a tough midterm climate NBC News Fraud, affordability and Trump policies drive friction in Minnesota Senate debate NPR</description>
+</item>
+<item>
 <title>Siblings with feet turned backwards get life-changing care</title>
 <link>https://www.abc.net.au/news/2026-10-18/siblings-with-birth-defect-recieve-donated-care/107271116</link>
 <guid isPermaLink="false">de80a7e3d0a6b7204072b33c95608972f699a8f89655c95c20dc972c94fecb54</guid>
@@ -530,6 +583,24 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 21:08:10 +0000</pubDate>
 <description>Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.</description>
+</item>
+<item>
+<title>Ukraine still unable to intercept Russian drones due to Starlink restrictions, Zelenskyy says - CBS News</title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3VUUE5BbS1CRjF4ZHhJSVB4dHlxQ2NWM3VOZU05RHFYWU9UYTE3UDluUDAyQUVxTGR0d0dnNmNnam1QTDZ2cjRxcHVvN1hfV05waGdLYm5TZkdCNjFLX1hHWWNDanl0ZFp5QnA3TmU0WUMzS2VwNVQ4SUd3VFNrclZFb3FSc0k?oc=5</link>
+<guid isPermaLink="false">72aacc52a0d3ba8f1bee4d9a9e3b8b02628afa6c4495a7ebc7cf336385f8ce22</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 21:06:14 +0000</pubDate>
+<description>Ukraine still unable to intercept Russian drones due to Starlink restrictions, Zelenskyy says CBS News EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters Zelensky says Musk-owned satellite system still restricted in Ukraine Axios 4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage The Hill Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network AP News</description>
+</item>
+<item>
+<title>Brazil - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5</link>
+<guid isPermaLink="false">7212c87ce750bb88788f6e0c031c72f154fce16dfad37a759a1d5221f0749ca5</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 21:05:55 +0000</pubDate>
+<description>Brazil AP News</description>
 </item>
 <item>
 <title>Albanian police fire rubber bullets as student protests rage - Reuters</title>
@@ -572,13 +643,13 @@
 <media:content url="https://live-production.wcms.abc-cdn.net.au/0020b3e52338277e79801147441ac42b?impolicy=wcms_crop_resize&amp;cropH=2730&amp;cropW=4853&amp;xPos=0&amp;yPos=1566&amp;width=862&amp;height=485" medium="image"/>
 </item>
 <item>
-<title>Fisherman, 71, attacked and killed by 12-foot alligator alongside Florida lake - AP News</title>
+<title>Fisherman, 71, killed by 12-foot alligator alongside Florida lake - AP News</title>
 <link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNYWs0Y0xMUzZxN3Z1anpnTDJOMDNUVDR2eFpIV0NrVjlzem9XUFhXTjZ0MnFVbUNvUkgzV280T0hTSkVlR21TRHBJR3RqdjhCMUc3NTNqakVfNVgxZ2tENFhnbkVUSXZENDJKZFdOeWo0dU5Vb0FnRjFSVUlMVVdqaTF1dkcybFdnelhWSllfOXlyWjZuWWV6N2xCLXVmek9nOUJV?oc=5</link>
 <guid isPermaLink="false">5fa8df9d92f44c742b1e981af9dc86b1a5c90d16e19f0e3c5e72132812f3b667</guid>
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 21:00:00 +0000</pubDate>
-<description>Fisherman, 71, attacked and killed by 12-foot alligator alongside Florida lake AP News Alligator kills 71-year-old man fishing in Florida BBC Man killed in suspected alligator attack in Winter Garden FOX 35 Orlando Florida fisher dragged into water and killed by 12ft alligator The Guardian 71-year-old man dies after alligator attack while fishing in Florida, police say NBC News</description>
+<description>Fisherman, 71, killed by 12-foot alligator alongside Florida lake AP News Alligator kills 71-year-old man fishing in Florida BBC Man killed in suspected alligator attack in Winter Garden FOX 35 Orlando Florida fisher dragged into water and killed by 12ft alligator The Guardian 71-year-old man dies after alligator attack while fishing in Florida, police say NBC News</description>
 </item>
 <item>
 <title>Legal profession is not for faint-hearted: CJI Surya Kant at NLSIU</title>
@@ -590,6 +661,15 @@
 <description></description>
 <enclosure url="https://static.toiimg.com/photo/msid-135020291,imgsize-171426.cms" type="image/jpeg"/>
 <media:content url="https://static.toiimg.com/photo/msid-135020291,imgsize-171426.cms" medium="image"/>
+</item>
+<item>
+<title>U.S. News: Top U.S. News Today - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiP0FVX3lxTFBlSV95cW15dzRMN3BweVV5a2ZVclpfUE5TYWRCWGtHX1VOX1JuNklpQVZ0NnQ1Q3diNDlUbmNPYw?oc=5</link>
+<guid isPermaLink="false">b01ce86589ef9d7becb7eea2611a82119d19b9612a2abfc715cd90f934f5b3b0</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 20:58:02 +0000</pubDate>
+<description>U.S. News: Top U.S. News Today AP News</description>
 </item>
 <item>
 <title>Tramell Jones Jr. leads Florida to 27-24 upset win over No. 7 Texas in first career start - AP News</title>
@@ -660,7 +740,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 20:48:51 +0000</pubDate>
-<description>In Kentucky midterm campaign stop, Trump says he "can do stuff that is unbelievable" CBS News Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf CNN President Trump holds midterm rally in Highland Heights, Kentucky Cincinnati Enquirer Trump promises big investment in KY facility 'if the Republicans win' USA Today Protester removed from President Trump rally in Northern Kentucky FOX19 | Cincinnati</description>
+<description>In Kentucky midterm campaign stop, Trump says he "can do stuff that is unbelievable" CBS News Midterm election live updates: Trump stumps in deep-red Kentucky as GOP tries to hold its turf CNN Trump promises big investment in KY facility 'if the Republicans win' USA Today President Trump holds midterm rally in Highland Heights, Kentucky Cincinnati Enquirer President Trump holds rally in Highland Heights Saturday Cincinnati CityBeat</description>
 </item>
 <item>
 <title>Indiana’s 22-game win streak ends against Ohio State in one of six Top 25 showdowns - AP News</title>
@@ -681,6 +761,15 @@
 <description>The White House inquiry is focused on diverging accounts from Richard Grenell and Alina Habba Mildon about a $17 million transfer from a government account in the African country to a Texas defense firm.</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17dc-investigate-jmkz/17dc-investigate-jmkz-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17dc-investigate-jmkz/17dc-investigate-jmkz-mediumSquareAt3X.jpg" medium="image"/>
+</item>
+<item>
+<title>Vladimir Putin - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yT0hMRW51WnhKX3BYVkctR2lYZXhUME9uVWNCZHlEOFdXMXhjaHBvSjFKVjVqWWdoXzRXdXlvaUx4NmxGQXkxU1kxWmRYdw?oc=5</link>
+<guid isPermaLink="false">b1371f41bef2745cba0e7c813d73c6bcfa2ab118169f0224526ef727c03c80d3</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 20:43:30 +0000</pubDate>
+<description>Vladimir Putin AP News</description>
 </item>
 <item>
 <title>Masked Israeli Settlers Attack European Diplomats in West Bank</title>
@@ -727,7 +816,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 20:30:00 +0000</pubDate>
-<description>Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons ESPN Caleb Williams 'on track' to start for Bears against Falcons Yahoo Sports Injury Update: Caleb Williams questionable for Sunday's game vs. Falcons Chicago Bears Bears to start Caleb Williams vs Falcons after missing three games with hamstring injury Fox News Bears QB Caleb Williams says injury was a hamstring tear; unclear if he'll start this week NFL.com</description>
+<description>Sources: Bears plan to start QB Caleb Williams in Week 6 vs. Falcons ESPN Injury Update: Caleb Williams questionable for Sunday's game vs. Falcons Chicago Bears Bears to start Caleb Williams vs Falcons after missing three games with hamstring injury Fox News Bears QB Caleb Williams says injury was a hamstring tear; unclear if he'll start this week NFL.com Reports: Caleb Williams to start for Bears Sunday NBC Sports</description>
 </item>
 <item>
 <title>Young people the hidden group of carers few are talking about</title>
@@ -823,15 +912,6 @@
 <media:content url="https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg" medium="image"/>
 </item>
 <item>
-<title>Jalen Hurts will go on injured reserve, miss at least four games and possibly more - NBC Sports</title>
-<link>https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNThOM2psQzBPZGFpZ2owRlFnVzZNQWhnZTZEdXd0NzlMRUlyUEFuWU1IQVJSV2M2ZWw1Z2Q1c1VCdmlOX0lSOHlTZnJpbzVPYnp3RUllZTdNWTU3TkRsUjhOZUpuLUpKSTgwRWhxMWhEUnJoM1hqUGVPYUxPaUk4UVlhUVB4NlJmY2NQak1mdTVZWXpHOWl1dnVwQkxlWmJUa0JjTVNCSGgyN3pJNG5qOUxpSVhmRm1HS3dXR0dKSXdSMHl0ZERQTnZyMjYxOE5mb0EyNWwwRFhCTVU?oc=5</link>
-<guid isPermaLink="false">8c7b53e5adf9b0bd0cfa70576a2947be20b17728cf88013bdbfdf015a8fe969a</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 20:10:22 +0000</pubDate>
-<description>Jalen Hurts will go on injured reserve, miss at least four games and possibly more NBC Sports Sources: Eagles' Jalen Hurts, out indefinitely with blood clot, not planned for IR ESPN Eagles QB Jalen Hurts placed on injured reserve with blood clot in his calf SFGATE Ex-Pro Bowler suspicious of Eagles' story about Jalen Hurts' blood clot USA Today Eagles-Panthers predictions: How will Tanner McKee look in Jalen Hurts’ absence? The New York Times</description>
-</item>
-<item>
 <title>Sister of missing Australian says US police 'not looking for her anymore'</title>
 <link>https://www.abc.net.au/news/2026-10-18/sally-contarino-missing-las-vegas-family-appeal-police/107271150</link>
 <guid isPermaLink="false">8d840815c13964627eed00fb33df843ca79689cb92c8a75986e3d84c01b9c36e</guid>
@@ -843,15 +923,6 @@
 <media:content url="https://live-production.wcms.abc-cdn.net.au/75e894ff339c259dceb343a064caa940?impolicy=wcms_crop_resize&amp;cropH=422&amp;cropW=750&amp;xPos=0&amp;yPos=346&amp;width=862&amp;height=485" medium="image"/>
 </item>
 <item>
-<title>NHL Scores, News &amp; Stats | Latest NHL News - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiP0FVX3lxTE95bFRBdmVKUk5rWWVXSkN6WVgzRzA2S3RDQ1o3eDYxWFBISC1MSXdadkNXMy1LdU5yTEYtbDZ4SQ?oc=5</link>
-<guid isPermaLink="false">d4fbdf547017c4345252e025707e0abcf647d68828403ef353b05e3a8e85cd56</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 20:09:08 +0000</pubDate>
-<description>NHL Scores, News &amp; Stats | Latest NHL News AP News</description>
-</item>
-<item>
 <title>Wirtz delivers but remains Liverpool's conundrum</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">bd09170cd78427aed7920955a9d62b5e5ab72e0a3a34813166649c7e1658bcbc</guid>
@@ -861,15 +932,6 @@
 <description>Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd8e/live/95495ef0-ca64-11f1-a8e8-d5fafa9ef723.jpg" medium="image"/>
-</item>
-<item>
-<title>Brazil - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5oVDBocnJSWVppUl85SjM3Z2gzTEQ0Tk1IUFFhMDh0aEZhX3NsQzJSVE85NjFRR0xINVVyV1V5eklYMWM?oc=5</link>
-<guid isPermaLink="false">7212c87ce750bb88788f6e0c031c72f154fce16dfad37a759a1d5221f0749ca5</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 20:07:05 +0000</pubDate>
-<description>Brazil AP News</description>
 </item>
 <item>
 <title>Scientists unearth remarkable volcanic origins of Lord Howe Island</title>
@@ -903,15 +965,6 @@
 <description>Iranian state TV aired footage claiming to show an oil tanker exploding after striking a naval mine in Hormuz</description>
 </item>
 <item>
-<title>Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating - GSMArena.com news - GSMArena.com</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxOajd2TzRfUUU1SU5sdGF2UXdmaE5fRDJQVXlYVGNzbEk4T1BTOWFrdG15TVptSWNwSjROUnlUVldodTJrZWlib0NpaGphdU00OUJHVjk5NUFQTVBuWXlyREZUUEdzbHFsLWotZlpJR3JqNWt2dDk3aktkMFRpQ1dNUGJ2TTY5bkFqMlNFY2tYZWxldEJ1UGdTZW9PZ2paRmx1bVdxcDNxT1lPUEUwVjZIOFA3ONIBrwFBVV95cUxPQjA3VUxNaDZPZUkySHJTamFmT0R6bm9TaS04QktUenBKREtMU1BrZzNjQzJQNnB6WmV0ZjZhSVJha0YxcFU5OThKaHhleXFYRHlobjZ3eFVZZmhDMy1xdkFVa3VoMGhXbWpleHpRS3dWTHY0OXpDQUlaVmVUd2hZQzM5U2Rrb0pfaEdzaDlYbHFkdjhERkpVVmNXRmVuQVhkd0psaHJFN2ZMTnVvWWFn?oc=5</link>
-<guid isPermaLink="false">68b2e58cf5fe915c7d31d98e396795d046546f0f89e6ab3431843523208cf2c9</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 20:01:02 +0000</pubDate>
-<description>Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating - GSMArena.com news GSMArena.com Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are 'inaccurate' 9to5Google [Updated] Snapdragon heating issues could force Samsung to use Exynos in Galaxy S27 Ultra SamMobile Samsung Finds Severe Performance Issues In Snapdragon 8 Elite Extreme Gen 6’s Internal Tests, Qualcomm Might Face Ultimatum If Problems Persist Wccftech Samsung might swap the Galaxy S27 Ultra’s chip if Qualcomm can’t keep it cool Digital Trends</description>
-</item>
-<item>
 <title>Ex-soldier involved in Zakaria's alleged unlawful return unreachable, court told</title>
 <link>https://www.abc.net.au/news/2026-10-18/sas-nathan-heckel-extradited-masood-zakaria-uncontactable-court/107255164</link>
 <guid isPermaLink="false">d0e7942ae61a1d82ed302ec9d771823b79489bcf335d7f13c7d8a01d9ecaf1ac</guid>
@@ -923,13 +976,13 @@
 <media:content url="https://live-production.wcms.abc-cdn.net.au/b999aba71d962c58ff79ad403b7b58eb?impolicy=wcms_crop_resize&amp;cropH=1080&amp;cropW=1920&amp;xPos=0&amp;yPos=0&amp;width=862&amp;height=485" medium="image"/>
 </item>
 <item>
-<title>Val Out Next DWTS Episode, Jenna Dewan Dance With Alan - The Hollywood Reporter</title>
+<title>Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten - The Hollywood Reporter</title>
 <link>https://news.google.com/rss/articles/CBMivAFBVV95cUxNcDhZdmllR1V2SXpGTmgteXhuS0ZrMktCUHlLWndaT2swdkNOWFBDb0NXZTJzVjJpQTU1SkJtaDVZS1hibVVHamJzTlJvdXdtT2FjUE1qT1BJVkw4QnhyZnFqc09XN0M5aWdmaXlIWElTejlRRVlJRjhnUERIT1NyN2hPLXR2NUNNYkNQb3B1b2ZQZzRTZ2QxRWRxUmNyMloxR3V5czVDN3VHWURuYVJ4LW0yeTZoby12MDY5Ug?oc=5</link>
 <guid isPermaLink="false">4cc7abe619fe4bcbdbd9e92525400e2f94af6a1ed61612feeef5014d02eae03d</guid>
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 19:59:48 +0000</pubDate>
-<description>Val Out Next DWTS Episode, Jenna Dewan Dance With Alan The Hollywood Reporter 'Dancing With the Stars' Pulls Val Chmerkovskiy After Carrie Ann Inaba Slap Joke Variety Val Chmerkovskiy Pulled from DWTS After Oscars Slap Comment, the First Pro Suspension in the Series’ History People.com Val Chmerkovskiy Gets One-Week 'Dancing With The Stars' Suspension Deadline After Carrie Ann Inaba's Aggressive Comment About Lifts On DWTS, I Had To Know The Rules Yahoo</description>
+<description>Val Chmerkovskiy Ousted From Next ‘DWTS’ Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten The Hollywood Reporter 'Dancing With the Stars' Pulls Val Chmerkovskiy After Carrie Ann Inaba Slap Joke Variety Jenna Dewan Set to Dance with DWTS Pro Alan Bersten amid Partner Val Chmerkovskiy’s Suspension People.com Val Chmerkovskiy Gets One-Week 'Dancing With The Stars' Suspension Deadline Jenna Dewan’s New ‘Dancing With the Stars’ Partner Revealed After Val Chmerkovskiy Benched Us Weekly</description>
 </item>
 <item>
 <title>Clashes, fires and looting break out as protesters rally across France, joining students - AP News</title>
@@ -950,15 +1003,6 @@
 <description>The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico.</description>
 <enclosure url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-mexico-sentence-zqch/17int-mexico-sentence-zqch-mediumSquareAt3X.jpg" type="image/jpeg"/>
 <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-mexico-sentence-zqch/17int-mexico-sentence-zqch-mediumSquareAt3X.jpg" medium="image"/>
-</item>
-<item>
-<title>Vladimir Putin - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiTkFVX3lxTE8yT0hMRW51WnhKX3BYVkctR2lYZXhUME9uVWNCZHlEOFdXMXhjaHBvSjFKVjVqWWdoXzRXdXlvaUx4NmxGQXkxU1kxWmRYdw?oc=5</link>
-<guid isPermaLink="false">b1371f41bef2745cba0e7c813d73c6bcfa2ab118169f0224526ef727c03c80d3</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 19:55:49 +0000</pubDate>
-<description>Vladimir Putin AP News</description>
 </item>
 <item>
 <title>No Kings rallies across US urge voters to cast ballots early ahead of midterms - AP News</title>
@@ -1068,6 +1112,26 @@
 <description>Desperate civilians risk their lives along mined roads to escape from a Russian-held city AP News</description>
 </item>
 <item>
+<title>Arch Manning struggles, Colin Simmons injured as Florida scores 24 straight to upset No. 7 Texas - Yahoo Sports</title>
+<link>https://news.google.com/rss/articles/CBMigwJBVV95cUxNSV96WThDZzk2dlk5eTNfbkU3TE5EUGlhNlpwQ1lrYXlqU2xySkNYcEowQTBDb0ZBd0w1TDRqVVZYV1lOLTFRNldWVFRtT2lzbXlSR21rR3lPYUliOXBCaXFmeUFyTXpFQUk4UFlVUEV1QTQ1UnR5TmJZRExHVmZ6ODF0UDl0SFkyR2xRUE9xbk5raTlUbDdtbXhEZXNWN09CSUhKLXBINGtQVEhUN0VfQUZsZXdOWlJORjlLWDRhSHlFb3FiNXV3ZTJzaFZ5aE5Pd1FlQzVabmVwVm8zT2hNOElJNE85RjEyODdkUGl2dDlSbTZ2Y2Q3ZWQ3aUNkTFlESDZB?oc=5</link>
+<guid isPermaLink="false">0411d39ab72acc4bbf5803c596a3fec12a4bd583234d5df96971599e39de1415</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 19:25:02 +0000</pubDate>
+<description>Arch Manning struggles, Colin Simmons injured as Florida scores 24 straight to upset No. 7 Texas Yahoo Sports Sarkisian: Texas to 'evaluate everything' after loss to Florida ESPN 5 Key Quotes from Jon Sumrall After Gators' Upset Win vs. Texas Sports Illustrated Texas blows 14-point lead, Arch Manning experiences first home loss as questions mount in Austin Fox News As offense again slumps, No. 7 Texas suffers another flop against Florida Austin American-Statesman</description>
+</item>
+<item>
+<title>1923 Australian church turned three-bedroom home now lists up to $950,000</title>
+<link>https://timesofindia.indiatimes.com/real-estate/news/a-1923-methodist-church-in-australia-later-served-as-a-sunday-school-and-dance-school-before-becoming-a-three-bedroom-home-with-a-cathedral-ceiling-and-coloured-glass-it-is-now-listed-for-865000-to-950000/articleshow/134997742.cms</link>
+<guid isPermaLink="false">07f7b8a28a224f0180c94652d10da0a89272245f73cf2ab13b1d7359ee6e19ce</guid>
+<source>Times of India Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 19:22:00 +0000</pubDate>
+<description>Nestled in Tyabb, Victoria, a stunning transformation has taken place as a historic 1923 Methodist church is now a three-bedroom haven ready for new owners. This charming residence boasts impressive cathedral ceilings, original windows, and contemporary kitchen features. Perfect for hosting, it includes a spacious living area and a dedicated bedroom wing, all while preserving a landmark rich in history—including its past as a Sunday school and dance venue.</description>
+<enclosure url="https://static.toiimg.com/photo/msid-134997832,imgsize-268714.cms" type="image/jpeg"/>
+<media:content url="https://static.toiimg.com/photo/msid-134997832,imgsize-268714.cms" medium="image"/>
+</item>
+<item>
 <title>Trump waives several Russia sanctions as row with Zelensky intensifies</title>
 <link>https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">b677fdedabaf44798b79a308f434fcab6e6331180980b7efb953f13fe521ebdd</guid>
@@ -1132,15 +1196,6 @@
 <media:content url="https://i.guim.co.uk/img/media/7581252b072b651e754e46a8d2d3f76989d36833/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6a18d42ff582fc580489ac914a54a72" medium="image"/>
 </item>
 <item>
-<title>Fast-moving California wildfire burns homes as people are ordered to leave - BBC</title>
-<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MQnpkeHh1U2lVU0NmaXZGZG5fVlRhOHFHcUx5QjRQWk12dEpjQnl2RXlQQVIxQV82ZklHSVFHM0pQRUJWN0RlMlFPY1VkYVBmY2tGSUxTb18teWM?oc=5</link>
-<guid isPermaLink="false">f02f38817d5080339d20e75b8d82348339f3df9856f89f16609e607aedf936cd</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 19:13:21 +0000</pubDate>
-<description>Fast-moving California wildfire burns homes as people are ordered to leave BBC Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal ABC7 Los Angeles ‘All I could see was flames’: Norte fire hollows out Orange County homes Los Angeles Times Several wildfires burning in Southern California on Saturday KTLA New wildfire in Southern California explodes in size, burning multiple homes CNN</description>
-</item>
-<item>
 <title>Manzambi heads Villa to victory at Newcastle</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cwdd897vvl8vo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">67ea86ec21b12c2007a2381deb76f06a60878209464f33208d5cf2100e019620</guid>
@@ -1161,6 +1216,15 @@
 <description>Lions and Sale Sharks are among the clubs to pay tribute to Hyron Andrews at their matches on Saturday, following the South African's death aged 31.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/52f59ef0-ca4c-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/52f59ef0-ca4c-11f1-a64c-550be9e3c66b.jpg" medium="image"/>
+</item>
+<item>
+<title>Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting - PBS</title>
+<link>https://news.google.com/rss/articles/CBMivwFBVV95cUxOZkJTZEY2d2taWDV3TE92dmRUTFJDWnRBRUNFeFhoWThjTnNDVW1GLWtYTEp2d29JLTMzZTlQN25NOGp4LWhjZEFXN0paZ0Y3N2RhZU1EcktRN0ZBSS1RZi10MmlPb3ctMWFRbF9GbjkyZGFHUXJPdjVwRTRrR2NObGxWZWN0dGptaldscjd1OVc2Z0Z3VTRlMHZ5TVQzb0ZyYkI5RG5xZDhoTkUzVWZMOFB5dGxkZG5qcWlkeHIwOA?oc=5</link>
+<guid isPermaLink="false">dc2ac7747254431b2b48c703d7b32f46a5ed7a3e509d5c18df73509e47a980bb</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 19:07:44 +0000</pubDate>
+<description>Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting PBS Teacher fought US school attacker before armed dad shot suspect 'multiple times' BBC Second vigil carries pain, heaviness as community learns more details about Bend school shooting KGW Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children The Source - Bend, Oregon What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom CNN</description>
 </item>
 <item>
 <title>Festival crush in Indian city of Kolkata kills at least 17, local media say - Reuters</title>
@@ -1364,6 +1428,15 @@
 <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-albania-protests-wtk-fbtm/17int-albania-protests-wtk-fbtm-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
+<title>Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress - NBC News</title>
+<link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSUF6amxpY2lMcWdiQ09tRkNjZjZGWjFyemRBN2kyQmx3RUl2ZlN6cDJLN3ZOeFBYZEJucUpHNWpNRHpsZFh4UmkxMFZ6ak1OQ1pVemhGaEtSOGJENXljeVItbGlZUUxMNG5LSmNacXZHSjVoOTRyLTZrcTJmZ2prSWctNkE2eEYwcG15bWJnQVlWUkNKdUZKODVZSHhYellTLWNFZnkzMEFiT1FKak1adHVqV25DLUFWWC1uMDIyc0dYX0lSVFRmdDRnUVlEd094?oc=5</link>
+<guid isPermaLink="false">23bf0a98653887e7bc0e43a1f7f2eec24dc666648844577f6d3aeb292d91fc7a</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 18:54:00 +0000</pubDate>
+<description>Zelenskyy says Trump is ‘rewarding Putin’ as he waives new Russia sanctions passed by Congress NBC News Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor The New York Times Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen AP News Trump signs order waiving Graham Act sanctions on Russia, drawing backlash from some lawmakers and Zelenskyy ABC News - Breaking News, Latest News and Videos Trump’s waiver of sanctions on Russia stirs bipartisan outrage The Washington Post</description>
+</item>
+<item>
 <title>Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties</title>
 <link>https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories</link>
 <guid isPermaLink="false">cb43bc87fa78832049d611b269e7726c9973a7fadcd597764941456274edf549</guid>
@@ -1382,15 +1455,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 18:51:43 +0000</pubDate>
 <description>Barca keep perfect LaLiga record with five-goal romp at Betis Reuters</description>
-</item>
-<item>
-<title>Texas, Minnesota candidates fuel latest 2026 midterm election news - Fox News</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHBhaFFtSWNuUnlBcEMzZnRMNU1tWW9XWU9WYkdMNTRiTGhhaUR0X3gyU19TVWFHeXl4ZHBoQ3Zxa1ctdWc1T1NMS0dMbGNmcm9qbE5kb25mVHBTdnpGM19KR3VpN0dMWlotWG40NEE2bjA3X184eTQ0aVE2RVhnYjJWVlliYkQ5Tzh0Z2hsVnRtY1RMRjRxcldSVmRKZUFxSHA2bHM2SGlNR3dDcnk5SzFQZkQ?oc=5</link>
-<guid isPermaLink="false">7bd8c365e03e6a30e0bf0ed68fe8409214d1514cb6058c2fff120a80ded940b2</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 18:51:40 +0000</pubDate>
-<description>Texas, Minnesota candidates fuel latest 2026 midterm election news Fox News Peggy Flanagan, Michele Tafoya square off in testy Minnesota Senate debate MPR News Buy SpaceX ahead of earnings, says Evercore ISI CNBC Republicans eye a potential opportunity in Minnesota in a tough midterm climate NBC News Minnesota has signs of potential Democratic troubles in midterms CNN</description>
 </item>
 <item>
 <title>'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice</title>
@@ -1547,7 +1611,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 18:27:40 +0000</pubDate>
-<description>Italian police clash with protesters in Milan and Bologna Reuters Meloni decries violent demonstrations as Italian police clash with protesters in Milan, Bologna The Jerusalem Post Protesters burn Israeli, US flags as student demonstrations sweep Italy | Watch Ynetnews Italy braces for 'autumn of discontent' as students protest France 24 More than 2,000 students protest in Florence as ‘No Meloni Day’ marches sweep Italy The Florentine</description>
+<description>Italian police clash with protesters in Milan and Bologna Reuters Rioters loot stores, set fires in central Milan during cost-of-living protest AP News Meloni decries violent demonstrations as Italian police clash with protesters in Milan, Bologna The Jerusalem Post Protesters burn Israeli, US flags as student demonstrations sweep Italy | Watch Ynetnews Italy braces for 'autumn of discontent' as students protest France 24</description>
 </item>
 <item>
 <title>Injured Swiatek goes down fighting in Wuhan Open semi-final - Reuters</title>
@@ -1574,7 +1638,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 18:26:29 +0000</pubDate>
-<description>No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms PBS New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote The New York Times Hundreds at Dallas No Kings rally urged to carry concerns to ballot box Dallas News No Kings turns its focus to voting this weekend. Here's what we know NPR Chicago 'No Kings' protest locations near me: Rallies against Donald Trump, ICE, happening in Evanston, Arlington Heights and more ABC7 Chicago</description>
+<description>No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms PBS New Round of ‘No Kings’ Rallies Focuses on Getting Out the Vote The New York Times Hundreds at Dallas No Kings rally urged to carry concerns to ballot box Dallas News No Kings turns its focus to voting this weekend. Here's what we know NPR Photos show No Kings rallies across America AP News</description>
 </item>
 <item>
 <title>Kolkata stampede: How hour-long downpour turned Chorbagan pandal into a death trap</title>
@@ -1758,17 +1822,6 @@
 <media:content url="https://c.ndtvimg.com/gws/ms/history-of-delhis-ramlila-maidan/assets/2.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720" medium="image"/>
 </item>
 <item>
-<title>Child sex abuse charges against actor Timothy Busfield dismissed by judge</title>
-<link>https://www.theguardian.com/us-news/2026/oct/17/child-sex-abuse-charges-against-actor-timothy-busfield-dismissed-by-judge</link>
-<guid isPermaLink="false">d54ad05240432a60f22c5cbb220f7f5a871ba813bc0d2c43a3398e420669b5ce</guid>
-<source>The Guardian World</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 17:56:20 +0000</pubDate>
-<description>Prosecution did not act in fair and impartial way in grand jury proceedings, judge rules, after West Wing actor charged with groping young boy on TV set A state court ⁠judge in New Mexico has dismissed charges of child sexual abuse against West Wing actor and director Timothy Busfield, saying the prosecution did not act in a ⁠fair and impartial manner during grand jury proceedings. Judge Joseph Montano said prosecutors could pursue new charges against Busfield. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/760737ad9e81c7f2a65f16df302ae7b2d1656dc9/689_0_3764_3014/master/3764.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a0be0384c32eaaf4c45c3908e3819a2" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/760737ad9e81c7f2a65f16df302ae7b2d1656dc9/689_0_3764_3014/master/3764.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a0be0384c32eaaf4c45c3908e3819a2" medium="image"/>
-</item>
-<item>
 <title>Romanian fighter jets shoot down 2 drones over Black Sea</title>
 <link>https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-rdf</link>
 <guid isPermaLink="false">8ad77899e72604eccf323e2b3ef90c1a1d7c1802f3fd74c179897ab946382eca</guid>
@@ -1845,6 +1898,15 @@
 <description>India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.</description>
 </item>
 <item>
+<title>Israel - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5</link>
+<guid isPermaLink="false">93e293d7d1f07efcdd2ba7f6d1ef8012bef4f478863057165e569d4ae74d0806</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 17:41:31 +0000</pubDate>
+<description>Israel AP News</description>
+</item>
+<item>
 <title>The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’</title>
 <link>https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html</link>
 <guid isPermaLink="false">308a406c5bfd932827806b17f282c3431fcad5b4ab75d6b3b99953f9534ea141</guid>
@@ -1883,6 +1945,15 @@
 <description></description>
 <enclosure url="https://static.toiimg.com/photo/msid-135020056,imgsize-1497889.cms" type="image/jpeg"/>
 <media:content url="https://static.toiimg.com/photo/msid-135020056,imgsize-1497889.cms" medium="image"/>
+</item>
+<item>
+<title>Riots in Tirana enter a fifth day as Albania’s anti-government protests escalate - AP News</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmtQX1pNSEUweTEtSmFyRUphbU1CX0s1ZDNIT3hzMElGM3BSLVk1QURsVVFEaXY2WXdmZVJEaHI3YWx3aUsyR1JzWjZvc3V5VWVodUUtWW9uMnlRT3RmQXUtSjNJVnFZeWQ4Vk5mdXpydzNaOTRiZDNQclVwQXQzZXdIZGtKT3ZZN2hDVDVFVkM0M3Jyd1ZTcVhQTDA4UEl3?oc=5</link>
+<guid isPermaLink="false">266962ea241980bd78fc3707b8a55349ebd293af99387c3c34c9555153a4f32a</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 17:34:13 +0000</pubDate>
+<description>Riots in Tirana enter a fifth day as Albania’s anti-government protests escalate AP News</description>
 </item>
 <item>
 <title>Saudi Arabia Intercepts Four Drones Over Riyadh Amid Houthi Attacks</title>
@@ -1985,15 +2056,6 @@
 <media:content url="https://c.ndtvimg.com/2025-05/o98cm5k_pope-leo-xvi_625x300_12_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720" medium="image"/>
 </item>
 <item>
-<title>Riots in Tirana enter a fifth day as Albania’s anti-government protests escalate - AP News</title>
-<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmtQX1pNSEUweTEtSmFyRUphbU1CX0s1ZDNIT3hzMElGM3BSLVk1QURsVVFEaXY2WXdmZVJEaHI3YWx3aUsyR1JzWjZvc3V5VWVodUUtWW9uMnlRT3RmQXUtSjNJVnFZeWQ4Vk5mdXpydzNaOTRiZDNQclVwQXQzZXdIZGtKT3ZZN2hDVDVFVkM0M3Jyd1ZTcVhQTDA4UEl3?oc=5</link>
-<guid isPermaLink="false">266962ea241980bd78fc3707b8a55349ebd293af99387c3c34c9555153a4f32a</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 17:18:00 +0000</pubDate>
-<description>Riots in Tirana enter a fifth day as Albania’s anti-government protests escalate AP News</description>
-</item>
-<item>
 <title>Pakistan - AP News</title>
 <link>https://news.google.com/rss/articles/CBMiRkFVX3lxTE02TXFaNnp3NUxYdzNVamtWZlk3Y05uQng1ZHZDYldaTno1enBqY0hVN18zZ3BtUGx1LWhaU3NiSnByRGZVZEE?oc=5</link>
 <guid isPermaLink="false">8f40bcd6019089f57bc85ffb97a03be68c2156980d68def40d78b2bad9d7f11f</guid>
@@ -2072,6 +2134,15 @@
 <media:content url="https://static.toiimg.com/photo/msid-135017457,imgsize-111259.cms" medium="image"/>
 </item>
 <item>
+<title>Chelsea's Martinez suffered concussion after collision at Everton, says Alonso - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeXJaRFdVQUxVS2hXWnNvLVdaZEJVSkFzT0RpeGdYSDVoeWNyVnFSRFNxS0hrZHVzZGhsazR0dWtZS3c0d2pfMU5jNE1RMW1zdnp1dU1UZEpsazVJMU1QeFpocGx1Mi1PeWJBbFFaR19BM0hvSWp5T2JqTGF2MnV6eHVZcksxNmVqZ1N6NHRVdmhpNWg0YWRrb2xwek1DN0o2YVE1R2dnM0dXWHZlci1qWEZXb19ZZmlTcXZRdGQxRzI?oc=5</link>
+<guid isPermaLink="false">d377def71e2053f756e5ae46d30cf57c9fd8dc29f22af92c386a0f71948c8e5a</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 16:57:43 +0000</pubDate>
+<description>Chelsea's Martinez suffered concussion after collision at Everton, says Alonso Reuters</description>
+</item>
+<item>
 <title>Al Jazeera reports from Paris as protests turn violent</title>
 <link>https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss</link>
 <guid isPermaLink="false">03fddcf5de4fe6c40d06a0458a981ce86689dfc6860074c22dc3ee825d5f70fd</guid>
@@ -2079,15 +2150,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 16:56:40 +0000</pubDate>
 <description>In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.</description>
-</item>
-<item>
-<title>Tesla unveils new ‘flying’ car, but consumer rollout likely still years away - The Times of Israel</title>
-<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmttOWQtZVk5dG42VXZiN1E1VDRXZ21zem95QTk4enRkcjh3MEcxTWQzam8zTXVMcGpQMVlsQ1V0QU5zZ1ozcXZOYTFiZlZDYW8ydC1DakF1RG9KcFR2YnB5cDQ4TTRsZERFV0FodlZfT2NYb3k2TFhzVGtSM1l2UEgweUVlal9TLUhaUUV0TndNcGZ3YWJHQ0xoRHdzUnZGLURHWUMwRdIBrAFBVV95cUxPSFJNM25rY21KM2xQV2xuTlMxekdkS2M3ajdiakVtZDdPSF93dUlVREV3Y1RIOWF5WlhzSC1JNkZPaHlCNFBmZXo0UEFoRmluZGdnOVFGelIwUDRTVmpZUGpVZUh5NG52VC15dUhsZVNVaEM4UjFCc2NualFvaXBoZEVvTFhQb0FQdE9tV25uVDJwbjhtdVlmZWlSMjhTblFzWHBuc3FiYlQwMV9o?oc=5</link>
-<guid isPermaLink="false">1c7678482f732ef0ae5fd5684d5a0b63cb0aeb64391f6d1634a0865ff0bd4e34</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 16:54:54 +0000</pubDate>
-<description>Tesla unveils new ‘flying’ car, but consumer rollout likely still years away The Times of Israel What Tesla’s Flying Roadster Really Means for the Global Auto Race WSJ Flying car company ‘welcomes Tesla to flying car race’ with tongue-in-cheek video KTLA Tesla’s new Roadster makes a flying debut, hitting 60 MPH in under a second Fox Business Opinion | Another reason to be excited about Elon Musk’s flying car The Washington Post</description>
 </item>
 <item>
 <title>Why are Latin American countries building closer ties with Israel?</title>
@@ -2127,7 +2189,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 16:53:17 +0000</pubDate>
-<description>Intel "Razor Lake-AX" to Pack 700 TOPS of AI Compute TechPowerUp Intel SVP Confirms Razor Lake-AX Will Hit 700 TOPS &amp; Launch In 2028, 3.88x The AI Compute Of Panther Lake Wccftech Intel confirms Razor Lake-AX for 2028 with 700 TOPS AI performance VideoCardz.com Intel Unveils Robotics AI Platform Uniting Real-Time Control, AI on One Chip Tech Times Intel, KAIST push to commercialize dark factories where robots run entire plant - MoneyToday 머니투데이</description>
+<description>Intel "Razor Lake-AX" to Pack 700 TOPS of AI Compute TechPowerUp Intel confirms Razor Lake-AX for 2028 with 700 TOPS AI performance VideoCardz.com Intel SVP Confirms Razor Lake-AX Will Hit 700 TOPS &amp; Launch In 2028, 3.88x The AI Compute Of Panther Lake Wccftech Intel Unveils Robotics AI Platform Uniting Real-Time Control, AI on One Chip Tech Times Intel, KAIST push to commercialize dark factories where robots run entire plant - MoneyToday 머니투데이</description>
 </item>
 <item>
 <title>Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor</title>
@@ -2159,6 +2221,15 @@
 <description>Egyptian President Abdel Fattah el-Sisi has vowed to take 'any measure' to defend Saudi Arabia amid Houthi attacks.</description>
 </item>
 <item>
+<title>Romania - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiREFVX3lxTFBLWWdLSkNRc2JaeTZ0MDRJc2xuYU9RdF9Dd0hkRjhDMk1fRGQtc1pPNkZFZ1JEMTB2OTByeTBmTUFPWmdB?oc=5</link>
+<guid isPermaLink="false">2455010e2e39a605bf4cde1d65374d3c83d9c353122448593bfa882ce23526a9</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 16:49:05 +0000</pubDate>
+<description>Romania AP News</description>
+</item>
+<item>
 <title>Kenya confirms four more Ebola cases, bringing total to seven</title>
 <link>https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss</link>
 <guid isPermaLink="false">f87d42bb65b810e1d075f694b89eeed4398550cfda390509e6c34446a5783678</guid>
@@ -2166,6 +2237,15 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 16:48:46 +0000</pubDate>
 <description>⁠Three health workers who ⁠treated the country's first Ebola patient are among the latest confirmed cases.</description>
+</item>
+<item>
+<title>Tesla unveils new ‘flying’ car, but consumer rollout likely still years away - The Times of Israel</title>
+<link>https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmttOWQtZVk5dG42VXZiN1E1VDRXZ21zem95QTk4enRkcjh3MEcxTWQzam8zTXVMcGpQMVlsQ1V0QU5zZ1ozcXZOYTFiZlZDYW8ydC1DakF1RG9KcFR2YnB5cDQ4TTRsZERFV0FodlZfT2NYb3k2TFhzVGtSM1l2UEgweUVlal9TLUhaUUV0TndNcGZ3YWJHQ0xoRHdzUnZGLURHWUMwRdIBrAFBVV95cUxPSFJNM25rY21KM2xQV2xuTlMxekdkS2M3ajdiakVtZDdPSF93dUlVREV3Y1RIOWF5WlhzSC1JNkZPaHlCNFBmZXo0UEFoRmluZGdnOVFGelIwUDRTVmpZUGpVZUh5NG52VC15dUhsZVNVaEM4UjFCc2NualFvaXBoZEVvTFhQb0FQdE9tV25uVDJwbjhtdVlmZWlSMjhTblFzWHBuc3FiYlQwMV9o?oc=5</link>
+<guid isPermaLink="false">1c7678482f732ef0ae5fd5684d5a0b63cb0aeb64391f6d1634a0865ff0bd4e34</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 16:48:00 +0000</pubDate>
+<description>Tesla unveils new ‘flying’ car, but consumer rollout likely still years away The Times of Israel What Tesla’s Flying Roadster Really Means for the Global Auto Race WSJ Flying car company ‘welcomes Tesla to flying car race’ with tongue-in-cheek video KTLA Tesla’s new Roadster makes a flying debut, hitting 60 MPH in under a second Fox Business Opinion | Another reason to be excited about Elon Musk’s flying car The Washington Post</description>
 </item>
 <item>
 <title>‘Some people did everything right’: I lost my home in the Great Recession. I rent in my 50s. Why is that judged as failure?</title>
@@ -2197,6 +2277,15 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 16:45:15 +0000</pubDate>
 <description>South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.</description>
+</item>
+<item>
+<title>Inflation - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5</link>
+<guid isPermaLink="false">dd11dc376087332a21346332932dbf0293e6b83cef5e64685c99e3a419e2e17b</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 16:44:43 +0000</pubDate>
+<description>Inflation AP News</description>
 </item>
 <item>
 <title>Cars torched, shops looted: Violence protests erupt across France; over 270 arrested</title>
@@ -2297,15 +2386,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 16:27:43 +0000</pubDate>
 <description>Czech PM Babis suffers setback in Senate elections Reuters</description>
-</item>
-<item>
-<title>Israel - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5</link>
-<guid isPermaLink="false">93e293d7d1f07efcdd2ba7f6d1ef8012bef4f478863057165e569d4ae74d0806</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 16:20:19 +0000</pubDate>
-<description>Israel AP News</description>
 </item>
 <item>
 <title>Pope Leo Leaves Hospital, Days After Lung Cancer Surgery</title>
@@ -2425,15 +2505,6 @@
 <media:content url="https://i.guim.co.uk/img/media/6daa6a500e0f0ad7c10925f04401f42e5d35ab48/1246_806_3730_2984/master/3730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=184b49497d6c9ae4650683043c7d15dc" medium="image"/>
 </item>
 <item>
-<title>0753.H - | Stock Price &amp; Latest News - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8zdVNvbkstUVBaeHc0NWR0VVZ0Y0UwV0lrYUIxdExtYzJtUktpQzQ5UW1nRnRMWV9FTE9QbDdqbjN2SXhibmJzOWxlMVRlWWF0RjlXb2FTWElzdG9uVnVlWldMSi01d05PUllEYnRpMldKaWxYaTRWb1U0dVZhdFk?oc=5</link>
-<guid isPermaLink="false">be828795a301c3bc869ce7aa02b4f8f160e7a111eaa617a4f39c538de63e33a5</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 15:59:59 +0000</pubDate>
-<description>0753.H - | Stock Price &amp; Latest News Reuters</description>
-</item>
-<item>
 <title>Scuffles and fires break out as protesters rally across France, joining students</title>
 <link>https://www.npr.org/2026/10/17/nx-s1-6006773/student-protests-france</link>
 <guid isPermaLink="false">bc0a3e3e3becf0957b4025efa19b9f305404e0860ddb439d2424b53a0c83b390</guid>
@@ -2485,15 +2556,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 15:54:51 +0000</pubDate>
 <description>Russia says it hit Ukrainian steel plants, power infrastructure and ships Reuters</description>
-</item>
-<item>
-<title>EE announces iPhone Handoff pricing details for UK customers - 9to5Mac</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE5qanZ1eDYwM2hsV2tZajQtRjFjZmVrRzlwZWZhUFh1aW42eHNzYU9aM25yc2NzSmVzYjZ3cWFGZXVYMHN3eWNrLXllSkd3UVR2ZEdrdy0yNUJsMlU2aUdMdU0xVjZKaFRvSXhWLTFmZ3R4WTZkeTR3?oc=5</link>
-<guid isPermaLink="false">6d3e9e4de896e9b94fae937ba68a91718e674870d475f226e0164d9c21b3901e</guid>
-<source>Google News Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 15:54:00 +0000</pubDate>
-<description>EE announces iPhone Handoff pricing details for UK customers 9to5Mac Verizon Will Charge $10 a Month for iPhone Handoff MacRumors iPhone Handoff in iOS 27: Use One Number on Two iPhones TechRepublic Verizon Charges $10/Month for iPhone Handoff Fee https://tech-insider.org/ iOS’s New Handoff Feature Will Cost $10 on Verizon PCMag</description>
 </item>
 <item>
 <title>Protests in France: "Two fires broke out in Place de la République"</title>
@@ -2658,6 +2720,17 @@
 <description>US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus AP News</description>
 </item>
 <item>
+<title>Indians to benefit as Canada moves to award points for job offers, high-wage occupations</title>
+<link>https://timesofindia.indiatimes.com/nri/us-canada-news/canada-to-award-extra-express-entry-points-under-new-high-wage-rules-indian-professionals-could-benefit/articleshow/135010465.cms</link>
+<guid isPermaLink="false">a0b0375ad4c58579881b5f55c8e52d9d4d0b02fcf06927b65bd3ca830b3180f8</guid>
+<source>Times of India Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 15:30:00 +0000</pubDate>
+<description></description>
+<enclosure url="https://static.toiimg.com/photo/msid-135010500,imgsize-56748.cms" type="image/jpeg"/>
+<media:content url="https://static.toiimg.com/photo/msid-135010500,imgsize-56748.cms" medium="image"/>
+</item>
+<item>
 <title>Neto’s brace fires Chelsea past Everton but Martinez head injury mars win</title>
 <link>https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss</link>
 <guid isPermaLink="false">9ca1a930a84993b6b318951e1d8eb4c00ee0208e2eae5f0d299a141ad3048fc3</guid>
@@ -2787,15 +2860,6 @@
 <media:content url="https://s.france24.com/media/display/33426cd0-ca3a-11f1-b890-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-150100-150446-CS.jpg" medium="image"/>
 </item>
 <item>
-<title>Inflation - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiR0FVX3lxTE1YRl9lNm5MaDFJc0djbWhoR2pvVEJVN1F6U2ZCdVZWYXFzejc2Wkp6VWs4SVpKeExzMk5MTTM0blRKZTkybDRr?oc=5</link>
-<guid isPermaLink="false">dd11dc376087332a21346332932dbf0293e6b83cef5e64685c99e3a419e2e17b</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 15:05:27 +0000</pubDate>
-<description>Inflation AP News</description>
-</item>
-<item>
 <title>Tennis Scores, News &amp; Stats - AP News</title>
 <link>https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5</link>
 <guid isPermaLink="false">3e094283060976f26756dd5aaead197232efc15380263ed939807dae7248cfde</guid>
@@ -2854,6 +2918,15 @@
 <description>Investors may want to rethink their bond allocation and opt for managed futures exposure.</description>
 </item>
 <item>
+<title>CREG.PK - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQVFhwakpMVjRFSjVuRC16aWE5U292LUN3NVp5ZDVnaFA4Y2hSQThGN0R3R2ZOajUzN19Rc2pMY0pKanV6aTU0SWtoMFRrMk9tdV9VakMtVy13NjB1ZEREYVlYRFNUMmJUMFZLTkxabFJkQ1ZjenFWVWhRdVhtSHF3b1VwRk8?oc=5</link>
+<guid isPermaLink="false">0ec9fdd23d08e48bbba60759c48e3f28de8b60bb898b7eef4a5c9f79fe4d008d</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 14:59:44 +0000</pubDate>
+<description>CREG.PK Reuters</description>
+</item>
+<item>
 <title>🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank</title>
 <link>https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor</link>
 <guid isPermaLink="false">a06f848970c274e9535c5d73d43d4995634ce85c960d0ce6e74f5bcb48755b06</guid>
@@ -2861,15 +2934,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 14:58:54 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>Thousands rally for biggest protest in years against Tunisia’s Saied</title>
-<link>https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss</link>
-<guid isPermaLink="false">f7d18d0083a1efc06c61456479d1c96bc1e2e8be377cc774536317963e726b61</guid>
-<source>Al Jazeera</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 14:57:24 +0000</pubDate>
-<description>Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.</description>
 </item>
 <item>
 <title>Trump aide helped set up ‘sanctioned hit’ on Katie Zacharia: Report</title>
@@ -3125,6 +3189,15 @@
 <description>Exotic species appear off California thanks to an unusually strong El Niño Reuters</description>
 </item>
 <item>
+<title>How Alberta separatism went from fringe cause to referendum - AP News</title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxONWtSRFhmTVhzSEZGemp5M3dIX2xCR2ctQ3dSQlZna21saUtOandpdFBqZGF4Z3BlaDg0WlVYbl9MaXBrelhhZWNYbk1kT2t4bXlVdlRDWEczTExZYzdhNUxWQU1aWEg0VGRqRFBKbDROamNTSVhCTktoc0tURm4yNXVlYWVtTWZ5U09Xb3NDbkRFMjhNTlZ1a1FaZnB5dUVBcFVKLWNqYnN3U0VNZkVRQTktc2c?oc=5</link>
+<guid isPermaLink="false">78ec291111fa16f9dec823d7a373ff9ce274f54ba91ec2557f124deb3509101f</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 14:17:01 +0000</pubDate>
+<description>How Alberta separatism went from fringe cause to referendum AP News</description>
+</item>
+<item>
 <title>French city hall set ablaze as protests spiral into riots</title>
 <link>https://www.abc.net.au/news/2026-10-18/france-protests-education-cost-of-living/107279688</link>
 <guid isPermaLink="false">5e30729001b25c53ff070a95c87aa304056e83f44f1c9f329e56a82af3ef7c77</guid>
@@ -3147,17 +3220,6 @@
 <media:content url="https://static.toiimg.com/photo/msid-135015546,imgsize-43266.cms" medium="image"/>
 </item>
 <item>
-<title>Watch: Congress workers vandalise BJP Ajmer office over Madan Rathore's Pak remark</title>
-<link>https://timesofindia.indiatimes.com/india/black-ink-burnt-posters-congress-workers-vandalise-bjp-office-in-ajmer-over-madan-rathores-pakistan-remark/articleshow/135015584.cms</link>
-<guid isPermaLink="false">f43659a1b1e39ce88c090413bb9758dc13a0c38a8cad5264880669bf89f89ea6</guid>
-<source>Times of India Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 14:13:46 +0000</pubDate>
-<description></description>
-<enclosure url="https://static.toiimg.com/photo/msid-135015748,imgsize-141200.cms" type="image/jpeg"/>
-<media:content url="https://static.toiimg.com/photo/msid-135015748,imgsize-141200.cms" medium="image"/>
-</item>
-<item>
 <title>Hargeisa like a local - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMic0FVX3lxTE50TjV6b0JRb09HUVgxdGk2dThscnBpdWhTRGdXc2tEMmNqX3VsX2JGYnVQN0t2bWp6UnBEY3FZUlVyM2k1eXBfYlNRUEl0MXc2VHFXMU9nMnhVTG1DWHBPUGd6YTREaEstLU15SU01MERrTkU?oc=5</link>
 <guid isPermaLink="false">2fde03cdfd53bc07f175234baf7bdb49821577f8f7178258b34b984532fc071d</guid>
@@ -3165,15 +3227,6 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 14:13:23 +0000</pubDate>
 <description>Hargeisa like a local Reuters</description>
-</item>
-<item>
-<title>How Alberta separatism went from fringe cause to referendum - AP News</title>
-<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxONWtSRFhmTVhzSEZGemp5M3dIX2xCR2ctQ3dSQlZna21saUtOandpdFBqZGF4Z3BlaDg0WlVYbl9MaXBrelhhZWNYbk1kT2t4bXlVdlRDWEczTExZYzdhNUxWQU1aWEg0VGRqRFBKbDROamNTSVhCTktoc0tURm4yNXVlYWVtTWZ5U09Xb3NDbkRFMjhNTlZ1a1FaZnB5dUVBcFVKLWNqYnN3U0VNZkVRQTktc2c?oc=5</link>
-<guid isPermaLink="false">78ec291111fa16f9dec823d7a373ff9ce274f54ba91ec2557f124deb3509101f</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 14:07:00 +0000</pubDate>
-<description>How Alberta separatism went from fringe cause to referendum AP News</description>
 </item>
 <item>
 <title>Hurricane Trudy threatens western Mexico with heavy rain, coastal flooding - Reuters</title>
@@ -3205,15 +3258,6 @@
 <media:content url="https://c.ndtvimg.com/2026-10/oa0ucubo_katie-zacharia-_625x300_10_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720" medium="image"/>
 </item>
 <item>
-<title>HRMS.SG - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5HUjFuWDdwRk9nbTY3ckU1RjY1MTkzeUNIazBoUllkUy1jSm5jMkRrMnVfcFRsMUhManRUdVh0ZUFOMFdMZUVMd3NDbHV2M1hjY21ncW02bWt5RldPY2c4QzJYWkkyX25UdVlHNmh6VTBxVkNfdjVjOA?oc=5</link>
-<guid isPermaLink="false">3a12f4d7d9e307f769386855566ce8e5d403b52a97c7e2741464b36d93af75a5</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 14:00:09 +0000</pubDate>
-<description>HRMS.SG Reuters</description>
-</item>
-<item>
 <title>How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves</title>
 <link>https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves</link>
 <guid isPermaLink="false">9f450af2a5b4c74d4cfc0c3c78c216d69d15c59359a2aac6c2501b708b86f763</guid>
@@ -3223,6 +3267,17 @@
 <description>Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships, aircraft and missile launchers, as it seeks to boost early-warning capabilities in the face of growing military pressure from Beijing. The NT$46.55 million (US$1.45 million) system will use artificial intelligence (AI) to analyse satellite images covering 100 sq km (38.6 square miles) within minutes, potentially cutting the time and manpower needed to track changes in PLA...</description>
 <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/d620da04-f8fc-4f1e-9c12-24a615b8c435_90084c7e.jpg?itok=6Yd--xUM&amp;v=1792228865" type="image/jpeg"/>
 <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/d620da04-f8fc-4f1e-9c12-24a615b8c435_90084c7e.jpg?itok=6Yd--xUM&amp;v=1792228865" medium="image"/>
+</item>
+<item>
+<title>Independence supporters rally outside Alberta's legislature Saturday</title>
+<link>https://www.cbc.ca/news/canada/edmonton/pro-independence-alberta-referendum-2026-9.7384296?cmp=rss</link>
+<guid isPermaLink="false">aa273d4b978e17ae5b7cdaa3ed435d70975c6c6612a3db8854d82e68be9d63f9</guid>
+<source>CBC Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 14:00:00 +0000</pubDate>
+<description>Pro-independence supporters gathered at the Alberta legislature in Edmonton Saturday afternoon, less than 48 hours before referendum day.</description>
+<enclosure url="https://i.cbc.ca/ais/a3a5ee14-3950-4824-a619-082278b6c414,1792275165760/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C142%2C1616%2C909%29%3B" type="image/jpeg"/>
+<media:content url="https://i.cbc.ca/ais/a3a5ee14-3950-4824-a619-082278b6c414,1792275165760/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C142%2C1616%2C909%29%3B" medium="image"/>
 </item>
 <item>
 <title>Jaguars eye a full 2028 home slate in Jacksonville in shift that could end Wembley run - AP News</title>
@@ -3269,7 +3324,7 @@
 <source>Sky News World</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 13:52:00 +0000</pubDate>
-<description>A man and a woman have been charged with assault and criminal damage after a fatal house fire in Waterford that killed four members of the same family.</description>
+<description>A man and a woman have been charged with assault and criminal damage after a fatal house fire in Waterford, Ireland, that killed four members of the same family.</description>
 <enclosure url="https://e3.365dm.com/26/10/1920x1080/skynews-waterford-fire_7377650.jpg?20261015153331" type="image/jpeg"/>
 <media:content url="https://e3.365dm.com/26/10/1920x1080/skynews-waterford-fire_7377650.jpg?20261015153331" medium="image"/>
 </item>
@@ -3314,6 +3369,15 @@
 <description>NASA’s Roman Space Telescope exceeds expectations by nearly 30% Science Daily Astronomer leads global team on NASA mission to create unprecedented view of the early universe Phys.org NASA Roman Team Checks Out Main Instrument, Sharpens Telescope’s Focus NASA Science (.gov) NASA Nancy Grace Roman Space Telescope: The Best Inventions of 2026 Time Magazine Science consortium plots strategy to mine data from NASA’s newest space telescope EurekAlert!</description>
 </item>
 <item>
+<title>Verizon Will Charge You $10 A Month For iPhone Handoff - Engadget</title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE1YRlRFdUFKbkNZdVJGSTJFXzlpR0xQQllsM0wxbTR5VE82NkZDMlRDS3VUTWNwTDQ1MGpFcGdHNDI4ZjhJakMwY1lESkwzb20wc18xYWItZFN4OVJaYmtLdjZzMGsyejdIRzRsVFkzTWxiZllkd3c?oc=5</link>
+<guid isPermaLink="false">967e55ce7ef6528de95fe572a66bd36da96c484b3e10a04b9eab38f99c338237</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 13:45:16 +0000</pubDate>
+<description>Verizon Will Charge You $10 A Month For iPhone Handoff Engadget Verizon Will Charge $10 a Month for iPhone Handoff MacRumors iPhone Handoff in iOS 27: Use One Number on Two iPhones TechRepublic EE announces iPhone Handoff pricing details for UK customers 9to5Mac Verizon Charges $10/Month for iPhone Handoff Fee https://tech-insider.org/</description>
+</item>
+<item>
 <title>Will Paramount’s creation of Skydance test France’s cultural exception?</title>
 <link>https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception</link>
 <guid isPermaLink="false">94ff7f930ce53345e5caa329fdbd02a291df5e8b293e916e26c24d430e25815f</guid>
@@ -3347,13 +3411,13 @@
 <media:content url="https://static.toiimg.com/photo/msid-135014659,imgsize-10720028.cms" medium="image"/>
 </item>
 <item>
-<title>Brigham Young Cougars football - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhcDBBWnpYMGpLSEZKeGYwZ3laX2N5QWxPZzdicmYxRXJ2X0pRcnJ2M21ZUWJPWUFQR212VEdGTS1mWjRjUm5rQlNKMERBYV91Sm1LbmhfbUUtdmlvTFBjTjJhUQ?oc=5</link>
-<guid isPermaLink="false">f4248b8dc3261702a7ef6424879f7e8f1aea107ebce981ce2666659cabb7d850</guid>
+<title>Notre Dame Fighting Irish football - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UeWxEaUZpcUFQaG5jYlNDcDhtRHhXcjhaYVd5cVp1a2NjZkxWdzFyQWRJWFljT2RDRUpMa0ZjN05MVHI0OXNuS0FpUG1ZVjQ1OWVJWm5GUW9lb3hnaHc3SjRPSDVUb25Y?oc=5</link>
+<guid isPermaLink="false">57ae5c296bf540edcb18e8ad382424ffda736363e9d325463697f9a299ee5d72</guid>
 <source>AP News via Google News</source>
 <category>world</category>
-<pubDate>Sat, 17 Oct 2026 13:39:49 +0000</pubDate>
-<description>Brigham Young Cougars football AP News</description>
+<pubDate>Sat, 17 Oct 2026 13:40:14 +0000</pubDate>
+<description>Notre Dame Fighting Irish football AP News</description>
 </item>
 <item>
 <title>China central bank chief supports closer IMF surveillance of fiscal, spillover risks - Reuters</title>
@@ -3403,6 +3467,15 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 13:36:11 +0000</pubDate>
 <description>Iran's Guards say two tankers hit mines in Strait of Hormuz Reuters</description>
+</item>
+<item>
+<title>Apple's New Home Collection Gives Investors Another Reason to Remain Bullish - Yahoo Finance</title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPZVAtRVFEUnd4SEdTc3Y3M2ROQm5tTVhZYVlTZkNDdndWR0V5cHpwQ3hiM3ViM004Y3M5SU1RUWFodHM4QjI2a2N6VkRCSFp3NGlGT2g2aFBtcGZ1aEVsd0Ixc1ZwT0Mtem0wdTNKQ1I0b2oyRzFsV182cVVhSUI4VllFTmJXT3U4Y3NfeTB6RkpEbTMxMmhJZVFBVWhKQnFC?oc=5</link>
+<guid isPermaLink="false">f509a5a7639b6c8373b4293544498514dd42441062a3b5cd07d9383b04818973</guid>
+<source>Google News Top Stories</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 13:35:00 +0000</pubDate>
+<description>Apple's New Home Collection Gives Investors Another Reason to Remain Bullish Yahoo Finance Apple’s HomeView is just the latest threat to online recipe writers The Verge Apple’s New HomeView Is an Apple Watch Jammed Into an iPad Powered by CarPlay Slapped on a HomePod The New York Times The Apple HomeView Is Like a Giant Apple Watch for the Home WIRED The Apple HomeView's Most Unique Feature Might Be Its Biggest Mistake PCMag</description>
 </item>
 <item>
 <title>Madras HC: Covid ‘destroyed’ marriage, pandemic disputes need separate treatment</title>
@@ -3631,6 +3704,15 @@
 <media:content url="https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
+<title>Brigham Young Cougars football - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhcDBBWnpYMGpLSEZKeGYwZ3laX2N5QWxPZzdicmYxRXJ2X0pRcnJ2M21ZUWJPWUFQR212VEdGTS1mWjRjUm5rQlNKMERBYV91Sm1LbmhfbUUtdmlvTFBjTjJhUQ?oc=5</link>
+<guid isPermaLink="false">f4248b8dc3261702a7ef6424879f7e8f1aea107ebce981ce2666659cabb7d850</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 12:48:52 +0000</pubDate>
+<description>Brigham Young Cougars football AP News</description>
+</item>
+<item>
 <title>No Las Vegas, no New York, yet the WNBA Finals handle still beats 2022 - AP News</title>
 <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3ZzT3JTRDRLbXRSNUZPYXhRSXdPUExldmRfODVWLXVBeEdyODdIRGZXdGdvOXJHbDEwNnNTVEdTUnVQX3hhcnJPMzMyR2FxMkk3R3VsZjBkbFhtTHhady1JZUttNWVkbWR6M2dBcGc1QTJWOFE3SzV0QUsyWlNnVDkxWFBiX04xSmdXbEFmY1otNUt4cUxiX0tDOA?oc=5</link>
 <guid isPermaLink="false">502a151f64fe95bf2e7007744d5e7fb8b8944ad409409bdc81ec67d465fed67f</guid>
@@ -3685,6 +3767,15 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 12:33:39 +0000</pubDate>
 <description>Tunisians stage biggest protest in years against President Saied Reuters</description>
+</item>
+<item>
+<title>House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExxQUNwdWt3cTdJNVhNdGpNR0wxN01ERnJ0XzFKaXhhX2g3Z1YzTlVHSUNCaDZNMzBjbURBY2tvaDBPZ0piNGZKOU1JN2w2MmZGOUdXSU84WVM3ZFdJd09ndHJ6ajgyejFBSlJLb2ZEWTZ3VU5pWUNzbjY5LVk5VVVEdFR2WmtzbXhDVEtFNXJkWEVyaVNlWGRkNE5TWEU0WWFlQlZfaHVCQ0xUUndJTnpPcw?oc=5</link>
+<guid isPermaLink="false">91f5c06a500c079dce41565613f07eef47621b65a0ed456d843669a665ba5411</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 12:33:08 +0000</pubDate>
+<description>House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority AP News</description>
 </item>
 <item>
 <title>Fires and clashes rock France amid massive nationwide protests</title>
@@ -3751,15 +3842,6 @@
 <description>The 24-year-old becomes new British No 1 Biggest final of career after six months out with injury Sonay Kartal’s dream comeback continues as the Briton beat Jelena Ostapenko in straight sets on Saturday to advance to the biggest final of her career at the Wuhan Open. Kartal was behind in both sets and fought off six set points to claim a 7-6 (9), 7-6 (5) win over the former French Open champion in her second tour-level tournament back after injury. The 24-year-old, who started this week ranked world No 170 due to her recent inactivity, becomes the lowest-ranked player to reach a WTA 1000 final since the format began in 2009. The victory means Kartal is guaranteed to jump into the world’s top 50 in the WTA rankings next week, overtaking Katie Boulter to become the British No 1. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/374167d8df7a8eee075054d3e6b36c20790bf403/1144_862_4220_3376/master/4220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ea5950a36a20be0b265b0b30cab699a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/374167d8df7a8eee075054d3e6b36c20790bf403/1144_862_4220_3376/master/4220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ea5950a36a20be0b265b0b30cab699a" medium="image"/>
-</item>
-<item>
-<title>House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxQcExxQUNwdWt3cTdJNVhNdGpNR0wxN01ERnJ0XzFKaXhhX2g3Z1YzTlVHSUNCaDZNMzBjbURBY2tvaDBPZ0piNGZKOU1JN2w2MmZGOUdXSU84WVM3ZFdJd09ndHJ6ajgyejFBSlJLb2ZEWTZ3VU5pWUNzbjY5LVk5VVVEdFR2WmtzbXhDVEtFNXJkWEVyaVNlWGRkNE5TWEU0WWFlQlZfaHVCQ0xUUndJTnpPcw?oc=5</link>
-<guid isPermaLink="false">91f5c06a500c079dce41565613f07eef47621b65a0ed456d843669a665ba5411</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 12:26:00 +0000</pubDate>
-<description>House Speaker Mike Johnson draws on faith as he fights to hold the Republican majority AP News</description>
 </item>
 <item>
 <title>'How it feels': Dipke shares cheeky SRK post after walking out of jail</title>
@@ -4323,6 +4405,24 @@
 <description>Berlin's left-leaning parties have successfully concluded exploratory talks, and formal coalition negotiations could begin next month if party members approve. Follow DW for more.</description>
 </item>
 <item>
+<title>1QK.MU - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOWFZPek1Qb0ZkU2J1cW9yMmNLa2R3YkhfWnVYTWhQS3l2R0ZSRXRwbnAtTVBlNFlDSDlrQ1VrS29FVVdrSmNDUDc2RWJfbDBRRkZUeXE3Q0Jlak41TEl2XzBqalN1TTA4dlJtTGtvN2tJZUt5VnJqVWZTOXM4eVFnQjFsYW8?oc=5</link>
+<guid isPermaLink="false">3c8a7628488609cd920005b3abfb77f6eee2d3fac0cfeb7681f1f1683858a139</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 10:31:10 +0000</pubDate>
+<description>1QK.MU Reuters</description>
+</item>
+<item>
+<title>Sports - Middle East - AP News</title>
+<link>https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PRmUwcnI0VmJnOTNVOERrYUE3MDQ4b1c2S0laSXVjOGgyaC1GRlFoQm9VTlU5cEszQkJqTDJrY2VnVEdMa2VqblpBejlEamdIeTZF?oc=5</link>
+<guid isPermaLink="false">8cace8be7c7414dc1f75f1e74f028a3402a5c9b34aeb00b7d01f2b5d36d1f365</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 10:27:13 +0000</pubDate>
+<description>Sports - Middle East AP News</description>
+</item>
+<item>
 <title>Pope Leo leaves hospital 4 days after lung cancer surgery</title>
 <link>https://www.scmp.com/news/world/europe/article/3371256/pope-leo-leave-hospital-saturday-after-lung-cancer-surgery</link>
 <guid isPermaLink="false">f730bbfc0a46c1486ec17c018e943f67d1b4c08f0e0e30047a0478d103c972f4</guid>
@@ -4365,15 +4465,6 @@
 <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/30b0fdb2-90f2-4b55-ae92-9ed405114905_c49a9bab.jpg?itok=-NVBjX4S&amp;v=1792231935" medium="image"/>
 </item>
 <item>
-<title>Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5</link>
-<guid isPermaLink="false">8469eabe307dddb43f667926a599fb7d5cb8589a27a6d476d15a6b8be5c985ae</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 10:10:22 +0000</pubDate>
-<description>Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say Reuters</description>
-</item>
-<item>
 <title>Tesla's new Roadster turns in air with SpaceX thrusters, won't land until 2028 - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGw5R18xMUUwWFdySjRKNlRpdkY1c2d4QlZWWVdxRlQ2dlpoc2JSaVJPdmpfWE1CbjE4bEF5RVpPOGFrV3E1T1BrZmFtd1FVRk45cnFCQ2FUMUk1ODNtSzF0VkxTODVyalI0MENsaTJQYkQwTGJvMXU0S2MtNmRHWEktX0lXOHpaZy1JdWs1dXBSQWw5VVQtT0pvczFxQ3ZCWmQ4VGRmQWt0OUptTWhSZkNnYlhyM2diMzlHaGl4S3VyRFgyVk5qckI1Q0NvVnFv?oc=5</link>
 <guid isPermaLink="false">a171b66b3589ac4c40de2b4e99fa327a992bfe76bb6bca8edef9ee3f4685f2a7</guid>
@@ -4400,16 +4491,7 @@
 <source>Google News Top Stories</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 10:09:19 +0000</pubDate>
-<description>Katie Zacharia ousted as White House press secretary Axios A Five-Day Tour for Katie Zacharia WSJ Susie Wiles helped set up Fox interview ahead of press secretary’s exit Politico Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Why Trump decided to fire Katie Zacharia as press secretary after just five days: ‘Did anyone vet her?’ | CNN Politics CNN</description>
-</item>
-<item>
-<title>RIO.DE - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMif0FVX3lxTE96NkhzblAwdmJrcnlHZ2sybWZmTFp3ekZENHBaM2hwM05jQ2paLUZoY0hrQXdyakw0ajdDdlVlQ2thZDJUUGFwazVyczNGVEJRNkN5WnVVdnhfazlGbzFCNkJXNFZselRjUnByU0NJU09oMVIzTVpOUVVkV3RjWmM?oc=5</link>
-<guid isPermaLink="false">386b382d68a48263a513f57f9749dcab3d41a357b8da17ac1f3eb99444a1212d</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 10:01:13 +0000</pubDate>
-<description>RIO.DE Reuters</description>
+<description>Katie Zacharia ousted as White House press secretary Axios A Five-Day Tour for Katie Zacharia WSJ Zacharia posts altered photos of Trump’s Oval Office desk The Washington Post Susie Wiles helped set up Fox interview ahead of press secretary’s exit Politico Why Trump decided to fire Katie Zacharia as press secretary after just five days: ‘Did anyone vet her?’ | CNN Politics CNN</description>
 </item>
 <item>
 <title>Madeline Horwath on AI food advertising – cartoon</title>
@@ -4545,15 +4627,6 @@
 <description>Nationalist parties have come to see President Trump as a liability and distanced themselves from him as they have been rising in the polls.</description>
 <enclosure url="https://images.wsj.net/im-11504124" type="image/jpeg"/>
 <media:content url="https://images.wsj.net/im-11504124" medium="image"/>
-</item>
-<item>
-<title>KHNZ.F - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1nMWt0NEw2N2RVRko1Mk4zaDdpWWh4dldHaEFWT3djU2QyNG1yUVRwZUFoRHJ3cVNiOVFPN0VGZUdtdDZfcW4xdUtveFA2aG9ycU9RMmlxTGJUaFpvNnBLcnI1ZGcxamp3Q3BwVnY0UXI2SVlRX1kw?oc=5</link>
-<guid isPermaLink="false">a263a3c24665979c92855e591d6d47b57cd491ee3cf61861b5ef304f6c3cc81a</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 09:28:24 +0000</pubDate>
-<description>KHNZ.F Reuters</description>
 </item>
 <item>
 <title>Katie Zacharia leaving White House role less than five days into job</title>
@@ -4708,15 +4781,6 @@
 <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/ba86af7c-8ae7-4938-a8b6-b581c0ef42af_3d437ac2.jpg?itok=huENXoi7&amp;v=1791949944" medium="image"/>
 </item>
 <item>
-<title>2672.HK - | Stock Price &amp; Latest News - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkEzTkcwaFAzSHZmODhBLUs0N1ZSdWdYSGlyQzVvSVJKcWlXOHFpYlc2YUJPei14Y1lxUjNSenRqaGhsRGd0bUY3bHFodXdETG54QURUV0p4OGhmVXhZNVFCX2FNZ0NONXU0QXlDY3VpRkIwUWxqbm44ek5HR2pfSTBxWWhsZw?oc=5</link>
-<guid isPermaLink="false">67d1dcf26c862bdfcddffcf6b1cdbf634c33b5667ab0afc587b66a24cf686c91</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 08:25:19 +0000</pubDate>
-<description>2672.HK - | Stock Price &amp; Latest News Reuters</description>
-</item>
-<item>
 <title>China AI supply-chain IPOs hold firm despite valuation pullback, Citi says - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5</link>
 <guid isPermaLink="false">47e76b00e17f60d35e19f770d7093cd1b82dc1e5879dc3f4d68ced0bbf71dab6</guid>
@@ -4770,7 +4834,7 @@
 <source>Deutsche Welle</source>
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 08:02:00 +0000</pubDate>
-<description>Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in French cities.</description>
+<description>Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested over 1,000 people amid chaotic scenes.</description>
 </item>
 <item>
 <title>ECB's Lagarde says bond selloff will slow inflation - Reuters</title>
@@ -4903,17 +4967,6 @@
 <media:content url="https://i.cbc.ca/ais/c11256e7-4059-4e19-abd8-af41544c7ff5,1792185320602/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C796%2C2802%2C1576%29%3B" medium="image"/>
 </item>
 <item>
-<title>Can AI be regulated? Why experts say government intervention is needed — but could be tricky</title>
-<link>https://www.cbc.ca/news/business/ai-safety-regulation-9.7382483?cmp=rss</link>
-<guid isPermaLink="false">afa47171a4f78ca420726517d69e48fba85c6167d1c4932d3a1aecee8b4956cc</guid>
-<source>CBC Top Stories</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 08:00:00 +0000</pubDate>
-<description>As concerns mount over incidents of AI agents going rogue, the push from experts and stakeholders have been growing for government regulation of AI systems that are becoming increasingly capable. But some experts say the need for global cooperation and how quickly AI is advancing could make that difficult.</description>
-<enclosure url="https://i.cbc.ca/ais/30b8eca3-93ad-4670-8930-0c9b5dd6f54d,1792098732019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C107%2C5378%2C3025%29%3B" type="image/jpeg"/>
-<media:content url="https://i.cbc.ca/ais/30b8eca3-93ad-4670-8930-0c9b5dd6f54d,1792098732019/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C107%2C5378%2C3025%29%3B" medium="image"/>
-</item>
-<item>
 <title>Jayawardene leaves role as Mumbai Indians head coach - Reuters</title>
 <link>https://news.google.com/rss/articles/CBMiogFBVV95cUxNelJOZklOTWFPN3NYNEY2VVI5RW54amliMkE3TW01Y3drdm9ZVkZ3em5KOGQwWjQwUDAxYWJPQVlnbU5hXzlIOF8zOFpiM0Y4ZjZ1cVBaS1h0dG1OaHg1TGFLeTJKMmxCclZTVzRuNlRrVjRkVm5TNjZtWkVqOUJkZTNUb1QtVExIWHBXcUpjQVgzSnpjcENQbnE1WU9JbzlDRmc?oc=5</link>
 <guid isPermaLink="false">a6c3e221a377c7806864e5f88ce6e375e69f9e59839118888d1cf32257991962</guid>
@@ -5023,15 +5076,6 @@
 <description>Chinese-made cars filmed sensitive information during a Norwegian military exercise, including access codes at secure sites and officials’ comings and goings, raising concerns about the risks posed by connected vehicles. During a security exercise at Oslo airport on September 14 to 18, waiting soldiers tapping on their vehicle’s screen discovered videos recorded by the on-board cameras, the Dagens Naeringsliv newspaper revealed. The recordings showed who was getting in and out of the cars, the...</description>
 <enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/7df0bccf-e583-427a-813f-93a83e8a9caf_42f47055.jpg?itok=Y6tmlyhI&amp;v=1792220892" type="image/jpeg"/>
 <media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/7df0bccf-e583-427a-813f-93a83e8a9caf_42f47055.jpg?itok=Y6tmlyhI&amp;v=1792220892" medium="image"/>
-</item>
-<item>
-<title>An American pope brings American-style governance to the Vatican, even in a health crisis - AP News</title>
-<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjVQc2taSy0tVTBpSmpDc21PaHVKeVlpblNrT2lVNloyTnFseURkVC05c1MxQnNmYVlLRF9tcG9mZkJabElCbmE0RlQ1NzItSDJSRjlZMEMxX3VxWWRueDYyTk1td05UV1dVcElnWU9ocTNMRGVlNWZTcG9GUjhJTEY1RlFLRVMxV3JuMTh3WkQyWTlnSHN6eHFn?oc=5</link>
-<guid isPermaLink="false">ac1c6881c223e5d622a390080387aea3193ab3e5808989bf8fea120210f4f924</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Sat, 17 Oct 2026 07:03:00 +0000</pubDate>
-<description>An American pope brings American-style governance to the Vatican, even in a health crisis AP News</description>
 </item>
 <item>
 <title>‘I cannot carry all of this alone’: the couples kept apart by the war in Gaza</title>
@@ -5374,13 +5418,13 @@
 <description>Mongolia becomes new donor to World Bank's fund for poorest countries Reuters</description>
 </item>
 <item>
-<title>INDT.F - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPMllOMTdxcTVjd3d3S2I3WkZhUDNuVGNZajJvMks3TTJTVTMxbnhyMkFMb2M2ZW5kMGcwdjdCZTREbmtKUEZzaEZlanhDLVZSRHhNSVczdEFVcFZ0YmxDa1lxYnFOaWtJR1c4Y012bVJJZXlMTVZsdGlyRGd5VmJUbzBna0Y?oc=5</link>
-<guid isPermaLink="false">1da63202822aad8eb02e1aaba8bfe0d443149c5d8f4357d851bf5c24761c2e00</guid>
-<source>Reuters via Google News</source>
+<title>An American pope brings American-style governance to the Vatican, even in a health crisis - AP News</title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNVjVQc2taSy0tVTBpSmpDc21PaHVKeVlpblNrT2lVNloyTnFseURkVC05c1MxQnNmYVlLRF9tcG9mZkJabElCbmE0RlQ1NzItSDJSRjlZMEMxX3VxWWRueDYyTk1td05UV1dVcElnWU9ocTNMRGVlNWZTcG9GUjhJTEY1RlFLRVMxV3JuMTh3WkQyWTlnSHN6eHFn?oc=5</link>
+<guid isPermaLink="false">ac1c6881c223e5d622a390080387aea3193ab3e5808989bf8fea120210f4f924</guid>
+<source>AP News via Google News</source>
 <category>world</category>
-<pubDate>Sat, 17 Oct 2026 04:50:29 +0000</pubDate>
-<description>INDT.F Reuters</description>
+<pubDate>Sat, 17 Oct 2026 04:54:07 +0000</pubDate>
+<description>An American pope brings American-style governance to the Vatican, even in a health crisis AP News</description>
 </item>
 <item>
 <title>BOJ may need to tighten faster if inflation beats forecast, IMF says - Reuters</title>
@@ -5615,6 +5659,15 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 03:01:00 +0000</pubDate>
 <description>3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico AP News</description>
+</item>
+<item>
+<title>SRPBF.PK - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMib0FVX3lxTFBUbHhZQmlPVURKR2RRLUZra2Z0dmd5NlMwd0lZTUFDRDdFRS1rTGxSNHR2WUhFWFRYbU9WSmozRUZXOG5MVzI5UmFadFU1a0JVdXRsdUJ5RVpPaXJ2Y2J3QjNyaF9ndXdyZ2NjU0h6UQ?oc=5</link>
+<guid isPermaLink="false">b42d21bf7d9f2981f5be9c423e2fce835d7076e1a532f29d8d3610620e988bae</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 02:56:31 +0000</pubDate>
+<description>SRPBF.PK Reuters</description>
 </item>
 <item>
 <title>Meet Neha Bora, Activist and Face of India’s Young Protesters</title>
@@ -5866,6 +5919,15 @@
 <description>Latest vote shows no candidate for UN chief has the required support of all five key powers AP News</description>
 </item>
 <item>
+<title>CRW.D - | Stock Price &amp; Latest News - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBiWmpkRWU4TVZET19FTENyTWZvWkVQTzhDYWZhcjBCV0w0M0ZkajNpOW4zVjNTTGNxdG9sVXdWNkxPUlNsME0zenZBSWFqd0o1OFNSYzlLVU5OaGNjampQcFhpZ3gwMms5N2hyRVdsa2lPRzM0T0FVdWVlM1R4Zw?oc=5</link>
+<guid isPermaLink="false">d0f3b651dfb6d867e235ffa8823d819e6aa3cc16898713facae120b0ab987d7a</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 01:41:50 +0000</pubDate>
+<description>CRW.D - | Stock Price &amp; Latest News Reuters</description>
+</item>
+<item>
 <title>Youngest Oregon school shooting victim was a fearless climber who loved stuffed animals - AP News</title>
 <link>https://news.google.com/rss/articles/CBMilAFBVV95cUxPTWloUkk1SVhyMjJlNjBjc05CYThlWW00TUFsU1ZLMXVTSS04dWlCOTRfQ2NsUmlBQ0xPbTBoN21hcGZSRGhOOHZHOFNlZWVZUWQtV0pUU3Y5Z3VDVnQ1OUNhX21OdWxaQlZSdDlKX2RmNGlCaVlzNjlMVTlLOEZTcHplRzAyNzVwSUJSMldUajhyYTV0?oc=5</link>
 <guid isPermaLink="false">5d684921c5d4933411c485cb499f8db08f8e1dea2a7045299ff1067a16f84086</guid>
@@ -6013,6 +6075,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae0a/live/7e914b00-c96f-11f1-80fc-ab418b149008.jpg" medium="image"/>
 </item>
 <item>
+<title>KRH.HA - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTNWNkdOOEg1eUNWQWcyNzVrT0RldnlCaEdFTURuQ1BLZ3FIZHBDZllucmdtcTM1QWJaRDZHY3F3VGRHVlpmdzAxdGJGMDItTHNqSHhpNUpiQWo3NmpkSmxGNm94T1MzTU9hRXZBS0hGUXhZZVQ2bm5QbEtWZWVNRzdHQQ?oc=5</link>
+<guid isPermaLink="false">e98a32c63a5a3667553d3f7a722993f5075ec6d3dde73c1c08b9760eb46d981c</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 00:41:53 +0000</pubDate>
+<description>KRH.HA Reuters</description>
+</item>
+<item>
 <title>Judge throws out child sex abuse charges against actor Timothy Busfield</title>
 <link>https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">7380c158af8ff1c29e4881df47c2485cd24715af6743d9df13d249528e2c014f</guid>
@@ -6060,6 +6131,15 @@
 <category>world</category>
 <pubDate>Sat, 17 Oct 2026 00:02:10 +0000</pubDate>
 <description>GROUY.PK Reuters</description>
+</item>
+<item>
+<title>WATCH LIVE: New England’s having an ‘elite’ year, but there’s fall foliage elsewhere, too - AP News</title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXlFMl82U3Atc0JCZTQ5MUhnMG45TUYwN205dWFhekV5ak5zbm9FbGlIS01hWDlPdTBOZkNzN1lwdnA4dE1SM1RoSUlSa3BFZ3dRSkNlUmdyRU1mVVFUQzFCVFA0bkRCV2pMZDdHOTRYYXFuWXFjamI2SlhyQ2JsODNpOExCb01QMXV3dTBn?oc=5</link>
+<guid isPermaLink="false">652b6c5f92cc36fdce5c050dec23695141818a570f0ea591d938bbdcfd7b2e61</guid>
+<source>AP News via Google News</source>
+<category>world</category>
+<pubDate>Sat, 17 Oct 2026 00:01:00 +0000</pubDate>
+<description>WATCH LIVE: New England’s having an ‘elite’ year, but there’s fall foliage elsewhere, too AP News</description>
 </item>
 <item>
 <title>Malaysia’s shoppers love Chinese e-commerce. Its factories pay the price</title>
@@ -6120,73 +6200,6 @@
 <description>More than one million people now vape who have never been smokers, according to the ONS.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/e214ac90-ca31-11f1-9ab2-b325ce61f9d2.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5a8/live/e214ac90-ca31-11f1-9ab2-b325ce61f9d2.jpg" medium="image"/>
-</item>
-<item>
-<title>North Korea says it tested new torpedo with AI tech</title>
-<link>https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech</link>
-<guid isPermaLink="false">fc8bf2bfae59cee46a6bcbf441038be033d96599db30f5cd5bc653e5ae706fa5</guid>
-<source>South China Morning Post</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:37:18 +0000</pubDate>
-<description>⁠North Korea conducted an underwater ⁠test of a new torpedo weapon system on Thursday to verify technological upgrades, state news agency KCNA reported on Saturday, describing the test as a success and a significant step in ‌the country’s naval development. The test verified propulsion technology developed through more than 180 tests over the past five years, KCNA said, adding that artificial intelligence was used for target detection and guidance in the new high-speed precision-guided...</description>
-<enclosure url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/dc5fed3a-123c-4387-8f07-7cd1bc6952ef_78ecd2f2.jpg?itok=CyjdghCf&amp;v=1792193829" type="image/jpeg"/>
-<media:content url="https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/dc5fed3a-123c-4387-8f07-7cd1bc6952ef_78ecd2f2.jpg?itok=CyjdghCf&amp;v=1792193829" medium="image"/>
-</item>
-<item>
-<title>Qatar pledges a lifeline for Lebanon’s economy, power grid and reconstruction in the south - AP News</title>
-<link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRnhuWDVBV2xUMmpRRnVmV09WT2dkaTBqMm9KVHl3enBCQVFEc0I4U2VNRlpJQ0J2dmN3dUNnaGM0Q1h3MjJncjB2QlFEZkgxdEtJVk1xQzAwNW5kWDIySnA5ak5JLTVyV1JLVk1hVVNBOFROZFFaQUZ1c1JTaTV2blVKNkUzdmgwTlR0OUpUOUphYmtvRGJRS3VNLUFPTVRDQUdrTy1uVkN3bjFZanBDVE1HQkZrb2t4UXE0emM1R3FsQQ?oc=5</link>
-<guid isPermaLink="false">bd5574aaeffe2be6c20809b48a1e3b1664f6fd5b7703f7a539c1bc6dee112054</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:31:23 +0000</pubDate>
-<description>Qatar pledges a lifeline for Lebanon’s economy, power grid and reconstruction in the south AP News</description>
-</item>
-<item>
-<title>Two of MLB’s smallest spenders will meet in the World Series for first time since 1991 - AP News</title>
-<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmFYblVSTkZnR24wdngxNV93TUN3S2xDUEg0eTg3QWd0aUQ4MEEtRFBFZ1JVck9iX0tUVnhyeGN5UUVqT0p0MWZTYnpLZmUwUVduWXQ3RDJmTFN3X0k0dld4R0NKZjA5T0oyTXVkTHJpUTRLc3lRRGI0Z0JuTnQ4V3ltc09zb0xCdnBtbFRR?oc=5</link>
-<guid isPermaLink="false">72c5d4c3b6250f8eeae20be41e1fe99733ef704531d449cef8059704d4b239d7</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:31:00 +0000</pubDate>
-<description>Two of MLB’s smallest spenders will meet in the World Series for first time since 1991 AP News</description>
-</item>
-<item>
-<title>Not sure what to wear for Halloween? These outfits are set to be the most popular this year</title>
-<link>https://www.bbc.co.uk/news/articles/crn4ej7vdwdno?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">32439a396ea3bc6e8ba096bed1de5ee155f136697b77d37dbe2e3fb70ab266e9</guid>
-<source>BBC News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:27:01 +0000</pubDate>
-<description>Freaky Nikki, Dolly Parton and whimsical costumes like gargoyles are popular among adults dressing up this year.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8723/live/31d18950-c7e5-11f1-a64c-550be9e3c66b.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8723/live/31d18950-c7e5-11f1-a64c-550be9e3c66b.png" medium="image"/>
-</item>
-<item>
-<title>Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGgzckNkaE5BdjZxdVMta2hsdVczMHFrZ2U4aFgzY2VsLVF5VEFpd1FMQVc1V084YTZQU0IyMkdWbXZTbEtpdlhFWHR2SUI1SDdsczFmeERfNHhfOXRpR2NLTVhjRWF4YWNYaDBPWXJDSXpqLUgtSERBY1lHejU3MTl0T2pPMzlKRDlsdmFNM3kwQk1YSFlyMnpDN1FSVG0xM2xqNTZrbnNxQTVkT3drcVJSVm0zNFlYOUstZzlDYldrc1p5OWJR?oc=5</link>
-<guid isPermaLink="false">23f99b61c46980a4c18a946599caf2453cf9d5f1afdd89ed6a10af15ee6dc720</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:23:52 +0000</pubDate>
-<description>Anthropic quietly pitches its own AI safety bill to lawmakers, Politico reports Reuters</description>
-</item>
-<item>
-<title>Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest - AP News</title>
-<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXhJMWN0WnFpWGZmYVYtMGdqbVlXcExnaXRyUjVRUnU5Y1dQRzFNMF9YTzBUY2hpdFJVNl8tYUZSVnNNdXZPanN2dDQ3Wkh2eUtOdEFsMURMclhPM2tzTEZySDlVU2ZGcXdQUHZNY252NExocU9rSlZqWTM3Mm9hQ1dFa2dlR0k5dE5UY0E2WQ?oc=5</link>
-<guid isPermaLink="false">b682c30543909bfa2e85bc2c76db1ea2860805fd7e4b67acb7ebf4d024193c7f</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:18:00 +0000</pubDate>
-<description>Selma Blair's representatives say she didn't intend to hurt anyone on flight that led to her arrest AP News</description>
-</item>
-<item>
-<title>Painting Eisenhower Building would diminish historic character of White House complex, report says - AP News</title>
-<link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPTmtnQmJhZUdYenI5NG1feE1iZnZTYjFiYTRaSm1mdlNORXlYRlpTMzJNaExzRERwejJzQTZYWnlQMzl5d1lYaFhMUThuMWlWTnktcHczOWkzYlZKdnctMTA5UFIxOVBHWEJxOG13cjhLLU1hTXc2TEo4YW8xUWFjam5SaUtXMnFodUNFRUFFQV9ybG9QNTBTMm1hYUt4bHZNbW8wNE1hNFlBR2gw?oc=5</link>
-<guid isPermaLink="false">cdcbb3bc45b72934fcb730993b9e0b99c874ce45c8282e230cc4c8cbb958e3ea</guid>
-<source>AP News via Google News</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 23:17:15 +0000</pubDate>
-<description>Painting Eisenhower Building would diminish historic character of White House complex, report says AP News</description>
 </item>
 <item>
 <title>China’s tourists flock to experience a pretend typhoon as ‘dark tourism’ flourishes</title>
@@ -6830,17 +6843,6 @@
 <category>world</category>
 <pubDate>Fri, 16 Oct 2026 14:23:00 +0000</pubDate>
 <description>Empty lecture halls, burning buildings and demands for change: Albanian students are spearheading a protest movement that has become the biggest challenge to Prime Minister Edi Rama in years.</description>
-</item>
-<item>
-<title>Pennsylvania woman’s $250,000 family farm sale remains blocked after sibling dispute</title>
-<link>https://timesofindia.indiatimes.com/world/us/a-pennsylvania-woman-lived-on-a-60-acre-family-farm-for-22-years-then-agreed-to-sell-it-for-250000-with-a-proposed-99-year-lease-letting-her-stay-an-appeals-court-kept-the-sale-blocked-after-her-siblings-objected/articleshow/134995915.cms</link>
-<guid isPermaLink="false">ff984192645a5047b725cdcf6fc806c3eca75ce4ea1e5daff6bf479a0f37d340</guid>
-<source>Times of India Top Stories</source>
-<category>world</category>
-<pubDate>Fri, 16 Oct 2026 14:08:26 +0000</pubDate>
-<description>Siblings are embroiled in a legal conflict over the fate of their family-owned 60-acre farm in Pennsylvania. A sister residing on the land sought to sell it despite having a long-term tenancy. In response, her siblings filed an urgent petition to block the sale, citing property rights. The Pennsylvania Superior Court supported the injunction, illustrating the complicated nature of co-ownership and informal familial arrangements in property disputes.</description>
-<enclosure url="https://static.toiimg.com/photo/msid-134997273,imgsize-1127394.cms" type="image/jpeg"/>
-<media:content url="https://static.toiimg.com/photo/msid-134997273,imgsize-1127394.cms" medium="image"/>
 </item>
 <item>
 <title>Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations</title>
@@ -7658,17 +7660,6 @@
 <category>world</category>
 <pubDate>Thu, 15 Oct 2026 13:24:00 +0000</pubDate>
 <description>While the world debates the dangers of artificial intelligence, filmmaker Doris Dörrie explores how humanoid robots could change the way we deal with aging, caregiving and how people choose to die.</description>
-</item>
-<item>
-<title>While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot</title>
-<link>https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html</link>
-<guid isPermaLink="false">492e7d81411db85970d3bef40d999c9bebbf9ebe89e091b8834cc02c21ecfd0b</guid>
-<source>New York Times World</source>
-<category>world</category>
-<pubDate>Thu, 15 Oct 2026 13:01:07 +0000</pubDate>
-<description>The Vatican bureaucracy has been fine-tuned over hundreds of years to function smoothly even when the pope cannot.</description>
-<enclosure url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg" type="image/jpeg"/>
-<media:content url="https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg" medium="image"/>
 </item>
 <item>
 <title>Cartoon: AI tsunami</title>
@@ -8655,6 +8646,15 @@
 <description>Finns have many reasons to feel content, but the country's pile of debt is not one of them. Russia's war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?</description>
 </item>
 <item>
+<title>CBRS.DE - Reuters</title>
+<link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9nclVLRXhoeWNQSWFXV2RDRVkxZndDX1EtQkpQWWJpWFhIVkI0OFllc3dRNjhiWTdvd054bTQteGpiTm9XVDhwRkd2dzM3Y09FeW5OeHBKTVlWSTl3XzlFWnlwNVNVbm45QThWQ0R3?oc=5</link>
+<guid isPermaLink="false">7c62b2fa209139fa16d6f3a28e6a6d03f78b33a12778afbc7f8e8228368c662c</guid>
+<source>Reuters via Google News</source>
+<category>world</category>
+<pubDate>Fri, 09 Oct 2026 02:15:57 +0000</pubDate>
+<description>CBRS.DE Reuters</description>
+</item>
+<item>
 <title>2026 Nobel Prize winner Anne Carson: Where to start reading</title>
 <link>https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-rdf</link>
 <guid isPermaLink="false">15dc9f44d3b5049989d954bf921c2d8b642a7eef7a4029a32a4f0e052689a652</guid>
@@ -8716,15 +8716,6 @@
 <category>world</category>
 <pubDate>Thu, 08 Oct 2026 09:34:00 +0000</pubDate>
 <description>Citing the escalating security threat, Germany's Navy has decided to establish a second port on the North Sea coast. Emden was chosen as the location.</description>
-</item>
-<item>
-<title>C4RE.DE - Reuters</title>
-<link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBjMjVON0lTQWRsN2cwQXVmUXBCRW1YZld5NU03dmZTRkRIVmxORWY3RW1tTjJkZ24yNW1qbzVidkJCRTVqY3ZQa2R4c1N5WEdnb3oyYzZOS0hodDFZTlRxeU1qcE9WQWNnTWY2ZWVB?oc=5</link>
-<guid isPermaLink="false">029214f54ee21059821f9ff82db0ba2bde85963a9210018223502e491b0da77d</guid>
-<source>Reuters via Google News</source>
-<category>world</category>
-<pubDate>Thu, 08 Oct 2026 08:40:45 +0000</pubDate>
-<description>C4RE.DE Reuters</description>
 </item>
 <item>
 <title>Gerhard Schröder visits latest Russian employer, Hyperglobus</title>
