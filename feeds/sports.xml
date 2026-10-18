@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Football Daily</title>
+<link>https://www.bbc.co.uk/sounds/play/p0phbswc?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">019d86c7ad86f5de2ecb0159e523388407dd0fdbfdb2b7a6bafb7ce1a93bf0e4</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 18 Oct 2026 22:26:00 +0000</pubDate>
+<description>Paul Robinson joins to discuss Brighton and Lloyd making history, and Leeds v Man United.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg" medium="image"/>
+</item>
+<item>
 <title>Mbappe scores twice as Real Madrid beat Sevilla</title>
 <link>https://www.bbc.co.uk/sport/football/videos/crp3g7z9x215o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">fd1cf31daeea25b6521eeac93e5eac68dbe8f0ebb734fda098aeb5e914619066</guid>
@@ -1345,15 +1356,6 @@
 <category>sports</category>
 <pubDate>Thu, 25 Jul 2019 09:10:45 +0000</pubDate>
 <description>The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
-</item>
-<item>
-<title>Duhatschek notebook: Why we may see an offer sheet (or two) this summer and the evolution of Jason Spezza - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlloQklHUk9tR3cxbkhITzhCc0Q0MHV2QzhuQjM2VTNFMjloREw2TE9XUTRuQVpLYVhpbzNCblZVbzdqWThpTTBlVlloVVdSbFV0akJtX2hCYjlMci1NNzd3T2RXWExXdWs4aDNPbF83WlMwbW5WRFBBSjJGRmMta1BwakdGc09ja2Z0c1BlZmhQOU1FbzNYeF9DanhvVHEtekNKT25mX3BNOF9DdG56S1dBUjB1a1F1SzhjUnRaZWxCSUk2X3RQQ1gwSmdPZ2lVZUFjVll5aFFTTU5kaG1iQUptc2lFeFlHUDdNc1k0QQ?oc=5</link>
-<guid isPermaLink="false">a72b5066344d917807c2b7b402bfe5db01b1a276cdb07701f7329d359ab8e6a9</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Fri, 14 Dec 2018 08:00:00 +0000</pubDate>
-<description>Duhatschek notebook: Why we may see an offer sheet (or two) this summer and the evolution of Jason Spezza The New York Times</description>
 </item>
 <item>
 <title>Sign up for the Recap newsletter: our free sport highlights email</title>
