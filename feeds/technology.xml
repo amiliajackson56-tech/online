@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Flat Ethernet cables probably aren't the answer to your home networking problem</title>
+<link>https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues</link>
+<guid isPermaLink="false">b9878b048feab448a1d9f331d8e3742106362b376d4f173b1bf6644b57d5f3c5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 15:45:00 +0000</pubDate>
+<description>For the most reliable performance, round Ethernet cables are generally superior.</description>
+<enclosure url="https://www.engadget.com/img/gallery/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem/l-intro-1791980716.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/flat-ethernet-cables-probably-arent-the-answer-to-your-home-networking-problem/l-intro-1791980716.jpg" medium="image"/>
+</item>
+<item>
 <title>The reason why your drive shows less storage than you paid for</title>
 <link>https://www.engadget.com/2286322/why-new-drive-shows-less-storage</link>
 <guid isPermaLink="false">f02afba8fd9574e4ab1e4574b9938c13f14e13e6dc03868d187fdd285db7654d</guid>
@@ -48,7 +59,7 @@
 <media:content url="https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg" medium="image"/>
 </item>
 <item>
-<title>Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root</title>
+<title>Hackers exploit SiteGuard WAF flaw to run commands as admins</title>
 <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root</link>
 <guid isPermaLink="false">c96bea687e1c26b225816fa022d93a8d2cda1f66b9d08cad68a5e927f8a14a56</guid>
 <source>BleepingComputer</source>
@@ -244,6 +255,17 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
+</item>
+<item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
 <link>https://www.wired.com/story/best-airpods-case</link>
 <guid isPermaLink="false">1d1a96896d57f89921c5bc6c492d8e3b946f9f2dac3e6959934efbe1eead7752</guid>
@@ -264,17 +286,6 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
-</item>
-<item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
 </item>
 <item>
 <title>ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
@@ -465,17 +476,6 @@
 <category>technology</category>
 <pubDate>Sat, 17 Oct 2026 18:48:08 +0000</pubDate>
 <description>Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.</description>
-</item>
-<item>
-<title>Android Auto can be used outside of your car: Here's how</title>
-<link>https://www.engadget.com/2284102/how-android-auto-used-outside-of-car</link>
-<guid isPermaLink="false">8a73421bc558f963db796bcf20a0c7d297b5cb3358bfd37fa2f9c7bfb524ee94</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 18:45:00 +0000</pubDate>
-<description>It might sound weird to use Android Auto outside of a vehicle, but doing so has unexpected productivity benefits.</description>
-<enclosure url="https://www.engadget.com/img/gallery/android-auto-can-be-used-outside-of-your-car-heres-how/l-intro-1791824287.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/android-auto-can-be-used-outside-of-your-car-heres-how/l-intro-1791824287.jpg" medium="image"/>
 </item>
 <item>
 <title>Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling</title>
