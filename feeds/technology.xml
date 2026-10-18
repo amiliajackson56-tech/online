@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</title>
+<link>https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo</link>
+<guid isPermaLink="false">0cbc28b879d8b966f830ef9827c01beb9ff93aa14128a43e4875d7525e4e6339</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 18:00:00 +0000</pubDate>
+<description>Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.</description>
+<enclosure url="https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple Watch Series 12 is excellent, but I find myself missing this one software feature</title>
+<link>https://9to5mac.com/2026/10/18/apple-redesigned-health-app-one-suggestion-series-12</link>
+<guid isPermaLink="false">cb8e11a28bbaa91093b98c50c5aeac05a8329f57d05d311b8eda7297b55f8dee</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 17:56:43 +0000</pubDate>
+<description>Apple Watch Series 12 has been a marvel of an upgrade, at least for me. I’ve written about it WHOOP. That said, in my past month testing it, there’s one WHOOP feature I’ve found myself missing. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-watch-series-12.webp?w=1600" medium="image"/>
+</item>
+<item>
 <title>Should you limit your FPS in games? Here's when it makes sense</title>
 <link>https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense</link>
 <guid isPermaLink="false">2c479656c2720415699d8c9935df2f695b8642729de536d8ebe8f34cb343fc2f</guid>
@@ -328,17 +350,6 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
 <link>https://www.wired.com/story/best-airpods-case</link>
 <guid isPermaLink="false">1d1a96896d57f89921c5bc6c492d8e3b946f9f2dac3e6959934efbe1eead7752</guid>
@@ -359,6 +370,17 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
+</item>
+<item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
 </item>
 <item>
 <title>ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
@@ -436,17 +458,6 @@
 <description>Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-to-keep-your-smart-home-running-even-if-the-internet-goes-down/l-intro-1791831565.jpg" medium="image"/>
-</item>
-<item>
-<title>Why it's important to monitor your PC's background processes</title>
-<link>https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes</link>
-<guid isPermaLink="false">9e866c364d575da804445eb79ebb80c43909101b31479bcec72128892d36065c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 22:30:00 +0000</pubDate>
-<description>What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-its-important-to-monitor-your-pcs-background-processes/l-intro-1791830732.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-its-important-to-monitor-your-pcs-background-processes/l-intro-1791830732.jpg" medium="image"/>
 </item>
 <item>
 <title>iPhone Duo walk-in purchases might be challenging at launch, per report</title>
@@ -2990,17 +3001,6 @@
 <description>Wow, $299. That’s a very surprising price. For HomeView, Apple’s all-new smart display, $299 feels surprisingly affordable. For Apple TV 4K, $299 feels surprisingly painful. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>HomeView isn’t launching in the EU, here’s why</title>
-<link>https://9to5mac.com/2026/10/13/homeview-isnt-launching-in-the-eu-heres-why</link>
-<guid isPermaLink="false">68b48385cba15fa727676c4c22ec697ec11b4e222a03229f8c8126053064ecb0</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 17:24:27 +0000</pubDate>
-<description>Apple unveiled its new HomeView product today, and it’s available for pre-order now. But unfortunately HomeView isn’t coming to the EU, at least for now. Here’s why. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
 </item>
 <item>
 <title>GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking</title>
