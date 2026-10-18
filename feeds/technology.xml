@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple’s first touchscreen MacBook could debut on November 6: Here’s what to expect</title>
+<link>https://9to5mac.com/2026/10/18/new-macbook-pro-with-touchscreen-and-oled-november-6-release</link>
+<guid isPermaLink="false">1d4d3dd7d66b259d82672cda6674814242bf217349695ddfd05eaac9a38f2339</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 14:48:53 +0000</pubDate>
+<description>After over a decade of not adopting touch displays on its Mac notebook lineup, Apple will finally be releasing its first touchscreen MacBook as early as November 6th, after announcing it as early as October 27th . more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>iOS 27's new CarPlay features are great, but only these iPhones can actually use them</title>
+<link>https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones</link>
+<guid isPermaLink="false">11a8a3b8a68868662babf6277ec50c62226ae97ec5e21453bcb474f30351f5f6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 14:45:00 +0000</pubDate>
+<description>With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ios-27s-new-carplay-features-are-great-but-only-these-iphones-can-actually-use-them/l-intro-1791964323.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root</title>
+<link>https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root</link>
+<guid isPermaLink="false">c96bea687e1c26b225816fa022d93a8d2cda1f66b9d08cad68a5e927f8a14a56</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 14:23:16 +0000</pubDate>
+<description>Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]</description>
+</item>
+<item>
 <title>Apple’s next HomeView could debut as soon as next year with a robotic arm: report</title>
 <link>https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report</link>
 <guid isPermaLink="false">875a199f20cd3e5bb5b8da7ac4c0222ff6a151a89856c6da6f9220dc8b57b62a</guid>
@@ -434,17 +465,6 @@
 <description>Android phone running out of space? Here's why and what you can do to get rid of old files.</description>
 <enclosure url="https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/whats-actually-eating-all-the-storage-space-on-your-android-phone/l-intro-1791468108.jpg" medium="image"/>
-</item>
-<item>
-<title>iPhone Duo shipping estimates have already been pushed back to 2027</title>
-<link>https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027</link>
-<guid isPermaLink="false">d870c5b2076cf24b4722253f7d2bd87b9694cac1eaea4e4bafa2c141b3d20262</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 18:12:35 +0000</pubDate>
-<description>Apple called the early demand "nothing short of extraordinary."</description>
-<enclosure url="https://www.engadget.com/img/gallery/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/l-intro-1792260615.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/l-intro-1792260615.jpg" medium="image"/>
 </item>
 <item>
 <title>Hands-on: UGREEN’s new 25W MagSafe battery for iPhone features liquid cooling</title>
@@ -2037,15 +2057,6 @@
 <media:content url="https://media.wired.com/photos/6acec4974eea6509d95be967/master/pass/Junji-Ito-Manga-Horrors-Culture-2276601648.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft: Windows Server 2022 reached end of mainstream support</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support</link>
-<guid isPermaLink="false">f6fec61ee9ad4fef5537dbcf5ed060ebe4a7bd8cb9302a6867281057d8932c9c</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 13:18:36 +0000</pubDate>
-<description>Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]</description>
-</item>
-<item>
 <title>NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks</title>
 <link>https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html</link>
 <guid isPermaLink="false">b1e071119d1a7018a98c03da6748d12c6d85cebad02ae7a438737281475dc046</guid>
@@ -2990,17 +3001,6 @@
 <description>Apple unveiled its new HomeView product today, and it’s available for pre-order now. But unfortunately HomeView isn’t coming to the EU, at least for now. Here’s why. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-Apple-Podcasts-Lyrics-Apple-Music-261013.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>Will HomeView support third-party apps? Here’s what Apple says</title>
-<link>https://9to5mac.com/2026/10/13/will-homeview-support-third-party-apps-heres-what-apple-says</link>
-<guid isPermaLink="false">720dcad07827f53fe8e4db0cf61fb73421e3e422aef2fd137a8fc4368a9ea15b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 16:24:59 +0000</pubDate>
-<description>Apple today announced HomeView, a $299 smart home display with a 7-inch screen that lets users control connected accessories, make FaceTime calls, and enjoy music and video content. But what about third-party apps? Here’s what Apple says. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking</title>
