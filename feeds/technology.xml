@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Trump says Google kisses his ass</title>
+<link>https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass</link>
+<guid isPermaLink="false">81cc485622695eaba47e627a354738ef28a970d3c979dd3f29c1f4faa8686ffc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 13:25:01 +0000</pubDate>
+<description>During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the Gulf of Mexico and Lake Ontario. "This is a much more powerful term. I can do […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How to use your Windows PC to make and receive phone calls</title>
+<link>https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls</link>
+<guid isPermaLink="false">bb2c48853f000d4ec2ebd5d956c755ba08f167a61ac457fd90b4ff1c8f2da13a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 13:15:00 +0000</pubDate>
+<description>Windows 11 can connect to your phone to make calls, letting you manage them in one place instead of picking up your phone.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-windows-pc-to-make-and-receive-phone-calls/l-intro-1791904099.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-windows-pc-to-make-and-receive-phone-calls/l-intro-1791904099.jpg" medium="image"/>
+</item>
+<item>
+<title>The best gadget I bought this year is a milk frother</title>
+<link>https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget</link>
+<guid isPermaLink="false">347fe00b6f02ad3a2095ee7c0150dd26c3d70b513d29410da30374f6f01f1cab</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 13:00:00 +0000</pubDate>
+<description>Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed with was their […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How overhead projectors took over your classroom</title>
+<link>https://www.theverge.com/podcast/1013473/overhead-projector-version-history</link>
+<guid isPermaLink="false">cc10eba0630c01bf8e55fc11de760c9577f7495910d8fe4e903d544c336aeacc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 12:55:01 +0000</pubDate>
+<description>It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than just the disciplinary record of students everywhere. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Why it's important to avoid plugging in a damaged external hard drive</title>
 <link>https://www.engadget.com/2285211/why-its-important-to-avoid-plugging-in-damaged-hard-drive</link>
 <guid isPermaLink="false">f3f93655d6979f8b6471714c6bba504701d564fb65304dd606c8f4448d4eb82b</guid>
@@ -414,17 +458,6 @@
 <media:content url="https://www.engadget.com/img/gallery/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/l-intro-1792253250.jpg" medium="image"/>
 </item>
 <item>
-<title>This Samsung Galaxy feature can protect you from untrustworthy apps</title>
-<link>https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker</link>
-<guid isPermaLink="false">51a044a63551b7594e24407d1a06f0fba240564cb48f5ce57638edaa2b351fe7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 16:00:00 +0000</pubDate>
-<description>Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.</description>
-<enclosure url="https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/this-samsung-galaxy-feature-can-protect-you-from-untrustworthy-apps/l-intro-1791578177.jpg" medium="image"/>
-</item>
-<item>
 <title>EE announces iPhone Handoff pricing details for UK customers</title>
 <link>https://9to5mac.com/2026/10/17/iphone-handoff-pricing-details-ee-uk</link>
 <guid isPermaLink="false">c9d4bad6a8ef458d89fa32d0b096bbb260365625d3f7ed57c13b3051949e66bb</guid>
@@ -496,17 +529,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Jad-WideEyedPortrait-14-Full.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>SpaceX’s ambitious, expensive gamble to replace AT&amp;#038;T, T-Mobile, and Verizon</title>
-<link>https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile</link>
-<guid isPermaLink="false">b437462ca3e1db128791d50ca62ecbf96cb94c43786b5b26ad0aa7cc683d1c6d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 14:00:00 +0000</pubDate>
-<description>Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_SpaceX_Telecom.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>PSA: Apple’s official silicone iPhone Duo case will require adhesive to stick</title>
 <link>https://9to5mac.com/2026/10/17/iphone-duo-silicone-case-adhesive-psa</link>
 <guid isPermaLink="false">201bcac65794d8d8ce6735e2b24e610d520dd0e21c8ece0eb41cdd916072dd90</guid>
@@ -516,28 +538,6 @@
 <description>iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early purchases. After purchasing, some users have noticed that the silicone case has a little bit of a caveat. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.15.09.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.15.09.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Websites are closing their doors to AI agents</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-<guid isPermaLink="false">b31543fcd7d1501be961df37b837ad04655b4329769fd3a14ac52809f997151e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-<description>Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Bose’s new wired earbuds are simple in the best way</title>
-<link>https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review</link>
-<guid isPermaLink="false">5a085879e93b85775cd00edfea606620b1f4093363ac85183b12ff03be25f4af</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-<description>After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bose-Noise-Cancelling-Wired-Earbuds_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27</title>
