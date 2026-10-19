@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How the Xbox’s Disc-to-Digital Program Works</title>
+<link>https://www.wired.com/story/xbox-disc-to-digital</link>
+<guid isPermaLink="false">61692934e71d86db2d0acdb120076be027bb56b8ee0a54548edff692ac2d9312</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
+<description>Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.</description>
+<enclosure url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" medium="image"/>
+</item>
+<item>
+<title>Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories</title>
+<link>https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories</link>
+<guid isPermaLink="false">cb821ddf24c674cbeef308f39642c0668070b7ba9d509f5679666ee80ee15ab0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
+<description>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</description>
+<enclosure url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" medium="image"/>
+</item>
+<item>
 <title>The Story of Billy Evans and ‘Theranos 2.0’</title>
 <link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
 <guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
@@ -2341,28 +2363,6 @@
 <description>Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.</description>
 <enclosure url="https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif" medium="image"/>
-</item>
-<item>
-<title>The Best Permanent Outdoor Lights (2026): Govee, Eufy, Cync</title>
-<link>https://www.wired.com/story/should-you-get-permanent-outdoor-lights</link>
-<guid isPermaLink="false">25f084bb1e807e7169f3e0bec88c91cfa6e5de3b5931fb42a8b453d341846f2c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 09:36:00 +0000</pubDate>
-<description>Permanent eave lights that attach to the exterior of your home are becoming more popular. But are they worth the effort and cost?</description>
-<enclosure url="https://media.wired.com/photos/6acfd8a8250b75e3c1f1e3d2/master/pass/Best%20Permanent%20Outdoor%20Lights%20(Update)%20102026%20top%20art%20SOURCE%20Govee.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfd8a8250b75e3c1f1e3d2/master/pass/Best%20Permanent%20Outdoor%20Lights%20(Update)%20102026%20top%20art%20SOURCE%20Govee.jpg" medium="image"/>
-</item>
-<item>
-<title>Artemis III Scientist Shares What to Expect From NASA’s Next Lunar Mission</title>
-<link>https://www.wired.com/story/artemis-iii-scientist-shares-what-to-expect-from-nasas-next-lunar-mission</link>
-<guid isPermaLink="false">348f3bf52fa88f4376f1a45309e986e5a6098eb7594ee0cf410fc58694d6c8f5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 09:15:00 +0000</pubDate>
-<description>Though scaled back from initial plans of landing, the voyage will serve as a dress rehearsal for when humans return to the moon’s surface.</description>
-<enclosure url="https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/master/pass/WR-Nasa.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ace784a3ccd7fa0977b8204/master/pass/WR-Nasa.jpg" medium="image"/>
 </item>
 <item>
 <title>GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
