@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why your USB device keeps disconnecting (and how to fix it)</title>
+<link>https://www.engadget.com/2287812/usb-device-disconnecting-reasons</link>
+<guid isPermaLink="false">ca15fbac7ca506405cdd3fa5d5a50f1fb8c9b204950028f2afe97302389ddf1c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 15:45:00 +0000</pubDate>
+<description>If your USB peripheral is on the fritz, it's worth doing some troubleshooting with the port itself. Give these steps a try.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-usb-device-keeps-disconnecting-and-how-to-fix-it/l-intro-1792082689.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon is funding a new nuclear plant in Indiana</title>
+<link>https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana</link>
+<guid isPermaLink="false">b0ef1cc24d7131641e5d589b8ea4f280391b21e7d02798eca0c3942af2dab018</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 15:44:20 +0000</pubDate>
+<description>Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia launches new open models to run agents in the enterprise and on PCs</title>
+<link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs</link>
+<guid isPermaLink="false">bfa70917f3b198d146019918c5763d9338f931a1a30d65ba069b6e65e6f8e230</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 15:37:09 +0000</pubDate>
+<description>Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.</description>
+</item>
+<item>
+<title>TP-Link moves to assemble routers in the US following an import ban</title>
+<link>https://www.engadget.com/2290313/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban</link>
+<guid isPermaLink="false">a853b3ff7b0d8e07e0dd1b5fec205fd91bdb9856ee76806e9d01aef9489b034a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 15:31:22 +0000</pubDate>
+<description>Routers could start rolling off a Missouri production line as soon as early 2027.</description>
+<enclosure url="https://www.engadget.com/img/gallery/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/l-intro-1792423831.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/tp-link-moves-to-assemble-routers-in-the-us-following-an-import-ban/l-intro-1792423831.jpg" medium="image"/>
+</item>
+<item>
+<title>Deals: Apple TV 4K, AirPods Pro 3, leather iPhone Duo cases, M6 Mac mini, more</title>
+<link>https://9to5mac.com/2026/10/19/deals-apple-tv-4k-airpods-pro-3-leather-iphone-duo-case</link>
+<guid isPermaLink="false">14bcdac27d356695569d3bb8a70360a05dc7db5ee45421dc0a8cebbaecee0eaa</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 15:28:39 +0000</pubDate>
+<description>Amazon is now shipping pre-orders for the new HomeView even faster than Apple is (most models still arriving on release day) and we are now tracking the return of the pre-order discount on the brand new Apple TV 4K (Amazon is still shipping this one on release day too). All of that joins the $50 price drop on AirPods Pro 3, up to $149 off the new M6 Mac mini, and we have exclusive discounts on a few different leather iPhone Duo cases to scope out below as well. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-iPhone-Duo-leather-Apple-TV-4K-AirPods-Pro-3.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-iPhone-Duo-leather-Apple-TV-4K-AirPods-Pro-3.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Don't throw away your old USB charging cables — Repurpose them instead</title>
 <link>https://www.engadget.com/2287681/dont-throw-away-old-usb-charging-cables-repurpose-instead</link>
 <guid isPermaLink="false">4cd30ed1b84cc2764827c457dacd785f649e5abdd7ced15475c9ff84bb4d524b</guid>
@@ -85,7 +138,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 14:30:00 +0000</pubDate>
-<description>Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]</description>
+<description>Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_20261019_Pritzker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -399,17 +452,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Sceye-ST1-Launch-from-outside-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>The Maeving RM2 is high-style electric riding with a few compromises</title>
-<link>https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs</link>
-<guid isPermaLink="false">8cbf77b97620352b6bd39e8b65eba0e5460728f9e76fe8064a995c41d74b8a24</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 11:00:00 +0000</pubDate>
-<description>There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Infinite Machine P1 and BMW CE 02, similar concepts but with wildly different attitudes. Among this class, the Maeving RM2 stands out. It has […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-Maeving-RM2-013.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/2026-Maeving-RM2-013.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>How the Xbox’s Disc-to-Digital Program Works</title>
 <link>https://www.wired.com/story/xbox-disc-to-digital</link>
 <guid isPermaLink="false">61692934e71d86db2d0acdb120076be027bb56b8ee0a54548edff692ac2d9312</guid>
@@ -717,28 +759,6 @@
 <description>While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.</description>
 <enclosure url="https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/what-is-the-star-button-for-on-your-roku-remote/l-intro-1791990292.jpg" medium="image"/>
-</item>
-<item>
-<title>Here's how the Slate truck gets software updates without built-in infotainment</title>
-<link>https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates</link>
-<guid isPermaLink="false">59cdb967337b818c873ab333aad7716097b0e3987e5a416ab6f9bd903d9fb700</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 18:30:00 +0000</pubDate>
-<description>Basically, it's on you.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-the-slate-truck-gets-software-updates-without-built-in-infotainment/l-intro-1791571931.jpg" medium="image"/>
-</item>
-<item>
-<title>From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved</title>
-<link>https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo</link>
-<guid isPermaLink="false">0cbc28b879d8b966f830ef9827c01beb9ff93aa14128a43e4875d7525e4e6339</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 18:00:00 +0000</pubDate>
-<description>Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.</description>
-<enclosure url="https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/from-the-royole-flexpai-to-the-iphone-duo-how-the-modern-foldable-phone-has-evolved/l-intro-1791988871.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple Watch Series 12 is excellent, but I find myself missing this one software feature</title>
@@ -1517,15 +1537,6 @@
 <category>technology</category>
 <pubDate>Fri, 16 Oct 2026 16:01:37 +0000</pubDate>
 <description>According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.</description>
-</item>
-<item>
-<title>Tressfecta wants to make hair braiding a less arduous task for hairstylists</title>
-<link>https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists</link>
-<guid isPermaLink="false">c53ca8996f9878431b87707cd87677273ecce8ea72d49339bc732699b131cf9f</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
-<description>Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.</description>
 </item>
 <item>
 <title>Here’s the difference the variable aperture of the iPhone 18 Pro makes at night</title>
@@ -3012,17 +3023,6 @@
 <description>In addition to the rollout of developer beta 4 for macOS 27.2, iOS 27.2, iPadOS 27.2, and more, Apple also rolled out developer and public firmware betas for several AirPods models. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/airpods.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iOS 27.2 adds new app icon for Apple Music, more design updates</title>
-<link>https://9to5mac.com/2026/10/13/ios-27-2-adds-new-app-icon-for-apple-music-more-design-updates</link>
-<guid isPermaLink="false">855ed0b3d1ca79963439776b79e8c78a680e3f069715fd8444230e3bfe0103e0</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 19:06:29 +0000</pubDate>
-<description>iOS 27.2 beta 4 debuted today for developers, and the update includes a new app icon for Apple Music alongside other design updates in the Music app. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</title>
