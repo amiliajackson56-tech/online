@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs</title>
+<link>https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs</link>
+<guid isPermaLink="false">dde157642c0d74e8cae4a3b764ee31ebad7da98a468c3fbb78611c28d4d5b50a</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 17:39:51 +0000</pubDate>
+<description>His vision will culminate with the R4 vehicle.</description>
+</item>
+<item>
+<title>Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out</title>
+<link>https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out</link>
+<guid isPermaLink="false">95cfc6ad4a9d68ab7c2762c7641bb12e7be4d7aa795ea9607102c1b2b1fd5a32</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 17:30:24 +0000</pubDate>
+<description>In addition to macOS 27.2 Golden Gate RC 1 , Apple is also rolling out the third developer and public RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple rolling out RC for iPadOS 27.2, watchOS 27.2, and more</title>
+<link>https://9to5mac.com/2026/10/19/apple-rolling-out-rc-for-ipados-27-2-watchos-27-2-and-more</link>
+<guid isPermaLink="false">4dfa38f1f468908242b4ece55ddbd462fb425e48e27c8236b4d2098163445c72</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 17:29:38 +0000</pubDate>
+<description>Apple is rolling out RC (release candidate) versions of iPadOS 27.2, watchOS 27.2, and more. Here’s what that means. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-apple-product-devices-lineup-bg.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>First Release Candidate for macOS 27.2 Golden Gate now available</title>
+<link>https://9to5mac.com/2026/10/19/first-release-candidate-for-macos-27-2-golden-gate-now-available</link>
+<guid isPermaLink="false">aafca36452d575b19847e3c6aa2283bfcc51dd968a6ac5f2e166a7ef00fda656</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 17:29:02 +0000</pubDate>
+<description>Apple is rolling out the first RC for macOS 27.2 for developers and users enrolled in the public beta, ahead of the official release in the next few weeks. Here’s what to expect. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-rc.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-rc.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>OpenCode hack exposes API keys amid AI distillation attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks</link>
+<guid isPermaLink="false">9a57b89ca868a05ddf09bc1df2578c1132d92cf92b5325b305dc9616ff2a2acb</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 17:27:15 +0000</pubDate>
+<description>The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]</description>
+</item>
+<item>
 <title>Apple releases iOS 27.2 RC for iPhone</title>
 <link>https://9to5mac.com/2026/10/19/apple-releases-ios-27-2-rc-for-iphone</link>
 <guid isPermaLink="false">29c987780ac05fee22d7164be6a1ba6a3bccfe0313239d66db08579a11be6045</guid>
@@ -514,6 +565,15 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/DIY-VR-header-1152x648.jpg" medium="image"/>
 </item>
 <item>
+<title>Laplace Intelligence red-teams robots and self-driving cars before they hit the real world</title>
+<link>https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world</link>
+<guid isPermaLink="false">48afd38211c9b19987c9ac5480719f6498d5ff713cc2fab46764e06791b79804</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 12:30:00 +0000</pubDate>
+<description>University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.</description>
+</item>
+<item>
 <title>Vibe coding is turning the music gear world upside down</title>
 <link>https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware</link>
 <guid isPermaLink="false">f9b7035b602d73c0908f4d2ca856e85b6d3abfdbb492e4ba50cc32e0c1a4c148</guid>
@@ -982,17 +1042,6 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
-</item>
-<item>
 <title>Climate Change Has It In for the World’s Best Surfing</title>
 <link>https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing</link>
 <guid isPermaLink="false">8c53bca09a49f3aa302dc02528a3d8d7f8b7ff05411516d1a0f59f62e912c676</guid>
@@ -1002,6 +1051,17 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
+</item>
+<item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
 </item>
 <item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
@@ -1512,15 +1572,6 @@
 <media:content url="https://media.wired.com/photos/6acf9d6f3ad68bc4076ddf49/master/pass/GettyImages-2296548226.jpg" medium="image"/>
 </item>
 <item>
-<title>India becomes the latest country to report rogue AI agent activity</title>
-<link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity</link>
-<guid isPermaLink="false">43f5d9299a926e4d769e96d9ade269ccb10ae68f6224c7f4cc0dee8f18723719</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 17:52:24 +0000</pubDate>
-<description>The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.</description>
-</item>
-<item>
 <title>Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
 <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
 <guid isPermaLink="false">ebaf37949a88c936e530e83bfd13a0855d99a808c925f902d5ff17e1242b28eb</guid>
@@ -1583,15 +1634,6 @@
 <description>It turns out the Roadster 2 both sucks and blows.</description>
 <enclosure url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad23cf9596e9f773d31db35/master/pass/Roadster_94.jpg" medium="image"/>
-</item>
-<item>
-<title>An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet</title>
-<link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet</link>
-<guid isPermaLink="false">bf815e64fedf96f62911c9258793a81dcd82d3c3f7410b6ae396a20d2680c5c1</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 16:30:00 +0000</pubDate>
-<description>Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]</description>
 </item>
 <item>
 <title>Razer Barracuda V2 Pro Review: A Gaming Headset for the Office</title>
@@ -1876,17 +1918,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/stoke1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
-<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
-<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
-<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
-<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
-</item>
-<item>
 <title>AWOL Vision Aetherion Max RGB Laser UST Projector Review: A Top Buy</title>
 <link>https://www.wired.com/review/review-awol-vision-aetherion-max-rgb-laser-ust-projector</link>
 <guid isPermaLink="false">e4859b5d9686ba72baae7d8586a28a6bd8065505fee8101128e03f091fec692d</guid>
@@ -1896,6 +1927,17 @@
 <description>A top performer in both dark rooms and in bright sunshine, the AWOL Vision Aetherion Max RGB Laser UST Projector gives movie theaters a run for their money.</description>
 <enclosure url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1311c8de176c462eacc57/master/pass/AWOL%20Vision%20Aetherion%20Max%20RGB%20Laser%20UST%20Projector%20review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>AI-Generated Hot Girls Are Ripping Off Comedians to Boost Their Horny Content</title>
+<link>https://www.wired.com/story/ai-generated-hot-girls-are-ripping-off-comedians-to-boost-their-horny-content</link>
+<guid isPermaLink="false">af9e2669fba13771a2f551f1a4ccb17321c010e99ff67d20bca3e40eb416261e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 16 Oct 2026 11:00:00 +0000</pubDate>
+<description>A network of AI-generated models is using comics’ material to funnel views to their OnlyFans and Fanvue accounts—and there’s not much comedians can do about it.</description>
+<enclosure url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad165ce87819d1c9639eaa6/master/pass/Business_ComediansAreGettingRippedOffByAIHotGirls-ezgif.com-video-to-gif-converter%20(2).gif" medium="image"/>
 </item>
 <item>
 <title>The Best Digital Wall Calendar (2026): Skylight, Everblog, Greenlight</title>
@@ -1991,15 +2033,6 @@
 <description>AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg" medium="image"/>
-</item>
-<item>
-<title>BeyondTrust patches zero-day exploited in attacks since August</title>
-<link>https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august</link>
-<guid isPermaLink="false">379db0c8ad00f8039620736a4c0cf13b4678e0fd5ecb1878295b78c60452f469</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 06:18:08 +0000</pubDate>
-<description>BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]</description>
 </item>
 <item>
 <title>Surfshark Promo Codes: 87% Off | October 2026</title>
@@ -3001,39 +3034,6 @@
 <description>Apple is asking a federal judge to overturn a $5.7 billion verdict in a patent infringement lawsuit brought by Taction Technology over the Taptic Engine used in iPhones and Apple Watches. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Here’s how much it costs to repair the new Apple HomeView</title>
-<link>https://9to5mac.com/2026/10/13/heres-how-much-it-costs-to-repair-the-new-apple-homeview</link>
-<guid isPermaLink="false">3a5b48ae66fec6de4d58c3a7cd58fb295b19a0a70fbeffbf179f6e079de78cae</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 00:10:48 +0000</pubDate>
-<description>Apple has published the estimated service costs for its new HomeView smart home display, including how much customers can expect to pay with and without AppleCare coverage. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-4.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>IDC: Apple gains ground as China’s smartphone shipments plunge 15.4% in Q3 2026</title>
-<link>https://9to5mac.com/2026/10/13/idc-apple-gains-ground-as-chinas-smartphone-shipments-plunge-15-4-in-q3-2026</link>
-<guid isPermaLink="false">8172bb4211e8b6aa1906ed43da056980fe3fe1988ad33378b6194515f3cf6084</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 23:06:47 +0000</pubDate>
-<description>According to a new report from IDC, Apple’s share of smartphone shipments in China grew during Q3 2026, despite a 4.3% year-over-year decline in iPhone shipments. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/When-will-Apple-prices-drop-again.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/When-will-Apple-prices-drop-again.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>PSA: Wall-mounted HomeView may not work if you buy the wrong power adapter</title>
-<link>https://9to5mac.com/2026/10/13/psa-wall-mounted-homeview-may-not-work-if-you-buy-the-wrong-power-adapter</link>
-<guid isPermaLink="false">4909f5386ee99f4cdb53709a50183742d6a38b84f7b13bb53e9b954614ad7c46</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 21:29:20 +0000</pubDate>
-<description>Earlier today, Apple confirmed that the wall-mounted HomeView does not come with a power adapter in the box. Now, the company has published a support document detailing the device’s power requirements, including what to look for when purchasing a compatible adapter. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-3.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</title>
