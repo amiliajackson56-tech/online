@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Improves Shock, Vibration Analysis</title>
+<link>https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis</link>
+<guid isPermaLink="false">dacb6fe3b1c41ed3a08c5ff73ba693741aa703cae136688f99be532fd3c7b8a2</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 19:28:32 +0000</pubDate>
+<description>Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft. To do that, engineers in the Dynamic Environments Group with NASA’s Launch […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg?w=1366" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260924-ph-rcr01-0036.jpg?w=1366" medium="image"/>
+</item>
+<item>
 <title>Software</title>
 <link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software</link>
 <guid isPermaLink="false">8ec43f8608b1e6967437a78f9b5bdecc029210695e3da9bfcab5d6fbc564fbb2</guid>
@@ -232,6 +243,15 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03315-5 Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going.</description>
+</item>
+<item>
+<title>Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last</title>
+<link>https://www.nature.com/articles/d41586-026-03339-x</link>
+<guid isPermaLink="false">d173b51dc327f9c7d2f47c2354a9e843c2e5e575c4d1cdc3b03e10af4ee5ee5a</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03339-x Researchers have found a link between a scientist’s experience and and whether their ideas have a lasting influence.</description>
 </item>
 <item>
 <title>Three reasons why AI is not conscious and perhaps never will be</title>
@@ -540,17 +560,6 @@
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 23:27:29 +0000</pubDate>
 <description>Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided. Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribute heat, causing one side of its atmosphere to bulge outward. A groundbreaking new mapping technique revealed these hidden distortions, confirming predictions about how extreme temperatures and winds shape alien worlds.</description>
-</item>
-<item>
-<title>NASA Names Stephen Cash Marshall Space Flight Center Director</title>
-<link>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director</link>
-<guid isPermaLink="false">29660a1a941a2683cf54e451081220973ece14ffe4141a0e3cd55cde46f294c3</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 20:14:39 +0000</pubDate>
-<description>NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago. “Marshall contributions to NASA’s missions are historic and it’s […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg?w=1638" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg?w=1638" medium="image"/>
 </item>
 <item>
 <title>USC scientists discover how to create a never-ending supply of cancer-fighting cells</title>
@@ -1316,14 +1325,5 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11159-2 Long-term live imaging of adult mouse ear skin reveals sex-specific differences in the clonal dynamics of epidermal stem cells and transit-amplifying cells during homeostasis.</description>
-</item>
-<item>
-<title>Interhemispheric monsoon dynamics over the past 450,000 years</title>
-<link>https://www.nature.com/articles/s41586-026-11166-3</link>
-<guid isPermaLink="false">9db51ed2555a1c62819967a412ca9cd8750b0a5feb90ac8761015da77fba80fd</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11166-3 A 450 ka Andean speleothem record shows Southern and Northern Hemisphere monsoons generally vary out of phase, but occasionally synchronize during rapid climate change and glacial terminations.</description>
 </item>
 </channel></rss>
