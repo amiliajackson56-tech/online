@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nikkei discloses third data breach in a month, 1.8M records exposed</title>
+<link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed</link>
+<guid isPermaLink="false">56cde8f81c9c3a2d5081189f0651550ac7553675593bb92835bf31ea94189fbf</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 21:49:48 +0000</pubDate>
+<description>Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]</description>
+</item>
+<item>
+<title>The fossil fuel comeback is here</title>
+<link>https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report</link>
+<guid isPermaLink="false">fe71d377ee244b0595845d381b253c1be14d3f4f131f44a8300f6cab5f6057a5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 21:48:01 +0000</pubDate>
+<description>The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>CoreWeave&amp;#8217;s debt is becoming the whole AI industry&amp;#8217;s problem</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai</link>
+<guid isPermaLink="false">85ed69736e92d20ff74d7e2062e9c3d01f530f6cdce8bb4e9c5d7cc86f86f929</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 21:28:20 +0000</pubDate>
+<description>CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath "SPAC King" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>WordPress SEO plugin Rank Math compromised to backdoor websites</title>
 <link>https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites</link>
 <guid isPermaLink="false">ae719e30f803e843f76dba682b0fcc3fbb7c6b5f33be886dcfe07013080f57d9</guid>
@@ -755,17 +786,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg" medium="image"/>
 </item>
 <item>
-<title>It’s hard to imagine wireless headphones ever getting lighter than these</title>
-<link>https://www.theverge.com/tech/1013635/its-hard-to-imagine-wireless-headphones-ever-getting-lighter-than-these</link>
-<guid isPermaLink="false">7ae0a818ad86c616f18d34516200cfc0276607ad1bbba1ba4a44a9c76f9b6322</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 14:03:28 +0000</pubDate>
-<description>If you're on the hunt for lightweight wireless headphones but wearing earbuds or clip-ons never feels comfortable or secure, a relatively obscure Japanese headphone maker could have the solution. Final's new Porta headphones feature an on-ear design supported by a headband but with a structure made from a single piece of wire so they weigh […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/final1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/final1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Inside the Underground Market for Know Your Client Services</title>
 <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services</link>
 <guid isPermaLink="false">ffa2a32be5283e4104178c624f102fa261d4b3c6eead02ee1ec48747738d4266</guid>
@@ -773,17 +793,6 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 14:00:10 +0000</pubDate>
 <description>Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]</description>
-</item>
-<item>
-<title>A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
-<guid isPermaLink="false">c161d6bab52698d147d96d8270f9f9a06fb286e215e75c8380743b6568f25a75</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
-<description>A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_A-1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Jason Sudeikis gives update on Ted Lasso seasons 5 and 6</title>
@@ -2024,15 +2033,6 @@
 <description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Americans have a privacy problem, and that shouldn’t surprise anyone. Between the unprecedented backlash around Flock cameras and, more quietly, data brokers selling off our identities, individual privacy is center stage right now. I would go</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Employees using personal ChatGPT at work? Here's what IT admins need to do</title>
-<link>https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do</link>
-<guid isPermaLink="false">f0d31725ce6b131c61dc3898de919cef44fc5009837e3f8bc8e6c666f225c06c</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 13:50:59 +0000</pubDate>
-<description>Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]</description>
 </item>
 <item>
 <title>iPhone Duo accessories: Here are five top picks for Apple’s foldable</title>
