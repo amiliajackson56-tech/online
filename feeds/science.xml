@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Instrumentation</title>
+<link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation</link>
+<guid isPermaLink="false">c11eaf75b2fd036c0563a57f2aae1e50d8842a65fc513084bc23729fce35d74d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 16:37:45 +0000</pubDate>
+<description>To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330" medium="image"/>
+</item>
+<item>
 <title>Martian Dawn</title>
 <link>https://www.nasa.gov/image-article/martian-dawn</link>
 <guid isPermaLink="false">c791b49c2359cf82ac21df3783ed6392474ce4d8d5f5d20ff5816e7c34fcf1bd</guid>
@@ -152,6 +163,15 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3 Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.</description>
+</item>
+<item>
+<title>Microdosing LSD shows some cognitive benefits — but only for women</title>
+<link>https://www.nature.com/articles/d41586-026-03265-y</link>
+<guid isPermaLink="false">c02bc428b3c82b832fa44fd090e0fdca4eef97176dcadf965eca609901066019</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03265-y Different effects of low-dose psychedelics on sustained attention in women and men deserve further investigation.</description>
 </item>
 <item>
 <title>How pregnancy reshapes the brain throughout life</title>
@@ -594,15 +614,6 @@
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 04:22:01 +0000</pubDate>
 <description>Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This remarkable control over quantum motion could lead to a new generation of ultra-efficient superconducting electronics.</description>
-</item>
-<item>
-<title>APOD: 2026 October 16 – Chasing the International Space Station</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station</link>
-<guid isPermaLink="false">6a63b3a96ec49dd06511dc583d6367fda8b9562342c5adfbc98cb61146e1234e</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]</description>
 </item>
 <item>
 <title>“Crawzilla” was huge. Then scientists found an even bigger crayfish</title>
@@ -1314,14 +1325,5 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11119-w A regulatory sequence code for neuronal microexons reveals genetic variants predicted to alter their splicing in individuals with autism.</description>
-</item>
-<item>
-<title>Educational intervention can rewire village social networks</title>
-<link>https://www.nature.com/articles/s41586-026-11154-7</link>
-<guid isPermaLink="false">3b1ff08746448d7dee45a2ffd23aa11b1456bc46cfbc530db8267be60d038370</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11154-7 A randomized controlled trial involving a health-education intervention in rural villages in Honduras shows that the intervention changed social network connections, including not only health-related connections but also friendships and financial ties.</description>
 </item>
 </channel></rss>
