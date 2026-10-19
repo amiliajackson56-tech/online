@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Software</title>
+<link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software</link>
+<guid isPermaLink="false">8ec43f8608b1e6967437a78f9b5bdecc029210695e3da9bfcab5d6fbc564fbb2</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 18:11:40 +0000</pubDate>
+<description>Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Development of jet noise prediction codes is multifaceted. […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg?w=300" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg?w=300" medium="image"/>
+</item>
+<item>
+<title>Experimental Facilities</title>
+<link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities</link>
+<guid isPermaLink="false">991d54b83b3570ec508a3b561817cccd166b9907be2f47ae9f1fd0e977ad9ec6</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 18:08:52 +0000</pubDate>
+<description>Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>NASA’s Simulated Mars Crew Marks One Year Inside Habitat</title>
+<link>https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat</link>
+<guid isPermaLink="false">8e8b1766b3f19926fe65befd79871e21312056438327167851a1eaebe41e8ba7</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 18:01:51 +0000</pubDate>
+<description>The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.</description>
+<enclosure url="https://www.youtube.com/embed/2MONMgAmXNU" type="image/jpeg"/>
+<media:content url="https://www.youtube.com/embed/2MONMgAmXNU" medium="image"/>
+</item>
+<item>
 <title>Instrumentation</title>
 <link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation</link>
 <guid isPermaLink="false">c11eaf75b2fd036c0563a57f2aae1e50d8842a65fc513084bc23729fce35d74d</guid>
@@ -113,7 +146,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]</description>
+<description>APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual X-ray Hot Radio Source Explanation: Explanation : What is Treble Clef? This unusual radio […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -226,6 +259,15 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03309-3 Analysing national research systems by using open-access data and new methods can help countries to learn from each other.</description>
+</item>
+<item>
+<title>Why failure is a taboo topic in science</title>
+<link>https://www.nature.com/articles/d41586-026-03328-0</link>
+<guid isPermaLink="false">5e104fce7dc4dbdcaaec9ef0d60c4aa778fc3cebc30f48eeab7091cbaf5574c9</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03328-0 Failure is one of the best teachers we have. So why is nobody talking about it?</description>
 </item>
 <item>
 <title>Lessons from Katrina: how to rebuild academia from the ground up</title>
@@ -342,7 +384,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula […]</description>
+<description>APODScienceAPODAPOD: 2026 October 18 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Sonified: Eagle Nebula Pillars Explanation: Yes, but have you ever experienced the Eagle Nebula with your ears? […]</description>
 </item>
 <item>
 <title>Scientists tested 39 sweeteners and uncovered surprising gut effects</title>
@@ -459,7 +501,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Sat, 17 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 17… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put […]</description>
+<description>APODScienceAPODAPOD: 2026 October 17…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. 3D 67P Explanation: Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=2048&amp;h=1884&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/anaglyph-NAC_2015-07-25T06.28.48.742Z_lamy.jpg?w=2048&amp;h=1884&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -511,28 +553,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/steve-cash-photo.jpg?w=1638" medium="image"/>
 </item>
 <item>
-<title>Artemis II Heat Shield After Splashdown</title>
-<link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown</link>
-<guid isPermaLink="false">5357de9353ef4cacb37b6e1a9913005f0f26b4206cb8243b8b16bcc846ff5e2f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
-<description>Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of the Orion spacecraft’s heat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20260411-navy01-0045orig-rotated.jpg?w=2048" medium="image"/>
-</item>
-<item>
-<title>I Am Artemis: Allison Mjoen</title>
-<link>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen</link>
-<guid isPermaLink="false">85f88b8870b3ee66e38ab8edc2cec933ebae6379276a13a1430367bc5b923f94</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 14:24:29 +0000</pubDate>
-<description>As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261013-ph-ajn01-0029.jpg?w=1025" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ksc-20261013-ph-ajn01-0029.jpg?w=1025" medium="image"/>
-</item>
-<item>
 <title>USC scientists discover how to create a never-ending supply of cancer-fighting cells</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261015003803.htm</link>
 <guid isPermaLink="false">30912ffb71056716ba937cee2662c60a05e0cfaf382e1f94e6dece62ea83e6df</guid>
@@ -540,17 +560,6 @@
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 12:46:50 +0000</pubDate>
 <description>USC scientists have discovered a way to create a potentially renewable supply of genetically engineered immune cells that can attack cancer and strengthen the body's natural defenses. By growing and modifying immature immune cells rather than mature ones, researchers developed a system that can continuously produce tumor-fighting cells inside the body.</description>
-</item>
-<item>
-<title>NASA’s Hubble Spies Spiral’s Edge</title>
-<link>https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge</link>
-<guid isPermaLink="false">35c47e02c57dc36f1559cfb001b89dde5e2b1ad1a7324dfe1d549a8f929cdd0e</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 12:42:08 +0000</pubDate>
-<description>This NASA Hubble Space Telescope image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1827_1_flat_FINAL.jpg?w=2048&amp;h=1986&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1827_1_flat_FINAL.jpg?w=2048&amp;h=1986&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>The uranium cubes that exposed Nazi Germany’s nuclear failure</title>
@@ -1316,14 +1325,5 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11166-3 A 450 ka Andean speleothem record shows Southern and Northern Hemisphere monsoons generally vary out of phase, but occasionally synchronize during rapid climate change and glacial terminations.</description>
-</item>
-<item>
-<title>A microexon regulatory code reveals autism-linked genetic variation</title>
-<link>https://www.nature.com/articles/s41586-026-11119-w</link>
-<guid isPermaLink="false">aec192612916344bd78629ac0fafc57c3db41190aa693f66ae35f8ae3eedaed2</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11119-w A regulatory sequence code for neuronal microexons reveals genetic variants predicted to alter their splicing in individuals with autism.</description>
 </item>
 </channel></rss>
