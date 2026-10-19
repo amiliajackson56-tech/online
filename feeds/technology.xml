@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s how iPhone Duo’s battery capacity compares to other iPhones</title>
+<link>https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison</link>
+<guid isPermaLink="false">9604e126bbaaa1a515ebe1432f60caf0e3c428a1f17efa646900b332d4bf4f26</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 01:32:09 +0000</pubDate>
+<description>After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>What do all the lights on your Netgear router mean, and which ones actually matter?</title>
 <link>https://www.engadget.com/2287059/netgear-router-lights-what-they-mean</link>
 <guid isPermaLink="false">2bdd0f9eb61d3cf6e9e88e5481f7e5f2f0de7a379176ad94d90af93110bbd879</guid>
@@ -2968,17 +2979,6 @@
 <description>A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s how HomeView’s facial recognition works</title>
-<link>https://9to5mac.com/2026/10/13/heres-how-homeviews-facial-recognition-works</link>
-<guid isPermaLink="false">9f76cf45266c79f06637da8428c7e90082010457d84b6146681c18bc60053854</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 17:51:41 +0000</pubDate>
-<description>Apple announced its HomeView smart display this morning. Apple says HomeView can recognize up to six different people to deliver a “personalized experience” for each user. John Gruber at Daring Fireball has more details on how HomeView’s facial recognition feature works. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far</title>
