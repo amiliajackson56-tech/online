@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What does the orange dot on your Samsung Galaxy Watch mean?</title>
+<link>https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning</link>
+<guid isPermaLink="false">a91569daf8ff2b0338074969877818641aac5c8a0635999783b283e8c512cb09</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>You might sometimes see an orange dot on the left side of your Galaxy Watch's screen. Here's what is tells you.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-does-the-orange-dot-on-your-samsung-galaxy-watch-mean/l-intro-1792007262.jpg" medium="image"/>
+</item>
+<item>
 <title>Why you should never point a laser pointer at a security camera</title>
 <link>https://www.engadget.com/2286993/why-never-point-laser-pointer-at-security-camera</link>
 <guid isPermaLink="false">d0e67079207a4bf0bafcfe8c44fa9a0d8060da0b459f1256a34ed7882aadae77</guid>
@@ -399,17 +410,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK175_DONALD_TRUMP_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How to use your Windows PC to make and receive phone calls</title>
-<link>https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls</link>
-<guid isPermaLink="false">bb2c48853f000d4ec2ebd5d956c755ba08f167a61ac457fd90b4ff1c8f2da13a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 13:15:00 +0000</pubDate>
-<description>Windows 11 can connect to your phone to make calls, letting you manage them in one place instead of picking up your phone.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-windows-pc-to-make-and-receive-phone-calls/l-intro-1791904099.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-windows-pc-to-make-and-receive-phone-calls/l-intro-1791904099.jpg" medium="image"/>
-</item>
-<item>
 <title>The best gadget I bought this year is a milk frother</title>
 <link>https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget</link>
 <guid isPermaLink="false">347fe00b6f02ad3a2095ee7c0150dd26c3d70b513d29410da30374f6f01f1cab</guid>
@@ -487,17 +487,6 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
 <link>https://www.wired.com/story/best-airpods-case</link>
 <guid isPermaLink="false">1d1a96896d57f89921c5bc6c492d8e3b946f9f2dac3e6959934efbe1eead7752</guid>
@@ -518,6 +507,17 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
+</item>
+<item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
 </item>
 <item>
 <title>ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
