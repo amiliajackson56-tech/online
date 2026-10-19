@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source</title>
+<link>https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source</link>
+<guid isPermaLink="false">e5124c0745a1a06e4bf8bdbe0899f8721e53d328b22d88d7c1e3464d15599f1e</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 04:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 October 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Autumn Paints Poland’s Bieszczady Mountains</title>
+<link>https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains</link>
+<guid isPermaLink="false">4c75cccf20fa67b7291e8826a6f2c3b467df21935d9791971a03c661576c896c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 04:01:00 +0000</pubDate>
+<description>Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/autumn-paints-poland" medium="image"/>
+</item>
+<item>
 <title>Scientists discover a natural compound that could protect the brain from too much salt</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261017230032.htm</link>
 <guid isPermaLink="false">42a920ca5ec432f708cef8bbb022b2b9c308b646ce62a9d5b519e929174ad3b6</guid>
@@ -482,28 +504,6 @@
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03338-y Cryptographers’ inboxes are being flooded with requests to validate cipher solutions.</description>
-</item>
-<item>
-<title>NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission</title>
-<link>https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission</link>
-<guid isPermaLink="false">93afb0f4dd6f8f94668d9fd56725602a8493f9663da4a9e0908a17de1c1a06cc</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 19:58:08 +0000</pubDate>
-<description>NASA is playing an important role in JAXA’s (Japan Aerospace Exploration Agency) MMX (Martian Moons eXploration) mission, to advance our understanding of Mars’ moons and build on the agency’s long history of exploring the Red Planet. The mission aims to characterize and determine the origin of Mars’ moons Phobos and Deimos and deliver a sample […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/mmx/jaxa-mmx-spacecraft.png?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>NASA Satellites Observe Historic 2026 El Niño</title>
-<link>https://science.nasa.gov/earth/nasa-satellites-observe-historic-2026-el-nino</link>
-<guid isPermaLink="false">4b31a65269f1add9289cca2be3cafe5ad8450bafc5f240bb1b7ab26ce89cf0fc</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 15 Oct 2026 17:59:22 +0000</pubDate>
-<description>A phenomenon rarer than a solar eclipse and more powerful than any single storm system is unfolding this fall, and NASA is tracking it closely. El Niño is a natural climate pattern that emerges roughly every two to seven years marked by warmer-than-normal water temperatures in parts of the equatorial Pacific. NASA scientists are keeping […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/el-niño-is-underway/elnino_sen6_20260608_th.jpg?w=720&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Mysterious brain activity under anesthesia challenges what we know about consciousness</title>
