@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Even Realities G2 review: Smart glasses, stupid controls</title>
+<link>https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review</link>
+<guid isPermaLink="false">0e28c9ec7f77eceb20907c028190ee15c3c7b08e6b4809e8b0482cd9ff3885db</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 11:30:00 +0000</pubDate>
+<description>Even Realities makes one of the best smart glasses on the market, but controlling its growing feature set is harder than it should be.</description>
+<enclosure url="https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg" medium="image"/>
+</item>
+<item>
+<title>Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’</title>
+<link>https://www.wired.com/story/nathan-fielder-tells-us-everything</link>
+<guid isPermaLink="false">1f89513665c18d163682e6589f6d27faad9f74de279c798b02a016716b079924</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 11:30:00 +0000</pubDate>
+<description>The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.</description>
+<enclosure url="https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg" medium="image"/>
+</item>
+<item>
 <title>Constrained iPhone Duo availability is annoying, but a mixed blessing for Apple</title>
 <link>https://9to5mac.com/2026/10/19/constrained-iphone-duo-availability-is-annoying-but-a-mixed-blessing-for-apple</link>
 <guid isPermaLink="false">61d8e55f35f03335884df1a58933103fcabd3381d70452521f132350cc326833</guid>
@@ -46,6 +68,17 @@
 <description>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</description>
 <enclosure url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" medium="image"/>
+</item>
+<item>
+<title>Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</title>
+<link>https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html</link>
+<guid isPermaLink="false">62badca6addc0ac9c83b2642b4361e5f1f19734989a09d5df8cacfc24a91e8e6</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:06:40 +0000</pubDate>
+<description>A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. "The tools delivered information-stealing malware and backdoors for macOS and Windows machines," Elastic</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg" medium="image"/>
 </item>
 <item>
 <title>How Elizabeth Holmes Tricked WIRED—and Everyone Else</title>
@@ -536,17 +569,6 @@
 <description>Apple just announced its long awaited smart home display: HomeView, and it’s available for $299. That said, the product has been in development for quite some time, being held back by all of the delays with developing a smarter Siri. Now that it’s on the market, some customers have had concern about the fact that you have to move the HomeView around yourself if its on a table with multiple people surrounding it. According to the Power On newsletter , it might not be too long before Apple has a solution. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The reason your Amazon Alexa devices are always listening</title>
-<link>https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening</link>
-<guid isPermaLink="false">038dbe3f8281499ce835000c9b1758e188ef35e0409b7fbf0d53e649b125014e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 14:15:00 +0000</pubDate>
-<description>Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-reason-your-amazon-alexa-devices-are-always-listening/l-intro-1791919400.jpg" medium="image"/>
 </item>
 <item>
 <title>J Mascis has nothing better to do</title>
@@ -2365,17 +2387,6 @@
 <media:content url="https://media.wired.com/photos/6acd9768fccc4c5244b9544c/master/pass/GettyImages-2247045310.jpg" medium="image"/>
 </item>
 <item>
-<title>‘Nightmare Scenario’: Zero-Click Spyware Is Infecting Phones via Targeted Ads</title>
-<link>https://www.wired.com/story/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads</link>
-<guid isPermaLink="false">3579928b08186f91db21e6cfe0e2d9b5bd68b53ef4d137ebbe44af2710524f43</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-<description>Researchers at The Citizen Lab have for the first time released technical evidence of sophisticated mercenary spyware being distributed via online advertising.</description>
-<enclosure url="https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfe05dd7a1c8d94ba22a02/master/pass/Security_SophisticatedZero-ClickSpywareFoundBeingDistr-ezgif.com-video-to-gif-converter.gif" medium="image"/>
-</item>
-<item>
 <title>GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
 <link>https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html</link>
 <guid isPermaLink="false">871699ef8521713692e97c4350d918b9b0011bdaa513681603cffe1f25b7ff3d</guid>
@@ -3056,16 +3067,5 @@
 <description>The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg" medium="image"/>
-</item>
-<item>
-<title>LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network</title>
-<link>https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html</link>
-<guid isPermaLink="false">1cc27b40bd693f11ee901a72c6f0b91c91ca265a30023a39e42ecddf1508317e</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 11:09:10 +0000</pubDate>
-<description>Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12. The chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg" medium="image"/>
 </item>
 </channel></rss>
