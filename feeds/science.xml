@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Martian Dawn</title>
+<link>https://www.nasa.gov/image-article/martian-dawn</link>
+<guid isPermaLink="false">c791b49c2359cf82ac21df3783ed6392474ce4d8d5f5d20ff5816e7c34fcf1bd</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 16:03:51 +0000</pubDate>
+<description>NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=1837" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=1837" medium="image"/>
+</item>
+<item>
 <title>Alaska’s monster tsunami sent water 1,580 feet up a mountain</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261018205047.htm</link>
 <guid isPermaLink="false">1dacb4d06e5db69e4c3a7b7161652d4bdb7f36e651584bf2ba97a71a9382935d</guid>
@@ -132,6 +143,15 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03237-2 Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays.</description>
+</item>
+<item>
+<title>Audio long read: How to stay smart in the age of AI — the science of critical thinking</title>
+<link>https://www.nature.com/articles/d41586-026-03228-3</link>
+<guid isPermaLink="false">89b44f12a610714b861b07cce810f8f8a4a99b07c8dd6d6d80faac54d9f8fdbc</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03228-3 Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.</description>
 </item>
 <item>
 <title>How pregnancy reshapes the brain throughout life</title>
@@ -583,17 +603,6 @@
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 04:05:00 +0000</pubDate>
 <description>APOD Science APOD APOD: 2026 October 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]</description>
-</item>
-<item>
-<title>Isaias Dims the Gulf Coast</title>
-<link>https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast</link>
-<guid isPermaLink="false">1d060f804230bcac24f6d183f6d876ec27ddc828dbf5a9e350e37dcf1e819818</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
-<description>High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/isaias-dims-the-gulf-coast/isaias_bmhd_202608.jpg" medium="image"/>
 </item>
 <item>
 <title>“Crawzilla” was huge. Then scientists found an even bigger crayfish</title>
@@ -1314,14 +1323,5 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11154-7 A randomized controlled trial involving a health-education intervention in rural villages in Honduras shows that the intervention changed social network connections, including not only health-related connections but also friendships and financial ties.</description>
-</item>
-<item>
-<title>Advancing subseasonal forecasting with machine learning</title>
-<link>https://www.nature.com/articles/s41586-026-11126-x</link>
-<guid isPermaLink="false">47cfed5b89306ad557602aa7f6ee242582d625c842ff272c0b5bba6f58297318</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11126-x The AI framework probabilistic bias correction is shown to correct weather forecast errors 2 to 6 weeks ahead and boost forecast skill, making it promising for improved extreme-weather prediction.</description>
 </item>
 </channel></rss>
