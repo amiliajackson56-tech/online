@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>WhatsApp may soon let iPhone users open any link in an in-app browser</title>
+<link>https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser</link>
+<guid isPermaLink="false">36082a503589885a6d70cda3d16c8b10f0432b768fb7fd6f67fd99c5638fef66</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 00:01:33 +0000</pubDate>
+<description>After introducing limited in-app browser support for certain business links last year, WhatsApp is now working on expanding the feature to all links shared in chats. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal</title>
 <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal</link>
 <guid isPermaLink="false">2da5c5a9206a6794cf8f5e56c04668b3ce6bfb1cee52de990084a693ed6cc73e</guid>
@@ -2924,17 +2935,6 @@
 <description>In a new filing today, OpenAI claims that a former employee who departed for Apple sent “over a hundred highly confidential files about at least one unreleased OpenAI device under development to his personal accounts.” Apple, however, told Reuters that it hasn’t found any evidence to support these allegations. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>HomeView can display third-party widgets from your iPhone</title>
-<link>https://9to5mac.com/2026/10/14/homeview-can-display-third-party-widgets-from-your-iphone</link>
-<guid isPermaLink="false">7fd3c6263f74ebd63b6ca67abf036d2837a8e8dfa548e4c79cc80cefd219d09b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 15:43:34 +0000</pubDate>
-<description>Apple’s new HomeView (pre-order here) won’t have an App Store, but it will support third-party apps in some cases, including letting you run third-party widgets from your iPhone. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-home-screen-widget-apps-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-home-screen-widget-apps-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
