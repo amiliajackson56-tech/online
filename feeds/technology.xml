@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Walmart’s Flipkart is quietly building a food delivery challenger in India</title>
+<link>https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india</link>
+<guid isPermaLink="false">100bff9303260c69ed4a87f99644694476594a01426e5f5565fae73d202e0fe8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 02:00:00 +0000</pubDate>
+<description>Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.</description>
+</item>
+<item>
 <title>Mamdani says feds have abdicated on AI, urges New Yorkers to push back</title>
 <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back</link>
 <guid isPermaLink="false">64a3076b94d5dad5f5bc934c7a78977c67e9709a1947a039944c0d2e621680e9</guid>
@@ -35,13 +44,13 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal</title>
+<title>Nscale and Anthropic are reportedly in talks for yet another $45B compute deal</title>
 <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal</link>
 <guid isPermaLink="false">2da5c5a9206a6794cf8f5e56c04668b3ce6bfb1cee52de990084a693ed6cc73e</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 23:39:38 +0000</pubDate>
-<description>In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.</description>
+<description>If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.</description>
 </item>
 <item>
 <title>What can you use the HDMI port on your Ugreen NAS for?</title>
@@ -72,7 +81,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 22:49:27 +0000</pubDate>
-<description>AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]</description>
+<description>The idea of embedded evaluators — in which supposedly "neutral" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology.</description>
 </item>
 <item>
 <title>Meta tweaks its new terms of service after backlash against scraping</title>
@@ -1297,15 +1306,6 @@
 <category>technology</category>
 <pubDate>Sun, 18 Oct 2026 21:00:00 +0000</pubDate>
 <description>Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms</description>
-</item>
-<item>
-<title>Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’</title>
-<link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund</link>
-<guid isPermaLink="false">33da8aabe6e16f93a7957c91367405748ea6a264b28b121b330ebee69669dc6a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 20:37:40 +0000</pubDate>
-<description>The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”</description>
 </item>
 <item>
 <title>Apple Watch Series 12 is excellent, but I find myself missing this one software feature</title>
