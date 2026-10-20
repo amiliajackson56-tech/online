@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory</title>
+<link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory</link>
+<guid isPermaLink="false">82351ac5423961b6963002e81b4bf8df11a5d0812a17a511da15b65c4d7a7f1d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 14:21:42 +0000</pubDate>
+<description>The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space exploration. “Uzbekistan joins the Artemis Accords at a pivotal moment,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>Scientists finally uncover why statins can cause muscle pain</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261019093447.htm</link>
 <guid isPermaLink="false">28056c11a4dca9efb64bb420ee89afaa6ba46057fcfa9883d649a1f7b2b7a039</guid>
@@ -199,6 +210,15 @@
 <description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03062-7 Movement can expose camouflaged prey, yet whether colour patterns help moving prey to avoid capture is a long-standing puzzle. Butterfly wings might offer an answer.</description>
 </item>
 <item>
+<title>&lt;i&gt;Nature&lt;/i&gt;’s job-satisfaction survey highlights the changing geography of science</title>
+<link>https://www.nature.com/articles/d41586-026-03327-1</link>
+<guid isPermaLink="false">c9dfeda5683604408753be99f37d3ef1704c00371b85c6aa717ff0e36019d572</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1 A higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.</description>
+</item>
+<item>
 <title>Will this sleep-disorder drug be the next big blockbuster?</title>
 <link>https://www.nature.com/articles/d41586-026-03310-w</link>
 <guid isPermaLink="false">44789852244b12f0d72dbd586f3ed0393e4860b229b728bfc4ff716afb365bee</guid>
@@ -371,17 +391,6 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 09:19:45 +0000</pubDate>
 <description>Scientists have uncovered an unexpected culprit behind sleep loss in Alzheimer’s disease: overactive immune cells in the brain. By temporarily removing these cells, researchers restored more than two hours of sleep per day in mice, revealing a promising new target for treatment.</description>
-</item>
-<item>
-<title>APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source</link>
-<guid isPermaLink="false">e5124c0745a1a06e4bf8bdbe0899f8721e53d328b22d88d7c1e3464d15599f1e</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 04:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 October 19 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Treble Clef: Unusual X-ray Hot Radio Source Explanation: Explanation : What is Treble Clef? This unusual radio […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/trebleclef.jpg?w=2048&amp;h=1525&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Fatty liver disease is actually five different conditions, scientists discover</title>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11115-0 A year-long single-blind study shows that multiple satellites can accurately detect and quantify methane point-source emissions.</description>
-</item>
-<item>
-<title>De novo design of cysteine proteases</title>
-<link>https://www.nature.com/articles/s41586-026-11143-w</link>
-<guid isPermaLink="false">0eed65a7c3d5a0be110816bfbd88922c9d268f88184a2c282321093a6f9761b2</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11143-w De novo-designed enzymes use an activated cysteine nucleophile to hydrolyse polypeptide backbones in a sequence-dependent manner.</description>
 </item>
 </channel></rss>

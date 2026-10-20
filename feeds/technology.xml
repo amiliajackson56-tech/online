@@ -4,6 +4,46 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple explains why HomeView couldn’t launch until now</title>
+<link>https://9to5mac.com/2026/10/20/apple-explains-why-homeview-couldnt-launch-until-now</link>
+<guid isPermaLink="false">9faca2abc8668f1a08c617856da21c97fa84378367cb6c3ecb1b68fae072982d</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 14:47:59 +0000</pubDate>
+<description>Apple’s new HomeView was reportedly mostly finished for years, but kept getting delayed. Here’s why HomeView couldn’t launch until now, per quotes from key Apple execs. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>RAM prices are crazy high, but do not settle for an 8GB laptop</title>
+<link>https://www.engadget.com/2288833/ram-prices-high-do-not-settle-8-gb-laptop</link>
+<guid isPermaLink="false">8473dee8ddad98e793665482a2cdc902d84737d3733b381cb4de447fe7baf46b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 14:45:00 +0000</pubDate>
+<description>An 8GB laptop can seem like the solution to rising computer prices, but that's a mistake that will cost you for years.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ram-prices-are-crazy-high-but-do-not-settle-for-an-8gb-laptop/l-intro-1792164591.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ram-prices-are-crazy-high-but-do-not-settle-for-an-8gb-laptop/l-intro-1792164591.jpg" medium="image"/>
+</item>
+<item>
+<title>DHS bans DeepSeek products across US federal civilian agencies</title>
+<link>https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies</link>
+<guid isPermaLink="false">ec7363cc10505a8c0041441c070bf46f94790accf29981d0699408a54d1d1251</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 14:19:05 +0000</pubDate>
+<description>The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]</description>
+</item>
+<item>
+<title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
+<link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol</link>
+<guid isPermaLink="false">29e059fc3089a68bb383737f09d60be2a1131bbff0a58390f9228867c3b8f4de</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
+<description>Figma said it plans to support as many standards as possible without exposing all of its data</description>
+</item>
+<item>
 <title>tvOS 27.2 adds three new features to your Apple TV 4K</title>
 <link>https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k</link>
 <guid isPermaLink="false">90dfe87e2e5707e1346b53ee5e4f6d572e0ce49994867e754c1a09aad6d2126b</guid>
@@ -451,17 +491,6 @@
 <media:content url="https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/master/pass/Roadster_56.jpg" medium="image"/>
 </item>
 <item>
-<title>Sexual Assault Is a Free Speech Issue</title>
-<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
-<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
-<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
-</item>
-<item>
 <title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
 <link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
 <guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
@@ -471,6 +500,17 @@
 <description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
 <enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
+</item>
+<item>
+<title>Sexual Assault Is a Free Speech Issue</title>
+<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
+<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
+<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -645,6 +685,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg" medium="image"/>
 </item>
 <item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
 <title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
 <link>https://www.wired.com/story/adorama-promo-code</link>
 <guid isPermaLink="false">136a2d1ea728c543cc9e3e9843549ce3689050d1a284d4c80e3509eb5bae7efe</guid>
@@ -698,17 +749,6 @@
 <description>Explore today’s top DoorDash promo codes for $25 off your first order, free delivery, and 50% off DashPass for students and select users.</description>
 <enclosure url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
-</item>
-<item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>30% Off Canon Promo Codes | October 2026</title>
@@ -1266,15 +1306,6 @@
 <media:content url="https://www.engadget.com/img/gallery/we-might-finally-know-whats-written-on-that-mysterious-plaque-in-super-mario-64/l-intro-1792433283.jpg" medium="image"/>
 </item>
 <item>
-<title>AI assistant startup Town nabs unicorn valuation 4 months after launch</title>
-<link>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch</link>
-<guid isPermaLink="false">33d7e6f33ed412b6a46fe65d4404d2b089f880672bda69b511f2138a39b7bebb</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 18:00:39 +0000</pubDate>
-<description>AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.</description>
-</item>
-<item>
 <title>Is paid antivirus actually a waste of money for your PC in 2026?</title>
 <link>https://www.engadget.com/2287979/is-paid-antivirus-for-pc-waste-of-money</link>
 <guid isPermaLink="false">0babec13806875822f1e79481b00cabc002996ac59f48b4dddc633881304d7ff</guid>
@@ -1381,17 +1412,6 @@
 <description>Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>At what distance does a video doorbell stop detecting motion?</title>
-<link>https://www.engadget.com/2287906/video-doorbell-distance-stop-detecting-motion</link>
-<guid isPermaLink="false">a8f483c987a4c8f3426afacc079955f1e5a0cb0ed8df8f20b69e10c261833589</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:45:00 +0000</pubDate>
-<description>Your video doorbell might see a visitor without sending an alert. Detection depends on more than distance, and some surprising factors can affect its reach.</description>
-<enclosure url="https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/at-what-distance-does-a-video-doorbell-stop-detecting-motion/l-intro-1792085683.jpg" medium="image"/>
 </item>
 <item>
 <title>Florida DMV hacked after police dept insecurely stored login info</title>
@@ -1586,15 +1606,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft fixes classic Outlook bug that hid Copilot buttons</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook</link>
-<guid isPermaLink="false">408c88d8b77b649dabbbdc7f6abdac1cf118cd537658711d05b628d70a678c8b</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 12:44:44 +0000</pubDate>
-<description>Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]</description>
-</item>
-<item>
 <title>DIY VR: How to build your own headset, and why you probably won't want to</title>
 <link>https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to</link>
 <guid isPermaLink="false">da5b1de11aa78483cebdc7769ca0d09e4d9f6d870f3ce7de7752471c709a7e2c</guid>
@@ -1694,17 +1705,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg" medium="image"/>
 </item>
 <item>
-<title>How Elizabeth Holmes Tricked WIRED—and Everyone Else</title>
-<link>https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else</link>
-<guid isPermaLink="false">11c144944d534372cee9a1b4074e5606797e33acae860e1e75fd14e52ec639fd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
-<description>WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.</description>
-<enclosure url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" medium="image"/>
-</item>
-<item>
 <title>The Story of Billy Evans and ‘Theranos 2.0’</title>
 <link>https://www.wired.com/story/the-story-of-billy-evans-and-theranos-20</link>
 <guid isPermaLink="false">a9d78ebbb160d97177f182a9eeeb2ff6bb7aab05557bba6ac7badadd211a8248</guid>
@@ -1714,6 +1714,17 @@
 <description>Elizabeth Holmes’ husband is a major figure in Nathan Fielder’s new documentary. But who is Billy Evans—and is he really working on a second blood-testing company?</description>
 <enclosure url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad117bb762b59cd2aa2c04f/master/pass/NathanFielder_BillyEvans_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>How Elizabeth Holmes Tricked WIRED—and Everyone Else</title>
+<link>https://www.wired.com/story/how-elizabeth-holmes-tricked-wired-and-everyone-else</link>
+<guid isPermaLink="false">11c144944d534372cee9a1b4074e5606797e33acae860e1e75fd14e52ec639fd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 10:00:00 +0000</pubDate>
+<description>WIRED was the first magazine to cover Theranos and its enticing billionaire founder. There were warning signs even then.</description>
+<enclosure url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" medium="image"/>
 </item>
 <item>
 <title>15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</title>
@@ -2990,17 +3001,6 @@
 <description>The Apple Invites app got updated yet again today, with new features including RSVP improvements and a larger Home Screen widget. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-invites-app.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-invites-app.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple showcases iPad Pro and iPhone 18 Pro Max’s role in ‘landmark fashion show’</title>
-<link>https://9to5mac.com/2026/10/14/apple-showcases-ipad-pro-and-iphone-18-pro-maxs-role-in-landmark-fashion-show</link>
-<guid isPermaLink="false">f99acf7d2e146c539ebb18ffc3dc7e055039dfe00a1bc1d3012f228ad1a49f62</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 21:02:09 +0000</pubDate>
-<description>Apple today shared a behind-the-scenes look at “From Earth to Sky,” a fashion show in Turkey that was designed with an iPad Pro and filmed using an iPhone 18 Pro Max. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-fashion-show.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-fashion-show.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</title>
