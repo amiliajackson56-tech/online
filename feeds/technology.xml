@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
+<link>https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html</link>
+<guid isPermaLink="false">41ada449c348308462af326376ed7aeb364d09e9e0e0568610e4e3417f81d794</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 04:05:58 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg" medium="image"/>
+</item>
+<item>
 <title>Baseus’ new security camera has a spotlight that tracks and follows moving targets</title>
 <link>https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight</link>
 <guid isPermaLink="false">74e54eaf5e346ea7c62de184e3a0b329588d2196674dfad98c33d17d3cbc1019</guid>
@@ -1193,17 +1204,6 @@
 <media:content url="https://media.wired.com/photos/6ad4cf4d095df99b382d7bff/master/pass/White%20Elephant%20Gifts%20You%E2%80%99d%20Actually%20Want%20to%20Open%20102026%20top%20art%20SOURCE%20PopSockets-Verloop-Chronicle%20Books.jpg" medium="image"/>
 </item>
 <item>
-<title>Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It</title>
-<link>https://www.wired.com/review/insta360-luna-ultra-luna-pro</link>
-<guid isPermaLink="false">33384fdc8b71a7498076404ab162cd7a6117aca6017cd3621299ee0dea6f038f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-<description>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</description>
-<enclosure url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card</title>
 <link>https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card</link>
 <guid isPermaLink="false">13e37eaea476c349c555f5e6c5413b9ac72c6820110189c93b5708ad3ffde3fe</guid>
@@ -1213,6 +1213,17 @@
 <description>The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.</description>
 <enclosure url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" medium="image"/>
+</item>
+<item>
+<title>Insta360 Luna Ultra and Luna Pro Review (2026): Steady Does It</title>
+<link>https://www.wired.com/review/insta360-luna-ultra-luna-pro</link>
+<guid isPermaLink="false">33384fdc8b71a7498076404ab162cd7a6117aca6017cd3621299ee0dea6f038f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+<description>Insta360’s Luna Pro and Luna Ultra are the ideal cameras for solo filmmakers, content creators, and independent journalists.</description>
+<enclosure url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad51b17c6eb59d42f1b9d2a/master/pass/Insta360%20Luna%20Pro%20Ultra%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft: October Windows Server updates break Exchange sign-in, mail flow</title>
@@ -3056,16 +3067,5 @@
 <description>Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are "challenging to shut down," since "there's no centralized point to shut off."</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg" medium="image"/>
-</item>
-<item>
-<title>Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another</title>
-<link>https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html</link>
-<guid isPermaLink="false">f459c5923c1f2f1f0f0399d778e50fd56cd0cc834f0c02647efe67e017a828a7</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 13 Oct 2026 18:03:18 +0000</pubDate>
-<description>A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg" medium="image"/>
 </item>
 </channel></rss>
