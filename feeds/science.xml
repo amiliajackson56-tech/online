@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module</title>
+<link>https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module</link>
+<guid isPermaLink="false">2f953910c20328395f4138f7994cac2ea19ca0dd271ea98270acacea508cd068</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 18:11:33 +0000</pubDate>
+<description>Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" medium="image"/>
+</item>
+<item>
 <title>NASA Experimental Mars Helicopter Blade Designs Target Longer Flights</title>
 <link>https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights</link>
 <guid isPermaLink="false">717885f71763239e6341223e975a24865b70db43f3d5934be9f46c1c34c4a01a</guid>
@@ -270,6 +281,15 @@
 <description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03200-1 Preprint journal clubs offer a scalable way to make peer-review training a routine part of scientific education.</description>
 </item>
 <item>
+<title>Vast new fossil record challenges story of Earth’s ‘big five’ mass extinctions</title>
+<link>https://www.nature.com/articles/d41586-026-03316-4</link>
+<guid isPermaLink="false">1400d6d5b11f67d509a1eea5cdfd81568ac60ee8295e4ed7c5b2743301d51866</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03316-4 An artificial-intelligence model trained on nearly four million fossils suggests that three of the extinction events might have happened more gradually than previously thought.</description>
+</item>
+<item>
 <title>China picks first researchers for 15-year mega grants</title>
 <link>https://www.nature.com/articles/d41586-026-03151-7</link>
 <guid isPermaLink="false">986a046d87637151ad85c42b6f5394c8dd097a867b45e51bb0ae4becb4562a33</guid>
@@ -308,17 +328,6 @@
 <description>Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems. Copies of our software can be requested from NASA’s Software Catalog. JeNo Development of jet noise prediction codes is multifaceted. […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg?w=300" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/new-dual-stream-nozzle-chevron-hot-exhaust-jet-jet-noise-prediction-code-e1642003352433-300x300-1.jpg?w=300" medium="image"/>
-</item>
-<item>
-<title>Experimental Facilities</title>
-<link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities</link>
-<guid isPermaLink="false">991d54b83b3570ec508a3b561817cccd166b9907be2f47ae9f1fd0e977ad9ec6</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 18:08:52 +0000</pubDate>
-<description>Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL). […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2025/01/grc-2022-c-04045.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Alaska’s monster tsunami sent water 1,580 feet up a mountain</title>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11117-y Scanning tunnelling spectroscopy shows that the fractional spin-1/2 end states of molecular Haldane chains couple differently to a superconducting condensate depending on whether the chain contains an even or odd number of spin-1 triangulene units.</description>
-</item>
-<item>
-<title>Capillary-selective vasodilation through myosin inhibition halts ischaemic cascades</title>
-<link>https://www.nature.com/articles/s41586-026-11171-6</link>
-<guid isPermaLink="false">db8f18ff85d0af000ea1f7e60c6492f2972ccaef10387d1813c2fb2853679cf5</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 14 October 2026; doi:10.1038/s41586-026-11171-6 R(+)2501 reverses capillary no-reflow by relaxing pericytes, restoring microvascular perfusion and improving survival in animal models of myocardial infarction and acute kidney injury.</description>
 </item>
 </channel></rss>
