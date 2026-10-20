@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>This balanced scorecard is not working</title>
-<link>https://businessday.ng/opinion/article/this-balanced-scorecard-is-not-working</link>
-<guid isPermaLink="false">14f5e45cbedf2f08f0ccc22bda25e3601b4cf190a90c01b01335d5d1307bd663</guid>
-<source>BusinessDay Nigeria</source>
-<category>nigeria</category>
-<pubDate>Tue, 20 Oct 2026 03:20:40 +0000</pubDate>
-<description>I have heard variations of that sentence in organisations more times than I can count. Sometimes the performance-management software is</description>
-<enclosure url="https://cdn.businessday.ng/2016/12/scorecard.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.businessday.ng/2016/12/scorecard.jpg" medium="image"/>
-</item>
-<item>
 <title>When the business environment becomes an alibi</title>
 <link>https://businessday.ng/columnist/article/when-the-business-environment-becomes-an-alibi</link>
 <guid isPermaLink="false">4bdad5f9e8d9fe539ea0c6e98307a9419c37a459b79e3eaa922075bc50777bbe</guid>
@@ -57,6 +46,17 @@
 <description>…United Nigeria Airlines launches first commercial paper in industry’s history Nigerian airlines are turning to capital markets and state government</description>
 <enclosure url="https://cdn.businessday.ng/2018/08/Airlines-1.png" type="image/jpeg"/>
 <media:content url="https://cdn.businessday.ng/2018/08/Airlines-1.png" medium="image"/>
+</item>
+<item>
+<title>2027 Election: N3.8trn campaign spending cap faces enforcement test</title>
+<link>https://businessday.ng/politics/article/2027-election-n3-8trn-campaign-spending-cap-faces-enforcement-test</link>
+<guid isPermaLink="false">306352fe16f907db17a19eb94caadf66e23fdd8a11d018b523c8ae4cecfbcc07</guid>
+<source>BusinessDay Nigeria</source>
+<category>nigeria</category>
+<pubDate>Tue, 20 Oct 2026 02:30:51 +0000</pubDate>
+<description>Nigeria has raised the legal limits on campaign spending ahead of the 2027 general elections, but concerns are mounting about</description>
+<enclosure url="https://cdn.businessday.ng/wp-content/uploads/2026/10/Copilot_20260223_133005-2-1-large.png" type="image/jpeg"/>
+<media:content url="https://cdn.businessday.ng/wp-content/uploads/2026/10/Copilot_20260223_133005-2-1-large.png" medium="image"/>
 </item>
 <item>
 <title>INEC and neutrality test</title>
