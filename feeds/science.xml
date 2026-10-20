@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Provides Progress Update on Moon Base Rovers</title>
+<link>https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers</link>
+<guid isPermaLink="false">e351f39e708cae8be67429bd39146550b7e208ec40460aa93d77ffb25088b5b1</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 15:00:10 +0000</pubDate>
+<description>As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]</description>
+<enclosure url="https://www.youtube.com/embed/Zezt6EsG9WE" type="image/jpeg"/>
+<media:content url="https://www.youtube.com/embed/Zezt6EsG9WE" medium="image"/>
+</item>
+<item>
+<title>Webb Captures Stellar Jets</title>
+<link>https://www.nasa.gov/image-article/webb-captures-stellar-jets</link>
+<guid isPermaLink="false">6675ae824e75fa1beaaf628936b387f9fe84cfb72cdc0643edb5bb3a318c834c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 20 Oct 2026 14:44:09 +0000</pubDate>
+<description>An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129, which resides about 3,300 light-years from Earth. Learn more about this region – and tour it in […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory</title>
 <link>https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory</link>
 <guid isPermaLink="false">82351ac5423961b6963002e81b4bf8df11a5d0812a17a511da15b65c4d7a7f1d</guid>
@@ -288,28 +310,6 @@
 <description>The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston.</description>
 <enclosure url="https://www.youtube.com/embed/2MONMgAmXNU" type="image/jpeg"/>
 <media:content url="https://www.youtube.com/embed/2MONMgAmXNU" medium="image"/>
-</item>
-<item>
-<title>Instrumentation</title>
-<link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation</link>
-<guid isPermaLink="false">c11eaf75b2fd036c0563a57f2aae1e50d8842a65fc513084bc23729fce35d74d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 16:37:45 +0000</pubDate>
-<description>To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software. Rotating Rake […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330" medium="image"/>
-</item>
-<item>
-<title>Martian Dawn</title>
-<link>https://www.nasa.gov/image-article/martian-dawn</link>
-<guid isPermaLink="false">c791b49c2359cf82ac21df3783ed6392474ce4d8d5f5d20ff5816e7c34fcf1bd</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 16:03:51 +0000</pubDate>
-<description>NASA’s Curiosity captures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from a panorama released on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=1837" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26728-fig-a-curiosity-captures-dawn-breaking-on-wind-carved-cliffs.webp?w=1837" medium="image"/>
 </item>
 <item>
 <title>Alaska’s monster tsunami sent water 1,580 feet up a mountain</title>
