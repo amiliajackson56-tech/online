@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to stop audio from auto-playing on Android Auto</title>
+<link>https://www.engadget.com/2288195/how-to-stop-audio-automatically-play-android-auto</link>
+<guid isPermaLink="false">9e7e2c89a5a920bd53152f2e563e84661852adffd6343b5ceab4b9401936978d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 00:30:00 +0000</pubDate>
+<description>Although Android Auto's autoplay feature is intended to be a convenience, you may find yourself wanting to turn it off. Here's how.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-stop-audio-from-auto-playing-on-android-auto/l-intro-1792093586.jpg" medium="image"/>
+</item>
+<item>
 <title>WhatsApp may soon let iPhone users open any link in an in-app browser</title>
 <link>https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser</link>
 <guid isPermaLink="false">36082a503589885a6d70cda3d16c8b10f0432b768fb7fd6f67fd99c5638fef66</guid>
@@ -1041,17 +1052,6 @@
 <category>technology</category>
 <pubDate>Mon, 19 Oct 2026 12:30:00 +0000</pubDate>
 <description>University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.</description>
-</item>
-<item>
-<title>What's the point of the 2.5G Ethernet port on your router?</title>
-<link>https://www.engadget.com/2287123/ethernet-2-5-g-port-router-what-it-does</link>
-<guid isPermaLink="false">c4605ed1964acce9b14569a737b1e1eddbd2bb964072219bb28c2e2e2e1ca79c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 12:15:00 +0000</pubDate>
-<description>Most routers have several 1 Gbps ports, but yours might have one or more 2.5 Gbps options that are great for speeding up compatible devices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/whats-the-point-of-the-2-5g-ethernet-port-on-your-router/l-intro-1792014156.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/whats-the-point-of-the-2-5g-ethernet-port-on-your-router/l-intro-1792014156.jpg" medium="image"/>
 </item>
 <item>
 <title>Nobody should buy the $299 Apple TV 4K, but it could have been worse</title>
