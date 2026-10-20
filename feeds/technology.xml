@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps</title>
+<link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps</link>
+<guid isPermaLink="false">d3f9173dc1964ad08513ada7745220c2da3ac07379d09153da25ddc0ebfe0ff0</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 17:12:48 +0000</pubDate>
+<description>Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.</description>
+</item>
+<item>
+<title>Spotify is dancing around its AI 'slop and spam' problem</title>
+<link>https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem</link>
+<guid isPermaLink="false">9ca23c38dab61a60eee2f95ccf7085fb264aee555994dbafa7fae5b645c59b70</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 17:11:26 +0000</pubDate>
+<description>The company said it removed 50 million such tracks from recommendations, but hasn't necessarily wiped them entirely.</description>
+<enclosure url="https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg" medium="image"/>
+</item>
+<item>
+<title>Chrome will now show a warning before you visit ‘suspicious’ sites</title>
+<link>https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning</link>
+<guid isPermaLink="false">5d7e540dfcb9dc5fe8c064b287d27dfb6780612c24c5813c25539925ec582f3a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 17:00:00 +0000</pubDate>
+<description>Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system introduced for Chrome file downloads in 2024, which provides […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Google-Chrome-suspicious-website-warning-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Don't put your phone in the TSA bin — do this instead</title>
 <link>https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin</link>
 <guid isPermaLink="false">903308623db95f2bf546150eb66cd6d01d74487a5af390c3bab4f62d7a5a2e56</guid>
@@ -13,6 +44,17 @@
 <description>Let's be honest, TSA bins are just gross.</description>
 <enclosure url="https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/dont-put-your-phone-in-the-tsa-bin-do-this-instead/l-intro-1792170181.jpg" medium="image"/>
+</item>
+<item>
+<title>AMD is bringing FSR 4.1 to Xbox consoles and handhelds</title>
+<link>https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops</link>
+<guid isPermaLink="false">4765d0199e5a406bf17901455a19853c63c57d5930071c1738c5405a992383d6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 16:21:18 +0000</pubDate>
+<description>AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-series GPUs today, as well as Ryzen AI Max 300 and 400 […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/3b4peqgb3j7f1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’</title>
@@ -194,6 +236,17 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600" medium="image"/>
 </item>
 <item>
+<title>Polestar tries to quantify what it’s like to drive a performance car</title>
+<link>https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car</link>
+<guid isPermaLink="false">945721afabe8e83002fd06c235b58abbdee8fbf3644393e5722726ad38045d22</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 14:53:07 +0000</pubDate>
+<description>Drivers had electrodes strapped to their heads as they tested EVs on track.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/HERO_The-anatomy-of-performance-18-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx</title>
 <link>https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex</link>
 <guid isPermaLink="false">bdf772689ce0c225d4dc8b8269fcd14181979e2fe68ce0ebe1c5127e977fcc4a</guid>
@@ -253,7 +306,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
-<description>Figma said it plans to support as many standards as possible without exposing all of its data</description>
+<description>Figma said it plans to support as many standards as possible without exposing all of its data.</description>
 </item>
 <item>
 <title>Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</title>
@@ -409,17 +462,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/ss_a5850396e3aaf971ce506069bb412e9deb805391.1920x1080-2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Antigravity just halved the price of its drone — by swapping its headset for wristwatch control</title>
-<link>https://www.theverge.com/tech/1014063/antigravity-a1-drone-follow-me-watch-ring-control</link>
-<guid isPermaLink="false">1425d64459175b929010206b4bdcfd75b1a5126f2430d5b886a969575667cfd8</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 13:00:00 +0000</pubDate>
-<description>Last year's Antigravity A1 is the best beginner drone I've ever tried. I put a friend who'd never flown into its virtual cockpit and didn't worry one bit. The A1's also nice for people who'd prefer to think about flying rather than filming, because you can reframe its 360-degree footage after. But until today, that […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-antigravity-a1-sean-hollister-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone</title>
 <link>https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on</link>
 <guid isPermaLink="false">2be7e4c671d4dc5e336caed12d94da797a2f92e66d0ad2a855e03a6667359dd7</guid>
@@ -470,7 +512,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
-<description>A single query is all that's required to find thousands of conversations listed by title.</description>
+<description>Meta is suspending the sharing feature while it investigates its privacy.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution-1152x648.jpg" medium="image"/>
 </item>
@@ -544,17 +586,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
 <description>While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded.</description>
-</item>
-<item>
-<title>Spotify’s new podcast memberships let you pay for extra perks</title>
-<link>https://www.theverge.com/entertainment/1013606/spotify-podcast-memberships-paid-subscription-launch</link>
-<guid isPermaLink="false">1de7b9aae8f8738acc86fc4dcdff0dccc0f1c2b917ef194b349a0e31ac5fba3c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-<description>Spotify is enabling podcast creators to earn more money through the platform by providing their fans with a way to pay to access exclusive content. First announced in May, the new Memberships subscription feature is starting to roll out in 34 regions today, allowing podcasters to offer perks including additional content, early access, bonus episodes, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Spotify-Podcast-Memberships.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Spotify's Memberships program for podcasts is here to compete with Patreon</title>
@@ -886,17 +917,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg" medium="image"/>
 </item>
 <item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
 <title>Adorama Camera Coupon Codes &amp; Promo Codes: October 2026</title>
 <link>https://www.wired.com/story/adorama-promo-code</link>
 <guid isPermaLink="false">136a2d1ea728c543cc9e3e9843549ce3689050d1a284d4c80e3509eb5bae7efe</guid>
@@ -917,17 +937,6 @@
 <description>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>Mattress Firm Coupons: Save up to $700</title>
-<link>https://www.wired.com/story/mattress-firm-coupon</link>
-<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Wayfair Coupons: Up to 80% Off October 2026</title>
@@ -952,6 +961,17 @@
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
 </item>
 <item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
+</item>
+<item>
 <title>30% Off Canon Promo Codes | October 2026</title>
 <link>https://www.wired.com/story/canon-promo-code</link>
 <guid isPermaLink="false">b7b297c4c57110a535ebb7e21ce3aa1ad5547e25ec9499eef52e4ec8f670dea2</guid>
@@ -963,15 +983,15 @@
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
-<title>Whoop Promo Codes: 20% Off This October 2026</title>
-<link>https://www.wired.com/story/whoop-promo-code</link>
-<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<title>Mattress Firm Coupons: Save up to $700</title>
+<link>https://www.wired.com/story/mattress-firm-coupon</link>
+<guid isPermaLink="false">49e4bd56c5dc54dae8ed21f5dcc8ee34721f0bfa88c216b825eab03564e80254</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+<description>Use a Mattress Firm promo code to save on top mattresses, score a free adjustable base, and unlock up to $300 in instant credits.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Home Chef Promo Codes for October 2026</title>
@@ -1005,6 +1025,17 @@
 <description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
@@ -1120,17 +1151,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg" medium="image"/>
 </item>
 <item>
-<title>Why your expensive Wi-Fi 7 router could be delivering slower speeds</title>
-<link>https://www.engadget.com/2288083/wifi-7-router-delivering-lower-speeds-reasons</link>
-<guid isPermaLink="false">90a04ce4a88bef266b896ae97beb5cecc309d2c8afb9ba9bc704b18b51004c89</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 22:30:00 +0000</pubDate>
-<description>Don't tuck your router away in a corner, even if it is a bit of an eyesore.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds/l-intro-1792091857.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-expensive-wi-fi-7-router-could-be-delivering-slower-speeds/l-intro-1792091857.jpg" medium="image"/>
-</item>
-<item>
 <title>New App Store chief discusses Apple’s gaming strategy, future of Apple Arcade, more</title>
 <link>https://9to5mac.com/2026/10/19/new-app-store-chief-discusses-apples-gaming-strategy-future-of-apple-arcade-more</link>
 <guid isPermaLink="false">dfee02c3b95a1cd13bb9a56efbb25ad39d1454dd656c63bf5958d5865646705b</guid>
@@ -1222,15 +1242,6 @@
 <description>US fears Saudi government will help ex-OpenAI engineer flee spying charges.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool</title>
-<link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool</link>
-<guid isPermaLink="false">4adb94a84a67ec0181f89591815e4a223ed79d117a313be806736a13b97085a2</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 20:09:24 +0000</pubDate>
-<description>Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.</description>
 </item>
 <item>
 <title>Batteries help reduce emissions, but how do we reduce their emissions?</title>
@@ -1991,17 +2002,6 @@
 <media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
-<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
-<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
-<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
-<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
-<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
-</item>
-<item>
 <title>Climate Change Has It In for the World’s Best Surfing</title>
 <link>https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing</link>
 <guid isPermaLink="false">8c53bca09a49f3aa302dc02528a3d8d7f8b7ff05411516d1a0f59f62e912c676</guid>
@@ -2011,6 +2011,17 @@
 <description>As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.</description>
 <enclosure url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg" medium="image"/>
+</item>
+<item>
+<title>Magnesium May Not Reach Your Brain, Despite Supplement Label Promises</title>
+<link>https://www.wired.com/story/magnesium-may-not-reach-your-brain-despite-supplement-label-promises</link>
+<guid isPermaLink="false">4c0911cabb05184072e7fde7ca064413f1d7b7142ca03e6703a83d605181167c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+<description>Some of the many variants sold today promise to penetrate our gray matter, but biology isn’t in the habit of respecting marketing declarations.</description>
+<enclosure url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acf777ced16e31e6734c24b/master/pass/GettyImages-2281567983.jpg" medium="image"/>
 </item>
 <item>
 <title>The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)</title>
@@ -2165,17 +2176,6 @@
 <description>We tested some of the most popular automatic dry- and wet-food pet feeders to see which ones are worth the money.</description>
 <enclosure url="https://media.wired.com/photos/6ad25ef4095147cf38919a3c/master/pass/Automatic%20Feeders%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad25ef4095147cf38919a3c/master/pass/Automatic%20Feeders%20Update%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>Why BioWare's Neverwinter Nights still has thousands of active players</title>
-<link>https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players</link>
-<guid isPermaLink="false">34a0d3cd41083e9989b9704fa654fcdfc99d5000166f1c15adbdcc3e51e0d235</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 11:00:21 +0000</pubDate>
-<description>The single-player is just OK, but according to the players, that doesn't matter.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/NWN-header-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>HTC Made Smart Glasses That Are Way More Private</title>
