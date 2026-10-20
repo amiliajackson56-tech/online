@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>tvOS 27.2 adds three new features to your Apple TV 4K</title>
+<link>https://9to5mac.com/2026/10/20/tvos-27-2-adds-three-new-features-to-your-apple-tv-4k</link>
+<guid isPermaLink="false">90dfe87e2e5707e1346b53ee5e4f6d572e0ce49994867e754c1a09aad6d2126b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:57:50 +0000</pubDate>
+<description>tvOS 27.2 is coming next week, bringing several new features to Apple TV 4K users—including some screen saver upgrades. Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>CJIS v6.1 Compliance: 5 Practical Priorities for Agencies</title>
+<link>https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies</link>
+<guid isPermaLink="false">2490cf3f7c8f1527f87baab476aa1de632179620bdc3cca9467e6386a51dce87</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:51:00 +0000</pubDate>
+<description>CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]</description>
+</item>
+<item>
+<title>Apple now selling repair parts for iPhone 18 Pro, latest Mac Studio and Mac mini models</title>
+<link>https://9to5mac.com/2026/10/20/apple-now-selling-repair-parts-for-iphone-18-pro-latest-mac-studio-and-mac-mini-models</link>
+<guid isPermaLink="false">7913c3c6fffe6f84c80fc3ed67ee801c9f21dfdb937a495627a4bfb4d58b1def</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:48:26 +0000</pubDate>
+<description>Apple today began selling repair parts for the iPhone 18 Pro and iPhone 18 Pro Max, as well as the M5 Max and M5 Ultra Mac Studio and the M6 or M5 Pro Mac mini models. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/08/DIY-Apple-device-repairs-now-fully-supported-in-Canada.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/08/DIY-Apple-device-repairs-now-fully-supported-in-Canada.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Amazon Prime comes with an Alexa upgrade you should know about</title>
+<link>https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about</link>
+<guid isPermaLink="false">13a833c73aebae379a3a01115ddc200dbdfccd2e485822393d4cb441418613c7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 13:45:00 +0000</pubDate>
+<description>Amazon's Echo Show and Dot devices, tablets and website all have new capabilities that you might want to take for a spin.</description>
+<enclosure url="https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg" medium="image"/>
+</item>
+<item>
 <title>Hacker gets 8 years for stealing $3.3 million from taxpayers</title>
 <link>https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers</link>
 <guid isPermaLink="false">869613f664c0de20bfebb587479f9834a86a56e8b5da80c21914701b2fd68c01</guid>
@@ -126,6 +168,17 @@
 <media:content url="https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg" medium="image"/>
 </item>
 <item>
+<title>Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election</title>
+<link>https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html</link>
+<guid isPermaLink="false">f000a8c0fede9d2d8cdb142840a7b493b5f08f31eff23495499a3ee94df92672</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 12:59:44 +0000</pubDate>
+<description>The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election. The infection used a zero-click exploit, meaning Đokić did not have to tap a link or</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s1600/iphone-spyware.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s1600/iphone-spyware.jpg" medium="image"/>
+</item>
+<item>
 <title>How to know it's time to replace your router</title>
 <link>https://www.engadget.com/2288619/how-to-know-time-to-replace-router</link>
 <guid isPermaLink="false">2c799243c6156eae82e70329efad3cfce9d1e9c5a5249dec96304b02d7649fbc</guid>
@@ -144,8 +197,8 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 12:42:27 +0000</pubDate>
 <description>The UK is taking aim at Apple's near-monopoly on contactless NFC smartphone payments.</description>
-<enclosure url="https://www.engadget.com/img/gallery/uk-antitrust-regulator-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792500056.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/uk-antitrust-regulator-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792500056.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792504983.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/uk-antitrust-regulartor-wants-apple-to-open-up-iphone-nfc-access/l-intro-1792504983.jpg" medium="image"/>
 </item>
 <item>
 <title>Meta Muse exposes users' personal and business secrets when they share conversations</title>
@@ -1363,17 +1416,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg" medium="image"/>
 </item>
 <item>
-<title>Fiber vs. cable internet: What's the difference between them?</title>
-<link>https://www.engadget.com/2287870/fiber-vs-cable-internet-difference-between</link>
-<guid isPermaLink="false">7fe0a5ea22fa172b7964049e56dddda1cf7b7e47d19dadf697d983f26c8bc9dc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:15:00 +0000</pubDate>
-<description>Fiber internet is more modern than cable, but the older technology still works well for today's connection needs.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fiber-vs-cable-internet-whats-the-difference-between-them/l-intro-1792085043.jpg" medium="image"/>
-</item>
-<item>
 <title>All-Clad Factory Seconds Sale: Cookware Deals for Fall Cooking</title>
 <link>https://www.wired.com/story/all-clad-factory-seconds-sale-october-2026</link>
 <guid isPermaLink="false">c874d9fd0ce235e4fa77e1e1b9ab7807fc4aafe1ca1eb05e8d215e2a8a61e601</guid>
@@ -1705,15 +1747,6 @@
 <description>The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.</description>
 <enclosure url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfe36ba2733753393886b8/master/pass/Disney-Asked-Character.AI-to-Go-Bankrupt-Business-1530260396.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft: October Windows Server updates break Exchange sign-in, mail flow</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues</link>
-<guid isPermaLink="false">cecd562c5d3ea0e40e033dc6f7778d82956476c650b91becca60d45c045e6012</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 08:58:41 +0000</pubDate>
-<description>Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]</description>
 </item>
 <item>
 <title>This MagSafe battery pack is designed perfectly for iPhone Duo</title>
@@ -2970,28 +3003,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-fashion-show.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>iOS 27 adds brand new widgets for your iPhone’s Home Screen</title>
-<link>https://9to5mac.com/2026/10/14/ios-27-adds-brand-new-widgets-for-your-iphones-home-screen</link>
-<guid isPermaLink="false">1861ac0ba5738b729bce35659751172feb0e0421359234f0948a86958b5fe5f9</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 20:36:16 +0000</pubDate>
-<description>iOS 27 expands the available options to customize your Home Screen with new extra-large widgets that will be especially useful on iPhone Duo. Here’s the full list of 15+ pre-installed widgets iOS 27 introduces. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-widget-ios-27-extra-large.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/shortcuts-widget-ios-27-extra-large.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple Intelligence reportedly coming to China in December, but without Siri AI</title>
-<link>https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai</link>
-<guid isPermaLink="false">8aa85b898a99f83eecd21d837720db5524d963259b5ced8da57f275b2d49d391</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 20:20:14 +0000</pubDate>
-<description>Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</title>
 <link>https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</link>
 <guid isPermaLink="false">402aaeff71af9a0903716f2ab9c965044fe95b98a71ddd82b1e9397fc681f0ef</guid>
@@ -3056,16 +3067,5 @@
 <description>A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg" medium="image"/>
-</item>
-<item>
-<title>How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team</title>
-<link>https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html</link>
-<guid isPermaLink="false">72b689a43b33aab8cdac206a2d03f33631f1b146e6234b9712180cdb82dc0c9b</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 14 Oct 2026 11:50:00 +0000</pubDate>
-<description>Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg" medium="image"/>
 </item>
 </channel></rss>
