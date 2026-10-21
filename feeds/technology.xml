@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI agents disabled safety monitoring, one lied about it</title>
+<link>https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it</link>
+<guid isPermaLink="false">b311c69decd1219e12d5271524582cf54cf74113b0660f96d737a6551fc79a02</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 16:26:53 +0000</pubDate>
+<description>OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]</description>
+</item>
+<item>
 <title>Sony's PlayStation Pulse headset arrives on November 19 for $100</title>
 <link>https://www.engadget.com/2293077/sonys-playstation-pulse-headset-arrives-on-november-19-for-dollar100</link>
 <guid isPermaLink="false">f743aa5268256cdea0d60696e23e13a3aa5e60c5a24ec73a58955cc415f43592</guid>
@@ -348,7 +357,7 @@
 <media:content url="https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg" medium="image"/>
 </item>
 <item>
-<title>Heat pump tech is 170 years old. Pascal thinks it’s time for an update.</title>
+<title>Heat pump tech is 170 years old — Pascal thinks it’s time for an update</title>
 <link>https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update</link>
 <guid isPermaLink="false">ef56cbb44c93149addc63fcb7b00802cb30ada2109303bb6f260e17bca9cfd06</guid>
 <source>TechCrunch</source>
@@ -1652,15 +1661,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg" medium="image"/>
 </item>
 <item>
-<title>OVHcloud CLI releases backdoored on GitHub to steal developer secrets</title>
-<link>https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets</link>
-<guid isPermaLink="false">35198a8c673263278efefa988435198314df731bbb796aa9b42417dda3331c69</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:31:22 +0000</pubDate>
-<description>French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]</description>
-</item>
-<item>
 <title>Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader</title>
 <link>https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html</link>
 <guid isPermaLink="false">a960a69e2016cfacc55792cbacc379bd408451a0640729337e8e4283eebedcee</guid>
@@ -1892,17 +1892,6 @@
 <media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
-<title>Chewy Promo Codes: $20 Off October 2026</title>
-<link>https://www.wired.com/story/chewy-promo-code</link>
-<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
-<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
-</item>
-<item>
 <title>Mint Mobile Discounts for October 2026</title>
 <link>https://www.wired.com/story/mint-mobile-promo-code</link>
 <guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
@@ -1945,6 +1934,17 @@
 <description>Get 10% off with Wayfair promo code, up to 80% off furniture, and more top coupons.</description>
 <enclosure url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b969468ebbf8f0cbc7d/master/pass/WIRED-Coupons-R2_5.png" medium="image"/>
+</item>
+<item>
+<title>Chewy Promo Codes: $20 Off October 2026</title>
+<link>https://www.wired.com/story/chewy-promo-code</link>
+<guid isPermaLink="false">7c9beed90ca48cf3121b4bd4c7158407bb09569c2b268e0e1df9368a2db561b0</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Explore Chewy coupon codes for $30 off, $20 off your first order of $49, 50% off pet food, and more October 2026 discounts.</description>
+<enclosure url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
 <title>Whoop Promo Codes: 20% Off This October 2026</title>
