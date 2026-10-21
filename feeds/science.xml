@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA JPL Looks to Next 90 Years of Innovation, Exploration</title>
+<link>https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration</link>
+<guid isPermaLink="false">ebd5ed8eaec52f796dfca9083cd527919c8c7f2ff364e6957603bea2c8739ece</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 21 Oct 2026 18:35:56 +0000</pubDate>
+<description>Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama</title>
 <link>https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama</link>
 <guid isPermaLink="false">1cc4bf2f6b258bdc10ff9ccc52a237284a14153066dba1810942ffb1b4caacb0</guid>
@@ -185,6 +196,15 @@
 <category>science</category>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids</description>
+</item>
+<item>
+<title>Surprise! White dwarf stars come in a rainbow of colours</title>
+<link>https://www.nature.com/articles/d41586-026-03319-1</link>
+<guid isPermaLink="false">ce1a9a43124e981a6cbb4b38c0eb43f108d637e7993b6c9ebdce28f0df356cb4</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.</description>
 </item>
 <item>
 <title>To heal sick cities, scientists and residents must work together</title>
@@ -560,17 +580,6 @@
 <description>NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png" medium="image"/>
-</item>
-<item>
-<title>NASA Provides Progress Update on Moon Base Rovers</title>
-<link>https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers</link>
-<guid isPermaLink="false">e351f39e708cae8be67429bd39146550b7e208ec40460aa93d77ffb25088b5b1</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 15:00:10 +0000</pubDate>
-<description>As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations, and resource prospecting. Data from these early missions will inform future mobility systems and infrastructure needed for astronauts to live and work on the Moon. […]</description>
-<enclosure url="https://www.youtube.com/embed/Zezt6EsG9WE" type="image/jpeg"/>
-<media:content url="https://www.youtube.com/embed/Zezt6EsG9WE" medium="image"/>
 </item>
 <item>
 <title>Scientists finally uncover why statins can cause muscle pain</title>
@@ -1309,15 +1318,6 @@
 <category>science</category>
 <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03308-4 Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.</description>
-</item>
-<item>
-<title>Memory stays strong in old age when this brain enzyme is active</title>
-<link>https://www.nature.com/articles/d41586-026-03303-9</link>
-<guid isPermaLink="false">bb9179e330ade344b05747e9d9b96bfa37c67f2976594c047444b13e2b92cd2d</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 16 October 2026; doi:10.1038/d41586-026-03303-9 Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.</description>
 </item>
 <item>
 <title>Arctic sea ice hits another troubling low in 2026</title>
