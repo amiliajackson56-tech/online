@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>SpaceX and Tesla are exploring a possible merger</title>
+<link>https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger</link>
+<guid isPermaLink="false">223251f9640b3de2659aa075a3983dafe295e5580edcff35655e34ad5e9ad4d5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 08:40:59 +0000</pubDate>
+<description>SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty.</description>
+<enclosure url="https://www.engadget.com/img/gallery/spacex-and-tesla-are-exploring-a-possible-merger/l-intro-1792571852.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/spacex-and-tesla-are-exploring-a-possible-merger/l-intro-1792571852.jpg" medium="image"/>
+</item>
+<item>
+<title>CISA: SafePay ransomware hit over 600 critical infrastructure orgs</title>
+<link>https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations</link>
+<guid isPermaLink="false">22d0c61a1535ae0793c779f80d1162cf5c1ce826f2722837a64ca5b632cbc159</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 08:36:24 +0000</pubDate>
+<description>The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]</description>
+</item>
+<item>
+<title>Can Europe Build Data Centers Without Giving Up Its Climate Goals?</title>
+<link>https://www.wired.com/story/europe-data-centers-climate-change</link>
+<guid isPermaLink="false">90d47dfd079706f7d7818ee2648c1a9b38bab2b41a9852c9b40d12e762f6ae5d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 08:30:00 +0000</pubDate>
+<description>A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.</description>
+<enclosure url="https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/master/pass/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg" medium="image"/>
+</item>
+<item>
 <title>State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web</title>
 <link>https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html</link>
 <guid isPermaLink="false">2f30cd1c0af42cce1757c5873c3564fe4b451ea3e55d8c245811f22327975e78</guid>
@@ -824,8 +855,8 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 17:11:26 +0000</pubDate>
 <description>The company said it removed 50 million such tracks from recommendations, but hasn't necessarily wiped them entirely.</description>
-<enclosure url="https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792516193.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792572527.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/spotify-is-dancing-around-its-ai-slop-and-spam-problem/l-intro-1792572527.jpg" medium="image"/>
 </item>
 <item>
 <title>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
@@ -908,17 +939,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 16:00:00 +0000</pubDate>
 <description>Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.</description>
-</item>
-<item>
-<title>5 ways to make your old iPhone feel faster</title>
-<link>https://www.engadget.com/2288921/ways-make-old-iphone-feel-faster</link>
-<guid isPermaLink="false">bcbb6f46d75a9939e8dea471b77606f544c89607601e9d3761b2d2e96fcd2624</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 15:45:00 +0000</pubDate>
-<description>Your iPhone will slow down over time, but some changes can help it run at its best for longer.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg" medium="image"/>
 </item>
 <item>
 <title>Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</title>
@@ -1513,6 +1533,17 @@
 <media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
 <title>Home Chef Promo Codes for October 2026</title>
 <link>https://www.wired.com/story/home-chef-promo-code</link>
 <guid isPermaLink="false">580603dccec2c7644d73d5998c27cfaa2ab8eaf3c3382d424af8406f13ec7f1e</guid>
@@ -1533,17 +1564,6 @@
 <description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Whoop Promo Codes: 20% Off This October 2026</title>
-<link>https://www.wired.com/story/whoop-promo-code</link>
-<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>AT&amp;T Promo Codes: $50 Off This October 2026</title>
@@ -1694,15 +1714,6 @@
 <description>Mixbook is the best card service I’ve tried, and the brand has multiple sales on holiday cards happening now.</description>
 <enclosure url="https://media.wired.com/photos/6ad66eab8983de0c23002637/master/pass/Holiday%20Card%20Sale%20102026%20top%20art%20SOURCE%20Mixbook.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad66eab8983de0c23002637/master/pass/Holiday%20Card%20Sale%20102026%20top%20art%20SOURCE%20Mixbook.jpg" medium="image"/>
-</item>
-<item>
-<title>Hackers hijack AOMEI update servers to secretly spread malware</title>
-<link>https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware</link>
-<guid isPermaLink="false">accf3c954e485cd109db73f7ba98366fab44e71f796df15c4b94374b6d998c0a</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 19:40:58 +0000</pubDate>
-<description>Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]</description>
 </item>
 <item>
 <title>9to5Mac Daily: October 19, 2026 – iPhone Duo demand, HomeView rumors</title>
@@ -2231,17 +2242,6 @@
 <description>Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.</description>
 <enclosure url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" medium="image"/>
-</item>
-<item>
-<title>Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK</title>
-<link>https://www.wired.com/review/valerion-visionmaster-max-4k-projector</link>
-<guid isPermaLink="false">99db1eb3cd6b58173ed09e22bfc617b0cd57cf41624f24d215c8be43587b1a20</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 10:00:00 +0000</pubDate>
-<description>The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.</description>
-<enclosure url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg" medium="image"/>
 </item>
 <item>
 <title>ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
