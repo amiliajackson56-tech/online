@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions</title>
+<link>https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions</link>
+<guid isPermaLink="false">2aebac73f26263738da09919362edb1b69d3ae44989be2925ab89285a7061948</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 21 Oct 2026 20:51:50 +0000</pubDate>
+<description>NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024" medium="image"/>
+</item>
+<item>
 <title>NASA JPL Looks to Next 90 Years of Innovation, Exploration</title>
 <link>https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration</link>
 <guid isPermaLink="false">ebd5ed8eaec52f796dfca9083cd527919c8c7f2ff364e6957603bea2c8739ece</guid>
@@ -137,7 +148,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Wed, 21 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 21 – New… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New […]</description>
+<description>APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&amp;h=1751&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&amp;h=1751&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -578,17 +589,6 @@
 <description>Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" medium="image"/>
-</item>
-<item>
-<title>NASA Experimental Mars Helicopter Blade Designs Target Longer Flights</title>
-<link>https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights</link>
-<guid isPermaLink="false">717885f71763239e6341223e975a24865b70db43f3d5934be9f46c1c34c4a01a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 16:02:35 +0000</pubDate>
-<description>NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet. Using high-fidelity computer simulations and wind tunnel tests, engineers are reimagining the rotorcraft blades that could carry the next generation of Mars flyers.</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png" medium="image"/>
 </item>
 <item>
 <title>Scientists finally uncover why statins can cause muscle pain</title>
