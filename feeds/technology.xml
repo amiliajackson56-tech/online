@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>YouTube says it isn’t testing hiding the dislike button</title>
+<link>https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos</link>
+<guid isPermaLink="false">1a23f2bd44d0b65b45fc6713b94f9f74cd0327713da396a1e242b019b63ace63</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:46:45 +0000</pubDate>
+<description>On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge, confirmed that YouTube is "not testing hiding […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?</title>
+<link>https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings</link>
+<guid isPermaLink="false">e49b804aa4fbcb2135f4541cc816fa13d7b63c27ba92c0d859a6ae561e379c01</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 23:36:31 +0000</pubDate>
+<description>For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch</title>
 <link>https://9to5mac.com/2026/10/21/giant-iphone-duo-installations-spotted-at-apple-fifth-avenue-ahead-of-friday-launch</link>
 <guid isPermaLink="false">6db982256aea0fa196dc2bd193318c31a9b50bdfa7a168c9b455035594b28a6f</guid>
@@ -398,17 +420,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Anthropic takes on Muse with Claude Duet, its new AI agent</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent</link>
-<guid isPermaLink="false">258d5ff776fa8f139d323b47c646b9f38c1b658b178bbd1b413e2c0a6136a7ff</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:53:20 +0000</pubDate>
-<description>Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a "research preview," according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Xbox is previewing paid cloud gaming for players without Game Pass</title>
 <link>https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass</link>
 <guid isPermaLink="false">67825a85a4c858e7c55fa1462ea8c49dbeb548bf1f93d56394adfe407e0ec1e8</guid>
@@ -467,17 +478,6 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
 <description>As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.</description>
-</item>
-<item>
-<title>Walmart is inviting AI agents to shop for you</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents</link>
-<guid isPermaLink="false">20d01956fcee92e766917384c60be3ae330580565eaf78bdd0999302b3882a2e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:30:00 +0000</pubDate>
-<description>Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2247092603.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>iPadOS 27.2 adds convenient new feature from the Mac</title>
