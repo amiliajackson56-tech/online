@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft says October updates didn’t actually fix VPN issues</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates</link>
+<guid isPermaLink="false">dda7b9b7435eac6926c91af383247e45541e5440903f5a9c28f7fc4bf84f6db6</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:14:53 +0000</pubDate>
+<description>Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]</description>
+</item>
+<item>
+<title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
+<link>https://www.wired.com/gallery/best-hearing-aids</link>
+<guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</description>
+<enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
+</item>
+<item>
+<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
+<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
+<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
+<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
+</item>
+<item>
 <title>Subaru is dropping gas cars for EVs in Europe by the end of 2027</title>
 <link>https://www.engadget.com/2292610/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027</link>
 <guid isPermaLink="false">5b7e03a1effc6bff4c4cd4240c97a7ba4dbb9939a0062408ae8b8eedfcb08cd6</guid>
@@ -1652,15 +1683,6 @@
 <description>Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]</description>
 </item>
 <item>
-<title>WordPress SEO plugin Rank Math compromised to backdoor websites</title>
-<link>https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites</link>
-<guid isPermaLink="false">ae719e30f803e843f76dba682b0fcc3fbb7c6b5f33be886dcfe07013080f57d9</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 21:24:51 +0000</pubDate>
-<description>Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]</description>
-</item>
-<item>
 <title>Following $5.7B verdict, Taction wants a cut of iPhone and Apple Watch sales through 2035</title>
 <link>https://9to5mac.com/2026/10/19/following-5-7b-verdict-taction-wants-a-cut-of-iphone-and-apple-watch-sales-through-2035</link>
 <guid isPermaLink="false">2f00b6428a68f6863607a20b91c324bafcb17a580556a3c3d3626cf048840088</guid>
@@ -2242,28 +2264,6 @@
 <description>When you need something that’s as mannishly masculinized as you can get for the Man™ in your life, we have you covered.</description>
 <enclosure url="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad2adfc85712117ad7fac60/master/pass/The%20Best%20Gifts%20for%20Men,%20Manly%20Men,%20and%20Menly%20Man%20Men%20top%20art%20SOURCE%20Amazon-Home%20Depot.jpg" medium="image"/>
-</item>
-<item>
-<title>OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty</title>
-<link>https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty</link>
-<guid isPermaLink="false">de5ff6f54f5c054664fc5be4a7da1b53322315b802020b29486244864a901472</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 10:30:00 +0000</pubDate>
-<description>Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.</description>
-<enclosure url="https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad240695195eb0dd6087017/master/pass/101626_Naughty%20Meta%20Muse%20OnlyFans.jpg" medium="image"/>
-</item>
-<item>
-<title>Data Centers Have a New PR Plan: Your Kid’s Field Trip</title>
-<link>https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids</link>
-<guid isPermaLink="false">452021bb30da092ac720c425d609a297979766534934026d4431dfd3f0050885</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 18 Oct 2026 10:30:00 +0000</pubDate>
-<description>Amid a wave of backlash, some industry-friendly groups are employing creative and time-tested strategies to woo the youth.</description>
-<enclosure url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/master/pass/101626-Power%20Play.jpg" medium="image"/>
 </item>
 <item>
 <title>ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
