@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>YouTube might be testing hiding the dislike button</title>
+<link>https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu</link>
+<guid isPermaLink="false">c014b161f25d8a756bc56571d5fa6aa4650fd5c4e5c737f6071878ecad141bbd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 00:00:56 +0000</pubDate>
+<description>YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>How much power can a 1kW wind turbine produce for your home?</title>
+<link>https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power</link>
+<guid isPermaLink="false">1a87478081b664eb0d838c98033ad91d6e181234c899ceb5326d783963bcf60c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<description>A 1 kW wind turbine can help with your electric bill, but the wind determines how much.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-much-power-can-a-1kw-wind-turbine-produce-for-your-home/l-intro-1792074246.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-much-power-can-a-1kw-wind-turbine-produce-for-your-home/l-intro-1792074246.jpg" medium="image"/>
+</item>
+<item>
 <title>What can you use your Apple Watch Ultra 4 action button for?</title>
 <link>https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained</link>
 <guid isPermaLink="false">7b02a324e93da73471ab998de9f93b380d2565e09738504ba6e2c78d4e487fb0</guid>
@@ -329,17 +351,6 @@
 <description>A lifetime ad-free subscription is available.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview-1152x648.png" medium="image"/>
-</item>
-<item>
-<title>TikTok has started censoring searches for popular peptides</title>
-<link>https://www.theverge.com/science/1014825/peptide-tiktok-search-ban</link>
-<guid isPermaLink="false">a6b6ecc8a20261fec2996b12ff0e72354c5ac18f0cf026c6e6b99634f094f61d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 20:16:04 +0000</pubDate>
-<description>Trying to pull up information for certain peptides on TikTok is now returning a "no results found" page when searching for terms like semaglutide, BPC-157, retratutide, and others. That hasn't entirely erased visibility on TikTok for peptides, which are combinations of amino acids that include substances like insulin and GLP-1. The problem is peptides also […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS538_PEPTIDES2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Meta drops the word "train" from its commercial TOS after AI backlash</title>
@@ -747,17 +758,6 @@
 <description>Your iPhone will slow down over time, but some changes can help it run at its best for longer.</description>
 <enclosure url="https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/5-ways-to-make-your-old-iphone-feel-faster/l-intro-1792168459.jpg" medium="image"/>
-</item>
-<item>
-<title>Perplexity makes it easier to run AI workflows entirely on your own Mac</title>
-<link>https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac</link>
-<guid isPermaLink="false">74bafbbb2028eafad33a0a00dbf788212f6985b7febcf74eb91306b32235511b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 15:42:45 +0000</pubDate>
-<description>A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.</description>
-<enclosure url="https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg" medium="image"/>
 </item>
 <item>
 <title>Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</title>
@@ -1352,17 +1352,6 @@
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
-<title>Whoop Promo Codes: 20% Off This October 2026</title>
-<link>https://www.wired.com/story/whoop-promo-code</link>
-<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Home Chef Promo Codes for October 2026</title>
 <link>https://www.wired.com/story/home-chef-promo-code</link>
 <guid isPermaLink="false">580603dccec2c7644d73d5998c27cfaa2ab8eaf3c3382d424af8406f13ec7f1e</guid>
@@ -1394,6 +1383,17 @@
 <description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
