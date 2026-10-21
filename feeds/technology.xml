@@ -4,6 +4,150 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>PHP ships emergency patches for critical PHP2Shell flaws</title>
+<link>https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws</link>
+<guid isPermaLink="false">f6c2d70ba91928eb6d6a3008b6f35eb04c3d1b76816d55470faacc9138ea2d8a</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:07:05 +0000</pubDate>
+<description>The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]</description>
+</item>
+<item>
+<title>Foursquare co-founder says equity holders saw no returns from the company’s acquisition</title>
+<link>https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition</link>
+<guid isPermaLink="false">306641626594d2039532fcf3f766d9726c49e59ca3e1308788d0f0bba1a3b4a7</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:03:11 +0000</pubDate>
+<description>Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.</description>
+</item>
+<item>
+<title>ClickFix has never been bigger, and AI tools are its most convincing lure yet</title>
+<link>https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet</link>
+<guid isPermaLink="false">8c2f7f751d6e9901eefcbd413561cf8a731f4eafffda77e45f145120baa90538</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:00:10 +0000</pubDate>
+<description>ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]</description>
+</item>
+<item>
+<title>AI promises productivity, but for managers, it’s mostly a headache for now</title>
+<link>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey</link>
+<guid isPermaLink="false">44f6ff9d4a47c985250cfde5cba12419ef738951281b2ff7f688da1251575e20</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<description>More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.</description>
+</item>
+<item>
+<title>Blink brings 4K to its low-cost security camera lineup</title>
+<link>https://www.theverge.com/tech/1015238/amazon-blink-4k-trail-security-camera-launch</link>
+<guid isPermaLink="false">6a584b9830c2ce15774bf0be2148ac6e47b3b8ce673578d9f2efdfc115423425</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<description>Amazon is launching a new lineup of Blink security cameras, including its first 4K, pan-tilt models, and battery-powered spotlight models. These new additions provide better resolution and extended range for monitoring your property compared to Blink's current Mini 2K, Mini 2K Plus, and Outdoor 2K Plus offerings, with a variety of different specializations to best […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Blink-security-camera-lineup.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Blink-security-camera-lineup.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Stranger Than Heaven builds its identity as Like A Dragon's more relentless spin-off</title>
+<link>https://www.engadget.com/2292538/stranger-than-heaven-identity-like-a-dragon-relentless-spin-off</link>
+<guid isPermaLink="false">84e1d8cc8eec5bff0839a91211d89bce6c8d083b8ac1f63f8d8d440913e48a63</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<description>We played several hours of Sega's next big crime-thriller, and so far the Like a Dragon series is getting its most bold entry to date.</description>
+<enclosure url="https://www.engadget.com/img/gallery/stranger-than-heaven-builds-its-identity-as-like-a-dragons-more-relentless-spin-off/l-intro-1792521416.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/stranger-than-heaven-builds-its-identity-as-like-a-dragons-more-relentless-spin-off/l-intro-1792521416.jpg" medium="image"/>
+</item>
+<item>
+<title>AI Guardrails Aren’t Stopping Criminal Hackers</title>
+<link>https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers</link>
+<guid isPermaLink="false">a543dcc418c01df034fe8424c1a30f2fd2f5a5b2d27b63b28277a15cb70f040c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
+<description>Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.</description>
+<enclosure url="https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code&#x27;s%20Guardrails%20Aren&#x27;t%20Stopping%20Real-Life%20Attacks_v2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code&#x27;s%20Guardrails%20Aren&#x27;t%20Stopping%20Real-Life%20Attacks_v2.jpg" medium="image"/>
+</item>
+<item>
+<title>OpenAI says an AI agent lied about disabling its safety monitoring system</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems</link>
+<guid isPermaLink="false">8eaa1a0c536053841d6fdbe8a75e93e6bc9b2def04a0404130022973f989032c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:57:43 +0000</pubDate>
+<description>OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. "The reference didn't configure a monitor, and Astra decided that was reason […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_C.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI</title>
+<link>https://www.wired.com/story/darn-tough-sock-sale-october-2026</link>
+<guid isPermaLink="false">0586cfd90a697cd67f8b763afbc45c561673b9d47f2b2978b906c0c72d47e43b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:52:22 +0000</pubDate>
+<description>Get ready for winter: Darn Tough socks are on sale at REI.</description>
+<enclosure url="https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg" medium="image"/>
+</item>
+<item>
+<title>Now Serato DJ works on your iPhone</title>
+<link>https://www.theverge.com/tech/1015319/serato-dj-for-ios</link>
+<guid isPermaLink="false">22cfd230ea56c3cd38309a8ed24c9907d4010c02f83de4f73208f4f337822725</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:51:31 +0000</pubDate>
+<description>Serato DJ for iOS is finally bringing the company's pro-level DJ suite to the iPhone and iPad. Until now, the company had only dipped its toes into mobile software, with apps like Pyro that basically just added some autofades between songs in a playlist. This is the first time most of the features of its […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DJ-for-iOS-iPhone-Handheld-1920x1080-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>iPhone Duo adding Apple Pencil support next week with iOS 27.2</title>
+<link>https://9to5mac.com/2026/10/21/iphone-duo-adding-apple-pencil-support-next-week-with-ios-27-2</link>
+<guid isPermaLink="false">f2b3909ee65264ebfad30f528f9eef67f72c21de34dedc5a33d23a71565b41e3</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:42:09 +0000</pubDate>
+<description>iPhone Duo reviews have arrived ( read our in-depth review here ). And a surprise bit of good news we’ve learned today is that Apple Pencil support on iPhone Duo will arrive much sooner than expected: it’s coming next week in iOS 27.2. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-apple-pencil.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-apple-pencil.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Telehealth Giant Hims Wants to Test Every Dude for Low Testosterone</title>
+<link>https://www.wired.com/story/telehealth-giant-hims-testosterone-therapy</link>
+<guid isPermaLink="false">711a09351ddc7aa0f3be8ab190ebc2a6a48bf28752f2a0d23e16959ab9416269</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:34:37 +0000</pubDate>
+<description>The company plans to offer testosterone replacement therapy, marking its first foray into prescribing controlled substances.</description>
+<enclosure url="https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7fa47e71bc9cefa5d5242/master/pass/Wired%20Low%20T.jpg" medium="image"/>
+</item>
+<item>
+<title>Heat pump tech is 170 years old. Pascal thinks it’s time for an update.</title>
+<link>https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update</link>
+<guid isPermaLink="false">ef56cbb44c93149addc63fcb7b00802cb30ada2109303bb6f260e17bca9cfd06</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:30:00 +0000</pubDate>
+<description>Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.</description>
+</item>
+<item>
+<title>Roku Pro Series OLED TV Review (2026)</title>
+<link>https://www.wired.com/review/roku-pro-series-oled</link>
+<guid isPermaLink="false">4d2e237275c836cd8fb25da872edf965fefa88c5ca61a5c52cde2b3f501b2dc8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 13:21:18 +0000</pubDate>
+<description>It doesn’t reinvent the wheel, but with a friendly user interface, great remote, and below-average price, it doesn’t have to.</description>
+<enclosure url="https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad79518e71bc9cefa5d51bd/master/pass/Review%20Roku%20Pro%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
 <title>Touchscreen Mac, or double your RAM or SSD size – what’s the better deal? [Poll]</title>
 <link>https://9to5mac.com/2026/10/21/touchscreen-mac-or-double-your-ram-or-ssd-size-whats-the-better-deal-poll</link>
 <guid isPermaLink="false">c9d064eae511785a6a439c9da735350a29bfafb4d38bb588d56cc722521e388d</guid>
@@ -619,17 +763,6 @@
 <media:content url="https://www.engadget.com/img/gallery/what-can-you-use-your-apple-watch-ultra-4-action-button-for/l-intro-1791574824.jpg" medium="image"/>
 </item>
 <item>
-<title>Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed</link>
-<guid isPermaLink="false">9a73f4d6937ae6af8131a4ab0e91c1a1ea9c2e82b9ef881a32d650091d657d65</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 23:04:19 +0000</pubDate>
-<description>On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Anthropic pitches AI safety bill that may block a model if 50+ people could be killed</title>
 <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed</link>
 <guid isPermaLink="false">e7b8ac319d53b4c93efe6f67fce76e9d9db335bed868844d55950cf76cc5fba7</guid>
@@ -688,28 +821,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 22:24:02 +0000</pubDate>
 <description>Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.</description>
-</item>
-<item>
-<title>Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program</title>
-<link>https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers</link>
-<guid isPermaLink="false">01eb291b10b6379365a912c28f8d2c55e85e89a4a2a912858072971216550abd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 22:20:11 +0000</pubDate>
-<description>Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300641963.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google’s more personalized Gemini AI is heading to your car</title>
-<link>https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto</link>
-<guid isPermaLink="false">925e6a635cad1b6fed420699983a9de970460ae27b7188c94d7428243cbde004</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 22:11:34 +0000</pubDate>
-<description>Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Merging SpaceX and Tesla would be a "good idea," Musk says</title>
@@ -982,17 +1093,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 19:32:43 +0000</pubDate>
 <description>GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.</description>
-</item>
-<item>
-<title>Employees warned TikTok about child exploitation, court documents show</title>
-<link>https://www.engadget.com/2292225/employees-warned-tiktok-about-child-exploitation-court-documents-show</link>
-<guid isPermaLink="false">25d82ecf6b415b68f702ac9a7dbf28464b380ac9e31cf77fb0d46bcc79452b7a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 19:25:38 +0000</pubDate>
-<description>The company is facing hundreds of lawsuits over its record on safety.</description>
-<enclosure url="https://www.engadget.com/img/gallery/employees-warned-tiktok-about-child-exploitation-court-documents-show/l-intro-1792524329.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/employees-warned-tiktok-about-child-exploitation-court-documents-show/l-intro-1792524329.jpg" medium="image"/>
 </item>
 <item>
 <title>TP-Link tries to appease Trump admin with pledge to assemble routers in US</title>
@@ -1294,15 +1394,6 @@
 <description>The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]</description>
 </item>
 <item>
-<title>Figma co-founder Dylan Field thinks MCP is not a perfect protocol</title>
-<link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol</link>
-<guid isPermaLink="false">29e059fc3089a68bb383737f09d60be2a1131bbff0a58390f9228867c3b8f4de</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 14:13:32 +0000</pubDate>
-<description>Figma said it plans to support as many standards as possible without exposing all of its data.</description>
-</item>
-<item>
 <title>Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</title>
 <link>https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html</link>
 <guid isPermaLink="false">7e5477cd18438e7acd9c01022d77b49a4bee93a8d72665e5068d3b862d3c646e</guid>
@@ -1352,24 +1443,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 13:18:36 +0000</pubDate>
 <description>A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]</description>
-</item>
-<item>
-<title>SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation</title>
-<link>https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation</link>
-<guid isPermaLink="false">60a47462fb2ac517178b1361fea0b07f2305c52c5d06b6ed2522d7d5fe03213c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 13:17:36 +0000</pubDate>
-<description>Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.</description>
-</item>
-<item>
-<title>US orders federal agencies to remove China’s DeepSeek AI from their systems</title>
-<link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems</link>
-<guid isPermaLink="false">05dce4322e459d220d19db1bf79a93bb95bec5bd8ca8e55f6b6063c1b518dccc</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 13:07:24 +0000</pubDate>
-<description>The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.</description>
 </item>
 <item>
 <title>Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election</title>
@@ -1476,15 +1549,6 @@
 <category>technology</category>
 <pubDate>Tue, 20 Oct 2026 11:31:22 +0000</pubDate>
 <description>French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]</description>
-</item>
-<item>
-<title>Ahold Delhaize: Cyberattack affects services across US and Europe</title>
-<link>https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe</link>
-<guid isPermaLink="false">c15f1f9787dd453790e8151dedf6a5e090df2a584734f7574d235e39e81b7cb2</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:18:35 +0000</pubDate>
-<description>Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]</description>
 </item>
 <item>
 <title>Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader</title>
@@ -1639,15 +1703,6 @@
 <description>Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage &amp; protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . In this episode of Apple @ Work, Adam Boynton from Jamf joins the show to talk about Apple’s recent security updates and the importance of patching older devices. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Revolut outage disrupts online banking operations worldwide</title>
-<link>https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide</link>
-<guid isPermaLink="false">ea76ccb608d0bb55a81d60edaf5552b189910d0e11e5041bc466a004e99f3809</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 09:46:44 +0000</pubDate>
-<description>Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]</description>
 </item>
 <item>
 <title>How to See the Orionid Meteor Shower and Other Upcoming Astronomical Events</title>
@@ -2123,17 +2178,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot</title>
-<link>https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot</link>
-<guid isPermaLink="false">48a8da46caf41a6218a4ab0f228526ea2bae423d29eea96ce4f5c3169cee22f5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:00:00 +0000</pubDate>
-<description>Around 80 pages on WhatsApp’s website exposed instructions that were designed for its chatbot, including “WHAT NOT TO SAY.” Meta says a bug caused the issue.</description>
-<enclosure url="https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad61af88d7b5cce41c3ec77/master/pass/GettyImages-2262950720.jpg" medium="image"/>
-</item>
-<item>
 <title>Deals: Apple TV 4K, AirPods Pro 3, leather iPhone Duo cases, M6 Mac mini, more</title>
 <link>https://9to5mac.com/2026/10/19/deals-apple-tv-4k-airpods-pro-3-leather-iphone-duo-case</link>
 <guid isPermaLink="false">14bcdac27d356695569d3bb8a70360a05dc7db5ee45421dc0a8cebbaecee0eaa</guid>
@@ -2233,17 +2277,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uAZRypeHl_8TjAU-3mwmvjdbCH0SZJwZBZOoEXcehaQfod9rpBvAl72JCjV8xF2KF4VbSVzWezAmkXjmbaxdIkK854Pa-yV4nkkRNe-l82mPM_VW1fLSE5Ib-RhyphenhypheneGga3KZ_9wQu76clTABJwGp_3N_M-6QBZMXFSISC56JWHVHpylO-uTenNO3kRlg/s1600/reco.gif" medium="image"/>
 </item>
 <item>
-<title>Nathan Fielder’s Surprise Call From Elizabeth Holmes: ‘I Trust You’</title>
-<link>https://www.wired.com/story/nathan-fielder-tells-us-everything</link>
-<guid isPermaLink="false">1f89513665c18d163682e6589f6d27faad9f74de279c798b02a016716b079924</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 11:30:00 +0000</pubDate>
-<description>The codirector of “You Can See Everything” talks exclusively to WIRED about truth, lies, and Theranos.</description>
-<enclosure url="https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad1463d540188983e952ca6/master/pass/Oshiro_-(5)_final_web.jpg" medium="image"/>
-</item>
-<item>
 <title>Constrained iPhone Duo availability is annoying, but a mixed blessing for Apple</title>
 <link>https://9to5mac.com/2026/10/19/constrained-iphone-duo-availability-is-annoying-but-a-mixed-blessing-for-apple</link>
 <guid isPermaLink="false">61d8e55f35f03335884df1a58933103fcabd3381d70452521f132350cc326833</guid>
@@ -2253,28 +2286,6 @@
 <description>Estimated iPhone Duo delivery dates started slipping dramatically, literally within a minute of pre-orders opening on Friday. Even some of those who got in within the first few minutes got estimated shipping dates into January of next year . That undeniably poses problems for Apple, but some have gone as far as calling it “ a major mistake ” to launch with such limited stock. Personally, I’d say it’s annoying for customers but more of a mixed blessing for Apple … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/John-Ternus-and-Tim-Cook-took-opposite-approaches-to-design-and-both-were-right.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/John-Ternus-and-Tim-Cook-took-opposite-approaches-to-design-and-both-were-right.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>How the Xbox’s Disc-to-Digital Program Works</title>
-<link>https://www.wired.com/story/xbox-disc-to-digital</link>
-<guid isPermaLink="false">61692934e71d86db2d0acdb120076be027bb56b8ee0a54548edff692ac2d9312</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
-<description>Microsoft is letting players digitize their game discs for free, but don't sell your physical collection just yet.</description>
-<enclosure url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ac9144496a91d67fca310c1/master/pass/Xbox%20Disc.jpg" medium="image"/>
-</item>
-<item>
-<title>Maricopa County, Arizona, Is Again Ground Zero of Election Conspiracy Theories</title>
-<link>https://www.wired.com/story/maricopa-county-arizona-is-again-ground-zero-of-election-conspiracy-theories</link>
-<guid isPermaLink="false">cb821ddf24c674cbeef308f39642c0668070b7ba9d509f5679666ee80ee15ab0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 10:30:00 +0000</pubDate>
-<description>In 2020, Maricopa County became the epicenter for Trump’s claims the election was stolen. Six years, later the president and his allies are dusting off their “rigged” playbook ahead of the midterms.</description>
-<enclosure url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad0f8d0a53f318078ec0b33/master/pass/101526-Maricopa%20County%202.jpg" medium="image"/>
 </item>
 <item>
 <title>Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</title>
@@ -3045,17 +3056,6 @@
 <description>Apple unveiled new Apple TV 4K and HomeView devices this week that won’t be available until November 13. But pre-order shipping times for these products have already started slipping into late November for new orders. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Deals: HomeView pre-order discount (more colors), HomePod mini 2, Mac Studio $220 off, AirPods Pro 3, more</title>
-<link>https://9to5mac.com/2026/10/15/deals-homeview-discount-homepod-mini-2-airpods-pro-3</link>
-<guid isPermaLink="false">3e2dc76fdd8f1cfb26e7374ac31d92ecdc5e7e43b383cdff201b774d49413957</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 15:33:26 +0000</pubDate>
-<description>While the $50 price drop on AirPods Pro 3 is still rolling, today’s 9to5Toys Lunch Break is headlined by some new pre-order discounts on the new Apple HomeView – Amazon now has some additional colorways marked down. We also uncovered some pre-order promotions for the new HomePod mini 2 alongside the lowest price we have tracked yet on Apple’s 1TB 2026 M5 Max Mac Studio at $220 off and Amazon’s giant ongoing $600 price drop on this M5 Pro MacBook Pro . Head below for a closer look at the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-HomeView-AirPods-Pro-3.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-HomeView-AirPods-Pro-3.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams</title>
