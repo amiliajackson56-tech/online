@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>iPadOS 27.2 adds convenient new feature from the Mac</title>
+<link>https://9to5mac.com/2026/10/21/ipados-27-2-adds-convenient-new-feature-from-the-mac</link>
+<guid isPermaLink="false">d8cf23d9bef0dbffc340d255058874ecabc237ed0bc4e14fb4e28367d92d30ff</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 19:13:08 +0000</pubDate>
+<description>iPadOS 27.2 launches next week, and among its many new features , Apple has also brought over a recent Mac addition: a Siri popup when text is selected. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>The internet is having a very bad cybersecurity day</title>
+<link>https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day</link>
+<guid isPermaLink="false">2576afbde9f42cf694cb6ce0c91c48276040bee6d1ea68151698c8ee7987a7d4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 19:03:28 +0000</pubDate>
+<description>From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.</description>
+</item>
+<item>
+<title>Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal</title>
+<link>https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty</link>
+<guid isPermaLink="false">986dfb3f67a1f9879d82449e1ba3e13f4f11b71ecd9fcfa8f4358c7e87cc791b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 19:02:49 +0000</pubDate>
+<description>The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_2_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Legal AI startup Legora raises $550M Series E at $8.8B valuation</title>
 <link>https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation</link>
 <guid isPermaLink="false">36b6bec743e2bdf352207c8d54925b4d1921a52d0be78fc3fbc1505ea4599f02</guid>
@@ -307,17 +338,6 @@
 <description>Pre-orders open on October 29.</description>
 <enclosure url="https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/sonys-playstation-pulse-headset-arrives-on-november-19-for-100/l-intro-1792598917.jpg" medium="image"/>
-</item>
-<item>
-<title>Supernatural’s comeback starts today, with more music and VR workouts coming soon</title>
-<link>https://www.theverge.com/tech/1015550/supernatural-vr-workout-app-relaunch</link>
-<guid isPermaLink="false">b50226f50ba8eaf1acf7463bcabdd1e5ecbf32c73a27a09efb412cfc02c9a31f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 16:05:51 +0000</pubDate>
-<description>Despite Meta saying it would stop creating new content for Supernatural, the beloved fitness VR game is back after spinning off to go its own way and is relaunching with an Early Access preview in the Meta Horizon Store. Thousands of "remastered" workouts and some new ones are available in the new app starting today, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/268305_Supernatural_Sherry_LPhilomene_0024.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Supernatural's VR exercise app has relaunched on Meta VR headsets</title>
@@ -1515,15 +1535,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei</title>
-<link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei</link>
-<guid isPermaLink="false">11c7e6dde0dc11c16510e63b299645bd2aa756f1e832cbc8a5a7c0b3625e56ad</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 17:55:12 +0000</pubDate>
-<description>Eric Schmidt’s fortune is about to get even bigger.</description>
-</item>
-<item>
 <title>French Government Calls Emergency Meetings With Platforms Over Protests</title>
 <link>https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests</link>
 <guid isPermaLink="false">4e5d982348e31355ec81e1c0f018e9b7f150d0d206d23a655c0b3bd7165d6adb</guid>
@@ -2068,6 +2079,17 @@
 <media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
+<title>Whoop Promo Codes: 20% Off This October 2026</title>
+<link>https://www.wired.com/story/whoop-promo-code</link>
+<guid isPermaLink="false">7c04637af369d539c1abe707bdc74904b614218285b3ed90dd35c575f2c93897</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
 <title>Home Chef Promo Codes for October 2026</title>
 <link>https://www.wired.com/story/home-chef-promo-code</link>
 <guid isPermaLink="false">580603dccec2c7644d73d5998c27cfaa2ab8eaf3c3382d424af8406f13ec7f1e</guid>
@@ -2077,17 +2099,6 @@
 <description>Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.</description>
 <enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
-</item>
-<item>
-<title>eBay Coupons: 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ebay-coupon-code</link>
-<guid isPermaLink="false">c6105ba8f6b8195afed164bff94ab8a590c290c90e6d6ba934659bbc868037a0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 60% on a selection of items at eBay, including electronics, home products, card games, car parts and more.</description>
-<enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
@@ -3034,17 +3045,6 @@
 <description>Apple updated its Apple Sports app today with improvements to Live Activities and support for five additional soccer leagues. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-sports.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-sports.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>IDC: Apple closes in on Samsung as global smartphone shipments see record decline in Q3</title>
-<link>https://9to5mac.com/2026/10/15/idc-apple-closes-in-on-samsung-as-global-smartphone-shipments-see-record-decline-in-q3</link>
-<guid isPermaLink="false">208b45bcba3281d20bed24dd3a6ab21a0087fbaa13926de7ac4f1582cb0741c4</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 20:35:49 +0000</pubDate>
-<description>In a report published today, IDC says Apple saw a 4% year-over-year decline in global iPhone shipments during Q3 2026, but its share of worldwide smartphone shipments increased 23.1% over the same period last year. Here’s why. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-pro-max-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</title>
