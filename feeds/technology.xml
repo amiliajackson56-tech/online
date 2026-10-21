@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>TikTok accused of profiting from illegal child sexual exploitation videos</title>
+<link>https://9to5mac.com/2026/10/21/tiktok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos</link>
+<guid isPermaLink="false">52df85d2ff8aa21ee910ddc0000b475a9b923d12a83acadd770abe5909b04b1c</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 11:19:45 +0000</pubDate>
+<description>TikTok has been accused of profiting from illegal child sexual exploitation videos posted on its platform. The allegations were made by former and current employees, who say that the company failed to properly respond to internal reports … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TikTok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TikTok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Best Gifts for Mom (2026): Digital Wall Calendars, Better Bags, Personalized Jewelry, and More</title>
+<link>https://www.wired.com/story/best-gifts-for-moms-2026</link>
+<guid isPermaLink="false">a2e0a1eac18e288856455df02fbb80dc95df21833b64f5e8338706e7767e8a74</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 11:08:00 +0000</pubDate>
+<description>From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.</description>
+<enclosure url="https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg" medium="image"/>
+</item>
+<item>
 <title>Two dangerous internet security issues are putting site admins on edge</title>
 <link>https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge</link>
 <guid isPermaLink="false">a30e2490f619c486cef28bf2918b2fe2335c3ae01e88976ce9dd8baaa3ff2d9d</guid>
@@ -57,6 +79,39 @@
 <description>Ultra Right Beer, a brand launched in 2023 by MAGA political consultant Seth Weathers, has vanished from the internet with many deliveries unfulfilled.</description>
 <enclosure url="https://media.wired.com/photos/6acfffd479c07b8988eb427e/master/pass/culture_anti_woke_ultra_right_beer.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfffd479c07b8988eb427e/master/pass/culture_anti_woke_ultra_right_beer.jpg" medium="image"/>
+</item>
+<item>
+<title>PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't</title>
+<link>https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html</link>
+<guid isPermaLink="false">1dac3ddb6c024270eec9b6ca5b7e6a9c215500669d8c37c71e08e13eb3ec1e68</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:36:53 +0000</pubDate>
+<description>You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg" medium="image"/>
+</item>
+<item>
+<title>The Harness Is the Hard Part of Agentic Pentesting</title>
+<link>https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html</link>
+<guid isPermaLink="false">9d349a6e395496ea5b4b054c250d1a2b13fbec3bf44c1e153be029dde1f4c7c1</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:32:40 +0000</pubDate>
+<description>An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg" medium="image"/>
+</item>
+<item>
+<title>Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections</title>
+<link>https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html</link>
+<guid isPermaLink="false">bf7cf33fc0ebbbd55593355ad4728cc3aabe6c4108273c05f2275e9d6a811218</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:30:27 +0000</pubDate>
+<description>Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to an SSH server made through Tor between October 1 and 5, after accepting the interception</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer</title>
@@ -154,7 +209,7 @@
 <description>The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]</description>
 </item>
 <item>
-<title>Europe Wants Data Centers. Its Climate Goals Are Getting in The Way</title>
+<title>Europe Wants Data Centers. Its Climate Goals Are Getting in the Way</title>
 <link>https://www.wired.com/story/europe-data-centers-climate-change</link>
 <guid isPermaLink="false">90d47dfd079706f7d7818ee2648c1a9b38bab2b41a9852c9b40d12e762f6ae5d</guid>
 <source>Wired</source>
@@ -2167,17 +2222,6 @@
 <media:content url="https://media.wired.com/photos/6ad121e60c71c19c1b37d6c8/master/pass/NathanFielder_Theranos-1.jpg" medium="image"/>
 </item>
 <item>
-<title>15 Best White Elephant Gifts, Plus a Prank Box to Put Them In (2026)</title>
-<link>https://www.wired.com/gallery/best-white-elephant-gifts-2026</link>
-<guid isPermaLink="false">a6f7d497d578add89bd50b5542264ee47aac2d4270386e1d231c8a4d4f50a8d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 09:39:00 +0000</pubDate>
-<description>Bring the gift everyone will want to win from this year’s holiday party, from a cute jacket for a beer can to magnets they’ll wish they could eat.</description>
-<enclosure url="https://media.wired.com/photos/6ad4cf4d095df99b382d7bff/master/pass/White%20Elephant%20Gifts%20You%E2%80%99d%20Actually%20Want%20to%20Open%20102026%20top%20art%20SOURCE%20PopSockets-Verloop-Chronicle%20Books.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad4cf4d095df99b382d7bff/master/pass/White%20Elephant%20Gifts%20You%E2%80%99d%20Actually%20Want%20to%20Open%20102026%20top%20art%20SOURCE%20PopSockets-Verloop-Chronicle%20Books.jpg" medium="image"/>
-</item>
-<item>
 <title>This MagSafe battery pack is designed perfectly for iPhone Duo</title>
 <link>https://9to5mac.com/2026/10/19/this-magsafe-battery-pack-is-designed-perfectly-for-iphone-duo</link>
 <guid isPermaLink="false">5fbe1a8c31b139158022ae47a337ee10b5c32b697576156b17cbee1e679dd897</guid>
@@ -2992,17 +3036,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-duo-introduction.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple sets cutoff time for getting fastest iPhone Duo pre-order</title>
-<link>https://9to5mac.com/2026/10/15/apple-sets-cutoff-time-for-getting-fastest-iphone-duo-pre-order</link>
-<guid isPermaLink="false">fb5c84fa788ba7e92b86eef3373a9dcd58905fda5d44aa6ca92cc5b894789ebe</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 13:36:55 +0000</pubDate>
-<description>iPhone Duo pre-orders start tomorrow, and if you want the fastest checkout possible, Apple just set the deadline for completing its ‘Get Ready’ process. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks</title>
 <link>https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html</link>
 <guid isPermaLink="false">b1e071119d1a7018a98c03da6748d12c6d85cebad02ae7a438737281475dc046</guid>
@@ -3034,38 +3067,5 @@
 <description>Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg" medium="image"/>
-</item>
-<item>
-<title>Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early</title>
-<link>https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html</link>
-<guid isPermaLink="false">db1c119cd4bd5726aad0617a1bdf9c73830b024cbcf077e0e997e975f734c07e</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 11:46:59 +0000</pubDate>
-<description>Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets. Similar attacks</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg" medium="image"/>
-</item>
-<item>
-<title>Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation</title>
-<link>https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html</link>
-<guid isPermaLink="false">cc144af6dd9ebca8149664c996c8c98f1f616e2746fb5f96af5cdb4bc406b80c</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 11:46:49 +0000</pubDate>
-<description>Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. "A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg" medium="image"/>
-</item>
-<item>
-<title>Why AI Confidence Is Not Validation</title>
-<link>https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html</link>
-<guid isPermaLink="false">895d3814a2bf8c053d1189513e474f8ff34bf18640300ac81a7310bd6d29f1ad</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 15 Oct 2026 11:04:35 +0000</pubDate>
-<description>AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoMcD8RJr4YbArE7ir74w0wFobrcZI94oJ41w_VwSIFPeQMqG4Ofa6xgtcUqD9op38axL3iAMYu-Y0zv0CEc7LrZAmj7lWLdzZ29ZbL5TD6Up2nGRqJkHGoUF6Hs_QA-A8TVz8f1dfuCcnB4kvzzYrZOu1JqVUE2s2JEkP4E0WjvKptVmvsbyfl4uBwas/s1600/sans-ai.jpg" medium="image"/>
 </item>
 </channel></rss>
