@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Authorities disrupt nearly 11,000 cybercrime networks in Africa</title>
+<link>https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa</link>
+<guid isPermaLink="false">3c69dc4ed34903abf1374e597a914557bf4c712def148d6754e29a505d76f514</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:27:11 +0000</pubDate>
+<description>Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]</description>
+</item>
+<item>
+<title>Fortnite is back on Apple's Australian App Store following court ruling</title>
+<link>https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling</link>
+<guid isPermaLink="false">16c11d245efd277763981f84c5715044e404a4493baffe4c58eeb27302d94121</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:18:58 +0000</pubDate>
+<description>Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.</description>
+<enclosure url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg" medium="image"/>
+</item>
+<item>
 <title>China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack</title>
 <link>https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</link>
 <guid isPermaLink="false">6f676746f765de6e990188fa5053c37f1ab9ae1b510645fb827f6dfa57919a06</guid>
@@ -1290,17 +1310,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Video-shows-French-Apple-store-being-emptied-by-looters.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>OpenAI's agents disabled their own safety monitoring systems</title>
-<link>https://www.engadget.com/2292644/openai-agents-disabled-own-safety-monitoring-systems</link>
-<guid isPermaLink="false">691f1bdc840c289ac01e51f521ea5aca26e959603409cffc7a49ea500f907ab7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:53:21 +0000</pubDate>
-<description>OpenAI reveals that its agents misbehaved by switching off the system monitoring them for misbehaviors.</description>
-<enclosure url="https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/openais-agents-disabled-their-own-safety-monitoring-systems/l-intro-1792579899.jpg" medium="image"/>
-</item>
-<item>
 <title>Bud Light Boycotters Are Still Waiting for Their ‘Woke-Free’ Beer</title>
 <link>https://www.wired.com/story/bud-light-boycotters-are-still-waiting-for-their-woke-free-beer</link>
 <guid isPermaLink="false">0858467ae6100e47b1c815c0f52db4d472fb278620523bab7881de89cc30e71b</guid>
@@ -1738,15 +1747,6 @@
 <description>Apple acquires a variety of companies every year, and recently many of its acquisitions— including the latest, Samplab —have revolved around one clear goal: improving and expanding Apple Creator Studio. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-glowtime-event-1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-glowtime-event-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code</title>
-<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code</link>
-<guid isPermaLink="false">8ba1d981e932876ab1cc443419f9719b7e7a65fe89228b719541b2d6423a6e6b</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 18:11:03 +0000</pubDate>
-<description>OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]</description>
 </item>
 <item>
 <title>French Government Calls Emergency Meetings With Platforms Over Protests</title>
