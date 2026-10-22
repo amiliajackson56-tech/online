@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Security Bite Podcast: Who is your AI agent really working for?</title>
+<link>https://9to5mac.com/2026/10/22/security-bite-podcast-who-is-your-ai-agent-really-working-for</link>
+<guid isPermaLink="false">66d17fb2ea4cb525ef5ae2af392f863b70091ee447984c489049d9ac751f95b2</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+<description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . This week, I welcome Ron Zayas to the Security Bite podcast . Ron is the CEO of Ironwall by Incogni, which helps public officials scrub and keep their personal information from data brokers and people-search sites. Earlier this year, he appea</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
+</item>
+<item>
+<title>Tesla plans to start selling Cybercabs by the end of the year</title>
+<link>https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026</link>
+<guid isPermaLink="false">40df9273fafe8effff52958b4ea15482326ac74d4f0b0f636326a6497ffdb384</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:52:48 +0000</pubDate>
+<description>Tesla wants to sell Cybercabs to other transport companies before the year ends.</description>
+<enclosure url="https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg" medium="image"/>
+</item>
+<item>
+<title>LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release</title>
+<link>https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html</link>
+<guid isPermaLink="false">89c43e5d413adbb4e67f8d9a6f2228eef89b5a35ee1e3a41958a55f49034ea53</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 08:28:48 +0000</pubDate>
+<description>LiteLLM on Wednesday disclosed that threat actors compromised "multiple independent security controls" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg" medium="image"/>
+</item>
+<item>
 <title>Authorities disrupt nearly 11,000 cybercrime networks in Africa</title>
 <link>https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa</link>
 <guid isPermaLink="false">3c69dc4ed34903abf1374e597a914557bf4c712def148d6754e29a505d76f514</guid>
@@ -24,13 +57,46 @@
 <media:content url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apples-australian-app-store-following-court-ruling/l-intro-1792656974.jpg" medium="image"/>
 </item>
 <item>
+<title>Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
+<link>https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</link>
+<guid isPermaLink="false">4681e139a804e148c37ceed09c27eddf38b451dcdba462f0386d235726589a1b</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 07:47:22 +0000</pubDate>
+<description>Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg" medium="image"/>
+</item>
+<item>
+<title>New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification</title>
+<link>https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html</link>
+<guid isPermaLink="false">059d0a92d893199070624a4572f2ab45e3282475f109c759e70c3d210b9d09f5</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 06:38:31 +0000</pubDate>
+<description>A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg" medium="image"/>
+</item>
+<item>
+<title>Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed</title>
+<link>https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html</link>
+<guid isPermaLink="false">5dc62af2c3e97dbba9c36436287f4d45f27d00f9fe43bec4fdcfc903fb9f4a1b</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 06:34:10 +0000</pubDate>
+<description>Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. "The exploit attempt originated from an IP address associated with a commercial anonymization network," CJ Moses,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg" medium="image"/>
+</item>
+<item>
 <title>China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack</title>
 <link>https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</link>
 <guid isPermaLink="false">6f676746f765de6e990188fa5053c37f1ab9ae1b510645fb827f6dfa57919a06</guid>
 <source>The Hacker News</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 04:21:26 +0000</pubDate>
-<description>Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse against South Korean financial institutions, to speed up scanning and</description>
+<description>Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg" medium="image"/>
 </item>
@@ -1264,17 +1330,6 @@
 <description>From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.</description>
 <enclosure url="https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg" medium="image"/>
-</item>
-<item>
-<title>Two dangerous internet security issues are putting site admins on edge</title>
-<link>https://www.engadget.com/2292647/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge</link>
-<guid isPermaLink="false">a30e2490f619c486cef28bf2918b2fe2335c3ae01e88976ce9dd8baaa3ff2d9d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 11:02:54 +0000</pubDate>
-<description>The web is a bit of a hot mess today following the discovery of two severe vulnerabilities.</description>
-<enclosure url="https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/two-dangerous-internet-security-issues-are-putting-site-admins-on-edge/l-intro-1792580279.jpg" medium="image"/>
 </item>
 <item>
 <title>The past, present, and future share a show floor at Pinball Expo 2026</title>
@@ -3012,60 +3067,5 @@
 <description>Apple’s first-ever foldable iPhone is now available for pre-order . You can head to Apple’s website or the Apple Store app this morning to place your iPhone Duo pre-order, with the first orders arriving in one week on October 23. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-10.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-10.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>AI Decision Models and Their Impact on AI SOC Platforms</title>
-<link>https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html</link>
-<guid isPermaLink="false">3f11a9ccfb4f1a93f7c7a87a7450dc27107411d9b2b2b37a6164cc993a79a347</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 11:30:00 +0000</pubDate>
-<description>In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple Store is down ahead of iPhone Duo preorder rush</title>
-<link>https://9to5mac.com/2026/10/16/apple-store-is-down-ahead-of-iphone-duo-preorder-rush</link>
-<guid isPermaLink="false">cbcaa22ca7caccd226c236d7b235158e9d690c3dc200cffdc358347e3c9a89aa</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 07:02:48 +0000</pubDate>
-<description>In keeping with tradition, Apple has taken down the Apple Store this morning ahead of the iPhone Duo going up for preorder. If you are waiting to buy the new Apple foldable, be sure to log on at 5 AM Eastern Time. All reports point to constrained supply and relatively high demand, so everyone is anticipating that Apple will run out of launch day stock very quickly indeed. If you want a Duo for launch day, on October 23, you need to be ready to buy at 5 AM. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-preorders.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-preorders.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers</title>
-<link>https://thehackernews.com/2026/10/china-linked-hackers-exploited.html</link>
-<guid isPermaLink="false">2f4ebff472d58347b5f4820386c92e2f654aff5966771c2acb787546316a49ac</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 06:55:55 +0000</pubDate>
-<description>The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg" medium="image"/>
-</item>
-<item>
-<title>CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing</title>
-<link>https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html</link>
-<guid isPermaLink="false">9e713cfb0ab36a8f6aca9173f63ba14dfb71158c1b7dde3970b9c0b0d5c08ccc</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 06:53:09 +0000</pubDate>
-<description>AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg" medium="image"/>
-</item>
-<item>
-<title>PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions</title>
-<link>https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</link>
-<guid isPermaLink="false">a2dfa0394e0653a8dabfc5abcf52d6ba3f9cba0fd2cb2dd6fbc5b238df868190</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 04:59:36 +0000</pubDate>
-<description>A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg" medium="image"/>
 </item>
 </channel></rss>
