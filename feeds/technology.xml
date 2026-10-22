@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Arc browser is shutting down</title>
+<link>https://www.theverge.com/tech/1016832/arc-browser-shutting-down</link>
+<guid isPermaLink="false">721aded8b6079303fc7c3afded62265144669308de696f94d5f88c7001161f15</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 17:03:37 +0000</pubDate>
+<description>The Browser Company plans to "sunset" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The disastrous PHP vulnerabilities were exploited days before the patch</title>
+<link>https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch</link>
+<guid isPermaLink="false">27f1297776bb07f83b1ed2e7470a7660e8cf2617f6e530632e46745347697d40</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 16:49:48 +0000</pubDate>
+<description>Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitoring system designed to bait hackers, as […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
+<link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise</link>
+<guid isPermaLink="false">d6886caf53962cb242055f894cb144e555b946cf5cdb7b076dc1c37482e4a2f8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
+<description>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.</description>
+</item>
+<item>
 <title>Sundar Pichai (allegedly) draws the line at oceans</title>
 <link>https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans</link>
 <guid isPermaLink="false">ea9644e63b2bba7b15dca5d4c29d9b4c794b8ce2dcbd46fd19c62f60803bba60</guid>
@@ -43,7 +74,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 16:00:29 +0000</pubDate>
-<description>After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by the Washington Post, Trump said at a Wednesday night rally that he would "probably pass" on renaming the Atlantic after he contacted […]</description>
+<description>After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would "probably pass" on renaming the Atlantic after he contacted […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -63,7 +94,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-<description>The ride share giant previously deployed a much smaller pilot for ChatGPT Work, but is now taking the enterprise agent company-wide.</description>
+<description>The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.</description>
 </item>
 <item>
 <title>Microsoft shuts down its beloved maker space</title>
@@ -114,7 +145,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 15:44:39 +0000</pubDate>
-<description>The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.</description>
+<description>The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.</description>
 </item>
 <item>
 <title>Four advantages MacBook Pro redesign will have over current model</title>
@@ -156,7 +187,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 15:24:32 +0000</pubDate>
-<description>Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a "crackdown," just a routine improvement.</description>
+<description>Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a "crackdown," just a routine improvement.</description>
 </item>
 <item>
 <title>Investors break down how founders can raise a Series A today</title>
@@ -252,17 +283,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Coofly-Aura-Smart-Bird-Feeder.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold</title>
-<link>https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china</link>
-<guid isPermaLink="false">c04dc60f611d5bd8ea0ff576194e3ab9abc0c09b5ea3fb4c235a5ba7dc902da7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 14:24:49 +0000</pubDate>
-<description>The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much wider screen than what's […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/coolpad1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Leaker reveals larger iPhone Duo details, possible Telephoto camera</title>
 <link>https://9to5mac.com/2026/10/22/leaker-reveals-larger-iphone-duo-details-possible-telephoto-camera</link>
 <guid isPermaLink="false">484eab695d81cbffc1d1586d84e331a79d612c9e02c4ca62ef7ed981f35edd53</guid>
@@ -301,17 +321,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 14:02:12 +0000</pubDate>
 <description>Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]</description>
-</item>
-<item>
-<title>Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption</title>
-<link>https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation</link>
-<guid isPermaLink="false">f790f518b7407f12127e8aed9e591f0942fe22ffb01c18b1909285242a68d89a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 14:00:00 +0000</pubDate>
-<description>Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Claude Duet app is Anthropic’s bet on agents</title>
@@ -371,7 +380,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-<description>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.</description>
+<description>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</description>
 </item>
 <item>
 <title>Amazon says PHP2Shell exploitation began 4 days before patches</title>
@@ -759,7 +768,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 00:17:54 +0000</pubDate>
-<description>Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]</description>
+<description>There is at least one obstacle that could throw off Tesla's Cybercab fleet plans. The NHTSA announced last month that it had opened an investigation into the Cybercab, just hours after the vehicles began operating on public streets in Austin.</description>
 </item>
 <item>
 <title>Giant iPhone Duo installations spotted at Apple Fifth Avenue ahead of Friday launch</title>
@@ -1037,15 +1046,6 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 20:31:48 +0000</pubDate>
 <description>North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]</description>
-</item>
-<item>
-<title>Recursive launches Flint, a laptop coding model it says was largely built by AI</title>
-<link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai</link>
-<guid isPermaLink="false">e9fc027fe2ea965dad45cda83e77644aa4cd57f5feca3dbbfede850c0dc5bf99</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 20:27:41 +0000</pubDate>
-<description>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</description>
 </item>
 <item>
 <title>Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s Hubble Charts Path for Roman with Gravitational Lenses</title>
+<link>https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses</link>
+<guid isPermaLink="false">3841d8db6ad6852244d0a517bf2ba603c4b3b58053559580d17bc606141195fa</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 22 Oct 2026 16:20:37 +0000</pubDate>
+<description>This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_Gravitational-Lens_DES%20J194.5345+03.5358_callout.jpg?w=2048&amp;h=1583&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_Gravitational-Lens_DES%20J194.5345+03.5358_callout.jpg?w=2048&amp;h=1583&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Birds are more afraid of women than men. Scientists have no idea why</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261021231250.htm</link>
 <guid isPermaLink="false">918cc36dace48a2f319f71126812182c252ace24f323e4f2e45d9ce4d190ff4f</guid>
@@ -152,6 +163,15 @@
 <description>Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.</description>
 </item>
 <item>
+<title>Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world</title>
+<link>https://www.nature.com/articles/d41586-026-03389-1</link>
+<guid isPermaLink="false">ce51911d9d62a7828fca2479107f0e30c3dc7d293ef70941f646d623fc3ca874</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03389-1 As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.</description>
+</item>
+<item>
 <title>Current-Driven Molecular Machine with Rotation-Enhanced Conductance</title>
 <link>https://www.nature.com/articles/s41586-026-11312-x</link>
 <guid isPermaLink="false">c33e589feca46d5b70464d237b76679e7cb79f8de01608665aca492dbf156d1a</guid>
@@ -297,17 +317,6 @@
 <category>science</category>
 <pubDate>Wed, 21 Oct 2026 04:08:28 +0000</pubDate>
 <description>A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago. The violent collision blasted a towering curtain of rock and water 1.5 kilometers into the air and triggered a tsunami more than 100 meters high.</description>
-</item>
-<item>
-<title>APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia</link>
-<guid isPermaLink="false">3e30a681cde685c5bd700fc84fa44a5a74aa85108e0d27a3a52b901d676b76b9</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 04:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 October 21 – New…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated New Ghosts Revealed in Cassiopeia Explanation: Jinkies, look at all those ghosts! It took 100 […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&amp;h=1751&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/IC63.png?w=2622&amp;h=1751&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists discover ghostly, eyeless creature hidden in Chinese cave</title>
@@ -1172,15 +1181,6 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03363-x Researchers in New Orleans share lessons from the aftermath of Hurricane Katrina. Plus, budding cryptographers are using AI to crack historical codes and an enzyme that keeps cognition sharp with age.</description>
-</item>
-<item>
-<title>Lessons from Katrina: how to rebuild academia from the ground up</title>
-<link>https://www.nature.com/articles/d41586-026-02623-0</link>
-<guid isPermaLink="false">3b35c9dae6f5315d104e0ada564ef454b14e58def32c1ecd2c84b37e766448c0</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-02623-0 More than 20 years after Hurricane Katrina, universities in New Orleans have learnt what it takes to rebuild from ruin — including what gets in the way.</description>
 </item>
 <item>
 <title>Scientists discover a natural compound that could protect the brain from too much salt</title>
