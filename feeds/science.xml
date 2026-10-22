@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Faster to Science: A Letter to the Science Community</title>
+<link>https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community</link>
+<guid isPermaLink="false">a0a95622d4e184757dcef478a29aa30410695d7eee8b50421b06fb51c97c2a35</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 22 Oct 2026 00:00:16 +0000</pubDate>
+<description>NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.</description>
+</item>
+<item>
 <title>NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions</title>
 <link>https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions</link>
 <guid isPermaLink="false">2aebac73f26263738da09919362edb1b69d3ae44989be2925ab89285a7061948</guid>
@@ -578,17 +587,6 @@
 <description>Editor’s Note: This article was originally published on Oct. 15, 2026, and has been updated to correct the location of the flights. A NASA Dynamic Aviation A200 aircraft will conduct low-flying research flights over farmland near Amarillo, Texas, from Thursday, Oct. 22, through Monday, Nov. 9. These flights will measure gaseous and particulate emissions from […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/09/a200-king-air-da.jpg?w=960" medium="image"/>
-</item>
-<item>
-<title>NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module</title>
-<link>https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module</link>
-<guid isPermaLink="false">2f953910c20328395f4138f7994cac2ea19ca0dd271ea98270acacea508cd068</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 18:11:33 +0000</pubDate>
-<description>Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit. Announced during NASA’s “Ignition” event, this mission will demonstrate nuclear electric propulsion in deep space, and progress is underway on its key element: the nuclear power module. To expedite development of the spacecraft, NASA […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920" medium="image"/>
 </item>
 <item>
 <title>Scientists finally uncover why statins can cause muscle pain</title>
