@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sure, let’s smoosh SpaceX and Tesla together, who cares</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
+<guid isPermaLink="false">1c3f6e8b2704e3fb6b2bf2ae4d8fe5acd4bb99efe1d9efdba090ec6955d98e12</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
+<description>Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Teenage Engineering launched an instrument amp with a ton of built-in effects</title>
+<link>https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp</link>
+<guid isPermaLink="false">7c0720e50a86584f10735b0bdd4c3d3114355ffb67159b127ab53155fabf49da</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:44:51 +0000</pubDate>
+<description>Teenage Engineering is branching out into instrument amps with the previously leaked EP-35, a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/teenage-engineering-ep-35.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meet the 2026 winner of Nikon's Small World photomicrography contest</title>
+<link>https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest</link>
+<guid isPermaLink="false">1d34bb44eb1bab4b97e90fc3c0cbdbc33747becd001bf240b21183e0fa0b689f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:34:40 +0000</pubDate>
+<description>Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Republican politicians have embraced anti-Indian racism — and it’s costing them votes</title>
+<link>https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas</link>
+<guid isPermaLink="false">366f1744ba675b3fcab9decc1b1b7898b6445aab9f0cc5d7687952f408645318</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:15:00 +0000</pubDate>
+<description>Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK423_ELECTIONS2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google tells Android users to update as parts of Canada adopt permanent daylight saving time</title>
+<link>https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada</link>
+<guid isPermaLink="false">5d9004c8fdabb16d921d4d81d118040c4f96f83359c6faf4284a5dd46d6f25d2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:13:42 +0000</pubDate>
+<description>As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24642397/google_pixel_fold_hands_on_5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
 <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware</link>
 <guid isPermaLink="false">cf879587b537377b167988d23f1c459ee280c5984f8c212fd2871ffaaea9fc20</guid>
@@ -33,6 +88,28 @@
 <media:content url="https://media.wired.com/photos/6ad948eb213049c1e3561565/master/pass/business-Uncanny-Valley-Nathan-Fielder.jpg" medium="image"/>
 </item>
 <item>
+<title>"Disillusioned" MAHA leader quits as Trump admin's food agenda spoils: Report</title>
+<link>https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report</link>
+<guid isPermaLink="false">4220fa75a0eb32f20df9b1132bf83bb4b2ebe296c35c29ef6d67efc629e2efec</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:04:06 +0000</pubDate>
+<description>The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Electric or gas? BMW goes both ways with new 2027 X5 and iX5.</title>
+<link>https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5</link>
+<guid isPermaLink="false">c316d15920213ecd30a6552df10e394f81eff6380c1e5c1e64b6e71f793a0877</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:01:23 +0000</pubDate>
+<description>460 kW charging and 450 miles of range are among the reasons the EV is the one to get.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>2027 BMW iX5 first drive: You'll love the range, but maybe not the look</title>
 <link>https://www.engadget.com/2291166/2027-bmw-ix5-first-drive</link>
 <guid isPermaLink="false">d981e283be68888fb0b5b737078e25556c511d8aac7ed1d917b9f363d9b82640</guid>
@@ -51,6 +128,15 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
 <description>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</description>
+</item>
+<item>
+<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
+<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up</link>
+<guid isPermaLink="false">575971a63ca3280440cca30c119cc28f6be298c74431a429d801d629e7d610d5</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<description>OpenAI is launching its decision model to the world. Can it compete with the original Jev?</description>
 </item>
 <item>
 <title>Daft Punk is getting an official Lego set</title>
@@ -84,6 +170,17 @@
 <description>The organization is prioritizing an AI browser called Dia.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg" medium="image"/>
+</item>
+<item>
+<title>Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales</title>
+<link>https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales</link>
+<guid isPermaLink="false">cf0e22c580e9cb5a6c2b062275fe48f386f8ebc6bad9198e9ac9a6a6e0e0f71f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:49:14 +0000</pubDate>
+<description>Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon unveils Kindle+ subscription, a rebrand with more audiobooks</title>
@@ -146,6 +243,17 @@
 <description>The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pokémon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>US official: Russia's stalker satellite sure looks like an orbital weapon</title>
+<link>https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character</link>
+<guid isPermaLink="false">b1ac05b0b36fd2c937fce47b5a1928fb9c3967c1a30ac735dc2b8328cdf12106</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:29:39 +0000</pubDate>
+<description>The Russian official who called commercial satellites "legitimate targets" now says concerns are "unfounded."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Bluesky adds iPad support in latest feature update</title>
@@ -214,17 +322,6 @@
 <media:content url="https://www.engadget.com/img/gallery/amazon-rebrands-kindle-unlimited-to-kindle/l-intro-1792692263.jpg" medium="image"/>
 </item>
 <item>
-<title>Tesla driver using Full Self-Driving struck and killed a man crossing I-80</title>
-<link>https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california</link>
-<guid isPermaLink="false">7a4f9a43e6d92f95d5e80cf060da7c8a45f127c6c24725b5797e56828041e0aa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:07:02 +0000</pubDate>
-<description>A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which "showed the Tesla's brakes […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Anker Soundcore Space 2 Are Their Lowest Price Ever</title>
 <link>https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026</link>
 <guid isPermaLink="false">0f018ffa493d2c2ad1ab1081133c02eeb062d10d13e3a0e71e0557e71f7b62b5</guid>
@@ -245,17 +342,6 @@
 <description>Sources at several banks have indicated that they have been taking actions independent of user instructions.</description>
 <enclosure url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft says its AI tool is better than doctors at diagnosing conditions</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence</link>
-<guid isPermaLink="false">5ddee939d5fa55a3d6e1a3437f5edf79f45c6051ed0660f8b54ca9699c0c7609</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:00:00 +0000</pubDate>
-<description>For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now "it is finally here," Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2207866106.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels</title>
@@ -280,17 +366,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/orangetheory-apple-watch.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks</title>
-<link>https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks</link>
-<guid isPermaLink="false">cae64401bde53f99d8e3ac5aeda056b2f051bc62ef3984db8a1ec875b3bab26a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:46:40 +0000</pubDate>
-<description>The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More</title>
 <link>https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html</link>
 <guid isPermaLink="false">d99ba89c8964f8cde6f533ec1b99a8d8c9747d92184cb870c77945106ab5b4b2</guid>
@@ -311,17 +386,6 @@
 <description>Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s what it can do. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Elon Musk says Tesla will sell 5 million cars by 2030 — math says otherwise</title>
-<link>https://www.theverge.com/transportation/1016055/elon-musk-tesla-5-million-cars-2030-reality-check</link>
-<guid isPermaLink="false">daebb3af16f48890ff847e128606db5842d4b92db9d814a9a6e53a75dd31b3e7</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:42:52 +0000</pubDate>
-<description>On Tesla's earnings call Wednesday, Elon Musk made one of his patented pie-in-the-sky predictions that typically sends his fans into paroxysms of ecstasy: 5 million vehicle deliveries by 2030. "We were aiming for 5 million vehicles a year by approximately 2030," he said. "And I think we've got a good shot of achieving that goal." […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Elon Musk made a $1 billion investment in Skydance, report says</title>
@@ -1107,15 +1171,6 @@
 <description>Blackstone’s AI head on why the PE giant isn't panicked by market jitters.</description>
 </item>
 <item>
-<title>Meta wants to pay for its broad AI buildout with a newly created class of stock</title>
-<link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock</link>
-<guid isPermaLink="false">e1e794379eb1a1ae8bc72ca6d7dceee5fe02eda528f405d79e07f38beeeec212</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 22:45:34 +0000</pubDate>
-<description>The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.</description>
-</item>
-<item>
 <title>9to5Mac Daily: October 21, 2026 – New iPhone Duo features, more</title>
 <link>https://9to5mac.com/2026/10/21/daily-october-21-2026</link>
 <guid isPermaLink="false">7d632fa3d37204fd752f177159f5b3048ded61ea471322c0ab03eeb621c6b645</guid>
@@ -1418,17 +1473,6 @@
 <media:content url="https://media.wired.com/photos/6ad7f51365ca68303fb85227/master/pass/New%20Ruggable%20October%20Hosting%20Sale%20Post%20102026%20top%20art%20SOURCE%20Ruggable.jpg" medium="image"/>
 </item>
 <item>
-<title>Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump</title>
-<link>https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine</link>
-<guid isPermaLink="false">1bbe734c9841c3a67c02bf357358defeb41bd8c166f4a43c26e93368aae90688</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:35:38 +0000</pubDate>
-<description>Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" medium="image"/>
-</item>
-<item>
 <title>CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
 <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers</link>
 <guid isPermaLink="false">5a196014b076e4d3360fd4645f447b9422aeacc2551d1e70e581d12d227c3efe</guid>
@@ -1436,17 +1480,6 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 18:34:42 +0000</pubDate>
 <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]</description>
-</item>
-<item>
-<title>Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits</title>
-<link>https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits</link>
-<guid isPermaLink="false">f7a9a56faea745fa74f84758bf3728afd0b3a9e3f6da7f7c90d6a1e48fbd8a13</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:20:40 +0000</pubDate>
-<description>Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Photographer Tyler Stalman reviews iPhone Duo’s new cameras</title>
@@ -1469,17 +1502,6 @@
 <description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg" medium="image"/>
-</item>
-<item>
-<title>Does opting out of smart TV tracking work? Research finds “suspicious” traffic.</title>
-<link>https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic</link>
-<guid isPermaLink="false">a30baa43ddb7e7baf417faaaf4856ecf745f4c6c0accbab09caf54af37be6adc</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:00:37 +0000</pubDate>
-<description>OS operators throwing out that data is "unlikely," research author tells Ars.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2226225055-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>GM Wants Your Car to Do Your Chores</title>
@@ -1524,17 +1546,6 @@
 <description>Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.</description>
 <enclosure url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase</title>
-<link>https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027</link>
-<guid isPermaLink="false">3c5c3d50adbb0fdf1ee1f416c2c0113743a11338df81cf739988c9d53e80d05b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 16:46:19 +0000</pubDate>
-<description>"We have had significant constructive engagement with the FAA."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HTU8ja-XgAE6GwQ-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
@@ -1599,17 +1610,6 @@
 <description>Alongside the ongoing pre-order discount on the new Apple TV 4K, Amazon is still shipping $50 off . Just be sure to check out the all-time low on HyperDrive Next Thunderbolt 5 Dock. Everything else awaits below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4L-AirPods-Pro-3-iPhone-Duo-power-bank.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4L-AirPods-Pro-3-iPhone-Duo-power-bank.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The $15 billion ad-powered AI startup your doctor may already be using</title>
-<link>https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using</link>
-<guid isPermaLink="false">99803a857421ee105c29dfc549a7f2759d5b06937404908b3102a6dee0e44ef4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 15:14:07 +0000</pubDate>
-<description>OpenEvidence is booming despite questions about accuracy and ads.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Jensen Huang’s Vision for Europe Runs on Plug-In Data Centers</title>
