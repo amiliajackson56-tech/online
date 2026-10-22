@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Invites Media to 2026 von Braun Space Exploration Symposium</title>
+<link>https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium</link>
+<guid isPermaLink="false">2576df31f526b409ac40adf23257257df5d4ea7567983ba3f0883ef7f6889c26</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 22 Oct 2026 21:39:58 +0000</pubDate>
+<description>Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]</description>
+</item>
+<item>
+<title>Spiral’s Edge</title>
+<link>https://www.nasa.gov/image-article/spirals-edge</link>
+<guid isPermaLink="false">44ecc6a815ee4a3ae3815df72a2fed50161c01c27d80b240f38404de1233dc91</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 22 Oct 2026 21:35:38 +0000</pubDate>
+<description>This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA’s Hubble Charts Path for Roman with Gravitational Lenses</title>
 <link>https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses</link>
 <guid isPermaLink="false">3841d8db6ad6852244d0a517bf2ba603c4b3b58053559580d17bc606141195fa</guid>
@@ -234,17 +254,6 @@
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_NLF_2006_0845030184_441ECM_N0911496NCAM03006_04_195J.jpg?w=1288&amp;h=968&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>Science on the Space Station with NASA Astronaut Jessica Watkins</title>
-<link>https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins</link>
-<guid isPermaLink="false">300b62bcde949bd1a96bacefac642bac13bf4db2169e5e4dbbf98b866e354a04</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 15:05:08 +0000</pubDate>
-<description>NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct. 9, 2026, safely mixing living cell samples with a bioink and then filling a special cartridge with the cell‑ink mixture. The advanced research operations were part of the InSPA‑Auxilium Bioprinter‑Cell Printing investigation, which explores 3D […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg?w=2048" medium="image"/>
-</item>
-<item>
 <title>Massive study of 460,000 people challenges ultra-processed food cancer fears</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261020085014.htm</link>
 <guid isPermaLink="false">f381c08fabc8c8f3a162ad5766c871cf865ccad073bfbc59e3638f6accf3edcc</guid>
@@ -270,17 +279,6 @@
 <category>science</category>
 <pubDate>Wed, 21 Oct 2026 12:35:57 +0000</pubDate>
 <description>Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems.</description>
-</item>
-<item>
-<title>NASA’s CASALS Instrument Bridges Gaps in 3D Maps of Earth’s Surface</title>
-<link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface</link>
-<guid isPermaLink="false">5bea65bf865dbdec1dafad6cd7eef8fcf7159690ec5faf5a1bd0ca2645bc0c82</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 12:17:58 +0000</pubDate>
-<description>From orbit, today’s space-based laser instruments measure Earth’s forests and terrain one narrow line at a time. Between those lines are enormous gaps that include millions of acres of land scientists never directly measure. NASA’s CASALS instrument will blend machine learning with an ultra-compact lidar instrument to adaptively ‘sweep’ large swaths of Earth’s surface. This […]</description>
-<enclosure url="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/extratropical-cyclone-whips-past-iceland/icelandstorm_vir2_20261014_th.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png" medium="image"/>
 </item>
 <item>
 <title>Astronauts’ hearts just passed a surprising test for Mars</title>
