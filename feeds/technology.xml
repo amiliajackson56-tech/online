@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date</title>
+<link>https://9to5mac.com/2026/10/22/apple-tvs-long-awaited-fleetwood-mac-documentary-finally-has-a-release-date</link>
+<guid isPermaLink="false">1d7a84464a8ac107039ed072a997cddbc963608f19b534cf5b62e232437cf75c</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:38:44 +0000</pubDate>
+<description>Nearly two years after it was first announced, Fleetwood Mac fans won’t have to wait much longer for Frank Marshall’s documentary about the legendary band to arrive on Apple TV. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/fleetwood-mac-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/fleetwood-mac-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>PC shipments dropped over 20 percent in Q3 due to RAM price hikes</title>
+<link>https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram</link>
+<guid isPermaLink="false">c2e4b9e500abf8ef6384a60b61802aa7b50a3fdcc3d7f5076e45d361faf0e4fa</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:30:39 +0000</pubDate>
+<description>Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Railway warns devs to rotate secrets after potential breach</title>
+<link>https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach</link>
+<guid isPermaLink="false">36aa9e27eea04860f91c2ec0575d81bac8b3d6821a16928e64a130950a683a9d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:25:31 +0000</pubDate>
+<description>Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]</description>
+</item>
+<item>
+<title>Fall 2026 earnings watch</title>
+<link>https://www.theverge.com/tech/1016506/fall-2026-earnings-watch</link>
+<guid isPermaLink="false">f7509caa6c98a7eb8defa9d4729bc224945030ab7cf569bc51c412d22dcc96fb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:15:16 +0000</pubDate>
+<description>Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Rivian buys world model startup to accelerate self-driving ambitions</title>
+<link>https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions</link>
+<guid isPermaLink="false">7937df720c2cd039dc034db93fb69c7a1b5c13e6eaf0afab138ec991e7f93675</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 21:05:05 +0000</pubDate>
+<description>Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.</description>
+</item>
+<item>
 <title>A new subscription service promises an evolving collection of 'bold and bizarre' indie games</title>
 <link>https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games</link>
 <guid isPermaLink="false">c17378555676fa4fb210df5a0cd24fc2a22a40b0e235c162595986976e0f195f</guid>
@@ -159,8 +210,8 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 19:56:32 +0000</pubDate>
 <description>WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”</description>
-<enclosure url="https://media.wired.com/photos/6ada51afd53570f6403f7150/master/pass/Model-Behavior-Illo-102226.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada51afd53570f6403f7150/master/pass/Model-Behavior-Illo-102226.jpg" medium="image"/>
+<enclosure url="https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg" medium="image"/>
 </item>
 <item>
 <title>The trailer for Mass Effect 5 has leaked and unfortunately it looks good</title>
@@ -386,17 +437,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/kindle-plus.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>The new Fire TV Stick 4K is already half off</title>
-<link>https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale</link>
-<guid isPermaLink="false">b761ebc695890e325234b88bf8491ceea929256dd88aabcaeff3f456e023ea85</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:43:57 +0000</pubDate>
-<description>Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
 <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence</link>
 <guid isPermaLink="false">dedf2896ecdb4ab528c7c01cd73cc3868fc30294c642b7ac4eb28f7666d53e7d</guid>
@@ -404,17 +444,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
 <description>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.</description>
-</item>
-<item>
-<title>Refurbished PS5 consoles include second controller for an extra $18</title>
-<link>https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle</link>
-<guid isPermaLink="false">be7b1ecf5be48b75186c826b72f45ece9f59ab7ff81ca82d73b8fb49b9910b69</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:38:50 +0000</pubDate>
-<description>A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072864/110923_new_Playstation_5_Slim_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072864/110923_new_Playstation_5_Slim_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Former OpenAI science lead launches Warp Science to automate wet labs with robots</title>
@@ -481,7 +510,7 @@
 <media:content url="https://www.engadget.com/img/gallery/amazon-rebrands-kindle-unlimited-to-kindle/l-intro-1792692263.jpg" medium="image"/>
 </item>
 <item>
-<title>Anker Soundcore Space 2 Are Their Lowest Price Ever</title>
+<title>Anker Soundcore Space 2 Are at Their Lowest Price Ever</title>
 <link>https://www.wired.com/story/anker-soundcore-space-2-deal-october-2026</link>
 <guid isPermaLink="false">0f018ffa493d2c2ad1ab1081133c02eeb062d10d13e3a0e71e0557e71f7b62b5</guid>
 <source>Wired</source>
@@ -547,13 +576,13 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Elon Musk made a $1 billion investment in Skydance, report says</title>
+<title>Elon Musk made a $1B investment in Skydance, report says</title>
 <link>https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says</link>
 <guid isPermaLink="false">ce2d7c8eedf7a9c21f760f521b6d4bca6553834dc251a5702201988f4860d644</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 17:36:38 +0000</pubDate>
-<description>The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.</description>
+<description>The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.</description>
 </item>
 <item>
 <title>Arc browser gets a sunset date, and users have two months to move on</title>
@@ -911,15 +940,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 13:26:52 +0000</pubDate>
 <description>Nirva will ship its $249 ambient AI pendant by the end of the year.</description>
-</item>
-<item>
-<title>DeepSeek reportedly raises $15B days after US restrictions</title>
-<link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions</link>
-<guid isPermaLink="false">feacd6de002e3968f9765e8352b929571169deb753170574c2170a952be4802e</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 13:11:13 +0000</pubDate>
-<description>DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.</description>
 </item>
 <item>
 <title>Amazon says PHP2Shell exploitation began 4 days before patches</title>
@@ -1738,15 +1758,6 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 14:07:05 +0000</pubDate>
 <description>The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]</description>
-</item>
-<item>
-<title>ClickFix has never been bigger, and AI tools are its most convincing lure yet</title>
-<link>https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet</link>
-<guid isPermaLink="false">8c2f7f751d6e9901eefcbd413561cf8a731f4eafffda77e45f145120baa90538</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 14:00:10 +0000</pubDate>
-<description>ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]</description>
 </item>
 <item>
 <title>AI Guardrails Aren’t Stopping Criminal Hackers</title>
@@ -3056,16 +3067,5 @@
 <description>Apple updated its App Review Guidelines today with a series of changes meant to strengthen protections against harmful content and deceptive app review practices. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-developer-11.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>9to5Mac Daily: October 16, 2026 – iPhone Duo pre-orders, more</title>
-<link>https://9to5mac.com/2026/10/16/daily-october-16-2026</link>
-<guid isPermaLink="false">5dc80c67fc820ac693f8bead9579973188ba1ce0e9d37be19f5a4d8beec5267e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 21:56:25 +0000</pubDate>
-<description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
