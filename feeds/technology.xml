@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI agents are ready to shop. Some retailers are wary.</title>
+<link>https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse</link>
+<guid isPermaLink="false">98d9236d4f529e574f6b74da82bad6d548e3c74d4172e2cfc645bafd65e27944</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 12:30:00 +0000</pubDate>
+<description>Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and powerful. In practice, at least for buying things, it's more like sending an anxious and apologetic teenager out to the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple says developers are showing ‘incredible’ support for the iPhone Duo</title>
+<link>https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo</link>
+<guid isPermaLink="false">9c9c91a2f8413743443f0e4807c0b5c3066c7bff8dfebd61c6cfb864764b1a3d</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 12:28:16 +0000</pubDate>
+<description>One of the major issues raised by early reviews of the iPhone Duo is limited support by third-party apps. As we noted in our own review , there are three tiers of support currently, the worst of which sees an iPhone app stranded in the center of a mostly black area of the display. The good news is that Apple says the position is changing rapidly, citing “incredible” support for the larger display of the folding iPhone … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-says-developers-are-showing-incredible-support-for-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-says-developers-are-showing-incredible-support-for-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Claude did not invent scorpion antivenom</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom</link>
+<guid isPermaLink="false">f2ef808e610cb1b89c936f58aea2987a70f900edf7cc91c4f74b9f7604859fa8</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 12:21:07 +0000</pubDate>
+<description>An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It couldn't. It came up with some promising starting points, but nothing close to an actual drug, experts tell The Verge. Citrini Research, the firm […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-182124864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-182124864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>What’s going on with the web? The PHP issue and sites going offline</title>
+<link>https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline</link>
+<guid isPermaLink="false">68a93f2fd2f0ed44e9e55f7e6fc772d4ea4b020ad6e47aa33577965d75d2897d</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 12:10:22 +0000</pubDate>
+<description>A significant number of websites have gone offline, and that’s not due to a service outage, but rather a deliberate decision by the site’s owners. The reason is because extremely dangerous security vulnerabilities have been found in a protocol used by most websites – PHP. This issue is unrelated to the separate vulnerability discovered in web certificates … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/The-PHP-issue-and-sites-going-offline.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/The-PHP-issue-and-sites-going-offline.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>The world’s first triple 200-megapixel camera phone is great</title>
 <link>https://www.theverge.com/gadgets/1014332/oppo-find-x10-pro-max-camera-200-megapixels</link>
 <guid isPermaLink="false">88cd707cbe5ab1f10b90a5f28009ec9df1aeeb8412755074b10318580e36e8e8</guid>
@@ -227,8 +271,8 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 08:18:58 +0000</pubDate>
 <description>Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/l-intro-1792663821.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/l-intro-1792663821.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/l-intro-1792671387.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/l-intro-1792671387.jpg" medium="image"/>
 </item>
 <item>
 <title>Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
@@ -631,17 +675,6 @@
 <media:content url="https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg" medium="image"/>
 </item>
 <item>
-<title>PHP: The three letters that shut down sites all over the internet today</title>
-<link>https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026</link>
-<guid isPermaLink="false">be87164232993d8e36ca358dbd384d342e7d1f0d01263fa71472f9f57dada6b6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 20:36:56 +0000</pubDate>
-<description>Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The "critical vulnerabilities" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318433/akrales_220309_4977_0182.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Tesla starts Optimus robot production in California as profit falls 43%</title>
 <link>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43</link>
 <guid isPermaLink="false">95bdbfff8769387739b8d2cf8ba3ca71d755abbdee6ff18ab7d74e786f5e28a6</guid>
@@ -667,17 +700,6 @@
 <category>technology</category>
 <pubDate>Wed, 21 Oct 2026 20:27:41 +0000</pubDate>
 <description>Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.</description>
-</item>
-<item>
-<title>Flying Roadsters can’t lift Tesla’s flat Q3 revenues</title>
-<link>https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger</link>
-<guid isPermaLink="false">29c40a9bbcb706870fe52ebf717687e4b228100219b93b5647f98fd6aa48139c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 20:22:31 +0000</pubDate>
-<description>As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Automattic begins layoffs following board upheaval and executive departures</title>
@@ -1581,17 +1603,6 @@
 <description>Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]</description>
 </item>
 <item>
-<title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
-<link>https://www.wired.com/gallery/best-hearing-aids</link>
-<guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-<description>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</description>
-<enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
-</item>
-<item>
 <title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
 <link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
 <guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
@@ -1601,6 +1612,17 @@
 <description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
 <enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
+</item>
+<item>
+<title>The Best Hearing Aids I’ve Tested (2026): Jabra, Resound, Apple, and More</title>
+<link>https://www.wired.com/gallery/best-hearing-aids</link>
+<guid isPermaLink="false">27d0be49bca567b709279cff7d9ce5f81336580d5f180c6c4fe18d384646bb15</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+<description>These WIRED-tested devices will help you hear sounds more clearly. Never miss out on a dinner conversation again.</description>
+<enclosure url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad25afb43cd5e2976ac8b54/master/pass/Best%20Hearing%20Aids%20(Update)%20102026%20top%20art%20SOURCE%20Oticon-ReSound.jpg" medium="image"/>
 </item>
 <item>
 <title>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
@@ -1700,6 +1722,39 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
+<title>Home Depot Promo Codes: 30% Off in October 2026</title>
+<link>https://www.wired.com/story/home-depot-promo-code</link>
+<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
+<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
+<link>https://www.wired.com/story/ulta-coupon</link>
+<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
 <title>20% Off Sephora Promo Code | October 2026</title>
 <link>https://www.wired.com/story/sephora-promo-code</link>
 <guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
@@ -1720,39 +1775,6 @@
 <description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
 <enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
-</item>
-<item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
-<title>Home Depot Promo Codes: 30% Off in October 2026</title>
-<link>https://www.wired.com/story/home-depot-promo-code</link>
-<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>PHP warns it plans to release 2 emergency patches imminently</title>
@@ -2200,17 +2222,6 @@
 <media:content url="https://media.wired.com/photos/6ad667a256bcd06aa1190eb2/master/pass/Roadster_56.jpg" medium="image"/>
 </item>
 <item>
-<title>Sexual Assault Is a Free Speech Issue</title>
-<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
-<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
-<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
-<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
-</item>
-<item>
 <title>How ‘Final Fantasy VII Revelation’ Strikes the Balance Between Old and New</title>
 <link>https://www.wired.com/story/final-fantasy-vii-revelation</link>
 <guid isPermaLink="false">d51cb860fdd1c4521554fd727c2be6a291a1571d366442d77a15bf00e8aadbef</guid>
@@ -2220,6 +2231,17 @@
 <description>Game director Naoki Hamaguchi talks about scale and expectations for one of gaming’s most ambitious remakes.</description>
 <enclosure url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad5cb8405cc7ba4721d495c/master/pass/01_Cloud_re_FIX%20(1).png" medium="image"/>
+</item>
+<item>
+<title>Sexual Assault Is a Free Speech Issue</title>
+<link>https://www.wired.com/story/the-big-interview-mary-anne-franks</link>
+<guid isPermaLink="false">86705af573f3d61567c16b5bed923eae186def100c229022b27f4b1e177bb76f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 20 Oct 2026 10:30:00 +0000</pubDate>
+<description>Mary Anne Franks has spent years fighting against online abuse. When people are abused with impunity, she says, the message becomes “We do not care about women’s voices.”</description>
+<enclosure url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad69d9c3c0e878853bf6a56/master/pass/Big-Interview-mary-anne-franks.jpg" medium="image"/>
 </item>
 <item>
 <title>Organic Mattress Sale: 20 Percent Off Essentia Beds</title>
@@ -3045,27 +3067,5 @@
 <description>I’ve had the iPhone 18 Pro for about a month now , and during that time three main features have consistently impressed me. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-rc-airpods-pro-3.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-rc-airpods-pro-3.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Security Bite: Americans are contradicting themselves around privacy</title>
-<link>https://9to5mac.com/2026/10/16/security-bite-americans-are-contradicting-themselves-around-privacy</link>
-<guid isPermaLink="false">2f5a5dfef72a1944da1130235bd3bb3bb93c2370f5f49249cbf5513321d2b060</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 13:52:09 +0000</pubDate>
-<description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Americans have a privacy problem, and that shouldn’t surprise anyone. Between the unprecedented backlash around Flock cameras and, more quietly, data brokers selling off our identities, individual privacy is center stage right now. I would go</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>iPhone Duo accessories: Here are five top picks for Apple’s foldable</title>
-<link>https://9to5mac.com/2026/10/16/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable</link>
-<guid isPermaLink="false">d008d72a65797bf7758e1e48538a8a619e7d8d7b7a8631a38294ed8a223a7d29</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 13:17:34 +0000</pubDate>
-<description>iPhone Duo is almost here, so if you want to get a head start on accessories for Apple’s new model, here are our top recommendations. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-5.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-5.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
