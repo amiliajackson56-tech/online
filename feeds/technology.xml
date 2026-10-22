@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</title>
+<link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta</link>
+<guid isPermaLink="false">4c84086298b3685bbdd7cce57bdf4d2ae4ca8c98ab284d1a319a1a0492bc4095</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 23:50:41 +0000</pubDate>
+<description>A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.</description>
+</item>
+<item>
+<title>Strava revamps route discovery with smarter search, offline improvements, more</title>
+<link>https://9to5mac.com/2026/10/22/strava-revamps-route-discovery-with-smarter-search-offline-improvements-more</link>
+<guid isPermaLink="false">62cddb6d3d89f7f73d4b76ae800ca8967ce6d6faa7838d95bdec70afe136ed91</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 23:29:15 +0000</pubDate>
+<description>Strava today announced a set of new features aimed at improving route planning and discovery for runs, hikes, and rides. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-routes.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-routes.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Retro game emulator Delta looks great on the iPhone Duo</title>
 <link>https://9to5mac.com/2026/10/22/retro-game-emulator-delta-looks-great-on-the-iphone-duo</link>
 <guid isPermaLink="false">fb9d8883c50604ffb6ea3786911ce5b5610c4e9187c25a21cb97fc0204276d4a</guid>
@@ -30,7 +50,7 @@
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 23:15:00 +0000</pubDate>
-<description>Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create "elite working dogs" equipped with "advanced body armor."</description>
+<description>Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with "advanced body armor."</description>
 <enclosure url="https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg" medium="image"/>
 </item>
@@ -911,15 +931,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 15:03:58 +0000</pubDate>
 <description>Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.</description>
-</item>
-<item>
-<title>Fusion startup Helion is developing new semiconductors that could double output of its power plants</title>
-<link>https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants</link>
-<guid isPermaLink="false">fb82b94a693bff833316f4de448cde84f22ea4231f4410561004ccc9cb9c75f0</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 14:59:28 +0000</pubDate>
-<description>Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.</description>
 </item>
 <item>
 <title>iOS 27.2 introduces design changes for these Apple apps</title>
@@ -3056,16 +3067,5 @@
 <description>iPhone Duo is just about a week away from launching, and now that preorders have opened, Apple’s official iPhone Duo accessories have started to hit stores for early purchases. After purchasing, some users have noticed that the silicone case has a little bit of a caveat. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.15.09.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-event-26-14.15.09.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple @ Work: How I’m preparing my fleet for Rosetta’s removal in macOS 27</title>
-<link>https://9to5mac.com/2026/10/17/how-im-preparing-my-fleet-for-rosettas-removal-in-macos-27</link>
-<guid isPermaLink="false">497bf7fc5c24459cf4f6d2c5c4db142b2d03a8973653609758e38aa1d53c28fe</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sat, 17 Oct 2026 13:00:00 +0000</pubDate>
-<description>Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grade platform all the solutions necessary to seamlessly and automatically deploy, manage, and protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . When installing macOS 27 (Golden Gate), Rosetta is automatically removed. If you manage a fleet with any legacy Intel-only software still in use, you need a plan in place before your users start experiencing issues. Here is what I’m doing, and I have some thoughts on vendors who are waiting until the last minute to deploy Apple Silicon-native tools. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
