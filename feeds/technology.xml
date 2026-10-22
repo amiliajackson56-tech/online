@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</title>
+<link>https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched</link>
+<guid isPermaLink="false">c5dd0842d4055c16f4cef3f14cf25c94c7b3b6d51dc07b62755678ee0fca5384</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 02:24:17 +0000</pubDate>
+<description>Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They're now being “broadly exploited” across the internet.</description>
+<enclosure url="https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif" medium="image"/>
+</item>
+<item>
 <title>Tesla says it will start selling Cybercabs by end of year</title>
 <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year</link>
 <guid isPermaLink="false">c781bf7dd92ddd285636d89908da9f76d426cf82ad5ec70ed37ad29eb0a7a49a</guid>
@@ -2154,17 +2165,6 @@
 <description>Save an extra 10% or 30% with Canon coupon codes, plus up to $1,600 on cameras, printers, and more this October 2026.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Mint Mobile Discounts for October 2026</title>
-<link>https://www.wired.com/story/mint-mobile-promo-code</link>
-<guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:00:00 +0000</pubDate>
-<description>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
