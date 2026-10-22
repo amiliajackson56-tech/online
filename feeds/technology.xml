@@ -4,6 +4,150 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
+<link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware</link>
+<guid isPermaLink="false">cf879587b537377b167988d23f1c459ee280c5984f8c212fd2871ffaaea9fc20</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:12:51 +0000</pubDate>
+<description>Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]</description>
+</item>
+<item>
+<title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
+<link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password</link>
+<guid isPermaLink="false">662e68277c6361dd4b95b761b04d890163e1d96b80fe48dd86b0a59e4d498261</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
+<description>The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.</description>
+</item>
+<item>
+<title>Inside the Exclusive Nathan Fielder Interview</title>
+<link>https://www.wired.com/story/uncanny-valley-podcast-inside-the-secret-nathan-fielder-interview</link>
+<guid isPermaLink="false">6cb0214afd64e0734356d31b2943962f117133a02bad5f2c62261542bba52661</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:06:37 +0000</pubDate>
+<description>This week on “Uncanny Valley,” we go behind the scenes of our Nathan Fielder cover story, unpack tech billionaires’ generous promises, and discuss the suspicious letters sent to US election offices.</description>
+<enclosure url="https://media.wired.com/photos/6ad948eb213049c1e3561565/master/pass/business-Uncanny-Valley-Nathan-Fielder.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad948eb213049c1e3561565/master/pass/business-Uncanny-Valley-Nathan-Fielder.jpg" medium="image"/>
+</item>
+<item>
+<title>2027 BMW iX5 first drive: You'll love the range, but maybe not the look</title>
+<link>https://www.engadget.com/2291166/2027-bmw-ix5-first-drive</link>
+<guid isPermaLink="false">d981e283be68888fb0b5b737078e25556c511d8aac7ed1d917b9f363d9b82640</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:01:00 +0000</pubDate>
+<description>BMW's latest EV will do over 450 miles on a charge and even close its own doors.</description>
+<enclosure url="https://www.engadget.com/img/gallery/2027-bmw-ix5-first-drive-youll-love-the-range-but-maybe-not-the-look/l-intro-1792447915.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/2027-bmw-ix5-first-drive-youll-love-the-range-but-maybe-not-the-look/l-intro-1792447915.jpg" medium="image"/>
+</item>
+<item>
+<title>Canva releases its first image generation model</title>
+<link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model</link>
+<guid isPermaLink="false">317abcdd1b20728a7e624d262d453e45fdabd56d91f59f6b2fef469b3508594f</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+<description>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</description>
+</item>
+<item>
+<title>Daft Punk is getting an official Lego set</title>
+<link>https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set</link>
+<guid isPermaLink="false">7c08d94fe958a6df4075da18d807a543da037978a00f309dc98f3744e793ad0b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:59:09 +0000</pubDate>
+<description>A fan-built model of the Alive tour pyramid got the green light to become a real product.</description>
+<enclosure url="https://www.engadget.com/img/gallery/daft-punk-is-getting-an-official-lego-set/l-intro-1792695430.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/daft-punk-is-getting-an-official-lego-set/l-intro-1792695430.jpg" medium="image"/>
+</item>
+<item>
+<title>Discord now formats Markdown previews right</title>
+<link>https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels</link>
+<guid isPermaLink="false">7fe7774a3ecb03f8ceb873e92648f0dd881922827043c37e8a02d2df2c278323</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:58:19 +0000</pubDate>
+<description>Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with "a bunch of symbols," according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK062_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Browser Company is officially killing Arc on December 22</title>
+<link>https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22</link>
+<guid isPermaLink="false">f73d533bbed53f5d89a81bac134a020db8f29652652ed0cd6a43f48667fad2e2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:52:43 +0000</pubDate>
+<description>The organization is prioritizing an AI browser called Dia.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg" medium="image"/>
+</item>
+<item>
+<title>Amazon unveils Kindle+ subscription, a rebrand with more audiobooks</title>
+<link>https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks</link>
+<guid isPermaLink="false">b5d2858295bf31193a7a46cc3d181fbd2c3f888c979d76d82f8f1ffc8e82a892</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:46:45 +0000</pubDate>
+<description>Today Amazon announced that its Kindle Unlimited subscription has been rebranded ‘Kindle+’ and includes more audiobooks than before. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/kindle-plus.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/kindle-plus.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>The new Fire TV Stick 4K is already half off</title>
+<link>https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale</link>
+<guid isPermaLink="false">b761ebc695890e325234b88bf8491ceea929256dd88aabcaeff3f456e023ea85</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:43:57 +0000</pubDate>
+<description>Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/fire-tv-stick-4k_ftv-remote_hero_1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’</title>
+<link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence</link>
+<guid isPermaLink="false">dedf2896ecdb4ab528c7c01cd73cc3868fc30294c642b7ac4eb28f7666d53e7d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
+<description>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.</description>
+</item>
+<item>
+<title>Refurbished PS5 consoles include second controller for an extra $18</title>
+<link>https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle</link>
+<guid isPermaLink="false">be7b1ecf5be48b75186c826b72f45ece9f59ab7ff81ca82d73b8fb49b9910b69</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:38:50 +0000</pubDate>
+<description>A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072864/110923_new_Playstation_5_Slim_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25072864/110923_new_Playstation_5_Slim_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Former OpenAI science lead launches Warp Science to automate wet labs with robots</title>
+<link>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots</link>
+<guid isPermaLink="false">64aba7dfd5d83ac33be912330bfa38d6d7ce2343ebf03a51364561ecea99d154</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:38:47 +0000</pubDate>
+<description>Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.</description>
+</item>
+<item>
+<title>Delta can turn the iPhone Duo into your favorite folding handheld</title>
+<link>https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update</link>
+<guid isPermaLink="false">d03e6d6958d4a2a0c2a66a095190b1125a5b211df40616fb613b5df63c717163</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:30:00 +0000</pubDate>
+<description>The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pokémon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Delta-2.0-lineup-update.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Bluesky adds iPad support in latest feature update</title>
 <link>https://www.engadget.com/2294583/bluesky-adds-ipad-support-in-latest-feature-update</link>
 <guid isPermaLink="false">f7abc57c178253c4d729604e84f41646eee75db977369ed17e1c384104d3cc3b</guid>
@@ -26,6 +170,28 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/10/appl-tv-icon-26.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>In Meta’s version of the future, I’ll have my Muse call your Muse</title>
+<link>https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network</link>
+<guid isPermaLink="false">ee144e79e7d9cf2133686f073f2175b4fcc7f40e2571e6ff309769d8d9f2a4b2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:15:00 +0000</pubDate>
+<description>Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Mass Effect 5 trailer leaks following BioWare shutdown</title>
+<link>https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea</link>
+<guid isPermaLink="false">51ce4d3fe1167a7136eac8e4bc30b1ec47c7d135e413405788f4111bc2704fbc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:14:24 +0000</pubDate>
+<description>Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today. The trailer features "in-engine footage" and uses "pre-production assets," according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-11.12.28-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-11.12.28-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable</title>
 <link>https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html</link>
 <guid isPermaLink="false">23aef87bc264519996321572c99ac302cd51e812feb3c1551c54099dde7425cb</guid>
@@ -46,6 +212,17 @@
 <description>The service still offers a library of books, magazines and comics, and now includes a larger selection of audiobooks.</description>
 <enclosure url="https://www.engadget.com/img/gallery/amazon-rebrands-kindle-unlimited-to-kindle/l-intro-1792692263.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/amazon-rebrands-kindle-unlimited-to-kindle/l-intro-1792692263.jpg" medium="image"/>
+</item>
+<item>
+<title>Tesla driver using Full Self-Driving struck and killed a man crossing I-80</title>
+<link>https://www.theverge.com/transportation/1016928/tesla-fsd-pedestrian-fatal-accident-california</link>
+<guid isPermaLink="false">7a4f9a43e6d92f95d5e80cf060da7c8a45f127c6c24725b5797e56828041e0aa</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 22 Oct 2026 18:07:02 +0000</pubDate>
+<description>A 71-year-old man was fatally hit by a Tesla operating in Full Self-Driving (FSD) mode while crossing I-80 in Vallejo, CA around 2:30 AM on Thursday, reports the San Francisco Chronicle. The California Highway Patrol's statement to media outlets says it reviewed video of the accident from the Tesla's dashcam, which "showed the Tesla's brakes […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23986646/acastro_STK086_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Anker Soundcore Space 2 Are Their Lowest Price Ever</title>
@@ -167,17 +344,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/09/Arc-Browser.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Someone hacked the Switch 2 by using an old game and AI</title>
-<link>https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai</link>
-<guid isPermaLink="false">c7b5ab6ad70c88c97d83a53500b743c204086d76238b071d173b86ece6cf8422</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:21:31 +0000</pubDate>
-<description>The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the red Angry Bird, Peter Griffin, and Steve from Minecraft. OpenAI's Codex helped make this "ns2jb" jailbreak, according to Sammy Hajhamid, aka "pepsipu." It's a […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Arista patches new VeloCloud Orchestrator zero-day exploited in attacks</title>
 <link>https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks</link>
 <guid isPermaLink="false">179faf62f2b237f0f3683e2d15631032f56fcceb3cb108c6544c8b0b0b859816</guid>
@@ -209,17 +375,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Arc browser is shutting down</title>
-<link>https://www.theverge.com/tech/1016832/arc-browser-shutting-down</link>
-<guid isPermaLink="false">721aded8b6079303fc7c3afded62265144669308de696f94d5f88c7001161f15</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:03:37 +0000</pubDate>
-<description>The Browser Company plans to "sunset" its Arc browser on December 22nd, according to a post on the Arc website. The company moved on to developing its AI-focused Dia browser last year, but it had continued to maintain Arc. Now, the innovative browser will be going away for good. The shutdown is happening in a […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-12.56.25-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes</title>
 <link>https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html</link>
 <guid isPermaLink="false">7c53f743c08237d2727ca65e473b4707a4d9bd06671d8e75282cc77ec6ec93c4</guid>
@@ -229,17 +384,6 @@
 <description>Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>The disastrous PHP vulnerabilities were exploited days before the patch</title>
-<link>https://www.theverge.com/tech/1016798/php-vulnerabilities-exploit-patch</link>
-<guid isPermaLink="false">27f1297776bb07f83b1ed2e7470a7660e8cf2617f6e530632e46745347697d40</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:49:48 +0000</pubDate>
-<description>Hackers attempted to exploit the PHP flaws impacting sites across the web days before they were patched, according to a report from Amazon Threat Intelligence. CJ Moses, Amazon chief information security officer, writes that the company's security team found a PHP2Shell exploit attempt on October 17th through a monitoring system designed to bait hackers, as […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
@@ -273,17 +417,6 @@
 <media:content url="https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg" medium="image"/>
 </item>
 <item>
-<title>Wildwood’s director says AI is ‘antithetical to everything that we are at this studio’</title>
-<link>https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion</link>
-<guid isPermaLink="false">6d8c30677ef69bab4819d2fe40e7e8f6602b01c48300424695af66edb41fd158</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:16:15 +0000</pubDate>
-<description>Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The process involved more 230 puppets - including 36 of the main character Prue alone - which were brought to life by a […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/WILDWOOD-Curtis-Alexandra-Still-Credit_-LAIKA.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations</title>
 <link>https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html</link>
 <guid isPermaLink="false">56940b672a75469b8a4bb9fb207c40734fc4e20152c475c57d672550ba7c6293</guid>
@@ -293,17 +426,6 @@
 <description>Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump says Sundar Pichai talked him out of renaming the Atlantic Ocean</title>
-<link>https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google</link>
-<guid isPermaLink="false">61c628361a995baff157caa2d946bdb2ac1d4f94260fdcc8d58dbb9b4c24df5a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:00:29 +0000</pubDate>
-<description>After renaming Lake Ontario and the Gulf of Mexico on Google Maps following Trump's executive orders, Google CEO Sundar Pichai might be drawing the line at the Atlantic Ocean. As reported earlier by The Washington Post, Trump said at a Wednesday night rally that he would "probably pass" on renaming the Atlantic after he contacted […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements</title>
@@ -322,17 +444,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
 <description>The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.</description>
-</item>
-<item>
-<title>Microsoft shuts down its beloved maker space</title>
-<link>https://www.theverge.com/tech/1016389/microsoft-garage-closure-hackathon-notepad</link>
-<guid isPermaLink="false">73143c0293e9443ec720b042e15d78c509fe925b02903e60c7c839d2dcfaa578</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-<description>Microsoft is closing down The Garage, a set of popular maker spaces where employees worked on experimental projects and collaborated on surprising new apps and hardware during the company's annual hackathon events. "We're winding down The Garage program as a centralized function," says Microsoft in an internal FAQ to employees, seen by Notepad. "We will […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/R_2016-Hackathon-Day2-064-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/R_2016-Hackathon-Day2-064-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>This emulator reimagines Nintendo’s Virtual Boy with a full color display</title>
@@ -355,17 +466,6 @@
 <description>This could reach 27 percent throughout the end of 2026 as prices continue to rise.</description>
 <enclosure url="https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/l-intro-1792684457.jpg" medium="image"/>
-</item>
-<item>
-<title>OpenAI, Anthropic, and Nvidia had record lobbying quarters</title>
-<link>https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records</link>
-<guid isPermaLink="false">923baa0debc108433ed2d7e130ce51c8f58e1384bcb1dca0fefadfa0facbaad1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:50:30 +0000</pubDate>
-<description>It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft shares how to fix broken Exchange Online EWS apps</title>
@@ -833,8 +933,8 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
 <description>The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.</description>
-<enclosure url="https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif" medium="image"/>
+<enclosure url="https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif" medium="image"/>
 </item>
 <item>
 <title>Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple</title>
@@ -1080,15 +1180,6 @@
 <description>Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]</description>
 </item>
 <item>
-<title>Airbnb limits chores for guests, sparking backlash from hosts</title>
-<link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts</link>
-<guid isPermaLink="false">dca8579b05eb0b32c55090e8885da17e7fd494d183a81f1d80ee13a7383ff17c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 22:16:05 +0000</pubDate>
-<description>Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.</description>
-</item>
-<item>
 <title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</title>
 <link>https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought</link>
 <guid isPermaLink="false">cda78f4c48ea7539bdf6db8420cfcf497032dd01b59663bf0972aa3e24787052</guid>
@@ -1164,24 +1255,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2019/10/tesla-polarizing.jpg" medium="image"/>
 </item>
 <item>
-<title>TechCrunch Founder Summit 2026: Everything you need to know</title>
-<link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know</link>
-<guid isPermaLink="false">b896c0e0003f5acfffa0b1cbc5f43dcb4bed5c2a4eb117b7a4a856cf093f9892</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 21:16:20 +0000</pubDate>
-<description>TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.</description>
-</item>
-<item>
-<title>Meta says Muse has over 10M users, with shopping a top activity</title>
-<link>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity</link>
-<guid isPermaLink="false">367be8246006663a59cefae477e70a3603fc8d3ca2d99ef266cc5291e180c6fb</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 21:14:19 +0000</pubDate>
-<description>Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.</description>
-</item>
-<item>
 <title>Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots</title>
 <link>https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots</link>
 <guid isPermaLink="false">b71382180a97c3437edeeef7c10ae16fc0f1e89672a9d2006931c2bbf07836d7</guid>
@@ -1204,15 +1277,6 @@
 <media:content url="https://media.wired.com/photos/6ad7dddccd0792bc5939c725/master/pass/politics_republican_midterms_trump_blame.jpg" medium="image"/>
 </item>
 <item>
-<title>Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation</title>
-<link>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation</link>
-<guid isPermaLink="false">edaef270a0b7f63084ef04e7c374461372705b82388c61fbdc48b26c47104e47</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 20:57:40 +0000</pubDate>
-<description>Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models "without ingesting half the internet."</description>
-</item>
-<item>
 <title>Government websites in the EU and Canada taken offline over PHP vulnerability</title>
 <link>https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability</link>
 <guid isPermaLink="false">219f9c3d7ba93d942fc9811dde17952f3c93d5c7f2ac45027cfd889467692535</guid>
@@ -1222,17 +1286,6 @@
 <description>All websites using PHP should update to the latest security patch.</description>
 <enclosure url="https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/government-websites-in-eu-and-canada-taken-offline-over-php-vulnerability/l-intro-1792616156.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta ordered to cough up $25 billion in New Mexico privacy case</title>
-<link>https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case</link>
-<guid isPermaLink="false">253c0a6de06aa2395502d886a693f0163ea96e1805cdec9b4b0bfd920de113d4</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 20:43:17 +0000</pubDate>
-<description>The case stemmed from the nearly decade-old Cambridge Analytica scandal.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-ordered-to-cough-up-25-billion-in-new-mexico-privacy-case/l-intro-1792615292.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump Isn’t Even Good at TV Anymore</title>
@@ -1275,17 +1328,6 @@
 <description>iOS 27.2 launches next week , and the update includes code that points to a forthcoming Messages app change: the ability to exclude muted conversations from the unread badge count. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Xbox is previewing paid cloud gaming for players without Game Pass</title>
-<link>https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass</link>
-<guid isPermaLink="false">67825a85a4c858e7c55fa1462ea8c49dbeb548bf1f93d56394adfe407e0ec1e8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:52:50 +0000</pubDate>
-<description>Here come new rate limits.</description>
-<enclosure url="https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/l-intro-1792612307.jpg" medium="image"/>
 </item>
 <item>
 <title>The new human-crafted Apple Music brand matters in an AI world</title>
@@ -1374,17 +1416,6 @@
 <description>If you’re going to nest, you might as well do it at a discount.</description>
 <enclosure url="https://media.wired.com/photos/6ad7f51365ca68303fb85227/master/pass/New%20Ruggable%20October%20Hosting%20Sale%20Post%20102026%20top%20art%20SOURCE%20Ruggable.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad7f51365ca68303fb85227/master/pass/New%20Ruggable%20October%20Hosting%20Sale%20Post%20102026%20top%20art%20SOURCE%20Ruggable.jpg" medium="image"/>
-</item>
-<item>
-<title>EA is shutting down BioWare and cutting around 400 jobs</title>
-<link>https://www.engadget.com/2293402/ea-is-shutting-down-bioware-and-cutting-around-400-jobs</link>
-<guid isPermaLink="false">17ce855687813bc000b2e7ba82b96d8110d9ffa771519612b97df5d59bff6fa6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:42:41 +0000</pubDate>
-<description>Skate studio Full Circle will be be reduced to "a more focused, smaller team," while a Sims project has been paused.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/l-intro-1792608097.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ea-is-shutting-down-bioware-and-cutting-around-400-jobs/l-intro-1792608097.jpg" medium="image"/>
 </item>
 <item>
 <title>Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump</title>
@@ -1916,15 +1947,6 @@
 <media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft says October updates didn’t actually fix VPN issues</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates</link>
-<guid isPermaLink="false">dda7b9b7435eac6926c91af383247e45541e5440903f5a9c28f7fc4bf84f6db6</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:14:53 +0000</pubDate>
-<description>Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]</description>
-</item>
-<item>
 <title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
 <link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
 <guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
@@ -2035,28 +2057,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Home Depot Promo Codes: 30% Off in October 2026</title>
-<link>https://www.wired.com/story/home-depot-promo-code</link>
-<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
 <title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
 <link>https://www.wired.com/story/ulta-coupon</link>
 <guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
@@ -2077,6 +2077,28 @@
 <description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
 <enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
+<title>Home Depot Promo Codes: 30% Off in October 2026</title>
+<link>https://www.wired.com/story/home-depot-promo-code</link>
+<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
 <title>Udemy Coupon Codes: 20% Off October 2026</title>
@@ -2429,17 +2451,6 @@
 <description>Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes of pre-orders opening . The move appears to be an attempt to tackle the problem of scalping, where people buy large volumes of supply-constrained devices in order to resell them on eBay for well above the retail price … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-orders-limited-to-two-per-customer-as-Apple-tackles-scalping.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-orders-limited-to-two-per-customer-as-Apple-tackles-scalping.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Sony Party Speaker Deal: Save $100 Off the ULT Tower 7</title>
-<link>https://www.wired.com/story/sony-party-speaker-deals-october-2026</link>
-<guid isPermaLink="false">054d85233fa0776d45539fc1b3775d7169b0a97622278da8742028296fb1cb39</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:00:00 +0000</pubDate>
-<description>The Sony ULT Tower 7 is one of our top party speaker picks and is at its lowest-ever price. Grab this or one of its sibling models before your next fete.</description>
-<enclosure url="https://media.wired.com/photos/6ad67b40b1e2ce8d04a898c4/master/pass/Sony%20ULT%20Tower%207%20Speaker%20Deal%20102026%20top%20art%20SOURCE%20Sony.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad67b40b1e2ce8d04a898c4/master/pass/Sony%20ULT%20Tower%207%20Speaker%20Deal%20102026%20top%20art%20SOURCE%20Sony.jpg" medium="image"/>
 </item>
 <item>
 <title>ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident</title>
@@ -3056,16 +3067,5 @@
 <description>In a new investor note sent out this week, GF Securities’ Jeff Pu and Henry Huang project that Apple will be the only major smartphone manufacturer to grow shipments in 2026, even as the global market is expected to shrink by more than 14%. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-color-lineup-official.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>9to5Mac Overtime 086: Apple’s smart home reboot</title>
-<link>https://9to5mac.com/2026/10/16/9to5mac-overtime-086-apples-smart-home-reboot</link>
-<guid isPermaLink="false">4507220cd15d684eb1c3e9c7ad57182eeb4304d570d3a0629029e45cdd559e93</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 16 Oct 2026 20:32:53 +0000</pubDate>
-<description>Jeff and Fernando discuss Apple’s smart home reboot, including the new $299 Apple HomeView, HomePod mini 2, Apple TV 4K, and Apple Home Collection lineup. Sponsored by Rokform : Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-086.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/9to5Mac-Overtime-086.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
