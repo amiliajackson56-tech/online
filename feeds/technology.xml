@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A startup called Warhound is genetically engineering dogs for the military</title>
+<link>https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military</link>
+<guid isPermaLink="false">857065a282b9a1c026175e74a443f21a1097f783ae9560c6ca45f664dd144ddd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:01:01 +0000</pubDate>
+<description>Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.</description>
+<enclosure url="https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg" medium="image"/>
+</item>
+<item>
+<title>The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars</title>
+<link>https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars</link>
+<guid isPermaLink="false">221ffd18818ffcf7143a6cb7e6334aade0884a8154974c46b641d1900831aedf</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
+<description>The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.</description>
+<enclosure url="https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg" medium="image"/>
+</item>
+<item>
 <title>Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data</title>
 <link>https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html</link>
 <guid isPermaLink="false">5119cb5ec0180f7a82b8eaffa56e55b77e80fb3dc89d350026c78a718ad4f2c3</guid>
@@ -1530,17 +1552,6 @@
 <media:content url="https://media.wired.com/photos/6ad9408768bf72427a051c89/master/pass/WIRED_Business_Mark-Z_CA.jpg" medium="image"/>
 </item>
 <item>
-<title>Mark Zuckerberg says Meta is 'entering a new phase' with Muse</title>
-<link>https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse</link>
-<guid isPermaLink="false">3ace40b37b98a3b5f1ff3e4cb6de0170433cb0f3ba8402d595897df86cefd8cc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 22:36:03 +0000</pubDate>
-<description>Zuckerberg expects the agent will generate more revenue per user than the company's apps.</description>
-<enclosure url="https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/l-intro-1792621715.jpg" medium="image"/>
-</item>
-<item>
 <title>FCC chair warns media not to run the "fake polls" Trump keeps complaining about</title>
 <link>https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about</link>
 <guid isPermaLink="false">ab6b7c77600683b6d32ba16fa0521bf2a755ddad7183baad771620bea5ff0e68</guid>
@@ -2297,17 +2308,6 @@
 <description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
 <enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
-<title>Ulta Promo Codes: Up to 20% Off in October 2026</title>
-<link>https://www.wired.com/story/ulta-coupon</link>
-<guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Shop the latest beauty trends and save big using an Ulta promo code for beauty tech, makeup, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>20% Off Sephora Promo Code | October 2026</title>
