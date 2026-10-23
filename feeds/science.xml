@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA, Virginia Launch Power Partnership for Energy Security</title>
+<link>https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership</link>
+<guid isPermaLink="false">89fd2f07128809d53cf01f4755f70c3e20478c134888044f2f966c5d4b14369b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 23 Oct 2026 17:50:21 +0000</pubDate>
+<description>NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261023003214.htm</link>
 <guid isPermaLink="false">23611b3ed5b0168aa7bf0a6b4b51f9295c3ae884eca072bf7132ceda0de617cc</guid>
@@ -177,6 +188,15 @@
 <category>science</category>
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.</description>
+</item>
+<item>
+<title>Elizabeth Holmes film enthralls — but her legacy haunts science</title>
+<link>https://www.nature.com/articles/d41586-026-03383-7</link>
+<guid isPermaLink="false">2bcbf4c2db37ca419a00d240d7c803c2d2d22fd0dee95329c36cce7ea2e7d4c5</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7 Diagnostic start-ups inch towards the goal of Holmes’s failed company, Theranos, to run a multitude of tests on drops of blood.</description>
 </item>
 <item>
 <title>Rebody</title>
@@ -439,17 +459,6 @@
 <description>NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024" medium="image"/>
-</item>
-<item>
-<title>NASA JPL Looks to Next 90 Years of Innovation, Exploration</title>
-<link>https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration</link>
-<guid isPermaLink="false">ebd5ed8eaec52f796dfca9083cd527919c8c7f2ff364e6957603bea2c8739ece</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 18:35:56 +0000</pubDate>
-<description>Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years later, the lab, now managed by Caltech for NASA, isn’t […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Massive study of 460,000 people challenges ultra-processed food cancer fears</title>
@@ -1260,15 +1269,6 @@
 <category>science</category>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3 Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.</description>
-</item>
-<item>
-<title>Light and mirrors move large quantum computers closer to reality</title>
-<link>https://www.nature.com/articles/d41586-026-03237-2</link>
-<guid isPermaLink="false">b5398a859706e02339ce900b63d90748c0ab855c8b522da4143f5f5b25023617</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03237-2 Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays.</description>
 </item>
 <item>
 <title>Scientists discover a natural compound that could protect the brain from too much salt</title>
