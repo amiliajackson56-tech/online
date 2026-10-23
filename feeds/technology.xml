@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>8 Things to Know About the iPhone Duo</title>
+<link>https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo</link>
+<guid isPermaLink="false">397501996d51469ab9bab18c01c88073e58028af8302313a9abbad112581a372</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:15:00 +0000</pubDate>
+<description>Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.</description>
+<enclosure url="https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap</title>
+<link>https://www.wired.com/story/dyson-week-deals-oct-2026</link>
+<guid isPermaLink="false">f8e97aec31e469427209ff51f737fd66d2f932eddb1d9bbcf488e2e0fea4ccf1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:07:00 +0000</pubDate>
+<description>Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.</description>
+<enclosure url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" medium="image"/>
+</item>
+<item>
 <title>A startup called Warhound is genetically engineering dogs for the military</title>
 <link>https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military</link>
 <guid isPermaLink="false">857065a282b9a1c026175e74a443f21a1097f783ae9560c6ca45f664dd144ddd</guid>
@@ -31,10 +53,21 @@
 <guid isPermaLink="false">5119cb5ec0180f7a82b8eaffa56e55b77e80fb3dc89d350026c78a718ad4f2c3</guid>
 <source>The Hacker News</source>
 <category>technology</category>
-<pubDate>Fri, 23 Oct 2026 07:50:01 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 08:40:43 +0000</pubDate>
 <description>Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their "Node2Shell" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif" medium="image"/>
+</item>
+<item>
+<title>Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances</title>
+<link>https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</link>
+<guid isPermaLink="false">43513002b0c380e9582f3a3c90908e230226b0b42421828d2ef45ec24bac83df</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 08:35:45 +0000</pubDate>
+<description>AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg" medium="image"/>
 </item>
 <item>
 <title>PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
@@ -2299,28 +2332,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
-<title>20% Off Sephora Promo Code | October 2026</title>
-<link>https://www.wired.com/story/sephora-promo-code</link>
-<guid isPermaLink="false">a364c4719b4409025d3e8b36b00b3972264d8737b48e6dc43433c02318a621c8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Earn more points on skincare purchases when you use our Sephora coupon.</description>
-<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple is looking for a cellular modem engineer to help shape its transition to 6G</title>
 <link>https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g</link>
 <guid isPermaLink="false">02e0520cecac9d798764e9c9067a957a2feb20a66168a162654c02f5e4506b00</guid>
@@ -2946,17 +2957,6 @@
 <description>iPhone Duo became available for pre-order last Friday, then quickly became backordered into late January 2027. However, a number of users have started reporting that their orders now show earlier delivery dates than originally estimated. Update : At first, earlier iPhone Duo dates were being reported primarily by users in Japan, but now several posts from US users mention getting earlier delivery windows too. Original post below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/The-iPhone-Duo-is-Apple-at-its-absolute-best.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories</title>
-<link>https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html</link>
-<guid isPermaLink="false">bdcf728a9e2a0cc66314adb0c36bd9399663ac73aa3057c3d1a4a521cb6c9bbf</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 13:05:45 +0000</pubDate>
-<description>The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg" medium="image"/>
 </item>
 <item>
 <title>Nobody should buy the $299 Apple TV 4K, but it could have been worse</title>
