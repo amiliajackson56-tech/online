@@ -4,6 +4,46 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple’s official DIY repair guides for the iPhone Duo now available</title>
+<link>https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available</link>
+<guid isPermaLink="false">980e8e3944b2eeae82f1f0ab217f153f2fca8f4b619360cf4b375686ee4001a9</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 23:12:21 +0000</pubDate>
+<description>Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Startups don’t need to go viral to win customers</title>
+<link>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers</link>
+<guid isPermaLink="false">48dd6bd9146bbf9b087441b51df8ab64ac984eca1a513dbd4a4742f7e4167281</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 23:07:45 +0000</pubDate>
+<description>At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.</description>
+</item>
+<item>
+<title>OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”</title>
+<link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks</link>
+<guid isPermaLink="false">585ea363f084ac16178f201c1fb0bb8e6d4022bb3caad3f5d94111fc63508b0c</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 23:05:49 +0000</pubDate>
+<description>OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.</description>
+</item>
+<item>
+<title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</title>
+<link>https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</link>
+<guid isPermaLink="false">07eaab2d81851c7fb3d14799d090b5c94acf2038fcc5ca83b5d4d28937429edb</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 22:48:25 +0000</pubDate>
+<description>"We have the mandate, we have the resources, and the support from our stakeholders."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" medium="image"/>
+</item>
+<item>
 <title>OpenAI says it's cutting off internet access for frontier model training</title>
 <link>https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training</link>
 <guid isPermaLink="false">1fbeabc811c2d4d9129a8893343803b9e386b35f2ce50429e17bf311c56ba088</guid>
@@ -521,7 +561,7 @@
 <media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" medium="image"/>
 </item>
 <item>
-<title>What some of Anthropic’s backers are reportedly worth before its IPO</title>
+<title>What some of Anthropic’s backers are worth before its IPO</title>
 <link>https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo</link>
 <guid isPermaLink="false">b03ac20209c1fa007cb3bf7a2c6f7df34c1bfdd6b7f997a2444fc456013c5037</guid>
 <source>TechCrunch</source>
@@ -1336,15 +1376,6 @@
 <description>Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.</description>
 </item>
 <item>
-<title>The secret to fast startup growth isn’t early sales, top names in tech say</title>
-<link>https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say</link>
-<guid isPermaLink="false">86d482286315a80d3df03712586aadbabb6943eb120ae1c95ebe60b31a6dad25</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 20:00:00 +0000</pubDate>
-<description>At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.</description>
-</item>
-<item>
 <title>Leaked Mass Effect: Universe trailer gives a taste of what we're all missing</title>
 <link>https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing</link>
 <guid isPermaLink="false">b8309ad6c232fe2f1dc2f8a4934de06cccff74558a7cb2529c24135d66b111b8</guid>
@@ -1378,17 +1409,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/l-intro-1792698450.jpg" medium="image"/>
 </item>
 <item>
-<title>Ink droplets in motion snag top prize in Nikon Small World contest</title>
-<link>https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest</link>
-<guid isPermaLink="false">1d34bb44eb1bab4b97e90fc3c0cbdbc33747becd001bf240b21183e0fa0b689f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:34:40 +0000</pubDate>
-<description>Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/nikonTOP-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
 <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware</link>
 <guid isPermaLink="false">cf879587b537377b167988d23f1c459ee280c5984f8c212fd2871ffaaea9fc20</guid>
@@ -1396,15 +1416,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 19:12:51 +0000</pubDate>
 <description>Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]</description>
-</item>
-<item>
-<title>1Password launches a way for AI agents to log in on your behalf without seeing your password</title>
-<link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password</link>
-<guid isPermaLink="false">662e68277c6361dd4b95b761b04d890163e1d96b80fe48dd86b0a59e4d498261</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:07:09 +0000</pubDate>
-<description>The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.</description>
 </item>
 <item>
 <title>Inside the Exclusive Nathan Fielder Interview</title>
@@ -3056,16 +3067,5 @@
 <description>Apple just introduced HomeView alongside a new Apple TV and HomePod mini , but another product unveiling is already set for next week . Here are the new products expected to launch at Apple’s ‘Pro and tell’ event on October 28, including major updates to MacBook Pro and iPad mini. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-rainbow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-rainbow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out</title>
-<link>https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out</link>
-<guid isPermaLink="false">95cfc6ad4a9d68ab7c2762c7641bb12e7be4d7aa795ea9607102c1b2b1fd5a32</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 17:30:24 +0000</pubDate>
-<description>In addition to macOS 27.2 Golden Gate RC 1 , Apple is also rolling out the third developer and public RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
