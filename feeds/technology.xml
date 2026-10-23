@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>GuliKit TT Pro review: The ideal Switch 2 controller for players on the go</title>
+<link>https://www.engadget.com/2294411/gulikit-tt-pro-review</link>
+<guid isPermaLink="false">ab7a8cddd3c666ede5ebb91eb55446b44ee4beb01b946cdb8f090f13864fd7bd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:30:00 +0000</pubDate>
+<description>A protective case and an accessory box make it easy to travel with the TT Pro.</description>
+<enclosure url="https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/gulikit-tt-pro-review-the-ideal-switch-2-controller-for-players-on-the-go/l-intro-1792685476.jpg" medium="image"/>
+</item>
+<item>
+<title>Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could</title>
+<link>https://www.wired.com/review/samsung-galazy-z-flip8</link>
+<guid isPermaLink="false">c52dae90e9e4fc9311eb4f18975e96df5e9b7b27788554712ce72ed15a7c736d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:30:00 +0000</pubDate>
+<description>Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.</description>
+<enclosure url="https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Tesla says it will no longer release the Cybertruck in Australia and New Zealand</title>
+<link>https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand</link>
+<guid isPermaLink="false">9fbeaa53772ebc161e6ca5b3d00f8600b294b2b4c39adb5325815f6b05c65ab3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:26:04 +0000</pubDate>
+<description>People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.</description>
+<enclosure url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" medium="image"/>
+</item>
+<item>
+<title>URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
+<link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
+<guid isPermaLink="false">d3e6fb1a3911b1e6b90b1f063808a68fb4504ce04882fd635da42147c19051ce</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:25:43 +0000</pubDate>
+<description>PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk. The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg" medium="image"/>
+</item>
+<item>
+<title>Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+<link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
+<guid isPermaLink="false">76da60089176983713f45816e41f527b55fd384f7508dfc491f47b7b2284b45e</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 11:11:23 +0000</pubDate>
+<description>The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg" medium="image"/>
+</item>
+<item>
 <title>Split Tunneling Is Your VPN’s Best Feature. Here’s How to Make the Most of It</title>
 <link>https://www.wired.com/story/split-tunneling-is-your-vpns-best-feature-heres-how-to-make-the-most-of-it</link>
 <guid isPermaLink="false">8b94d7699ae0c19324b1097ec1b58dd3a2aac4e02d72a1ece94f48fddaf4ae11</guid>
@@ -1314,17 +1369,6 @@
 <media:content url="https://www.engadget.com/img/gallery/1password-opens-up-ai-agents-muse-dots-grok/l-intro-1792691414.jpg" medium="image"/>
 </item>
 <item>
-<title>Insta360 adds expandable storage to its new e-ink wireless mics</title>
-<link>https://www.engadget.com/2283528/insta360-adds-expandable-storage-to-its-e-ink-wireless-mics</link>
-<guid isPermaLink="false">9252713ec208d2e95965a07a5581e80d93d4dd04eddb2557da4489c9f17bcee9</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-<description>Insta360 has a new wireless mic that combines some features of its existing 'pro' mics with a cheaper price.</description>
-<enclosure url="https://www.engadget.com/img/gallery/insta360-adds-expandable-storage-to-its-new-e-ink-wireless-mics/l-intro-1791804300.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/insta360-adds-expandable-storage-to-its-new-e-ink-wireless-mics/l-intro-1791804300.jpg" medium="image"/>
-</item>
-<item>
 <title>Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything</title>
 <link>https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything</link>
 <guid isPermaLink="false">5ec9b8a9a89ba033ef83e7e7ff07e558b0381b352d9a041959d60312bdfb095c</guid>
@@ -1519,17 +1563,6 @@
 <description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . This week, I welcome Ron Zayas to the Security Bite podcast . Ron is the CEO of Ironwall by Incogni, which helps public officials scrub and keep their personal information from data brokers and people-search sites. Earlier this year, he appea</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Tesla plans to start selling Cybercabs by the end of the year</title>
-<link>https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026</link>
-<guid isPermaLink="false">40df9273fafe8effff52958b4ea15482326ac74d4f0b0f636326a6497ffdb384</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 08:52:48 +0000</pubDate>
-<description>Tesla wants to sell Cybercabs to other transport companies before the year ends.</description>
-<enclosure url="https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg" medium="image"/>
 </item>
 <item>
 <title>LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release</title>
@@ -2266,17 +2299,6 @@
 <media:content url="https://media.wired.com/photos/6ad7d54d2ae496685d93a3ef/master/pass/Science_OpenAI%20Invests%20in%20Startup%20That%20Uses%20Brain%20Implants%20to%20Detect%20Cancer_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>She Was the DEA’s Premier Crypto Detective. The Clues Led Straight to Her Own Family</title>
-<link>https://www.wired.com/story/the-deas-premier-crypto-detective-clues-led-straight-to-her-own-family</link>
-<guid isPermaLink="false">7b4f4d84b5324608b27d17b03e945d28cdaff727244e91077414a9cb5e0c4d19</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
-<description>To escape the chaos of her Russian childhood, Lili Infante became an American law enforcement prodigy. She pioneered the DEA’s investigations of the dark web—never suspecting who she’d find hiding there.</description>
-<enclosure url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acfcbe6a27337533938864e/master/pass/Crypto-Queen-Lili-Final_08.jpg" medium="image"/>
-</item>
-<item>
 <title>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
 <link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
 <guid isPermaLink="false">8231b6f9ea3f8bfffda492a722692ea691123db4b56577d66b077e9a6648656e</guid>
@@ -2816,17 +2838,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-rainbow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor</title>
-<link>https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html</link>
-<guid isPermaLink="false">2b433345de9bc12f06d26b410f4eb7c15f9e8e41e93bceff981af75e3d4eaf09</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 17:32:13 +0000</pubDate>
-<description>Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell. The vulnerabilities</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg" medium="image"/>
-</item>
-<item>
 <title>Third RCs for macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2 rolling out</title>
 <link>https://9to5mac.com/2026/10/19/third-rcs-for-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2-rolling-out</link>
 <guid isPermaLink="false">95cfc6ad4a9d68ab7c2762c7641bb12e7be4d7aa795ea9607102c1b2b1fd5a32</guid>
@@ -2880,17 +2891,6 @@
 <description>Apple Watch sleep apnea notifications launched two years ago. Since then, the health feature has been quietly working in the background and making a difference for people who may not know they need it. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor</title>
-<link>https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html</link>
-<guid isPermaLink="false">98fe862721adbe7cb835e226a2c58698efa3a9c6364425f27c644d8baf58f347</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 16:28:47 +0000</pubDate>
-<description>Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be treated as compromised, and the</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple announces special event for October 28: ‘Pro and tell’</title>
