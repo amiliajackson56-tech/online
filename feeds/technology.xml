@@ -4,22 +4,55 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>VCs, Superhuman Mail founder share red flags about product market fit</title>
+<title>Xbox’s first chief operating officer is out after just a few months</title>
+<link>https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure</link>
+<guid isPermaLink="false">7bee3a3c9519ed80c31b9418872d619bd2bee3abe868a9e4d8b7805750e50690</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 21:39:26 +0000</pubDate>
+<description>Xbox is losing its first chief operating officer (COO) after creating the new role just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>OpenAI now trains its frontier AI models with no internet access</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet</link>
+<guid isPermaLink="false">a6d2d5fdb7657f8a34ec9e61c18ba20954ad15d40397e484d28db50009013dd5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 21:11:07 +0000</pubDate>
+<description>OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_B_d6ffc8.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>VCs, Superhuman Mail founder share red flags about product-market fit</title>
 <link>https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit</link>
 <guid isPermaLink="false">d162a1c81ec2500ed1a8daffc9efdefb74ba63730ace0b9c0e955fded639e455</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 20:57:13 +0000</pubDate>
-<description>Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.</description>
+<description>Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.</description>
 </item>
 <item>
-<title>Abandoned Popcorn Time app exposed millions of device to RCE attacks</title>
+<title>Abandoned Popcorn Time app exposed millions of devices to RCE attacks</title>
 <link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks</link>
 <guid isPermaLink="false">0ae7a1508c3f482bfa2840b370d5c5eb5330221285429e5c3eaaa46ba96fa98d</guid>
 <source>BleepingComputer</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 20:55:05 +0000</pubDate>
 <description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]</description>
+</item>
+<item>
+<title>Hegseth warns prediction market bets warp military judgment, endanger troops</title>
+<link>https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk</link>
+<guid isPermaLink="false">d51890a8336ffb826202576aff7d4be1e5893bcf4a5e35e73a4f5b57d5218d1b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 20:28:43 +0000</pubDate>
+<description>Pentagon memo: Insider trading gives US enemies key intel on military operations.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today</title>
@@ -31,6 +64,17 @@
 <description>Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Updated Google privacy policy says your Gmail might be used for advertising</title>
+<link>https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising</link>
+<guid isPermaLink="false">1224eab7439ee9c5433ca4a1e76b9a9fe45f03c3104998047776105b3a5f1ec8</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 20:19:55 +0000</pubDate>
+<description>Turning on Personal Intelligence gives the company more data for ad targeting.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps</title>
@@ -86,6 +130,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Inside the Pentagon, the pressure is on to find a home for a new spaceport</title>
+<link>https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030</link>
+<guid isPermaLink="false">263663fe4afd661a8b90c8788fd180973e47f48e1ae80732a381f18d924f77c7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:33:58 +0000</pubDate>
+<description>Space Force considering options: public-private, federal installation, state land.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
 <guid isPermaLink="false">60b56cc3037dbda3a95126cc73210c100159f84d6a27e0e5e8c902267bb5813b</guid>
@@ -104,6 +159,17 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 19:25:13 +0000</pubDate>
 <description>A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.</description>
+</item>
+<item>
+<title>Spotify ramps up policy enforcement on family plans</title>
+<link>https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans</link>
+<guid isPermaLink="false">dd86620ec489c7dfd430ed038e2636f71f3de422c012866b2952e46c705db3cf</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:20:27 +0000</pubDate>
+<description>If you share Spotify sub with family, you may need to scan QR code to prove it.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2016/07/spotify-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>watchOS 27.2 gets new RC ahead of next week’s launch</title>
@@ -484,28 +550,6 @@
 <description>We are still tracking a solid Apple Pencil USB-C as low as $61 (more details here ), some exclusive discounts on some of our favorite new leather cases as well as other models from just $14 , and this launch deal on the best new Qi2 iPhone Duo MagSafe power bank yet. Check it all out below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-AirPods-iPhone-Duo-cases.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-AirPods-iPhone-Duo-cases.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights</title>
-<link>https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss</link>
-<guid isPermaLink="false">24257eb08dcdecc952fc49bde84c8965bd8e13d8168f1e0cb4b6fad1768e7d01</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 15:24:45 +0000</pubDate>
-<description>After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108, specifically rewriting […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24390349/22C0157_053.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites</title>
-<link>https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier</link>
-<guid isPermaLink="false">49ed1c1053b02f84e0cf65f8181ad4d11d6264edaf5cedbe667df27430e2083e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 15:16:24 +0000</pubDate>
-<description>SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&amp;T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access to […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1187777086.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach</title>
@@ -1376,28 +1420,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg" medium="image"/>
 </item>
 <item>
-<title>"Disillusioned" MAHA leader quits as Trump admin's food agenda spoils: Report</title>
-<link>https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report</link>
-<guid isPermaLink="false">4220fa75a0eb32f20df9b1132bf83bb4b2ebe296c35c29ef6d67efc629e2efec</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:04:06 +0000</pubDate>
-<description>The departure comes amid turmoil in Kennedy's Make America Healthy Again movement.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-2210915866-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Electric or gas? BMW goes both ways with new 2027 X5 and iX5.</title>
-<link>https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5</link>
-<guid isPermaLink="false">c316d15920213ecd30a6552df10e394f81eff6380c1e5c1e64b6e71f793a0877</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:01:23 +0000</pubDate>
-<description>460 kW charging and 450 miles of range are among the reasons the EV is the one to get.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/BMW-iX5-60-xDrive-Tanzanite-Blue_43-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>2027 BMW iX5 first drive: You'll love the range, but maybe not the look</title>
 <link>https://www.engadget.com/2291166/2027-bmw-ix5-first-drive</link>
 <guid isPermaLink="false">d981e283be68888fb0b5b737078e25556c511d8aac7ed1d917b9f363d9b82640</guid>
@@ -1440,17 +1462,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-browser-company-is-officially-killing-arc-on-december-22/l-intro-1792695105.jpg" medium="image"/>
 </item>
 <item>
-<title>Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales</title>
-<link>https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales</link>
-<guid isPermaLink="false">cf0e22c580e9cb5a6c2b062275fe48f386f8ebc6bad9198e9ac9a6a6e0e0f71f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:49:14 +0000</pubDate>
-<description>Searches for Samsung foldables just happened to skyrocket following iPhone Duo unveiling.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Galaxy-Z8-1-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon unveils Kindle+ subscription, a rebrand with more audiobooks</title>
 <link>https://9to5mac.com/2026/10/22/amazon-unveils-kindle-subscription-a-rebrand-with-more-audiobooks</link>
 <guid isPermaLink="false">b5d2858295bf31193a7a46cc3d181fbd2c3f888c979d76d82f8f1ffc8e82a892</guid>
@@ -1460,17 +1471,6 @@
 <description>Today Amazon announced that its Kindle Unlimited subscription has been rebranded ‘Kindle+’ and includes more audiobooks than before. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/kindle-plus.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/kindle-plus.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>US official: Russia's stalker satellite sure looks like an orbital weapon</title>
-<link>https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character</link>
-<guid isPermaLink="false">b1ac05b0b36fd2c937fce47b5a1928fb9c3967c1a30ac735dc2b8328cdf12106</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:29:39 +0000</pubDate>
-<description>The Russian official who called commercial satellites "legitimate targets" now says concerns are "unfounded."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vorontsov-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Bluesky adds iPad support in latest feature update</title>
