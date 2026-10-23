@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple’s website has fun new easter egg: a fully interactive iPod</title>
+<link>https://9to5mac.com/2026/10/23/apples-website-has-fun-new-easter-egg-a-fully-interactive-ipod</link>
+<guid isPermaLink="false">7b3fa5ba549876f51f8acb0140a59586c1f428e770f826b36a4eaa1647a89fa6</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 14:50:53 +0000</pubDate>
+<description>Today is the 25th anniversary of Apple unveiling the first iPod. And as discovered by Kian on X , the company’s website now has a fun new iPod easter egg. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ipod-easter-egg-apple-25th-anniversary.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ipod-easter-egg-apple-25th-anniversary.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Meta delays new business terms after publisher pushback on AI scraping</title>
+<link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
+<guid isPermaLink="false">7aa6acbd35f79e1aa638a6466c227c10d8921c3684b08de9cbfa308709c7ccea</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
+<description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</title>
+<link>https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade</link>
+<guid isPermaLink="false">374a21eda7a60ae88fd54fdab39f13ee651325dfeae152738b91a6224e59def5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 14:42:46 +0000</pubDate>
+<description>Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades including an improved sensor, an articulating LCD display, and longer battery life. But this time around Sigma is only claiming its new FP2 is the "world's […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>iOS 27.1 is exclusive to iPhone Duo, here’s why</title>
+<link>https://9to5mac.com/2026/10/23/ios-27-1-is-exclusive-to-iphone-duo-heres-why</link>
+<guid isPermaLink="false">e2c9658fa43114b833c6da2a8b3116e1221549fef6b206b45298b1500718dda7</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 14:28:56 +0000</pubDate>
+<description>iOS 27.1 has officially launched, but you wouldn’t know it by checking your iPhone’s Settings app. That’s because the latest iPhone update is exclusive to iPhone Duo. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-01.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27.1-01.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>You gave your AI agent access, but who is giving it orders?</title>
 <link>https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders</link>
 <guid isPermaLink="false">ba3749ef980b3b5303bef6f1bde3dd8355f473f96cb6d404da27e8d682d6dc0c</guid>
@@ -11,6 +55,28 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 14:00:10 +0000</pubDate>
 <description>AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]</description>
+</item>
+<item>
+<title>Our best tips for using the iPhone Duo</title>
+<link>https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe</link>
+<guid isPermaLink="false">9841a6fd366727bf2ec9585fe58654b65e8ff94ac8c31512f7796eec1a48edbb</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
+<description>The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple revives the original iPod as an Apple Music easter egg</title>
+<link>https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page</link>
+<guid isPermaLink="false">d118b0f8377dc4de6e9c6133718ac4cdfe111ce713dbfb1b3738150d327e71c8</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:58:43 +0000</pubDate>
+<description>If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's "Viva La […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Here’s how to get fastest iPhone Duo charging</title>
@@ -22,6 +88,17 @@
 <description>iPhone Duo supports fast charging in both wired and wireless setups, but only with the right accessories. Here’s what Apple says you’ll need. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-18.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
+<link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
+<guid isPermaLink="false">64b0ac9d140d11671a4acbe942ade27af436c73b5627240eb087f5c95f9a86d0</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:50:56 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. "Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg" medium="image"/>
 </item>
 <item>
 <title>The reactor meant to showcase nuclear’s comeback keeps hitting problems</title>
@@ -500,17 +577,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/01/apple-tv-logo-black.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Etsy is cracking down on AI slop listings</title>
-<link>https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing</link>
-<guid isPermaLink="false">89dfa46391845bd46a081e60278ecf54431d98f828a07ec710b8ec51e5084511</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 00:09:58 +0000</pubDate>
-<description>Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,82.725656291205" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-5.03.44-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,82.725656291205" medium="image"/>
-</item>
-<item>
 <title>Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta</title>
 <link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta</link>
 <guid isPermaLink="false">4c84086298b3685bbdd7cce57bdf4d2ae4ca8c98ab284d1a319a1a0492bc4095</guid>
@@ -560,28 +626,6 @@
 <description>Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with "advanced body armor."</description>
 <enclosure url="https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>Spotify says yes, it is busting people for using Family Plan sharing too widely</title>
-<link>https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes</link>
-<guid isPermaLink="false">01c9b3e379089355633b637a4d21c52694d05a2d8a76a62e29b8e0ab71edbb10</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 23:02:43 +0000</pubDate>
-<description>Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the "crackdown," he called it a […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25378910/STK088_SPOTIFY_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25378910/STK088_SPOTIFY_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The next-gen Xbox won’t cost you $1,800. It can’t. Can it?</title>
-<link>https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial</link>
-<guid isPermaLink="false">11bc32f4f4598ebdb65ef75de58595fd70cd0c8a082ee597deb85a0602ac6a2e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
-<description>Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23516635/adbenedetto_220508_5192_0047.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>MacBook Neo helps Apple soften the blow of global PC market downturn, per report</title>
@@ -677,17 +721,6 @@
 <description>"We need to keep our eyes on numerous required fuelings for the lander."</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx-1152x648.jpeg" medium="image"/>
-</item>
-<item>
-<title>Canva’s first AI image model plans designs before generating them</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model</link>
-<guid isPermaLink="false">5eee804247a435ab2dffe426bbbc3182cedc2a5bc7beefa07d081dcb6c6ccd27</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 21:51:25 +0000</pubDate>
-<description>Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for "greater precision, consistency and control," according to an […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple TV’s long-awaited Fleetwood Mac documentary finally has a release date</title>
@@ -2772,17 +2805,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg" medium="image"/>
 </item>
 <item>
-<title>Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
-<link>https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html</link>
-<guid isPermaLink="false">41ada449c348308462af326376ed7aeb364d09e9e0e0568610e4e3417f81d794</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 04:05:58 +0000</pubDate>
-<description>Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg" medium="image"/>
-</item>
-<item>
 <title>WhatsApp may soon let iPhone users open any link in an in-app browser</title>
 <link>https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser</link>
 <guid isPermaLink="false">36082a503589885a6d70cda3d16c8b10f0432b768fb7fd6f67fd99c5638fef66</guid>
@@ -3045,27 +3067,5 @@
 <description>Ahead of iPhone Duo’s launch on Friday, accessory maker BMX is releasing what appears to be one of the first MagSafe batteries designed specifically for Apple’s foldable. The BMX Duo is available to order now and can wirelessly charge your iPhone Duo (or any other iPhone) at up to 15W. You can pick it up on Amazon for $79.99. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-MagSafe-Power-Bank.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-MagSafe-Power-Bank.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming next year</title>
-<link>https://9to5mac.com/2026/10/18/new-revamped-iphone-lineup-coming-in-2027</link>
-<guid isPermaLink="false">2dbe64d56814d6b31b24b27430f9f26db65eb9d6bea0d5ef50d11c78f0175399</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 02:16:00 +0000</pubDate>
-<description>iPhone Duo preorders just begun, and iPhone 18 Pro has been on the market for about a month. Of course, iPhone Duo is backordered through January right now, so whether or not you’re considering buying these phones – it makes it really easy to think about what’s coming next. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/iPhone-20th-anniversary-mockup-ios26-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Here’s how iPhone Duo’s battery capacity compares to other iPhones</title>
-<link>https://9to5mac.com/2026/10/18/iphone-duo-battery-capacity-comparison</link>
-<guid isPermaLink="false">9604e126bbaaa1a515ebe1432f60caf0e3c428a1f17efa646900b332d4bf4f26</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 01:32:09 +0000</pubDate>
-<description>After pre-orders for iPhone Duo opened, Apple uploaded an EU regulatory document that finally revealed the true battery capacity for iPhone Duo: 4883mAh. Here’s how that compares to other iPhones. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-7.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
