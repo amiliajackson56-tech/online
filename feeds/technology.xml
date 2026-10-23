@@ -4,6 +4,61 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married</title>
+<link>https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married</link>
+<guid isPermaLink="false">e1d96a8a5344c140803efc20d542fc91e51b2d9f19ba317b6ef6ff9dda558743</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 10:15:00 +0000</pubDate>
+<description>Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.</description>
+<enclosure url="https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>What Type of Mattress Is Right for You? (2026)</title>
+<link>https://www.wired.com/story/mattress-types-explained-2026</link>
+<guid isPermaLink="false">1e3c3d5fa7864982dc8a16f23ad2db6a290bd5cffaa12d71e646a26407e91217</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 10:08:00 +0000</pubDate>
+<description>Here’s how to pick the best mattress for your sleep needs, straight from a professional mattress tester.</description>
+<enclosure url="https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg" medium="image"/>
+</item>
+<item>
+<title>No, the iPhone Duo isn’t a small phone</title>
+<link>https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini</link>
+<guid isPermaLink="false">b942f0399e0eb8dfc4f728ad262d75ba76215bf5ff48594a5208f30a26053a4a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+<description>When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. "Is this… a small phone that turns into a tablet?" they asked. And I'm sorry to be the bearer of bad news, but no. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04350_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Oura sues Ultrahuman (again) to block its latest smart ring from the US market</title>
+<link>https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro</link>
+<guid isPermaLink="false">543e2fdc7d50cb7ca2b78b129eac403ec234a71455877dd95eba502fedd043ed</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:59:15 +0000</pubDate>
+<description>Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.</description>
+<enclosure url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-again-to-block-its-latest-smart-ring-from-the-us-market/l-intro-1792749492.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-again-to-block-its-latest-smart-ring-from-the-us-market/l-intro-1792749492.jpg" medium="image"/>
+</item>
+<item>
+<title>Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
+<link>https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html</link>
+<guid isPermaLink="false">e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 09:36:00 +0000</pubDate>
+<description>Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg" medium="image"/>
+</item>
+<item>
 <title>8 Things to Know About the iPhone Duo</title>
 <link>https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo</link>
 <guid isPermaLink="false">397501996d51469ab9bab18c01c88073e58028af8302313a9abbad112581a372</guid>
@@ -572,17 +627,6 @@
 <description>'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/l-intro-1792698450.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/l-intro-1792698450.jpg" medium="image"/>
-</item>
-<item>
-<title>Sure, let’s smoosh SpaceX and Tesla together, who cares</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari</link>
-<guid isPermaLink="false">1c3f6e8b2704e3fb6b2bf2ae4d8fe5acd4bb99efe1d9efdba090ec6955d98e12</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:45:00 +0000</pubDate>
-<description>Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Ink droplets in motion snag top prize in Nikon Small World contest</title>
@@ -1475,17 +1519,6 @@
 <description>Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]</description>
 </item>
 <item>
-<title>Fortnite is coming back to Apple's Australian App Store following court ruling</title>
-<link>https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling</link>
-<guid isPermaLink="false">16c11d245efd277763981f84c5715044e404a4493baffe4c58eeb27302d94121</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 08:18:58 +0000</pubDate>
-<description>Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/l-intro-1792671387.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/l-intro-1792671387.jpg" medium="image"/>
-</item>
-<item>
 <title>Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
 <link>https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</link>
 <guid isPermaLink="false">4681e139a804e148c37ceed09c27eddf38b451dcdba462f0386d235726589a1b</guid>
@@ -2310,28 +2343,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Udemy Coupon Codes: 20% Off October 2026</title>
-<link>https://www.wired.com/story/udemy-promo-code</link>
-<guid isPermaLink="false">bdf16745c1dc381e10dcaac97140ef7acd4454b353e4aef36658bb375c37260f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Learn new skills for less. Discover how to apply a promo code for Udemy, find verified online discounts, and save on professional development.</description>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
-</item>
-<item>
-<title>Home Depot Promo Codes: 30% Off in October 2026</title>
-<link>https://www.wired.com/story/home-depot-promo-code</link>
-<guid isPermaLink="false">194487bd0d2583291cef395302bd20699a61ec10fde045728e85ee48c842cdb5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save up to 50% today with the latest Home Depot promo codes for appliances, power tools, and more this October.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
 <title>Apple is looking for a cellular modem engineer to help shape its transition to 6G</title>
 <link>https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g</link>
 <guid isPermaLink="false">02e0520cecac9d798764e9c9067a957a2feb20a66168a162654c02f5e4506b00</guid>
@@ -2924,17 +2935,6 @@
 <description>Apple marketing chief Greg Joswiak didn’t hold back when he described the most ambitious figures in the AI race as the “lunatic fringe” of Silicon Valley. The piece suggested that the iPhone maker is hoping to position itself as being on the right side of a growing AI backlash. Given the pace of development, trying to predict the future of AI is a risky business, but I do think Apple is absolutely right about the dangers … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-is-right-about-the-wild-west-of-AI-and-the-growing-backlash.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-is-right-about-the-wild-west-of-AI-and-the-growing-backlash.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More</title>
-<link>https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html</link>
-<guid isPermaLink="false">e6f76086848f718ff70f9bf84b6692c24974371aba24bfb2ef743b5309f12d42</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 14:14:07 +0000</pubDate>
-<description>The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Jason Sudeikis gives update on Ted Lasso seasons 5 and 6</title>
