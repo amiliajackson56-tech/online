@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>RS-25 Engine Tests at NASA Stennis</title>
+<link>https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis</link>
+<guid isPermaLink="false">1feb31ee95971ed050e24957f7d53e73257cd6e09afe58109404588023aec35d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 23 Oct 2026 18:57:04 +0000</pubDate>
+<description>Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA, Virginia Launch Power Partnership for Energy Security</title>
 <link>https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership</link>
 <guid isPermaLink="false">89fd2f07128809d53cf01f4755f70c3e20478c134888044f2f966c5d4b14369b</guid>
@@ -448,17 +459,6 @@
 <category>science</category>
 <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance</description>
-</item>
-<item>
-<title>NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions</title>
-<link>https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions</link>
-<guid isPermaLink="false">2aebac73f26263738da09919362edb1b69d3ae44989be2925ab89285a7061948</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 20:51:50 +0000</pubDate>
-<description>NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket. During […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024" medium="image"/>
 </item>
 <item>
 <title>Massive study of 460,000 people challenges ultra-processed food cancer fears</title>

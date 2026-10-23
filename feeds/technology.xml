@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Report: Apple gains ground in China as smartphone shipments hit 14-year low in Q3</title>
+<link>https://9to5mac.com/2026/10/23/report-apple-gains-ground-in-china-as-smartphone-shipments-hit-14-year-low-in-q3</link>
+<guid isPermaLink="false">3646b28c442eb44c2477c1dab905442bf47a02e74bc7f761f96337d1b0cd6f79</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:50:23 +0000</pubDate>
+<description>Rising memory prices continue to weigh on the global smartphone market, with shipments in China alone falling 10% year over year in Q3. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.webp?w=1500" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-burgundy-official.webp?w=1500" medium="image"/>
+</item>
+<item>
+<title>iPhone Duo has hidden trick that solves a common complaint</title>
+<link>https://9to5mac.com/2026/10/23/iphone-duo-has-hidden-trick-that-solves-a-common-complaint</link>
+<guid isPermaLink="false">d26cea6afda64b39b2dc683bd717f83e041401e132e2e8133ad7afb10aa68a1e</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:43:08 +0000</pubDate>
+<description>iPhone Duo is officially out in the wild, and users keep discovering new details about the device. The latest: there’s a hidden trick that makes opening Control Center significantly easier. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-front-home-screen-chm.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Abandoned Popcorn Time apps had to be disabled to prevent a zombie army</title>
+<link>https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided</link>
+<guid isPermaLink="false">3be5f2059474b551ba4ba9b8d30b2c160592dffcaaeb5a52313fa43eeda35e51</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:35:15 +0000</pubDate>
+<description>Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the "Netflix of Piracy" software is still installed on millions of devices that are just waiting to join a bot […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/15706750/CE_tJ_AUIAA9JV-.0.0.1456496896.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
+<guid isPermaLink="false">60b56cc3037dbda3a95126cc73210c100159f84d6a27e0e5e8c902267bb5813b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
+<description>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Carta and NewView partner, hoping to entice more startups to let employees sell shares early</title>
+<link>https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early</link>
+<guid isPermaLink="false">1ef66d48b49773e151766ea179f4acae2b82ebe583ba764f2c38ee62c7300067</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 19:25:13 +0000</pubDate>
+<description>A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.</description>
+</item>
+<item>
 <title>watchOS 27.2 gets new RC ahead of next week’s launch</title>
 <link>https://9to5mac.com/2026/10/23/watchos-27-2-gets-new-rc-ahead-of-next-weeks-launch</link>
 <guid isPermaLink="false">1e31edcb6fda5d7e16a312fa4de80e07c55d8f7d3fe3df5aa596d5f69abf0d5a</guid>
@@ -64,6 +117,17 @@
 <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" medium="image"/>
+</item>
+<item>
+<title>Soundcore’s latest noise-crushing headphones are on sale for a new low price</title>
+<link>https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale</link>
+<guid isPermaLink="false">75c55b9c071dc270e1d0b4b8b950789e8712514a675e813e1566c75e3d672ce1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 18:43:30 +0000</pubDate>
+<description>My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</title>
@@ -318,8 +382,8 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 16:09:39 +0000</pubDate>
 <description>The new restrictions are a test which is explicitly not supposed to impact these entities.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" medium="image"/>
 </item>
 <item>
 <title>What some of Anthropic’s backers are reportedly worth before its IPO</title>
@@ -426,28 +490,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ipod-easter-egg-apple-25th-anniversary.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Meta delays new business terms after publisher pushback on AI scraping</title>
-<link>https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping</link>
-<guid isPermaLink="false">7aa6acbd35f79e1aa638a6466c227c10d8921c3684b08de9cbfa308709c7ccea</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:47:41 +0000</pubDate>
-<description>Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951350/STK043_VRG_Illo_N_Barclay_6_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera</title>
-<link>https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade</link>
-<guid isPermaLink="false">374a21eda7a60ae88fd54fdab39f13ee651325dfeae152738b91a6224e59def5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:42:46 +0000</pubDate>
-<description>Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating LCD display, and longer battery life. But this time around, Sigma is only claiming its new FP2 is the "world's […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/sigmafp2_1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>iOS 27.1 is exclusive to iPhone Duo, here’s why</title>
 <link>https://9to5mac.com/2026/10/23/ios-27-1-is-exclusive-to-iphone-duo-heres-why</link>
 <guid isPermaLink="false">e2c9658fa43114b833c6da2a8b3116e1221549fef6b206b45298b1500718dda7</guid>
@@ -466,17 +508,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 14:00:10 +0000</pubDate>
 <description>AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]</description>
-</item>
-<item>
-<title>Our best tips for using the iPhone Duo</title>
-<link>https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe</link>
-<guid isPermaLink="false">9841a6fd366727bf2ec9585fe58654b65e8ff94ac8c31512f7796eec1a48edbb</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 14:00:00 +0000</pubDate>
-<description>The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Here’s how to get fastest iPhone Duo charging</title>
@@ -1398,15 +1429,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 18:43:53 +0000</pubDate>
 <description>Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.</description>
-</item>
-<item>
-<title>Former OpenAI science lead launches Warp Science to automate wet labs with robots</title>
-<link>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots</link>
-<guid isPermaLink="false">64aba7dfd5d83ac33be912330bfa38d6d7ce2343ebf03a51364561ecea99d154</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:38:47 +0000</pubDate>
-<description>Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.</description>
 </item>
 <item>
 <title>US official: Russia's stalker satellite sure looks like an orbital weapon</title>
@@ -3045,27 +3067,5 @@
 <description>Apple is rolling out the first RC for macOS 27.2 for developers and users enrolled in the public beta, ahead of the official release in the next few weeks. Here’s what to expect. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-rc.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-rc.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple releases iOS 27.2 RC for iPhone</title>
-<link>https://9to5mac.com/2026/10/19/apple-releases-ios-27-2-rc-for-iphone</link>
-<guid isPermaLink="false">29c987780ac05fee22d7164be6a1ba6a3bccfe0313239d66db08579a11be6045</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 17:25:37 +0000</pubDate>
-<description>Apple has released the first iOS 27.2 release candidate for iPhone. The update brings Apple’s next iPhone software release one step closer to its public launch. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-rc.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-rc.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple Watch warned a veteran about a health problem he didn’t know he had</title>
-<link>https://9to5mac.com/2026/10/19/apple-watch-warned-a-veteran-about-a-health-problem-he-didnt-know-he-had</link>
-<guid isPermaLink="false">32d51fdfc4dd0f505994bd0677c3763b6720beb3446c9099f5dd484e97fd5cba</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 17:16:52 +0000</pubDate>
-<description>Apple Watch sleep apnea notifications launched two years ago. Since then, the health feature has been quietly working in the background and making a difference for people who may not know they need it. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?w=1600" medium="image"/>
 </item>
 </channel></rss>
