@@ -4,6 +4,66 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
+<link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
+<guid isPermaLink="false">a9526976eeebfbfe11f723ec9d420402046ad8a284b661480087bc896dcebdb4</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
+<description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Quest Diagnostics confirms data breach exposed patient records</title>
+<link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records</link>
+<guid isPermaLink="false">651b9429c7fac0a1820a5cd6c7b7cf653a20b0761b5b1f7d58524fef14571e4c</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:40:07 +0000</pubDate>
+<description>American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]</description>
+</item>
+<item>
+<title>The first broken iPhone Duos are here</title>
+<link>https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</link>
+<guid isPermaLink="false">78beb7d4f0fc9b713aaa987b683024e5833f4c8537090701a61037df721c3762</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:37:03 +0000</pubDate>
+<description>The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts about the affected units on Reddit, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels</title>
+<link>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels</link>
+<guid isPermaLink="false">0ce7cbd00087eca3be5f741451d067401f435bde69a9d0d9d87b57ff7120189d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:26:29 +0000</pubDate>
+<description>Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.</description>
+</item>
+<item>
+<title>Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors</title>
+<link>https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors</link>
+<guid isPermaLink="false">5b36b8b6c58cbe52f6b5f9bc416e403f9d3055083ad175029e242219ef8aa51d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:20:28 +0000</pubDate>
+<description>Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.</description>
+</item>
+<item>
+<title>Elon Musk Just Dumped Another $76 Million Into the Midterms</title>
+<link>https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms</link>
+<guid isPermaLink="false">bc1d00b31c66d5914f075505ab8ada6acb829f63ad6893e3f9a0a92eec935a77</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:12:49 +0000</pubDate>
+<description>The trillionaire has given more than $445 million to Republican political groups this election cycle, as Democrats vow to investigate him.</description>
+<enclosure url="https://media.wired.com/photos/6adb5fd2c971dd84b8dc4ea5/master/pass/GettyImages-2246892016.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb5fd2c971dd84b8dc4ea5/master/pass/GettyImages-2246892016.jpg" medium="image"/>
+</item>
+<item>
 <title>Here’s everything new Apple TV has coming in November</title>
 <link>https://9to5mac.com/2026/10/23/heres-everything-new-apple-tv-has-coming-in-november-2</link>
 <guid isPermaLink="false">989d776584aefb82032db4e70f8eb894fecb9590007950e9cbdff585427da627</guid>
@@ -13,6 +73,17 @@
 <description>Apple TV’s November lineup includes the return of a beloved comedy , a heist thriller with big stars, the follow-up film to its Oscar winner, and a lot more. Here’s everything new coming to Apple TV in November. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-fall-foliage-logo.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-fall-foliage-logo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Meta is charging government and nonprofit pages to post links on Facebook</title>
+<link>https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook</link>
+<guid isPermaLink="false">f15cf1a9389e3dbb6b76a8a609b31c7768dfdad95528842dc1c53ab543d4d2fb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:09:39 +0000</pubDate>
+<description>The new restrictions are a test which is explicitly not supposed to impact these entities.</description>
+<enclosure url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792771543.jpg" medium="image"/>
 </item>
 <item>
 <title>What some of Anthropic’s backers are reportedly worth before its IPO</title>
@@ -178,7 +249,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 13:58:43 +0000</pubDate>
-<description>If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's "Viva La […]</description>
+<description>If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's "Viva La […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -282,17 +353,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2275802864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Brick’s new app blocker is designed for bedtime doomscrolling</title>
-<link>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</link>
-<guid isPermaLink="false">f934fe64859bc83c4c7eac5fbe10748b78fa67dbb1baea65bbe6fbaa23644260</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 12:50:17 +0000</pubDate>
-<description>Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
 <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws</link>
 <guid isPermaLink="false">7bc21a5f3f47a4c9560a376e1e45505fc8854a2b3ef937dd42be4847468f3307</guid>
@@ -311,17 +371,6 @@
 <description>Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grain covers. Those, of course, join some ultra-affordable models starting from $27 or less and you can scope them all out below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Retro gaming is being overrun with AI</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port</link>
-<guid isPermaLink="false">4958c298c8376221908566391457d63eb51c090af21e1db79aa61494ddb98cd1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<description>Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK465_VIDEO_GAMES_EMULATOR__CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark</title>
@@ -588,7 +637,7 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg" medium="image"/>
 </item>
 <item>
-<title>Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback</title>
+<title>Oura sues rival Ultrahuman again, threatening its US smart ring comeback</title>
 <link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback</link>
 <guid isPermaLink="false">a9c9ce1ad8c22ff44cfb4d4510ef1421bb928c2fada48d6220e9c162ecb8036b</guid>
 <source>TechCrunch</source>
@@ -597,13 +646,13 @@
 <description>Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.</description>
 </item>
 <item>
-<title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia</title>
+<title>Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia</title>
 <link>https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia</link>
 <guid isPermaLink="false">ad858d5150de79be8c33cefaec156e3e708836a60254460d2836d00fdb675d8d</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 04:00:00 +0000</pubDate>
-<description>inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.</description>
+<description>The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.</description>
 </item>
 <item>
 <title>Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch</title>
@@ -1340,15 +1389,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg" medium="image"/>
 </item>
 <item>
-<title>Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise</title>
-<link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise</link>
-<guid isPermaLink="false">d6886caf53962cb242055f894cb144e555b946cf5cdb7b076dc1c37482e4a2f8</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:47:17 +0000</pubDate>
-<description>Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.</description>
-</item>
-<item>
 <title>US-backed vaccine trial on babies canceled after international outcry</title>
 <link>https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled</link>
 <guid isPermaLink="false">50f0f4562805c3e59e32c92310a664ad84491f2692e82b6de0dd602741ddd8d0</guid>
@@ -1380,15 +1420,6 @@
 <description>Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" medium="image"/>
-</item>
-<item>
-<title>TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements</title>
-<link>https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements</link>
-<guid isPermaLink="false">f908687a2b61289ee13e99a7726bad03b66e29450bdc3498d4ec7064baea8415</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:00:00 +0000</pubDate>
-<description>Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.</description>
 </item>
 <item>
 <title>This emulator reimagines Nintendo’s Virtual Boy with a full color display</title>
@@ -1508,17 +1539,6 @@
 <description>Today on Mark Gurman’s Power On podcast , the prolific leaker offered fresh insights into several features in the works for future iPhone Duo models, including larger screen sizes and possibly a Telephoto camera. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iPhone Duo's next-gen prototypes are trying to cram in Face ID</title>
-<link>https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id</link>
-<guid isPermaLink="false">5cbd434729d5d6d970c0e2e1ba44628e482e7c4fc81482dfb1821194c9003c06</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 14:06:33 +0000</pubDate>
-<description>Apple's first foldable phone opted for a feature it replaced on most iPhone models nearly 10 years ago.</description>
-<enclosure url="https://www.engadget.com/img/gallery/follow-up-iphone-duo-prototypes-trial-faceid-instead-of-touchid/l-intro-1792677641.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/follow-up-iphone-duo-prototypes-trial-faceid-instead-of-touchid/l-intro-1792677641.jpg" medium="image"/>
 </item>
 <item>
 <title>Machine speed attacks require machine speed detection and response</title>
@@ -1925,15 +1945,6 @@
 <description>From Trump TV to a Shark Tank knockoff, the president’s latest entertainment ventures are a steep decline from his days on The Apprentice.</description>
 <enclosure url="https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad79880a4cc6513f80c0b7c/master/pass/GettyImages-2258686448.jpg" medium="image"/>
-</item>
-<item>
-<title>Lazarus hackers use post-quantum cryptography for malware delivery</title>
-<link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery</link>
-<guid isPermaLink="false">44a0be61ca3594a74fa5a6710333f58cb443be2b514d3a997a0269c47783ae5f</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 20:31:48 +0000</pubDate>
-<description>North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]</description>
 </item>
 <item>
 <title>Bose Is Buying Skullcandy. It’s Not as Weird as It Sounds</title>
@@ -2363,17 +2374,6 @@
 <description>From a calendar that keeps my family organized to a frame that rescues photos from my camera roll, these favorites make thoughtful gifts.</description>
 <enclosure url="https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad7b8e9fc73d5bd28140b67/master/pass/The%20Gifts%20Moms%20Actually%20Want%20Found%20by%20Moms%20(Update)%20102026%20top%20art%20SOURCE%20Weddell%20Water-Mina%20Baie-Kobo-The%20Zero%20Proof.jpg" medium="image"/>
-</item>
-<item>
-<title>Gaming Can’t Afford More Games the Size of ‘Grand Theft Auto VI’</title>
-<link>https://www.wired.com/story/make-big-games-smaller</link>
-<guid isPermaLink="false">c824f3f407108348bba9f0feae0408e4f26e95d16bb9e947ccf8daa3b6c985ae</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 11:00:00 +0000</pubDate>
-<description>Between crushing layoffs, ballooning budgets, and bland end products, video game makers need to stop chasing AAA glory.</description>
-<enclosure url="https://media.wired.com/photos/6ad7a0764809649ec79b3fcd/master/pass/Jason_and_Lucia_02.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad7a0764809649ec79b3fcd/master/pass/Jason_and_Lucia_02.jpg" medium="image"/>
 </item>
 <item>
 <title>Video shows French Apple store being emptied by looters</title>
