@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>People are vibe coding their way to better TVs</title>
+<link>https://www.theverge.com/tech/1016116/vibe-coding-tv-os</link>
+<guid isPermaLink="false">d690f00a2af6682a31a104709c9224ebc4fa12c29a58594da7b0914fdfc3c8dc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
+<description>Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Netflix can’t fire its way out of this downward spiral</title>
+<link>https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad</link>
+<guid isPermaLink="false">c1fe178486987bed375e1cc925cc83643dde8699e8ecb97494f667cca329b61a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
+<description>Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees, downsizing its product, tech, and legal departments, and was ousting its chief content officer, film chairman, and film vice president. But it had also hired a […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2275802864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2275802864.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Brick’s new app blocker is designed for bedtime doomscrolling</title>
+<link>https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch</link>
+<guid isPermaLink="false">f934fe64859bc83c4c7eac5fbe10748b78fa67dbb1baea65bbe6fbaa23644260</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 12:50:17 +0000</pubDate>
+<description>Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Brick-Night-app-blocker-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
+<link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws</link>
+<guid isPermaLink="false">7bc21a5f3f47a4c9560a376e1e45505fc8854a2b3ef937dd42be4847468f3307</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 12:48:00 +0000</pubDate>
+<description>Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]</description>
+</item>
+<item>
 <title>New iPhone Duo cases available for purchase: Fabric, leather, aramid fiber, metal, more [Updated]</title>
 <link>https://9to5mac.com/2026/10/23/best-iphone-duo-cases-now-available-purchase</link>
 <guid isPermaLink="false">b4eeb4877abab23ef0f710c24972c8128cbe4d5d7cac2462613fc0be72d61240</guid>
@@ -81,13 +123,13 @@
 <media:content url="https://www.engadget.com/img/gallery/tesla-says-it-will-no-longer-release-the-cybertruck-in-australia-and-new-zealand/l-intro-1792754657.jpg" medium="image"/>
 </item>
 <item>
-<title>URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
+<title>PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
 <link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
 <guid isPermaLink="false">d3e6fb1a3911b1e6b90b1f063808a68fb4504ce04882fd635da42147c19051ce</guid>
 <source>The Hacker News</source>
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 11:25:43 +0000</pubDate>
-<description>PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk. The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called</description>
+<description>PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg" medium="image"/>
 </item>
@@ -573,17 +615,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/fleetwood-mac-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>PC shipments dropped over 20 percent in Q3 due to RAM price hikes</title>
-<link>https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram</link>
-<guid isPermaLink="false">c2e4b9e500abf8ef6384a60b61802aa7b50a3fdcc3d7f5076e45d361faf0e4fa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 21:30:39 +0000</pubDate>
-<description>Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKS523_RAM_SHORTAGE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Railway warns devs to rotate secrets after potential breach</title>
 <link>https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach</link>
 <guid isPermaLink="false">36aa9e27eea04860f91c2ec0575d81bac8b3d6821a16928e64a130950a683a9d</guid>
@@ -591,17 +622,6 @@
 <category>technology</category>
 <pubDate>Thu, 22 Oct 2026 21:25:31 +0000</pubDate>
 <description>Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]</description>
-</item>
-<item>
-<title>Fall 2026 earnings watch</title>
-<link>https://www.theverge.com/tech/1016506/fall-2026-earnings-watch</link>
-<guid isPermaLink="false">f7509caa6c98a7eb8defa9d4729bc224945030ab7cf569bc51c412d22dcc96fb</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 21:15:16 +0000</pubDate>
-<description>Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next.</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS501_STOCKS_CVIRGINIA_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Comcast loses more customers, claims other ISPs' cheap prices are "irrational"</title>
@@ -633,17 +653,6 @@
 <description>Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.</description>
 <enclosure url="https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/l-intro-1792701864.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta&amp;#8217;s AI could still scrape news sites, legal experts say</title>
-<link>https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns</link>
-<guid isPermaLink="false">32b3170e24109d9a6879a006f0024083d479da17f893bd37f372c04cd23a5ba5</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 20:32:05 +0000</pubDate>
-<description>Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. "This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>iOS 27 adds new Phone app feature that’s an instant favorite</title>
@@ -2046,15 +2055,6 @@
 <description>iPhone Duo launches this Friday ( read our full review here ), but there’s one software feature Apple says won’t be ready until later this year: Reachability. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>PHP ships emergency patches for critical PHP2Shell flaws</title>
-<link>https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws</link>
-<guid isPermaLink="false">f6c2d70ba91928eb6d6a3008b6f35eb04c3d1b76816d55470faacc9138ea2d8a</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 14:07:05 +0000</pubDate>
-<description>The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]</description>
 </item>
 <item>
 <title>AI Guardrails Aren’t Stopping Criminal Hackers</title>
