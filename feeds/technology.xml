@@ -4,6 +4,24 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>VCs, Superhuman Mail founder share red flags about product market fit</title>
+<link>https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit</link>
+<guid isPermaLink="false">d162a1c81ec2500ed1a8daffc9efdefb74ba63730ace0b9c0e955fded639e455</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 20:57:13 +0000</pubDate>
+<description>Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail share the do's and don'ts for building hit products.</description>
+</item>
+<item>
+<title>Abandoned Popcorn Time app exposed millions of device to RCE attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks</link>
+<guid isPermaLink="false">0ae7a1508c3f482bfa2840b370d5c5eb5330221285429e5c3eaaa46ba96fa98d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 20:55:05 +0000</pubDate>
+<description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]</description>
+</item>
+<item>
 <title>Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today</title>
 <link>https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today</link>
 <guid isPermaLink="false">7e3cd99bb25a864c9bfa78e8fa45af30f53c12156e4ef2b8c2dcd123053b845c</guid>
@@ -1400,15 +1418,6 @@
 <description>Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.</description>
 </item>
 <item>
-<title>OpenAI makes its Jev competitor widely available as decision model competition heats up</title>
-<link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up</link>
-<guid isPermaLink="false">575971a63ca3280440cca30c119cc28f6be298c74431a429d801d629e7d610d5</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-<description>OpenAI is launching its decision model to the world. Can it compete with the original Jev?</description>
-</item>
-<item>
 <title>Daft Punk is getting an official Lego set</title>
 <link>https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set</link>
 <guid isPermaLink="false">7c08d94fe958a6df4075da18d807a543da037978a00f309dc98f3744e793ad0b</guid>
@@ -1958,15 +1967,6 @@
 <description>LiteLLM on Wednesday disclosed that threat actors compromised "multiple independent security controls" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg" medium="image"/>
-</item>
-<item>
-<title>Authorities disrupt nearly 11,000 cybercrime networks in Africa</title>
-<link>https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa</link>
-<guid isPermaLink="false">3c69dc4ed34903abf1374e597a914557bf4c712def148d6754e29a505d76f514</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 08:27:11 +0000</pubDate>
-<description>Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]</description>
 </item>
 <item>
 <title>Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
