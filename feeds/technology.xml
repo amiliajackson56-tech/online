@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display</title>
+<link>https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display</link>
+<guid isPermaLink="false">3890054f15d148a5fcee6af6f29ef9cefaa1e8a2656ea26d19b8d85dc15d67ef</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 23:50:49 +0000</pubDate>
+<description>In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Apple’s official DIY repair guides for the iPhone Duo now available</title>
 <link>https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available</link>
 <guid isPermaLink="false">980e8e3944b2eeae82f1f0ab217f153f2fca8f4b619360cf4b375686ee4001a9</guid>
@@ -3056,16 +3067,5 @@
 <description>HomePod owners, have you ever wished you could disable touch controls on the top of your device? With iOS 27.2, Apple is finally adding that option. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2018/02/homepod-apple-music.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2018/02/homepod-apple-music.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple is launching major new products next week, here’s what’s coming</title>
-<link>https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming</link>
-<guid isPermaLink="false">e8d12404af331f7183335e6add2cdbc6efc30bf2b748fb4cd5c3b5a3846f7c28</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 18:16:11 +0000</pubDate>
-<description>Apple just introduced HomeView alongside a new Apple TV and HomePod mini , but another product unveiling is already set for next week . Here are the new products expected to launch at Apple’s ‘Pro and tell’ event on October 28, including major updates to MacBook Pro and iPad mini. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-rainbow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-apple-park-rainbow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
