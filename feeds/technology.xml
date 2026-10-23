@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Fi’s GPS-equipped dog trackers are on sale for 30 percent off</title>
+<link>https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale</link>
+<guid isPermaLink="false">af25e18e067870e7ec4a160acc9e1fd64c1be31bf816df687b57238ecc86ec28</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:55:03 +0000</pubDate>
+<description>If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
+<link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
+<guid isPermaLink="false">14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:54:08 +0000</pubDate>
+<description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg" medium="image"/>
+</item>
+<item>
+<title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
+<link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
+<guid isPermaLink="false">6fb95eceef2a89d96948d566dbb004281ae2f9011c0a0c096d8652b0bd52402b</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:50:47 +0000</pubDate>
+<description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" medium="image"/>
+</item>
+<item>
+<title>Elon Musk’s dangerous grip on outer space</title>
+<link>https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly</link>
+<guid isPermaLink="false">24c8b8c3e7a4bc871c84923eab3cc458aefa8eb0e41d5a58d6ebfd3734d01b9f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:35:15 +0000</pubDate>
+<description>Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple publishes iPhone Duo support documents covering hinge, Touch ID, cases, more</title>
+<link>https://9to5mac.com/2026/10/23/apple-publishes-iphone-duo-support-documents-covering-hinge-touch-id-cases-more</link>
+<guid isPermaLink="false">12a20b86fd5b590acafe803869c7c59febb28fadd93a11ad6360b40e6eb9b2ed</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:34:43 +0000</pubDate>
+<description>Apple is publishing a slew of support documents today corresponding with the launch of iPhone Duo. The support documents cover Touch on iPhone Duo, troubleshooting hinge issues, and much more. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-02.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-02.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Crows can evaluate visual info twice as fast as mammals</title>
+<link>https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals</link>
+<guid isPermaLink="false">e4dbc4427b8e06dec6fa8b1c4d18fff9912ca55def93e6af88674d5b599107d9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:32:58 +0000</pubDate>
+<description>Birds' compact nervous system seems to help them handle tasks very quickly.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</title>
+<link>https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs</link>
+<guid isPermaLink="false">8c56e44a24b1f6b86bea44ac1882fe61dbf30956701c0eb01e1d0d1061a22e97</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 17:18:31 +0000</pubDate>
+<description>Company says foreign-made robotic vehicles are crucial to US chip production.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>iPhone Duo accessories: Here are five top picks for Apple’s foldable</title>
 <link>https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable</link>
 <guid isPermaLink="false">797b6b6c502994984f81553e0eeadd63c21b00909e6836e31e8d385c2ff22de9</guid>
@@ -46,6 +123,17 @@
 <media:content url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" medium="image"/>
 </item>
 <item>
+<title>RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns</title>
+<link>https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns</link>
+<guid isPermaLink="false">a45b2e70545381dfb3f765c2cfd9603f26009d5140d79c35155668d3a87c31c9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:58:39 +0000</pubDate>
+<description>"Trust is slow to build and quick to lose," board chair Jack Leslie said.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
 <link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
 <guid isPermaLink="false">a9526976eeebfbfe11f723ec9d420402046ad8a284b661480087bc896dcebdb4</guid>
@@ -55,6 +143,17 @@
 <description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Knicks sent employees fake offer of championship rings in phishing test: Report</title>
+<link>https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report</link>
+<guid isPermaLink="false">baf4e425336494568009606bb35fca4383d482f4df926098be9233b66b43af78</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:51:59 +0000</pubDate>
+<description>Corporate phishing tests are common, but this one was especially cruel.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/james-dolan-knicks-championship-1152x648-1792772606.jpg" medium="image"/>
 </item>
 <item>
 <title>Quest Diagnostics confirms data breach exposed patient records</title>
@@ -75,6 +174,17 @@
 <description>The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Everybody panic: A Valve developer said "HLX" in public</title>
+<link>https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public</link>
+<guid isPermaLink="false">6254381652fee23694cc11ec7f1a6b01ef7a71e66ccf767802a35f2e9a1a1bf1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 23 Oct 2026 16:35:00 +0000</pubDate>
+<description>Sound designer lets Half Life-related codename slip at a conference.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2017/08/024-1152x648-1740609184.jpg" medium="image"/>
 </item>
 <item>
 <title>Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels</title>
@@ -285,17 +395,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1057.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Apple revives the original iPod as an Apple Music easter egg</title>
-<link>https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page</link>
-<guid isPermaLink="false">d118b0f8377dc4de6e9c6133718ac4cdfe111ce713dbfb1b3738150d327e71c8</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 13:58:43 +0000</pubDate>
-<description>If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual re-creation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's "Viva La […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-23-at-9.37.49-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Here’s how to get fastest iPhone Duo charging</title>
 <link>https://9to5mac.com/2026/10/23/heres-how-to-get-fastest-iphone-duo-charging</link>
 <guid isPermaLink="false">0db28f78a8f596bea76d3720aa28713090ce3390afe7b49cd490c326fd8c5ce8</guid>
@@ -371,17 +470,6 @@
 <description>Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.</description>
 <enclosure url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" medium="image"/>
-</item>
-<item>
-<title>People are vibe coding their way to better TVs</title>
-<link>https://www.theverge.com/tech/1016116/vibe-coding-tv-os</link>
-<guid isPermaLink="false">d690f00a2af6682a31a104709c9224ebc4fa12c29a58594da7b0914fdfc3c8dc</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 13:00:00 +0000</pubDate>
-<description>Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/cleanyourtv-home-page.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
@@ -481,7 +569,7 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Crystal-Lake-via-Peacock-Matt-Infante-1000x648.webp" medium="image"/>
 </item>
 <item>
-<title>Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+<title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
 <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
 <guid isPermaLink="false">76da60089176983713f45816e41f527b55fd384f7508dfc491f47b7b2284b45e</guid>
 <source>The Hacker News</source>
@@ -1398,17 +1486,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Meta shocked by $25B fine after N.M. refused to join multistate settlement</title>
-<link>https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine</link>
-<guid isPermaLink="false">fc6250d56eea8ce54b5c521486dfd7e35fbbf25b73befbdd75a4999c1f97d5eb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:04:31 +0000</pubDate>
-<description>Meta will appeal a ruling imposing the largest fine Mark Zuckerberg has ever seen.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1968308632-1024x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes</title>
 <link>https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html</link>
 <guid isPermaLink="false">7c53f743c08237d2727ca65e473b4707a4d9bd06671d8e75282cc77ec6ec93c4</guid>
@@ -1418,17 +1495,6 @@
 <description>Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>US-backed vaccine trial on babies canceled after international outcry</title>
-<link>https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled</link>
-<guid isPermaLink="false">50f0f4562805c3e59e32c92310a664ad84491f2692e82b6de0dd602741ddd8d0</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 16:37:00 +0000</pubDate>
-<description>The decried trial was canceled last week before police seized vaccine doses.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-629400903-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Sundar Pichai (allegedly) draws the line at oceans</title>
@@ -1451,17 +1517,6 @@
 <description>Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" medium="image"/>
-</item>
-<item>
-<title>This emulator reimagines Nintendo’s Virtual Boy with a full color display</title>
-<link>https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display</link>
-<guid isPermaLink="false">99e417736ee4de3110f83160061fc49edf4a73954018b1781e71805723babe9e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:59:40 +0000</pubDate>
-<description>Tile-based color palettes go way beyond the four shades of red on original hardware.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/mtcolor.png" medium="image"/>
 </item>
 <item>
 <title>PC shipments are in the toilet, plunging over 20 percent from last year</title>
@@ -1517,17 +1572,6 @@
 <media:content url="https://media.wired.com/photos/6ada289019e924cf32885a66/master/pass/M4%20Mac%20Mini%20Deal%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
 </item>
 <item>
-<title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
-<link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability</link>
-<guid isPermaLink="false">4120829e1df6ee3e0518e30894d4e5fb0b7000962cabfdfb1a037e639aa05c49</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
-<description>Hackers were already probing the bug before defenders were told it existed.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/03/internet-routing-1000x648.jpeg" medium="image"/>
-</item>
-<item>
 <title>Fellow Aiden Precision Coffee Maker is $100 Off</title>
 <link>https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026</link>
 <guid isPermaLink="false">fc4a6daa690eb4dd9a07d4d466c238f44e94e0e19aa0a9b26cce84410cd0f3b1</guid>
@@ -1548,17 +1592,6 @@
 <description>iOS 27.2 launches next week with a variety of new features , and also design changes for select Apple apps. Here’s what’s coming. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-2-apple-music-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Sauron recruits his future Ringwraiths in Rings of Power S3 trailer</title>
-<link>https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer</link>
-<guid isPermaLink="false">91c9c74c0aa95457bec60c629b869e0db20e95c693673c1c7b326014ceaf6dea</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 14:22:31 +0000</pubDate>
-<description>"I will take my place as the conqueror, a sorcerer, a king."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/sauron-1152x648-1792610020.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/sauron-1152x648-1792610020.jpg" medium="image"/>
 </item>
 <item>
 <title>Leaker reveals larger iPhone Duo details, possible Telephoto camera</title>
@@ -2827,28 +2860,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSRX5Jjz6vqh8EcVVYoXU8S9qh0rFzQ3DDnjNIlkRrBq97brmk6hUw0u2pbLqyTAG1_mYfG9bGHCnMkgSMEPFu6fIR67F1jZMmS7G7-DFe6i7PtG_LzdTgHLCTXSwE5hCa2EApQeAIYGIMYATwbLEp-2FcPmV9aAHVqrRRBYk_wY7ZTuES0frFAPGjhnU/s1600/ovhcloud.jpg" medium="image"/>
 </item>
 <item>
-<title>ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan</title>
-<link>https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html</link>
-<guid isPermaLink="false">8aec3f414ba4d7d53ed495a2c530cf612b0449be043654da2e59a5f0d8e1a75c</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 07:11:45 +0000</pubDate>
-<description>Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg" medium="image"/>
-</item>
-<item>
-<title>Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge</title>
-<link>https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html</link>
-<guid isPermaLink="false">230574babe4817155f288cc377e2a21030e7ac5703b97ff011dc9b278e52b7fc</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 05:53:16 +0000</pubDate>
-<description>A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was "in frequent communications via WhatsApp</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeb26d3ZrVwM6eNTwdQo1zafwKL88-vR8Zgkx-9U2Tsx-uEF74-aA0C_rNsPd4xScYPiB9IBUG5-lw1cwRh9jIXqsZhxQCNdyp0AghllelHR5A92ovnUvvjw9uh2NUtfLPyhoyKv6EqQXK3jjp8nfDgnIBT6ZpeBOpNG0PTsuqleqg4Ht8VVgEjmy5_y4/s1600/openai-spy.jpg" medium="image"/>
-</item>
-<item>
 <title>WhatsApp may soon let iPhone users open any link in an in-app browser</title>
 <link>https://9to5mac.com/2026/10/19/whatsapp-may-soon-let-iphone-users-open-any-link-in-an-in-app-browser</link>
 <guid isPermaLink="false">36082a503589885a6d70cda3d16c8b10f0432b768fb7fd6f67fd99c5638fef66</guid>
@@ -3056,16 +3067,5 @@
 <description>Apple marketing chief Greg Joswiak didn’t hold back when he described the most ambitious figures in the AI race as the “lunatic fringe” of Silicon Valley. The piece suggested that the iPhone maker is hoping to position itself as being on the right side of a growing AI backlash. Given the pace of development, trying to predict the future of AI is a risky business, but I do think Apple is absolutely right about the dangers … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-is-right-about-the-wild-west-of-AI-and-the-growing-backlash.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-is-right-about-the-wild-west-of-AI-and-the-growing-backlash.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Jason Sudeikis gives update on Ted Lasso seasons 5 and 6</title>
-<link>https://9to5mac.com/2026/10/19/jason-sudeikis-gives-update-on-ted-lasso-seasons-5-and-6</link>
-<guid isPermaLink="false">fb378f04f81ac060bf9652e27b3b96baede86b316a7e902a25f03696a61b028c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 13:54:05 +0000</pubDate>
-<description>Ted Lasso season 4 wrapped up earlier this month, and there’s still no official word on the show’s future. But on a recent podcast appearance, Jason Sudeikis shared a new update on Ted Lasso season 5 and beyond. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ted-lasso-s4-coaching-trio.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
