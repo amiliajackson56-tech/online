@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Steam rolls out Personal Calendar feature that constantly updates recommended games</title>
+<link>https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games</link>
+<guid isPermaLink="false">72085d2e5a95917680ba8109719ad4e8a94918a56b7e31cce21b0cd104565fb9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 18:09:54 +0000</pubDate>
+<description>You can try out the new feature on the Steam store's homepage.</description>
+<enclosure url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" medium="image"/>
+</item>
+<item>
+<title>Xbox Game Pass could let you pick which features you pay for</title>
+<link>https://www.engadget.com/2296222/xbox-game-pass-pick-which-features</link>
+<guid isPermaLink="false">f36f1007d533a3af1e107ff800003877efe8f96b30640b778078fa42e9ac53b7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 18:00:00 +0000</pubDate>
+<description>Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.</description>
+<enclosure url="https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/xbox-game-pass-could-let-you-pick-which-features-you-pay-for/l-intro-1792860193.jpg" medium="image"/>
+</item>
+<item>
 <title>iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible</title>
 <link>https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later</link>
 <guid isPermaLink="false">4088f2f93a0c3a51c01fc13341da4035e2ecdca9a0ae0cc6da6c4a0bee06a146</guid>
@@ -1062,17 +1084,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-fall-foliage-logo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Meta is charging government and nonprofit pages to post links on Facebook</title>
-<link>https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook</link>
-<guid isPermaLink="false">f15cf1a9389e3dbb6b76a8a609b31c7768dfdad95528842dc1c53ab543d4d2fb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:09:39 +0000</pubDate>
-<description>The new restrictions are a test which is explicitly not supposed to impact these entities.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/l-intro-1792783602.jpg" medium="image"/>
-</item>
-<item>
 <title>What some of Anthropic’s backers are worth before its IPO</title>
 <link>https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo</link>
 <guid isPermaLink="false">b03ac20209c1fa007cb3bf7a2c6f7df34c1bfdd6b7f997a2444fc456013c5037</guid>
@@ -1091,17 +1102,6 @@
 <description>No, I haven’t managed to get my hands on a prototype pair of Apple Glasses , but I now have experience of the rough equivalents of what we’re expecting from both a 1st- and 2nd-gen product. In both cases, I could definitely see attractions, and I would absolutely upgrade to smart glasses if I wore conventional eyeglasses. But as someone who doesn’t, I can’t see the technology persuading me to do so … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple Music has a fun Easter egg for the iPod's 25th anniversary</title>
-<link>https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary</link>
-<guid isPermaLink="false">32e3822fd124d9f12a6aecb24aa745acec006327010ecd62eea32aeb89df9461</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 15:47:03 +0000</pubDate>
-<description>Time to dust off the click wheel.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/l-intro-1792770156.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/l-intro-1792770156.jpg" medium="image"/>
 </item>
 <item>
 <title>PHP shares mitigation for new RCE vulnerability with no patch</title>

@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Watch: Sportscene - Saturday's Scottish Premiership highlights</title>
+<link>https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">c5f4d13a1f0856fe0ed0eba25d4b59b3696b56e001b6e75188f5d03cc83ebe74</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 19:15:08 +0000</pubDate>
+<description>All the day's Scottish Premiership highlights and reaction.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjg7jq.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pjg7jq.jpg" medium="image"/>
+</item>
+<item>
+<title>Championship roundup: Southampton beat West Ham; QPR put five past Swansea</title>
+<link>https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea</link>
+<guid isPermaLink="false">a66cf4ea1472137836b34d9db7a79661195be4cfc87760108418ab98abecc9c0</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 18:11:23 +0000</pubDate>
+<description>Hammers humbled at home; Swansea thrashed 5-0 Burnley sack manager Hayen after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at the pre-season title favourites, West Ham . Kuryu Matsuki, James Bree and Lewis Dobbin were all on target in a chaotic first half, while Kyle Walker-Peters and Tomas Soucek replied for the Hammers. Nuno Espírito Santo’s side would have gone top with a win but instead saw their nine-match unbeaten run halted. There were thousands of empty seats by the end at the London Stadium, with those who stayed booing the Hammers off. Southampton, deducted four points at the start of the season, are now just two points behind West Ham. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/67b47d0cdcc31ff004aceacff22c702a3ad4e332/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8b0270924a069d1899f9b470dda9a30" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/67b47d0cdcc31ff004aceacff22c702a3ad4e332/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8b0270924a069d1899f9b470dda9a30" medium="image"/>
+</item>
+<item>
+<title>Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three</title>
+<link>https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship</link>
+<guid isPermaLink="false">4650b610c75bf4bdb39da91d34495a7961f9c0380648c176a76bf64e6284d7d5</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Sat, 24 Oct 2026 18:05:08 +0000</pubDate>
+<description>Belgian won only one of his 14 games in charge Relegated Burnley expected to challenge for promotion Burnley have sacked Nicky Hayen after only 14 games in charge, in the wake of a 4-1 defeat at Lincoln that left the Clarets in the Championship’s relegation zone. The Belgian was appointed in the summer as the permanent successor to Scott Parker, who left in April with relegation from the Premier League inevitable. He leaves having won just one match, a 4-0 league victory at Watford on 10 October. More to follow Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/74f6b99400b845036ecb40f39016d7581ac5b071/275_0_2390_1913/master/2390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db277246ca841706ab400fe9c246237d" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/74f6b99400b845036ecb40f39016d7581ac5b071/275_0_2390_1913/master/2390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db277246ca841706ab400fe9c246237d" medium="image"/>
+</item>
+<item>
 <title>Manager ins and outs - 2026-27</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">3efb359a049e2725cfddda9e148de7f89b8005f30c2cadca70192d5cfecdfb34</guid>
@@ -13,17 +46,6 @@
 <description>BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership, Women's Super League, English Football League and National League.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg" medium="image"/>
-</item>
-<item>
-<title>Hayen sacked by Burnley after just 14 games</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">25f084ed44339c8210dd5eb722d4fdfe74bb31b18b22510ef747f361da2fc554</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 17:52:22 +0000</pubDate>
-<description>Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png" medium="image"/>
 </item>
 <item>
 <title>Matos rues QPR display as Swansea suffer Yeo blow</title>
@@ -57,17 +79,6 @@
 <description>Rangers 4-0 St Johnstone; Dundee United 3-2 Aberdeen Kevin Kelsy scores two to sink 10-man Saints Derek McInnes asked his Rangers side to be “brilliant” against St Johnstone and was rewarded with a 4-0 Premiership win at Ibrox. After dropping two points at Dundee last Saturday , the Light Blues dominated the first half but only led at the interval through a goal in the 29th minute from Venezuela forward Kevin Kelsy. Saints started the second half brightly but goals from Gers striker Ryan Naderi in the 61st minute and Kelsy again five minutes later had the home side cruising. Saints substitute Kai Fotheringham was shown a straight red card by referee Chris Graham in the 74th minute for his high challenge on midfielder Nico Raskin, before substitute Tochi Chukwuani added a fourth for the hosts with three minutes remaining. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3dbdba43dcf69d3d2899b4059e75a487286ecd34/119_0_4830_3864/master/4830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b700bb43329980407b08257ec3854647" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3dbdba43dcf69d3d2899b4059e75a487286ecd34/119_0_4830_3864/master/4830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b700bb43329980407b08257ec3854647" medium="image"/>
-</item>
-<item>
-<title>Championship roundup: Southampton beat West Ham; QPR put five past Swansea</title>
-<link>https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea</link>
-<guid isPermaLink="false">a66cf4ea1472137836b34d9db7a79661195be4cfc87760108418ab98abecc9c0</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 16:36:57 +0000</pubDate>
-<description>Hammers humbled at home; Swansea thrashed 5-0 Burnley fans turn on manager after 4-1 loss at Lincoln Southampton announced themselves in the promotion race with a statement 3-2 win at the pre-season title favourites, West Ham . Kuryu Matsuki, James Bree and Lewis Dobbin were all on target in a chaotic first half, while Kyle Walker-Peters and Tomas Soucek replied for the Hammers. Nuno Espírito Santo’s side would have gone top with a win but instead saw their nine-match unbeaten run halted. There were thousands of empty seats by the end at the London Stadium, with those who stayed booing the Hammers off. Southampton, deducted four points at the start of the season, are now just two points behind West Ham. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/67b47d0cdcc31ff004aceacff22c702a3ad4e332/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8b0270924a069d1899f9b470dda9a30" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/67b47d0cdcc31ff004aceacff22c702a3ad4e332/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8b0270924a069d1899f9b470dda9a30" medium="image"/>
 </item>
 <item>
 <title>Spurs boss Ho wants 'more support and training' for WSL referees</title>
@@ -246,17 +257,6 @@
 <media:content url="https://i.guim.co.uk/img/media/aab6e61ebd056475fe180ef9e10f31aeb623b470/103_0_1244_995/master/1244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b21165487ec66ee71ba7900a2bd82243" medium="image"/>
 </item>
 <item>
-<title>Villa could reconsider Garnacho deal - Saturday's gossip</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ec3d7ffa243c83d54be82fa5e95ca5cf663aeec655e397042cb07f8a379cf728</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 21:32:04 +0000</pubDate>
-<description>Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand firm on Diego Gomez amid interest, Manchester United managerial candidates concern over players, plus more.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d9/live/a1de3530-cf25-11f1-a701-fddedf244c16.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d9/live/a1de3530-cf25-11f1-a701-fddedf244c16.png" medium="image"/>
-</item>
-<item>
 <title>Premier League news: Spurs’ nine injuries ‘normal’, says De Zerbi; ‘emotional control’ keeps Blues red-free</title>
 <link>https://www.theguardian.com/football/2026/oct/23/premier-league-news-spurs-nine-injuries-normal-says-de-zerbi-emotional-control-keeps-blues-red-free</link>
 <guid isPermaLink="false">3e41ebe88e59f18b4ffb42fb0b4d89a6e9f706fa612e50ad742d4b85ae666fee</guid>
@@ -431,17 +431,6 @@
 <description>The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift it into a new era? For the best part of a decade, el clásico was more than just soccer’s biggest fixture. It was the defining narrative. At the peak of the Lionel Messi v Cristiano Ronaldo era, there were clásicos everywhere. Yes, when the two historic rivals clashed on the pitch, but also in the voting for the Ballon d’Or every year and in so much of the discourse around the sport. As the Messi-Ronaldo rivalry faded, though, so too did the clásico ’s relevance. This isn’t to say matches between Barcelona and Real Madrid no longer matter. They always have and always will. In 2026, however, it’s difficult to measure a clásico ’s standing. Is it still the sport’s biggest fixture? Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/521f936beee71362840134226fb34a8bf55920fe/446_0_3885_3108/master/3885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a38c464ac0f276b448428a69f817b2c" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/521f936beee71362840134226fb34a8bf55920fe/446_0_3885_3108/master/3885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a38c464ac0f276b448428a69f817b2c" medium="image"/>
-</item>
-<item>
-<title>Asian Football Confederation backs Gianni Infantino in U-turn on Fifa presidency</title>
-<link>https://www.theguardian.com/football/2026/oct/23/asian-football-confederation-backs-gianni-infantino-u-turn-fifa-president</link>
-<guid isPermaLink="false">ee14118f4c6793ac1c8988bb05be56c307111c111b7ea9eda186adf7e7177a76</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Fri, 23 Oct 2026 07:37:56 +0000</pubDate>
-<description>AFC president Sheikh Salman praises and hugs Infantino It had stood with Uefa and Concacaf against him The Asian Football Confederation has endorsed Gianni Infantino for another term as Fifa’s president in a turnaround in its stance from two months ago when it criticised the head of football’s world governing body for a breach of trust. The AFC president, Sheikh Salman bin Ibrahim al-Khalifa, speaking at the body’s extraordinary congress in Tokyo on Friday, embraced Infantino with a large hug in front of the membership as he delivered his endorsement. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/ebf25ffdb51aebed3eee9c1b6c5642a83c72a753/0_501_2930_2343/master/2930.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cc4e5e8050069d5ef141f509fc282fc" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/ebf25ffdb51aebed3eee9c1b6c5642a83c72a753/0_501_2930_2343/master/2930.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cc4e5e8050069d5ef141f509fc282fc" medium="image"/>
 </item>
 <item>
 <title>Chaotic state of football in Brazil epitomises a nation where greed has conquered glory | Jonathan Liew</title>
@@ -1104,24 +1093,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b7a/live/37a319f0-8c0f-11f1-aa8b-ebe30ab3ea99.jpg" medium="image"/>
 </item>
 <item>
-<title>- The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE9qclpmZ3VtWnpRNHFLRXRZZ1IzY3JfYng3MkxVQ1BWQnlvU1k4UFpFZURIV0c5aXYzZ1RkUUs2dU9qTFR2dHhMXzU1eF9JcUhJdUNra19Ud1lUTmw0V2dwTWtBeGM1RDV2dHl6czhRQVFIdw?oc=5</link>
-<guid isPermaLink="false">b324a5fe1566d232aacfe95c732a954204180a6e07525ec5f5c46484feb54662</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Thu, 25 Jun 2026 19:55:20 +0000</pubDate>
-<description>The New York Times</description>
-</item>
-<item>
-<title>Fantasy Premier League - The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMirAJBVV95cUxQTjI0dGlJSVBtbWlqa0RTcDJFZDVrbUZIRWFDbVByd0dxbkVRZHUzUGlIQ3J3eGE1SkdxN3dJZkpFSm1wVWJvbEtBQkd5Tk9iaEQzbnRKcVJ5U3JLMElhQWliMW0tR3Fmel9BOThfLXZnQlk2RDQxVWZ5eXJKV3Y3c1Y0bmVtSHJWSTFIekVZenpRcHpuUmxWbDZaUzRoLUVRUHFRWjY2NjBCYWRXV29KbWRtNThvMkY3Nm9QM1l3b2Vhd2VHdlpjWlVqTzg5TmRJa2g3Vm5GSU85WDctNXhTUlZDT2ducnlpQmNCRWI4QlZmaWdxVm10VDdrY2MwT0F5SFNFWHQwQXhlVkQtbTFtRWdrZHdUX0xOWU5mSzFUZjVvT3huVnJaanhJTVI?oc=5</link>
-<guid isPermaLink="false">e57c149562d93c69e9a69b597d37118d9f2201117ce269269eb8b85c78dc1b5b</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Thu, 25 Jun 2026 15:27:18 +0000</pubDate>
-<description>Fantasy Premier League - The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
-</item>
-<item>
 <title>Fabregas, film stars and Disney: How Como are disrupting Italian football</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cql7r97wg72o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d6e6cb640575afc51a4fcfd12d5bda0b698cccd79eae48a45a3caa3bb18bb64f</guid>
@@ -1188,24 +1159,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b7a46323e34ae0f276ea93357ff4360b054e7ca4/188_0_1260_1008/master/1260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0c3608d3f3b828766de547a76ad04c8" medium="image"/>
 </item>
 <item>
-<title>The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWmNtZEprZnlZTWxrV1NlS1FUdmJRRkFaSnFpNnpUdzluaVQ1M3ptSmNPWFVaMjVuR3JVcERvWjJXbl9yZ18tSGZnTm9CcWlpbVcyWkRnZ0ZvYVlkUllZc0VrZVV0NG1FVlhhQ0dlc0tSWmpOeFZMUFQxaS0xZDh1dk9fbkk5TDhpZTNFRnE4YmNpbmZjRWFoT0kwQmhzX2NGNWVISF9oZjdTNGx1YngxWUVZTFpERDFBSmF5QXNCVDBsWEJtVUV6UFJDNXBwWjl0NnpMMXVRWVYyRWFVaHpvb3V4clZTWGNPN1Bv?oc=5</link>
-<guid isPermaLink="false">0a2ea7fa1091a32c528ca7b1b8325bb3c49e7becf19f5318a3d2c5f509417843</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Fri, 20 Oct 2023 14:04:49 +0000</pubDate>
-<description>The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
-</item>
-<item>
-<title>The Athletic Hockey Show - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBtUFJhcUVUcElBTEFvS3dHRGVnS3lLbWplbGU2RkdFTUV3eUgwRU9Jc1ZpMGZTMzAxS3Bad2ZNMEViaG1BRGI5QTNHSUtodlVMTmF4bHJBbGNJSVBPX1VQYWNrYVMzV0N2S280TE14cmwyeC1oYUQyeWNqclcxZw?oc=5</link>
-<guid isPermaLink="false">3aa7df0ddc030e5d63205f28b4d7561eb9f8b02c1a5309a31f23d2f9a3fb8d27</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Tue, 24 Jan 2023 16:30:32 +0000</pubDate>
-<description>The Athletic Hockey Show The New York Times</description>
-</item>
-<item>
 <title>Sign up for the Football Daily newsletter: our free football email</title>
 <link>https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up</link>
 <guid isPermaLink="false">460ad2f2fec001d72308532cafa675e4fb9df12acfe709b09709f25433b4b89f</guid>
@@ -1226,15 +1179,6 @@
 <description>Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainly by Júlia Belas Trindade and Sophie Downey , expect guest appearances from stars such as Anita Asante, Ada Hegerberg and many more. Try our other sports emails: as well as the occasionally funny football email The Fiver from Monday to Friday, there are weekly catch-ups for cricket in The Spin and rugby union in The Breakdown , and our seven-day roundup of the best of our sports journalism in The Recap . Living in Australia? Try the Guardian Australia’s daily sports newsletter Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" medium="image"/>
-</item>
-<item>
-<title>Apple Web Login - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PbkNQeHhzZlNYekFuRGxJNlI3aWgxcl9OSmNtZnRnc1pUY1pDeF9kaWF0b1NZYjk3QlJBRU1wdTh3bFFLY3habGpsVHBCYjZBRHc?oc=5</link>
-<guid isPermaLink="false">a8129c35e94eb771da2bab7eeb2aaebd4eb3066539492647fccc47bbbc19279d</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Wed, 10 Feb 2021 16:12:43 +0000</pubDate>
-<description>Apple Web Login The New York Times</description>
 </item>
 <item>
 <title>Sign up for the Recap newsletter: our free sport highlights email</title>
