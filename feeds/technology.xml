@@ -4,6 +4,66 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
+<link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot</link>
+<guid isPermaLink="false">9fcce94ed3b1e9c4958aa9fdf55861c308d71d460948b415bee4d65d0c6e4d18</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 14:17:32 +0000</pubDate>
+<description>A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]</description>
+</item>
+<item>
+<title>The Boox Palma 2 Pro finally got me to stop reading on my phone</title>
+<link>https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone</link>
+<guid isPermaLink="false">fb5869dc8a1308905fa7ab56135bbebaa4868cafd3396e3ea20681f377150893</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 14:15:00 +0000</pubDate>
+<description>The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.</description>
+</item>
+<item>
+<title>What to expect from Apple’s ‘Pro and tell’ event</title>
+<link>https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro</link>
+<guid isPermaLink="false">113d21fe355362b4395b6be9909be01c41bd0142c02b0f7b39c4000c10eee7ba</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 14:15:00 +0000</pubDate>
+<description>It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its "Pro and tell" event is scheduled for October 28th at 1PM ET in Los Angeles. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Here are the top AI agents that can live in your text messages</title>
+<link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages</link>
+<guid isPermaLink="false">f75803cafe6ee4fcd06d7b79b71d8b7edd92241656a4ece7c27e7b1f651b60f0</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+<description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
+</item>
+<item>
+<title>I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop</title>
+<link>https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis</link>
+<guid isPermaLink="false">79912674b2ceb12330c39dea8018e01677fe679a73b6234b912208c3b9039015</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+<description>It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The MacBook Neo uses an iPhone chip, and it's just good enough</title>
+<link>https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance</link>
+<guid isPermaLink="false">dc37b816fde05cc9f5d8d1b20072eeac7f544765251e3bee9774dd7a964482c2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
+<description>The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-macbook-neo-uses-an-iphone-chip-and-its-just-good-enough/l-intro-1792434494.jpg" medium="image"/>
+</item>
+<item>
 <title>How to get better iPhone battery life without closing any apps</title>
 <link>https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps</link>
 <guid isPermaLink="false">a8d822ccfb4a103314b3bac68c6b3e0d1fa38255e069b0a0817ba158aedff85f</guid>
@@ -690,17 +750,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Switchbot-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Fi’s GPS-equipped dog trackers are on sale for 30 percent off</title>
-<link>https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale</link>
-<guid isPermaLink="false">af25e18e067870e7ec4a160acc9e1fd64c1be31bf816df687b57238ecc86ec28</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:55:03 +0000</pubDate>
-<description>If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested, which is down to […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Fi-Ultra-Dog-Collar-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
 <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
 <guid isPermaLink="false">14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2</guid>
@@ -721,17 +770,6 @@
 <description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" medium="image"/>
-</item>
-<item>
-<title>Elon Musk’s dangerous grip on outer space</title>
-<link>https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly</link>
-<guid isPermaLink="false">24c8b8c3e7a4bc871c84923eab3cc458aefa8eb0e41d5a58d6ebfd3734d01b9f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:35:15 +0000</pubDate>
-<description>Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKB355_SPACE_X_IPO_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple publishes iPhone Duo support documents covering hinge, Touch ID, cases, more</title>
@@ -1602,15 +1640,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Rivian buys world model startup to accelerate self-driving ambitions</title>
-<link>https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions</link>
-<guid isPermaLink="false">7937df720c2cd039dc034db93fb69c7a1b5c13e6eaf0afab138ec991e7f93675</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 21:05:05 +0000</pubDate>
-<description>Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.</description>
-</item>
-<item>
 <title>A new subscription service promises an evolving collection of 'bold and bizarre' indie games</title>
 <link>https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games</link>
 <guid isPermaLink="false">c17378555676fa4fb210df5a0cd24fc2a22a40b0e235c162595986976e0f195f</guid>
@@ -1642,17 +1671,6 @@
 <description>Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]</description>
 </item>
 <item>
-<title>Spotify's Family plan QR code could cost you Premium access</title>
-<link>https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access</link>
-<guid isPermaLink="false">1ec4d9691b53d8ff24552db078caec9410f47750a031fd7306b212f0f2442b4f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 20:19:19 +0000</pubDate>
-<description>Spotify is trying to make some Premium Family members prove they live at the same address.</description>
-<enclosure url="https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/spotifys-family-plan-qr-code-could-cost-you-premium-access/l-intro-1792700036.jpg" medium="image"/>
-</item>
-<item>
 <title>iPhone Duo hands-on review, Apple announces MacBook Pro and Tell event</title>
 <link>https://9to5mac.com/2026/10/22/happy-hour-613</link>
 <guid isPermaLink="false">23408198b638a0b9df6d491df9d07e603510f004e4148c9dc7e549fea4f0b01e</guid>
@@ -1673,15 +1691,6 @@
 <description>My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.</description>
 <enclosure url="https://media.wired.com/photos/6ada2a91587bb57d09e564bf/master/pass/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada2a91587bb57d09e564bf/master/pass/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg" medium="image"/>
-</item>
-<item>
-<title>Arc browser sunsets December 22 as The Browser Company doubles down on Dia</title>
-<link>https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia</link>
-<guid isPermaLink="false">1e1f43ab874ca653bae69da56141981a90412db2f17684b79b66f5d899abea29</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 20:01:51 +0000</pubDate>
-<description>Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.</description>
 </item>
 <item>
 <title>The Social Society Helping Women Join the AI Boom</title>
@@ -2046,15 +2055,6 @@
 <description>We posted our own review of the iPhone Duo yesterday, and Chance Miller was left convinced that “this form factor represents the future of the iPhone,” while acknowledging that the first-gen iPhone Duo comes with trade-offs. I think what surprised me most is the degree of consensus found across the reviews, given the generally polarized appeal of foldable phones. That’s not to say reviewers think everyone should buy one, but there is widespread agreement on the pros and cons – starting with five key takeouts … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-20-1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-20-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>GitLab warns of new max severity code execution vulnerability</title>
-<link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability</link>
-<guid isPermaLink="false">d92b1c2b7f1896bbc9489492da9573324687166522a14f86b7ee88bebdda06a1</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:41:48 +0000</pubDate>
-<description>GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]</description>
 </item>
 <item>
 <title>Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
