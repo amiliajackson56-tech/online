@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
+<link>https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</link>
+<guid isPermaLink="false">ad7396463092f2b221e8ab244af2e43aab958163a26c2149f54d22f5a28be300</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 06:25:57 +0000</pubDate>
+<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display</title>
 <link>https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display</link>
 <guid isPermaLink="false">3890054f15d148a5fcee6af6f29ef9cefaa1e8a2656ea26d19b8d85dc15d67ef</guid>
@@ -2946,17 +2957,6 @@
 <description>Apple is limiting iPhone Duo orders to a maximum of two per customer in the US, UK, and elsewhere after shipping dates slipped into January of next year within minutes of pre-orders opening . The move appears to be an attempt to tackle the problem of scalping, where people buy large volumes of supply-constrained devices in order to resell them on eBay for well above the retail price … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-orders-limited-to-two-per-customer-as-Apple-tackles-scalping.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPhone-Duo-orders-limited-to-two-per-customer-as-Apple-tackles-scalping.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident</title>
-<link>https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html</link>
-<guid isPermaLink="false">c5b05c57ce229dc75fd52ef1615c0f1b4756e48c474e2b8b65fe06f9c26ae87f</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 10:56:08 +0000</pubDate>
-<description>ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup. The company said it has completed the following actions since it began</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple @ Work Podcast: A look at recent Apple security updates</title>
