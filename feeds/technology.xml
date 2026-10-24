@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>PHP-ocalypse: How two critical web bugs almost broke the internet</title>
+<link>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet</link>
+<guid isPermaLink="false">4fa8aa9d887f52d8889ce69ce8258512f109454cf972cbcfaa00d996f81d95f4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:30:00 +0000</pubDate>
+<description>Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.</description>
+</item>
+<item>
+<title>What is Theater Mode on your Apple Watch and when should you use it?</title>
+<link>https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch</link>
+<guid isPermaLink="false">d016d14f0f3da0948aa6940121844640083632eae3c1866394d737e8736880a7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:30:00 +0000</pubDate>
+<description>There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-theater-mode-on-your-apple-watch-and-when-should-you-use-it/l-intro-1792501458.jpg" medium="image"/>
+</item>
+<item>
 <title>These clever apps show off the iPhone Duo’s potential</title>
 <link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential</link>
 <guid isPermaLink="false">fe5d9d4e3909658c8de1488fb50948bb490b3ec22a986b1495f1e60ac4ca8b07</guid>
@@ -1322,17 +1342,6 @@
 <media:content url="https://media.wired.com/photos/6ada561615aedf0df959752a/master/pass/What%20Type%20of%20Mattress%20Is%20Right%20for%20You%20102026.jpg" medium="image"/>
 </item>
 <item>
-<title>Oura sues Ultrahuman (again) to block its latest smart ring from the US market</title>
-<link>https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro</link>
-<guid isPermaLink="false">543e2fdc7d50cb7ca2b78b129eac403ec234a71455877dd95eba502fedd043ed</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 09:59:15 +0000</pubDate>
-<description>Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.</description>
-<enclosure url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/oura-sues-ultrahuman-yet-again-ring-pro/l-intro-1792756423.jpg" medium="image"/>
-</item>
-<item>
 <title>Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
 <link>https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html</link>
 <guid isPermaLink="false">e21e419ebac57752b2c8585063713a38c926778fef1e895d6969b0079746f373</guid>
@@ -1521,15 +1530,6 @@
 <description>The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beautiful Nintendo DS layouts that use the full size of the inner display, and cleverly spans the crease when partially folded in book mode in portrait. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-delta-game-emulator.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-delta-game-emulator.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Warhound raises $200M to engineer war dogs and arm them with Anduril gear</title>
-<link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear</link>
-<guid isPermaLink="false">1e3ccb6f908d96a99faed16afaa3072168acae211b38d42a72e9cc09ec8a4448</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 23:15:00 +0000</pubDate>
-<description>Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.</description>
 </item>
 <item>
 <title>Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup</title>
