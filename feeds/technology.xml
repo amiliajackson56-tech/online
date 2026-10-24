@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Laika has spent 20 years building up to Wildwood</title>
+<link>https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika</link>
+<guid isPermaLink="false">d7892e3bcefec72b9e941c36e9f2c04f4ae22c07fdb9a7eee75c8a272328a72e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description>Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his first stop-motion project: working […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/09450646-b085-11f1-90b9-46f10a3e57b0_3600.1360.cmp_.def_.out_.002._L.0059.UNAPPROVED.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>It’s time to find a new browser</title>
+<link>https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer</link>
+<guid isPermaLink="false">2567687dd6d0de8842a1ee24059fd2e8d4eca6636a342a6d39633a8e13a6ba54</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description>Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The PHP Meltdown Shows How AI Makes Bugs More Exploitable</title>
+<link>https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable</link>
+<guid isPermaLink="false">1edb80b635d46123cf3022a6dac28e4d6de0967bbef41b97a61a6efb88711bcf</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
+<description>Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.</description>
+<enclosure url="https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg" medium="image"/>
+</item>
+<item>
 <title>Peak on consoles, hockey roguelites and other new indie games worth checking out</title>
 <link>https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out</link>
 <guid isPermaLink="false">aa32569e42eaacd3a62c515e8422f95c235651d9e1024e818975ee130a6ccd6b</guid>
@@ -655,17 +688,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298718210-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Now Google says it might use your Gmail and Google Photos data to target ads</title>
-<link>https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update</link>
-<guid isPermaLink="false">a9526976eeebfbfe11f723ec9d420402046ad8a284b661480087bc896dcebdb4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:52:55 +0000</pubDate>
-<description>Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority, adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Knicks sent employees fake offer of championship rings in phishing test: Report</title>
 <link>https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report</link>
 <guid isPermaLink="false">baf4e425336494568009606bb35fca4383d482f4df926098be9233b66b43af78</guid>
@@ -684,17 +706,6 @@
 <category>technology</category>
 <pubDate>Fri, 23 Oct 2026 16:40:07 +0000</pubDate>
 <description>American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]</description>
-</item>
-<item>
-<title>The first broken iPhone Duos are here</title>
-<link>https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen</link>
-<guid isPermaLink="false">78beb7d4f0fc9b713aaa987b683024e5833f4c8537090701a61037df721c3762</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:37:03 +0000</pubDate>
-<description>The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/20ruxzn728xh1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Everybody panic: A Valve developer said "HLX" in public</title>
@@ -2396,17 +2407,6 @@
 <description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg" medium="image"/>
-</item>
-<item>
-<title>GM Wants Your Car to Do Your Chores</title>
-<link>https://www.wired.com/story/gm-wants-your-car-to-do-your-chores</link>
-<guid isPermaLink="false">f34984eb9c780449d968f8a9741cd660c6de0ad95d44c743bea20f141d3bfc48</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:00:00 +0000</pubDate>
-<description>The Detroit automaker wants your next vehicle to be a personal assistant, a best friend, and an autonomous errand-runner.</description>
-<enclosure url="https://media.wired.com/photos/6ad86a30ddab9d722491775f/master/pass/2027%20Cadillac%20Escalade%20IQ.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad86a30ddab9d722491775f/master/pass/2027%20Cadillac%20Escalade%20IQ.jpg" medium="image"/>
 </item>
 <item>
 <title>Slow Horses showrunner explains finale shock ending, season 7 trailer debuts</title>
