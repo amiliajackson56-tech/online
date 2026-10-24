@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>These clever apps show off the iPhone Duo’s potential</title>
+<link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential</link>
+<guid isPermaLink="false">fe5d9d4e3909658c8de1488fb50948bb490b3ec22a986b1495f1e60ac4ca8b07</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+<description>From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.</description>
+</item>
+<item>
+<title>Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.</title>
+<link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats</link>
+<guid isPermaLink="false">833d5d33c61d3b3b5d1624a3f6c0cb620fe20049fdbc42851002d27c2c833f5a</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+<description>A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.</description>
+</item>
+<item>
+<title>Fielded is obsessed with scammers and unhinged Japanese cyberpunk</title>
+<link>https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview</link>
+<guid isPermaLink="false">e802392f2f096dfec92dfd41a5bc380f9e84c81755be1bd2f765cb03be3949d6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+<description>Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&amp;B. But from moment one, her take on the genre was restless, relentlessly playing with what R&amp;B […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/fielded_pressphoto_6-Fielded.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday</title>
+<link>https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale</link>
+<guid isPermaLink="false">d31f8fa997636f366be0ecbee2ff677bbd152d01431a9c098d298f90092db56c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+<description>Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/TV-OLED55C6PUA-Brilliant-oled-pictures_features_900x600.avif?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Here's how to test a CR2032 battery to see if it's good</title>
+<link>https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good</link>
+<guid isPermaLink="false">1e745f20ba114954bbab484b9028c67431f6827cbb38080e362c344160e8eaae</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
+<description>CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.</description>
+<enclosure url="https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-how-to-test-a-cr2032-battery-to-see-if-its-good/l-intro-1792489885.jpg" medium="image"/>
+</item>
+<item>
 <title>Why your Ring camera is still useful without a subscription</title>
 <link>https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription</link>
 <guid isPermaLink="false">f21cdcbe07d69da8c8b7dea4151a8b7e1340014795e0a20ed57992fe9a7dae0b</guid>
@@ -635,17 +686,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/gallery-gallery_ng-2-ascent-2-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech</link>
-<guid isPermaLink="false">60b56cc3037dbda3a95126cc73210c100159f84d6a27e0e5e8c902267bb5813b</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 19:32:39 +0000</pubDate>
-<description>Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one, for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_B.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Carta and NewView partner, hoping to entice more startups to let employees sell shares early</title>
 <link>https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early</link>
 <guid isPermaLink="false">1ef66d48b49773e151766ea179f4acae2b82ebe583ba764f2c38ee62c7300067</guid>
@@ -726,17 +766,6 @@
 <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" medium="image"/>
-</item>
-<item>
-<title>Soundcore’s latest noise-crushing headphones are on sale for a new low price</title>
-<link>https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale</link>
-<guid isPermaLink="false">75c55b9c071dc270e1d0b4b8b950789e8712514a675e813e1566c75e3d672ce1</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:43:30 +0000</pubDate>
-<description>My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon, Best Buy, and Walmart […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</title>
@@ -1348,17 +1377,6 @@
 <media:content url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" medium="image"/>
 </item>
 <item>
-<title>A startup called Warhound is genetically engineering dogs for the military</title>
-<link>https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military</link>
-<guid isPermaLink="false">857065a282b9a1c026175e74a443f21a1097f783ae9560c6ca45f664dd144ddd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 09:01:01 +0000</pubDate>
-<description>Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.</description>
-<enclosure url="https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/a-startup-called-warhound-is-genetically-engineering-dogs-for-the-military/l-intro-1792745868.jpg" medium="image"/>
-</item>
-<item>
 <title>The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars</title>
 <link>https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars</link>
 <guid isPermaLink="false">221ffd18818ffcf7143a6cb7e6334aade0884a8154974c46b641d1900831aedf</guid>
@@ -1536,15 +1554,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier</title>
-<link>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier</link>
-<guid isPermaLink="false">b25a6659b3c47a2fc4eec71ed72cbc66733c2228e19d693bc7937cf995f79b2f</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 22:34:54 +0000</pubDate>
-<description>The digital asset unit, helmed by Chris Dixon, broadens its scope.</description>
-</item>
-<item>
 <title>What to Know About Shamonda Virus Following the First Reported Human Infection</title>
 <link>https://www.wired.com/story/what-to-about-shamonda-virus-following-the-first-reported-human-infection</link>
 <guid isPermaLink="false">853d22772253329c1308191b08082a94c662cdd73561107d9e3d2f65160a46ec</guid>
@@ -1587,15 +1596,6 @@
 <description>Markers released top-line results today after previously reporting the trial succeeded.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2260256951-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>OpenAI working on new $30B raise at $1.25T valuation ahead of IPO</title>
-<link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo</link>
-<guid isPermaLink="false">b514b87bc64d3d97773b5016fd0a87efcf09ac5633a808f4dc1abb565d1b1a3e</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 22:08:24 +0000</pubDate>
-<description>Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.</description>
 </item>
 <item>
 <title>YouTube removing ‘Subscriptions’ bottom bar tab on Android, iOS after nearly a decade</title>
