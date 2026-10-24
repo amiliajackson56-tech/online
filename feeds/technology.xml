@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
+<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
+<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
+<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
+<link>https://www.wired.com/story/best-laptops</link>
+<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
+<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
+</item>
+<item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
 <link>https://www.wired.com/review/ray-ban-meta-audio</link>
 <guid isPermaLink="false">c4c193cc8f78f5cce2570dcb81fc55f7431a5e3fbf325fe5b994a89bb343f83c</guid>
@@ -2431,17 +2453,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>AI Guardrails Aren’t Stopping Criminal Hackers</title>
-<link>https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers</link>
-<guid isPermaLink="false">a543dcc418c01df034fe8424c1a30f2fd2f5a5b2d27b63b28277a15cb70f040c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-<description>Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.</description>
-<enclosure url="https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code&#x27;s%20Guardrails%20Aren&#x27;t%20Stopping%20Real-Life%20Attacks_v2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad7cd65322aff8e01d3ff70/master/pass/Security_Claude%20Code&#x27;s%20Guardrails%20Aren&#x27;t%20Stopping%20Real-Life%20Attacks_v2.jpg" medium="image"/>
-</item>
-<item>
 <title>PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
 <link>https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</link>
 <guid isPermaLink="false">02b6efa6343689ed583be05adf75690545cd4254d298475797bf3fc21013f2a0</guid>
@@ -2451,17 +2462,6 @@
 <description>PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif" medium="image"/>
-</item>
-<item>
-<title>Our Favorite Darn Tough Merino Wool Socks Are on Sale at REI</title>
-<link>https://www.wired.com/story/darn-tough-sock-sale-october-2026</link>
-<guid isPermaLink="false">0586cfd90a697cd67f8b763afbc45c561673b9d47f2b2978b906c0c72d47e43b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 13:52:22 +0000</pubDate>
-<description>Get ready for winter: Darn Tough socks are on sale at REI and come with a lifetime warranty.</description>
-<enclosure url="https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad7f0304809649ec79b42ad/master/pass/Our%20Favorite%20Merino%20Wool%20Socks%20Are%20On%20Sale%20102026%20top%20art%20SOURCE%20REI.jpg" medium="image"/>
 </item>
 <item>
 <title>iPhone Duo adding Apple Pencil support next week with iOS 27.2</title>
