@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Will AI expose the rickety infrastructure of the internet?</title>
+<link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet</link>
+<guid isPermaLink="false">8988f05b23400e8d3fbd3583c409d290f10670c7719b1aa8d6c8d203f062eca3</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
+<description>The moment you realize the internet is "held together by glue and dreams."</description>
+</item>
+<item>
 <title>Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo</title>
 <link>https://9to5mac.com/2026/10/24/indie-app-spotlight-flipcorder-lets-you-shoot-retro-footage-on-your-iphone-duo</link>
 <guid isPermaLink="false">c40f3588d8963d261de4244bf4e884d9280ff5a544b0bbd8f78b883979ef0e8b</guid>
@@ -1488,15 +1497,6 @@
 <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg" medium="image"/>
-</item>
-<item>
-<title>Oura sues rival Ultrahuman again, threatening its US smart ring comeback</title>
-<link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback</link>
-<guid isPermaLink="false">a9c9ce1ad8c22ff44cfb4d4510ef1421bb928c2fada48d6220e9c162ecb8036b</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 04:22:57 +0000</pubDate>
-<description>Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.</description>
 </item>
 <item>
 <title>Greg Joswiak talks iPhone Duo in-store availability and demand ahead of launch</title>
