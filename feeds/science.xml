@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 October 24 – Rosetta’s Selfie</title>
+<link>https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie</link>
+<guid isPermaLink="false">e1fabf65e2f56c085b060f71bcde47c63de907725aad421485e4e9a97df5a39a</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sat, 24 Oct 2026 04:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation: […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&amp;h=1024&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&amp;h=1024&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA, Partners Accelerate Lander Development for 2028 Moon Missions</title>
 <link>https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions</link>
 <guid isPermaLink="false">c8aef14bcca24c1900f47b9f55f1ef006af90d0e601ba5619c9f78c888533d10</guid>
@@ -288,17 +299,6 @@
 <description>This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048" medium="image"/>
-</item>
-<item>
-<title>NASA’s Hubble Charts Path for Roman with Gravitational Lenses</title>
-<link>https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses</link>
-<guid isPermaLink="false">3841d8db6ad6852244d0a517bf2ba603c4b3b58053559580d17bc606141195fa</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 22 Oct 2026 16:20:37 +0000</pubDate>
-<description>This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_Gravitational-Lens_DES%20J194.5345+03.5358_callout.jpg?w=2048&amp;h=1583&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/gravitational-lens/Hubble_Gravitational-Lens_DES%20J194.5345+03.5358_callout.jpg?w=2048&amp;h=1583&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Millions take fish oil for brain health. A two-year study found no benefit</title>
