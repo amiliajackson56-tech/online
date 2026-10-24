@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Capcom confirms data breach that affected 11.7 million users</title>
+<link>https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users</link>
+<guid isPermaLink="false">1024a71bf3a321de9f4be8abcdfb2ffe0b404b6be169ad52500e1bd106a67e0c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:40:45 +0000</pubDate>
+<description>Capcom ID is still available to use, but users may see more phishing scam emails.</description>
+<enclosure url="https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/capcom-confirms-data-breach-that-affected-11-7-million-users/l-intro-1792859616.jpg" medium="image"/>
+</item>
+<item>
+<title>Instacart reportedly discussed selling itself with DoorDash and Uber</title>
+<link>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber</link>
+<guid isPermaLink="false">8dbec724cf03ee431155dbe5bcc3cdc6e50363d1d24dfee4986f8778c9b5a80b</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:30:00 +0000</pubDate>
+<description>Instacart might sell itself to a larger competitor.</description>
+</item>
+<item>
+<title>There's a chance your PlayStation 5 is plugged into the wrong HDMI port</title>
+<link>https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port</link>
+<guid isPermaLink="false">6a3f9b50492cf6eb7899f5088ad9f1496391c8ac672c12718fc0b7b28b3fe82c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:30:00 +0000</pubDate>
+<description>Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.</description>
+<enclosure url="https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/theres-a-chance-your-playstation-5-is-plugged-into-the-wrong-hdmi-port/l-intro-1792510070.jpg" medium="image"/>
+</item>
+<item>
 <title>The UK is investing $134 million into an AI Biosecurity Lab</title>
 <link>https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab</link>
 <guid isPermaLink="false">f008bd26103e63b7cb86e4a96257833a41c79082802d404e4c0990c3a83130cf</guid>
@@ -33,6 +64,17 @@
 <description>You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.</description>
 <enclosure url="https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/your-smart-tvs-wi-fi-is-probably-faster-than-its-ethernet-but-speed-isnt-everything/l-intro-1792505372.jpg" medium="image"/>
+</item>
+<item>
+<title>Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough</title>
+<link>https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough</link>
+<guid isPermaLink="false">7040a160aa1eda31c0319d22091eb75584b12a2cdd82f2b6d8e2b87d22c96408</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
+<description>It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really useful tools to limit future tracking, including App Tracking Transparency, Hide My Email, and iCloud Private Relay, but this doesn’t solve your actual problem, though. What they can’t do is remove the data that has already been collected, bought, and spread across hundreds of broker databases over the past decade. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600" medium="image"/>
 </item>
 <item>
 <title>PHP-ocalypse: How two critical web bugs almost broke the internet</title>
@@ -1188,17 +1230,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Greece enacts social media ban for kids under 15</title>
-<link>https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15</link>
-<guid isPermaLink="false">f02a73f4bc0a0b5395fad8de209c1f95e8ae805296585b25252793ac7531330c</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 13:12:47 +0000</pubDate>
-<description>Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.</description>
-<enclosure url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/greece-enacts-social-media-ban-for-kids-under-15/l-intro-1792761065.jpg" medium="image"/>
-</item>
-<item>
 <title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
 <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws</link>
 <guid isPermaLink="false">7bc21a5f3f47a4c9560a376e1e45505fc8854a2b3ef937dd42be4847468f3307</guid>
@@ -1217,17 +1248,6 @@
 <description>Apple’s new iPhone Duo Apple’s all-new TechWoven treatment and Pitaka’s aramid fiber, we are also seeing some of the best leather brands in the business ready to take orders for their latest full-grain covers. Those, of course, join some ultra-affordable models starting from $27 or less and you can scope them all out below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark</title>
-<link>https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review</link>
-<guid isPermaLink="false">9a0970c2cab75ef72cfe68980a3882a3b5a89fb5e91df9228fa6355169397d37</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 12:00:00 +0000</pubDate>
-<description>NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.</description>
-<enclosure url="https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/asus-proart-p16-review-a-sleek-showcase-for-nvidias-rtx-spark/l-intro-1792702282.jpg" medium="image"/>
 </item>
 <item>
 <title>Ukraine learns to fight without Starlink as Musk plays politics with satellites</title>
@@ -1488,15 +1508,6 @@
 <description>After years of waiting, WhatsApp is finally making one of its most-requested messaging features available to select iPhone beta testers. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/whatsapp-05.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Left alone with nothing to do, AI agents started playing</title>
-<link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing</link>
-<guid isPermaLink="false">a6d2b02a9412fc6611cae6aa98b7c5d75a8d85142090a80b16482c087bf69af9</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 00:45:37 +0000</pubDate>
-<description>MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.</description>
 </item>
 <item>
 <title>Apple wins again in copyright infringement battle over Apple TV thriller series</title>
@@ -3056,16 +3067,5 @@
 <description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Your HomePod has a colorful new party trick: how to enable Sound Glow</title>
-<link>https://9to5mac.com/2026/10/19/homepod-sound-glow-colorful-light</link>
-<guid isPermaLink="false">0f6897b77bdcc7d0aa45034afed64e4157fc69e4603391e24979c596464d858d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 19 Oct 2026 19:24:33 +0000</pubDate>
-<description>Apple is rolling out a new feature for HomePod mini and the second-gen big HomePod called Sound Glow. This lights up the touch surface of your speaker with colors that reference the album artwork of the currently playing song, perhaps adding some additional ambience to a party vibe. Here’s how to enable the new Sound Glow feature … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
