@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Peak on consoles, hockey roguelites and other new indie games worth checking out</title>
+<link>https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out</link>
+<guid isPermaLink="false">aa32569e42eaacd3a62c515e8422f95c235651d9e1024e818975ee130a6ccd6b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.</description>
+<enclosure url="https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/l-intro-1792786507.jpg" medium="image"/>
+</item>
+<item>
+<title>New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent</title>
+<link>https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent</link>
+<guid isPermaLink="false">03f1d2121e395027b66f85d2ef1ab9b42f36a34fbc424682a0384402c2595183</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:30:00 +0000</pubDate>
+<description>The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.</description>
+<enclosure url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg" medium="image"/>
+</item>
+<item>
+<title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
+<link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
+<guid isPermaLink="false">a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:09:29 +0000</pubDate>
+<description>A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg" medium="image"/>
+</item>
+<item>
+<title>Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline</title>
+<link>https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html</link>
+<guid isPermaLink="false">c2f353f11fcac6078e3a8d417a06273b21c39d4ca93451ff32b6c5c6b61d7410</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 11:03:33 +0000</pubDate>
+<description>LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. "On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg" medium="image"/>
+</item>
+<item>
 <title>Best Pet Camera of 2026: Furbo, Petcube, and Enabot</title>
 <link>https://www.wired.com/gallery/best-pet-cameras</link>
 <guid isPermaLink="false">c926347acd972db68bb66c56728ce2343f64573bbbc1077c687c4ee7afa8a840</guid>
@@ -24,6 +68,17 @@
 <description>Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.</description>
 <enclosure url="https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg" medium="image"/>
+</item>
+<item>
+<title>Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads</title>
+<link>https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html</link>
+<guid isPermaLink="false">ed6cb319ad856dfd2ce738ab807d2266ea138e6be6befd7aedd84613d0cce1cf</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:36:33 +0000</pubDate>
+<description>Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. "You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg" medium="image"/>
 </item>
 <item>
 <title>My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale</title>
@@ -123,17 +178,6 @@
 <description>The Webb telescope sees tiny red dots everywhere. Astronomers can’t agree on what they are, but some believe they may be enormous stars with black holes inside.</description>
 <enclosure url="https://media.wired.com/photos/6ad9cd6aded54679300f97ae/master/pass/Black-Hole-Star-cr-Mark-Belan-Lede.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad9cd6aded54679300f97ae/master/pass/Black-Hole-Star-cr-Mark-Belan-Lede.jpg" medium="image"/>
-</item>
-<item>
-<title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
-<link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
-<guid isPermaLink="false">a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 08:45:56 +0000</pubDate>
-<description>A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg" medium="image"/>
 </item>
 <item>
 <title>CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
@@ -1704,17 +1748,6 @@
 <media:content url="https://media.wired.com/photos/6ada4bc4d53570f6403f714a/master/pass/Soundcore%20by%20Anker%20Space%202%20deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Unauthorized AI agents are reportedly already accessing US bank accounts</title>
-<link>https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts</link>
-<guid isPermaLink="false">6c534d42ab318a9bd45fcf04f54a0d7c0386a9493a89dc62196b6615e7d7e076</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 18:02:04 +0000</pubDate>
-<description>Sources at several banks have indicated that they have been taking actions independent of user instructions.</description>
-<enclosure url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/l-intro-1792692008.jpg" medium="image"/>
-</item>
-<item>
 <title>A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels</title>
 <link>https://www.wired.com/story/ice-age-beginning-then-humans-started-burning-fossil-fuels</link>
 <guid isPermaLink="false">3a1e0b361388d63d0f696f3ce90c8776a42315c15b0640900a661ff0902675c8</guid>
@@ -2398,17 +2431,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.2-RC-SoundGlow-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>The Best Art TV Deals: Samsung Frame, Hisense Canvas, and More (2026)</title>
-<link>https://www.wired.com/story/art-tv-samsung-frame-tv-sale-october-2026</link>
-<guid isPermaLink="false">3ab60313498aee6384c86688c6e728d9b12e341268f144ae45f9bf60ebf0ff7b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 17:00:15 +0000</pubDate>
-<description>Samsung’s Frame and Frame Pro are both on sale, as well as some of our other favorite art TVs.</description>
-<enclosure url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8d105b20b46511fb6b20d/master/pass/Best%20Time%20to%20Buy%20an%20Art%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
 <link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
 <guid isPermaLink="false">59a7ce99a8f3de460e7be4696946538f975127bd0b91e7c315ae264289821b46</guid>
@@ -2915,17 +2937,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Samsung-fighting-iPhone-Duo-by-launching-six-foldable-phones-next-year.webp?w=1500" medium="image"/>
 </item>
 <item>
-<title>WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators</title>
-<link>https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html</link>
-<guid isPermaLink="false">a7c836b591fb5c91aca8a83be3e38e01f1a56f4e454e98bf4752ce238dd71d48</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:41:06 +0000</pubDate>
-<description>WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple still makes it too hard for Apple Pay competitors to emerge, says UK</title>
 <link>https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk</link>
 <guid isPermaLink="false">06558d987aef9df291e1ddb6cdaeaf25d1c8970159ac4ad3ce88613496957c3d</guid>
@@ -2935,17 +2946,6 @@
 <description>Apple still makes it too hard for third-party developers to launch alternatives to Apple Pay , despite loosening its grip on access to the NFC chip embedded in iPhones. That’s the claim made by the UK’s antitrust watchdog, the Competition and Markets Authority (CMA). The CMA says developers have reported that the compromise terms offered by Apple still don’t make it practical to develop competitors to Apple Pay … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-still-makes-it-too-hard-for-Apple-Pay-competitors-to-emerge-says-UK.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-still-makes-it-too-hard-for-Apple-Pay-competitors-to-emerge-says-UK.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>What Security Teams Can Do To Tame Wild Code</title>
-<link>https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html</link>
-<guid isPermaLink="false">9dbc1788a3b16b3ed96304910b67c6fff8aead1b8afcd1ee212d707fc8fe2749</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:33:04 +0000</pubDate>
-<description>A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg" medium="image"/>
 </item>
 <item>
 <title>iPhone Duo orders limited to two per customer as Apple tackles scalping</title>
