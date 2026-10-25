@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 October 25 – Dark Matter in a Simulated Universe</title>
+<link>https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe</link>
+<guid isPermaLink="false">da556d91f2dc9c94a2003cbf2a37a9cc9fb113364380958a4d78cc7b447e4076</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sun, 25 Oct 2026 08:19:48 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]</description>
+<enclosure url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&amp;h=900&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&amp;h=900&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>ctDNA clearance and outcomes for resectable lung cancer from NeoCOAST-2</title>
 <link>https://www.nature.com/articles/s41586-026-11328-3</link>
 <guid isPermaLink="false">e92517a18d9ea2140293b50672c5fb41fa8e5a30c7c0b5aee77816d16788bede</guid>
@@ -387,17 +398,6 @@
 <category>science</category>
 <pubDate>Thu, 22 Oct 2026 21:39:58 +0000</pubDate>
 <description>Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity’s return to the Moon, sustainable lunar infrastructure, advanced space propulsion, and the evolving space workforce. Panels […]</description>
-</item>
-<item>
-<title>Spiral’s Edge</title>
-<link>https://www.nasa.gov/image-article/spirals-edge</link>
-<guid isPermaLink="false">44ecc6a815ee4a3ae3815df72a2fed50161c01c27d80b240f38404de1233dc91</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 22 Oct 2026 21:35:38 +0000</pubDate>
-<description>This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Millions take fish oil for brain health. A two-year study found no benefit</title>
