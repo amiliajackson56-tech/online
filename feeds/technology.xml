@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Zen Browser is the Arc replacement I was looking for</title>
+<link>https://www.theverge.com/tech/1018275/zen-browser-arc-replacement</link>
+<guid isPermaLink="false">2a0fff49437a2a00620a227ed094edb78e2c68044865c351490e5017d9497a1b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 19:24:50 +0000</pubDate>
+<description>I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its even more AI-focused browser. And […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_4433.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>What does the bell icon mean on your CarPlay screen?</title>
 <link>https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature</link>
 <guid isPermaLink="false">e008c28f8a4d38eba751d85bd444f6d1f7f58a04d50e4b9e48f38b741e39b095</guid>
@@ -665,17 +676,6 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
 <description>We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.</description>
-</item>
-<item>
-<title>I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop</title>
-<link>https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis</link>
-<guid isPermaLink="false">79912674b2ceb12330c39dea8018e01677fe679a73b6234b912208c3b9039015</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 14:00:00 +0000</pubDate>
-<description>It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple @ Work: The browser is the biggest gap in your AI governance strategy</title>
