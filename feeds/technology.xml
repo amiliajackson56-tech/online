@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>AI coding agents hijacked using AGENTS.md file in Downloads folder</title>
+<link>https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder</link>
+<guid isPermaLink="false">264cc0e36820b485d1c10cb3584fabe716e3249f83763a11186159184e736991</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 15:49:38 +0000</pubDate>
+<description>Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]</description>
+</item>
+<item>
+<title>Here's how much PlayStation Plus cost in 2010 vs. 2026</title>
+<link>https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026</link>
+<guid isPermaLink="false">eb6bb76095ca8f3a3fbdb692538b18f0649dcebdcd3ee4509d4396660b740f82</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 25 Oct 2026 15:45:00 +0000</pubDate>
+<description>Sony's gaming service has changed a lot in recent years, and the price reflects that.</description>
+<enclosure url="https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/heres-how-much-playstation-plus-cost-in-2010-vs-2026/l-intro-1792603440.jpg" medium="image"/>
+</item>
+<item>
 <title>4 Ray-Ban Meta privacy settings you should change before wearing them</title>
 <link>https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing</link>
 <guid isPermaLink="false">091c89ad6e6390a0c373d987b773c0293a86049b2c33c020c83cdd16882c26b2</guid>
@@ -445,17 +465,6 @@
 <description>There's a good reason for that arrangement.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-the-wires-in-your-ethernet-cables-are-twisted/l-intro-1790877005.jpg" medium="image"/>
-</item>
-<item>
-<title>Steam rolls out Personal Calendar feature that constantly updates recommended games</title>
-<link>https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games</link>
-<guid isPermaLink="false">72085d2e5a95917680ba8109719ad4e8a94918a56b7e31cce21b0cd104565fb9</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 18:09:54 +0000</pubDate>
-<description>You can try out the new feature on the Steam store's homepage.</description>
-<enclosure url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/l-intro-1792865304.jpg" medium="image"/>
 </item>
 <item>
 <title>iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible</title>
@@ -2178,15 +2187,6 @@
 <description>Supply chain reports suggest that Apple has increased iPhone Duo orders by more than 40% in response to what the company described as “extraordinary” pre-order demand. Delivery dates started slipping literally within a minute or so of pre-orders opening, and it wasn’t immediately clear whether this reflected high demand or poor supply. This latest report seems to point firmly to the former … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Amazon says PHP2Shell exploitation began 4 days before patches</title>
-<link>https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches</link>
-<guid isPermaLink="false">d6276a425b1c8d3eb691ee78e31eb6946e056af8917372a92e331f4d220ba0f1</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 13:09:12 +0000</pubDate>
-<description>Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]</description>
 </item>
 <item>
 <title>Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything</title>
