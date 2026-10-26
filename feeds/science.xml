@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Tinga’s Tale</title>
-<link>https://science.nasa.gov/blog/tingas-tale</link>
-<guid isPermaLink="false">2f78b2f37b45bb56764e52cd406a1b471bfd3f52c9827a587dbbf0e043f246ea</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 21:17:02 +0000</pubDate>
-<description>Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust</title>
 <link>https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust</link>
 <guid isPermaLink="false">6d879a7a5c5c91f84d3d7e7ef2cdf548ec7d3834b5ab35edc4d328d66fa0fbe9</guid>
@@ -337,6 +326,17 @@
 <category>science</category>
 <pubDate>Sun, 25 Oct 2026 10:21:48 +0000</pubDate>
 <description>A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not.</description>
+</item>
+<item>
+<title>APOD: 2026 October 25 – Dark Matter in a Simulated Universe</title>
+<link>https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe</link>
+<guid isPermaLink="false">da556d91f2dc9c94a2003cbf2a37a9cc9fb113364380958a4d78cc7b447e4076</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sun, 25 Oct 2026 08:19:48 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]</description>
+<enclosure url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&amp;h=900&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&amp;h=900&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>This mysterious mushroom makes people see hundreds of tiny humans</title>

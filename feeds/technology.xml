@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’</title>
+<link>https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate</link>
+<guid isPermaLink="false">9e22adefbeed52bdf78004fd8dd70a98fa5d45df614d374e0fc300d3d8d31448</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:40:37 +0000</pubDate>
+<description>Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.</description>
+<enclosure url="https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg" medium="image"/>
+</item>
+<item>
+<title>University of Copenhagen data breach exposes data of 525,000 people</title>
+<link>https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people</link>
+<guid isPermaLink="false">46752dcf791041e1a30866c215a0e14dd2dc44ec8454a9eb93ca38c6fc5e76f3</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:20:36 +0000</pubDate>
+<description>The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]</description>
+</item>
+<item>
+<title>Instagram takes on YouTube with new 90-minute horizontal video format</title>
+<link>https://9to5mac.com/2026/10/26/instagram-takes-on-youtube-with-new-90-minute-horizontal-video-format</link>
+<guid isPermaLink="false">47c8c8720a5228d4368e54a4e9a83c307665685d633a4eb97d37db88d39e0e7f</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:06:38 +0000</pubDate>
+<description>According to The Hollywood Reporter , Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Databricks co-founder shares his secrets for winning big enterprises customers</title>
 <link>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers</link>
 <guid isPermaLink="false">f26b7384d506b8cd106cd9de7b97643ac2af015a21a51761917b9a69c5e7a0f0</guid>
@@ -22,6 +53,17 @@
 <description>An iPhone Duo can become even more expensive if you have to repair it, so it's vital to plan for that ahead of time.</description>
 <enclosure url="https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/the-mistake-iphone-duo-buyers-can-easily-avoid/l-intro-1792692793.jpg" medium="image"/>
+</item>
+<item>
+<title>Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50</title>
+<link>https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale</link>
+<guid isPermaLink="false">39130e60f0587b76ecefa69ee6983921adb0ce01ccf1e62d607b71c84c0ab9f1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 21:56:36 +0000</pubDate>
+<description>Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&amp;H Photo) and the 512GB version $99 (Amazon, B&amp;H Photo). The smaller card typically sells for around $80, and the larger option usually sells between $150 and […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-P9-MicroSD-Express-Card.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Samsung-P9-MicroSD-Express-Card.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Anthropic is burning gas to feed the AI boom</title>
@@ -61,7 +103,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 21:05:11 +0000</pubDate>
-<description>As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.</description>
+<description>After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.</description>
 </item>
 <item>
 <title>Apple addressed at least 329 unique security vulnerabilities across today’s system updates</title>
@@ -684,17 +726,6 @@
 <description>The HomeView won't have its own App Store, but there's another method for using compatible third-party apps on the display.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-do-apps-on-the-homeview-work-and-what-does-carplay-have-to-do-with-it/l-intro-1792422085.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-do-apps-on-the-homeview-work-and-what-does-carplay-have-to-do-with-it/l-intro-1792422085.jpg" medium="image"/>
-</item>
-<item>
-<title>Instagram chases YouTube with a push for longer, widescreen videos</title>
-<link>https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube</link>
-<guid isPermaLink="false">7b088c8293bc65eead0202308f3c62f8181bf890b823d3fb1b8dd1fe3d9f2890</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:05:44 +0000</pubDate>
-<description>Instagram is announcing a big push into longform horizontal video, which the platform is calling "Features." Instagram boss Adam Mosseri has been against doing longform video on the platform "for a long time," he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that "one of my concerns […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Features-on-PhoneTV-1_1-reorder.png?quality=90&amp;strip=all&amp;crop=0,20.1046875,100,74.7703125" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Features-on-PhoneTV-1_1-reorder.png?quality=90&amp;strip=all&amp;crop=0,20.1046875,100,74.7703125" medium="image"/>
 </item>
 <item>
 <title>The Anthropic S-1 Filing Is Also an AI Doomsday Primer</title>
@@ -2070,15 +2101,6 @@
 <media:content url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" medium="image"/>
 </item>
 <item>
-<title>Quest Diagnostics confirms data breach exposed patient records</title>
-<link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records</link>
-<guid isPermaLink="false">651b9429c7fac0a1820a5cd6c7b7cf653a20b0761b5b1f7d58524fef14571e4c</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 16:40:07 +0000</pubDate>
-<description>American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]</description>
-</item>
-<item>
 <title>Elon Musk Just Dumped Another $76 Million Into the Midterms</title>
 <link>https://www.wired.com/story/elon-musk-just-dumped-another-dollar76-million-into-the-midterms</link>
 <guid isPermaLink="false">bc1d00b31c66d5914f075505ab8ada6acb829f63ad6893e3f9a0a92eec935a77</guid>
@@ -2341,17 +2363,6 @@
 <description>Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.</description>
 <enclosure url="https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg" medium="image"/>
-</item>
-<item>
-<title>Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap</title>
-<link>https://www.wired.com/story/dyson-week-deals-oct-2026</link>
-<guid isPermaLink="false">f8e97aec31e469427209ff51f737fd66d2f932eddb1d9bbcf488e2e0fea4ccf1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 09:07:00 +0000</pubDate>
-<description>Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.</description>
-<enclosure url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" medium="image"/>
 </item>
 <item>
 <title>Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data</title>
@@ -3001,17 +3012,6 @@
 <description>OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. "A GPT-6.1 Sol agent repairing an evaluation</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s where Apple says iPhone Duo will (and won’t) be available for walk-ins</title>
-<link>https://9to5mac.com/2026/10/21/heres-where-apple-says-iphone-duo-will-and-wont-be-available-for-walk-ins</link>
-<guid isPermaLink="false">3f72229b835a4850df1cf831abaf72b077c8030ffe9eb589add3702b88bd05d3</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 15:58:59 +0000</pubDate>
-<description>Are you planning to line up at the Apple Store for a walk-in iPhone Duo purchase? Here’s what Apple says about availability to expect for the new model. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
