@@ -4,6 +4,46 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures</title>
+<link>https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers</link>
+<guid isPermaLink="false">d4711f2306c23d0c059ee6aaa228d81560b40bec6166a8fc91ecebd970050ca2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 21:27:15 +0000</pubDate>
+<description>Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.</description>
+<enclosure url="https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg" medium="image"/>
+</item>
+<item>
+<title>Former pentester used ARTEX AI to steal 8.2 million data records</title>
+<link>https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records</link>
+<guid isPermaLink="false">bada175e9bd70ae4dca483e30d61e106359da9ea5d3836a68cc58f89037dd337</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 21:08:28 +0000</pubDate>
+<description>South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]</description>
+</item>
+<item>
+<title>Watch out, YouTube; Instagram goes from short-form to 90-minute videos</title>
+<link>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos</link>
+<guid isPermaLink="false">1e322ffab8d27ad194d84148dbb6d0af633c9c459e34fcde8232a22e73ae28a4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 21:05:11 +0000</pubDate>
+<description>As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.</description>
+</item>
+<item>
+<title>Apple addressed at least 329 unique security vulnerabilities across today’s system updates</title>
+<link>https://9to5mac.com/2026/10/26/apple-addressed-at-least-329-unique-security-vulnerabilities-across-todays-system-updates</link>
+<guid isPermaLink="false">8619226ce973d14bed076ecc87df0f5b0896e5641dbc2b6ead88ade1048778b4</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 20:56:15 +0000</pubDate>
+<description>Apple has updated its security releases page with details of the vulnerabilities addressed in today’s updates to iOS , iPadOS , macOS , watchOS , tvOS , visionOS, and Safari. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing</title>
 <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing</link>
 <guid isPermaLink="false">3b776e5e67edc5c1b8184c6d57d410d83186ab38dbd7402e7fb7c48cdf2c808d</guid>
@@ -99,13 +139,13 @@
 <description>DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]</description>
 </item>
 <item>
-<title>Uh oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it</title>
+<title>Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it</title>
 <link>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it</link>
 <guid isPermaLink="false">5272ce64e1e93c648a6478a1fb26f808c417f8acec584d8af5b072c879c65a8f</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 19:22:40 +0000</pubDate>
-<description>A small number of early adopters of the much hyped new foldable phone from Apple have complained of screens cracking.</description>
+<description>A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.</description>
 </item>
 <item>
 <title>iPhone Duo just got two new features in iOS 27.2</title>
@@ -526,7 +566,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 16:46:36 +0000</pubDate>
-<description>SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU financing” ever.</description>
+<description>The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.</description>
 </item>
 <item>
 <title>The Sony WH-1000XM4C bring back a beloved headphone design</title>
@@ -1444,15 +1484,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Instacart reportedly discussed selling itself with DoorDash and Uber</title>
-<link>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber</link>
-<guid isPermaLink="false">8dbec724cf03ee431155dbe5bcc3cdc6e50363d1d24dfee4986f8778c9b5a80b</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 16:30:00 +0000</pubDate>
-<description>Instacart might sell itself to a larger competitor.</description>
-</item>
-<item>
 <title>Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough</title>
 <link>https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough</link>
 <guid isPermaLink="false">7040a160aa1eda31c0319d22091eb75584b12a2cdd82f2b6d8e2b87d22c96408</guid>
@@ -2070,15 +2101,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>PHP shares mitigation for new RCE vulnerability with no patch</title>
-<link>https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability</link>
-<guid isPermaLink="false">a46a3d4aa8e9f96fc8fa2756c05c2bae16f74012ea0f73a4c887dd172cad6c1f</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 15:38:05 +0000</pubDate>
-<description>The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]</description>
-</item>
-<item>
 <title>Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more</title>
 <link>https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k</link>
 <guid isPermaLink="false">661824f435fdf62435049ca2a45516442f14187ba869c955ba8cf97686404658</guid>
@@ -2330,17 +2352,6 @@
 <description>Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.</description>
 <enclosure url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg" medium="image"/>
-</item>
-<item>
-<title>The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars</title>
-<link>https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars</link>
-<guid isPermaLink="false">221ffd18818ffcf7143a6cb7e6334aade0884a8154974c46b641d1900831aedf</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
-<description>The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.</description>
-<enclosure url="https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg" medium="image"/>
 </item>
 <item>
 <title>Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data</title>
@@ -3001,17 +3012,6 @@
 <description>Are you planning to line up at the Apple Store for a walk-in iPhone Duo purchase? Here’s what Apple says about availability to expect for the new model. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-star-white-front-back.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple Music unveils new design rebrand, with logo ‘made by sound’</title>
-<link>https://9to5mac.com/2026/10/21/apple-music-unveils-new-design-rebrand-with-logo-made-by-sound</link>
-<guid isPermaLink="false">e1456db0bc5c3f8f9ce41242e5b64b70d6e9df54976b6bec2189ad02841110a6</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 15:35:18 +0000</pubDate>
-<description>Apple Music has officially launched its rebrand with a new design, logo, and more. And in a video detailing the rebrand, Apple reveals the new look was actually “made by sound.” more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>

@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust</title>
+<link>https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust</link>
+<guid isPermaLink="false">6d879a7a5c5c91f84d3d7e7ef2cdf548ec7d3834b5ab35edc4d328d66fa0fbe9</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 21:07:28 +0000</pubDate>
+<description>Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration</title>
 <link>https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration</link>
 <guid isPermaLink="false">136484e28eca446ede4302d4bbf6ede1aaf120a88f506b0cc0b91103986d389b</guid>
@@ -470,17 +481,6 @@
 <description>As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]</description>
 <enclosure url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>NASA’s Artemis III Mission to Test Future Moon Lander Operations</title>
-<link>https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations</link>
-<guid isPermaLink="false">dcdc304d5bcb48c082577011bf40ae0d524d4862ef5400b917edb46cea17e8db</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 22:37:53 +0000</pubDate>
-<description>Before astronauts return to the lunar surface, NASA will first conduct one of the most ambitious and complex test missions in the agency’s history. Launching in 2027, Artemis III will send NASA astronauts Randy Bresnik, Frank Rubio, Andre Douglas, and ESA (European Space Agency) astronaut Luca Parmitano aboard the Orion spacecraft into low Earth orbit […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
