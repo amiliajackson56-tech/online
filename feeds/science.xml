@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA, USDA Sign Agreement Advancing Earth Science, Agriculture</title>
+<link>https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture</link>
+<guid isPermaLink="false">865d376cf5cce55d678daec10bd8a3316053588fd54ade0b3578f5da0c188ebd</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 13:54:25 +0000</pubDate>
+<description>NASA and the U.S. Department of Agriculture (USDA) have signed a Memorandum of Understanding expanding cooperation in Earth observation, geospatial analytics, and advanced data technologies, supporting USDA’s data modernization plan for United States agriculture. “NASA develops some of the most advanced sensing, computing, and analytical capabilities in the world, and we should put those tools […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/mou10242026.jpg?w=1829" medium="image"/>
+</item>
+<item>
 <title>Exercise doesn't just strengthen your heart. It rewires it</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261025222848.htm</link>
 <guid isPermaLink="false">cf1f39142590a323c864e88abd83bba1699b4ad58b3bf3de6ccabe2caf6f8d42</guid>
@@ -488,17 +499,6 @@
 <category>science</category>
 <pubDate>Fri, 23 Oct 2026 08:28:22 +0000</pubDate>
 <description>A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system. Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new research in mice.</description>
-</item>
-<item>
-<title>APOD: 2026 October 23 – Andromeda in Southern Spring</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring</link>
-<guid isPermaLink="false">156b7e3d250b5d780ec44bfe4246556586e5889ace6ec75d74a049842d628dce</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 04:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 October 23 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Andromeda in Southern Spring Explanation: Looking toward the north from Mullion, New South Wales, Australia, the Andromeda […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&amp;h=1368&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&amp;h=1368&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>40 years later, Chernobyl's nuclear fallout is not what scientists expected</title>
