@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Will Apple’s overhauled MacBook Pro finally offer 5G cellular support?</title>
+<link>https://9to5mac.com/2026/10/25/macbook-pro-overhaul-cellular-support-touchscreen</link>
+<guid isPermaLink="false">d281ee91c852617b0c9662ef29c0a39344a436f73faefc1caa5b3d3600ce8c4a</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 05:16:58 +0000</pubDate>
+<description>This week, Apple will be overhauling the MacBook Pro for the first time since 2021. OLED, touch support, and a significantly lighter design are expected. Another rumor for the new MacBook Pros has been cellular support, though it’s been unclear if that’s actually going to ship. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-cellular-mac.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-cellular-mac.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>The best apps for tracking your reading and discovering new books</title>
 <link>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books</link>
 <guid isPermaLink="false">5c724d00693be390f59f3b3013fc188063b260b1855e45aa11853935c323ba3c</guid>
@@ -3056,16 +3067,5 @@
 <description>Even before Apple launched the iPhone Duo , it was already clear that Samsung was worried. Now that the device has been announced and is heavily backordered , the company seemingly feels that launching no fewer than six different foldable phones next year is its best way to fight back … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Samsung-fighting-iPhone-Duo-by-launching-six-foldable-phones-next-year.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Samsung-fighting-iPhone-Duo-by-launching-six-foldable-phones-next-year.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Apple still makes it too hard for Apple Pay competitors to emerge, says UK</title>
-<link>https://9to5mac.com/2026/10/20/apple-still-makes-it-too-hard-for-apple-pay-competitors-to-emerge-says-uk</link>
-<guid isPermaLink="false">06558d987aef9df291e1ddb6cdaeaf25d1c8970159ac4ad3ce88613496957c3d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 11:37:10 +0000</pubDate>
-<description>Apple still makes it too hard for third-party developers to launch alternatives to Apple Pay , despite loosening its grip on access to the NFC chip embedded in iPhones. That’s the claim made by the UK’s antitrust watchdog, the Competition and Markets Authority (CMA). The CMA says developers have reported that the compromise terms offered by Apple still don’t make it practical to develop competitors to Apple Pay … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-still-makes-it-too-hard-for-Apple-Pay-competitors-to-emerge-says-UK.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-still-makes-it-too-hard-for-Apple-Pay-competitors-to-emerge-says-UK.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
