@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The Hottest New Side Hustle Is Stripping Copper Wire and Posting About It</title>
+<link>https://www.wired.com/story/the-hottest-new-side-hustle-is-stripping-copper-wire-and-posting-about-it</link>
+<guid isPermaLink="false">30ac818c1cd8b65bd381c9239e155936032734db8b1574882a038af1d97e035e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 11:00:00 +0000</pubDate>
+<description>Copper prices are at record highs, but for TikTok creators, the real money may be in teaching others how to strip wire—and selling them the tools to do it.</description>
+<enclosure url="https://media.wired.com/photos/6ada4995fd62e299be0487da/master/pass/Business_Meet%20The%20TikTokers%20Stripping%20Copper%20As%20a%20Side%20Hustle_v2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada4995fd62e299be0487da/master/pass/Business_Meet%20The%20TikTokers%20Stripping%20Copper%20As%20a%20Side%20Hustle_v2.jpg" medium="image"/>
+</item>
+<item>
+<title>LG B6 OLED TV Review (2026)</title>
+<link>https://www.wired.com/review/lg-b6</link>
+<guid isPermaLink="false">3eb33bc1d0a2c7686f2d545e1c464da381f35637d12c284ce407cb060debeaba</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:30:00 +0000</pubDate>
+<description>The LG B6 has deep and rich blacks and a low price tag, but midrange performance elsewhere.</description>
+<enclosure url="https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Kali Linux 2026.3 released with 6 new tools, desktop updates</title>
+<link>https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates</link>
+<guid isPermaLink="false">7d17df1a83c2eeaa320d76da0e00df0570592c44cea177f4cce25e6ff91b7638</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:26:52 +0000</pubDate>
+<description>Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
+</item>
+<item>
 <title>The city that fought Flock</title>
 <link>https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure</link>
 <guid isPermaLink="false">e7fa5f8431d51c0466a1639b59074a0824eae31ac64cf2a1da5ed5ea914bd082</guid>
@@ -13,6 +44,17 @@
 <description>It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
+<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
+<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
+<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
 </item>
 <item>
 <title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
@@ -26,15 +68,15 @@
 <media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
 </item>
 <item>
-<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
-<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
-<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
-<source>Wired</source>
+<title>uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
+<link>https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html</link>
+<guid isPermaLink="false">20494af63ce3fb8e1268344e5a5e46a89fb8745f8a818ef14ed0d1f00c0af8a9</guid>
+<source>The Hacker News</source>
 <category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
-<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
+<pubDate>Mon, 26 Oct 2026 09:54:02 +0000</pubDate>
+<description>A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg" medium="image"/>
 </item>
 <item>
 <title>iFixit's teardown of the iPhone Duo shows potential causes for cracked screens</title>
@@ -967,17 +1009,6 @@
 <media:content url="https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg" medium="image"/>
 </item>
 <item>
-<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
-<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
-<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
-<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
 <link>https://www.wired.com/story/best-laptops</link>
 <guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
@@ -987,6 +1018,17 @@
 <description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
 <enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
+</item>
+<item>
+<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
+<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
+<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
+<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
@@ -2235,15 +2277,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft shares how to fix broken Exchange Online EWS apps</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps</link>
-<guid isPermaLink="false">540959acae587c694ef2696435e571f014f82b0e5f40d927650108b643076794</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 15:49:32 +0000</pubDate>
-<description>Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]</description>
-</item>
-<item>
 <title>Four advantages MacBook Pro redesign will have over current model</title>
 <link>https://9to5mac.com/2026/10/22/four-advantages-macbook-pro-redesign-will-have-over-current-model</link>
 <guid isPermaLink="false">0d87fbd53ac46c30d3d9ca2b86bdffc9cabb048a930f8c774dacf7de84929957</guid>
@@ -2343,17 +2376,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything</title>
-<link>https://www.wired.com/story/meet-mori-a-cute-robot-mushroom-that-doesnt-really-say-or-do-anything</link>
-<guid isPermaLink="false">5ec9b8a9a89ba033ef83e7e7ff07e558b0381b352d9a041959d60312bdfb095c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 13:00:00 +0000</pubDate>
-<description>Step one in convincing people to live with robots with cameras on their faces? Disguise them as cute home decor.</description>
-<enclosure url="https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad73249e71bc9cefa5d514d/master/pass/OKA_MORI_Companion_EveningWorkAtLaptop.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple says developers are showing ‘incredible’ support for the iPhone Duo</title>
 <link>https://9to5mac.com/2026/10/22/apple-says-developers-are-showing-incredible-support-for-the-iphone-duo</link>
 <guid isPermaLink="false">9c9c91a2f8413743443f0e4807c0b5c3066c7bff8dfebd61c6cfb864764b1a3d</guid>
@@ -2396,17 +2418,6 @@
 <description>Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a "subset of users,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLi5yuPoipCkAL6joBpDL5htNkHWi_rU5i5dAyspyjSrdDORYgV_LRNO4pVG_c1P0S7bnZFWHft8recxLiFRSiLsPxx3ZL-v8fzlYRuzxxG_P_ocKdJbGWzXFtoEjPszyKNUOS86HCylk0LPV1YZS7U9qZcfonBVeLEuRKioCXVbbzUySEvWGI0IaBJ8U/s1600/rail.jpg" medium="image"/>
-</item>
-<item>
-<title>Best Microsoft Surface Laptop (2026): Which Models to Buy and Avoid</title>
-<link>https://www.wired.com/story/microsoft-surface-buying-guide</link>
-<guid isPermaLink="false">5f2bc7c758e1ae167d2972856b58ea2751629ac2d34d7a108a7e1592369f796c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:00:00 +0000</pubDate>
-<description>With pricing in flux and new models available, here’s which Surface Laptop and Surface Pro to buy.</description>
-<enclosure url="https://media.wired.com/photos/6ad8bdd4ba3e5597384c8379/master/pass/update%20best%20surface%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8bdd4ba3e5597384c8379/master/pass/update%20best%20surface%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL</title>
@@ -2880,17 +2891,6 @@
 <description>State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it "has experienced an incident involving the loss of certain data." The count is</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlQofjstTN3Rpma_akZslqH5L5GLXJ6yhYDWwr5R-rK78jnhUq0L0jk3Ds7sYrlCMjyV8SPGb9PqOr1n46ssgdRRdSdFxPVHc-uxVaVm_l-atc0RXV2MTG6Y5AmIivnljGOMRIKNxeOlIfzIuDdZGl7CHP_Xplctaz8YkiWvriWkCgQ8GyKkR804LI0KQ/s1600/sbi-data-breach.jpg" medium="image"/>
-</item>
-<item>
-<title>CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws</title>
-<link>https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html</link>
-<guid isPermaLink="false">37c3e5fa7177b2714e52b34fb0b2ab682ee63a433ec7448a6df8b8bb7457635d</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 07:26:49 +0000</pubDate>
-<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Shell. The vulnerabilities are listed below - CVE-2026-96652 (CVSS score: 5.3) - Plex Media Server Server-Side Request Forgery (SSRF)</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple is looking for a cellular modem engineer to help shape its transition to 6G</title>
