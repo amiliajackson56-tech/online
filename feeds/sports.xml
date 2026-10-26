@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Football Daily</title>
+<link>https://www.bbc.co.uk/sounds/play/p0phzkpn?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">2bca64086a63c0988fe4c9cfbbe5a39d15ab9b32cbd22585bee35bc9af081d48</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Mon, 26 Oct 2026 00:08:00 +0000</pubDate>
+<description>Rick &amp; Lloyd are joined by Oliver Kay &amp; Joe Smith after a surreal day at Old Trafford.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg" medium="image"/>
+</item>
+<item>
 <title>Man City's perfect start over after draw at rivals Man Utd</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">a984f96d074b6d28b1a908833e3501829d6d38ad5ccd2fc392d33fa0a43cd4a1</guid>
@@ -48,15 +59,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3e/live/b4b3c870-d0c2-11f1-a701-fddedf244c16.png" medium="image"/>
 </item>
 <item>
-<title>Howe open to Man Utd talks - Monday's gossip</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">1de73db06b8e10d707a56a4db842696bb956a2d3433e12a110112d4f65396b29</guid>
+<title>What have Man Utd changed to turn around WSL form?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">236c5cc00396f9a12e60c5d6fc094fa8a8cfa8c5ca8f095e07e9817d12e39569</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Sun, 25 Oct 2026 21:09:37 +0000</pubDate>
-<description>Eddie Howe is open to holding talks with Manchester United if they part ways with manager Michael Carrick, three Premier League clubs are monitoring Bayern Munich's Lennart Karl, plus more.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b5/live/5102a540-d0b2-11f1-93e1-3b657b665bcf.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b5/live/5102a540-d0b2-11f1-93e1-3b657b665bcf.png" medium="image"/>
+<pubDate>Sun, 25 Oct 2026 21:38:59 +0000</pubDate>
+<description>It is a different picture at Manchester United now than it was last month - and they proved it to fight back and earn a point against rivals Manchester City.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/32d096c0-d0cd-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/32d096c0-d0cd-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
 <title>Watch: Sportscene - Sunday's Scottish Premiership highlights</title>
@@ -134,6 +145,17 @@
 <description>Régis Le Bris can usually do impassive to perfection but, by the final whistle, even Sunderland’s ultra-balanced manager was looking more than a little fed up and frustrated. His bottom-placed team had arguably just about deserved a second Premier League win of the season but, instead, had to settle for a draw on an afternoon when the hugely disruptive Storm Boelo proved the enemy of good football. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/a2be14eefa337d87a4d736fd7ffdcdaeabc3e89d/382_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9b72dfcdb6b101f8e0373fe59b29c05" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/a2be14eefa337d87a4d736fd7ffdcdaeabc3e89d/382_0_2917_2334/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9b72dfcdb6b101f8e0373fe59b29c05" medium="image"/>
+</item>
+<item>
+<title>Pressure grows on Sage as fans turn on Palace boss</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c6kg5jmrzd2jo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">630fe5071aff04f3fe088672d61cff48daf51fec8cc52bb331f36c484db65565</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 25 Oct 2026 18:36:12 +0000</pubDate>
+<description>Crystal Palace boss Pierre Sage had a tough act to follow in Oliver Glasner - and four months into the job the Frenchman is already under big pressure.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/4020a9e0-d0b0-11f1-93e1-3b657b665bcf.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f2/live/4020a9e0-d0b0-11f1-93e1-3b657b665bcf.png" medium="image"/>
 </item>
 <item>
 <title>Pierre Sage regrets ‘missed 15 minutes’ as defeat increases heat on Crystal Palace manager</title>
@@ -433,17 +455,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e45/live/7e1f20c0-cfdc-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>Hayen sacked by Burnley after just 14 games</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">25f084ed44339c8210dd5eb722d4fdfe74bb31b18b22510ef747f361da2fc554</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 24 Oct 2026 19:01:03 +0000</pubDate>
-<description>Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor start to the season.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg" medium="image"/>
-</item>
-<item>
 <title>Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off</title>
 <link>https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report</link>
 <guid isPermaLink="false">e9ec1e27814b1908c940e8a90a8d8f4c4c2cee41749e7a9ece226e738d68c3cc</guid>
@@ -598,15 +609,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png" medium="image"/>
 </item>
 <item>
-<title>Kompany recovery will take 'weeks' as tests continue</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">b74e4fb16c3d5aac3282c28b1fb60f81655929add26e00ce53ff5c6fff8092a0</guid>
+<title>'Best team in the Championship' - Boro lay down marker</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c65ynq95xdw5o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">5a69ba68fdc39fc0900b51ea48f50af7b541ca7f206de6fdfd239b82e669a458</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Sat, 24 Oct 2026 10:03:59 +0000</pubDate>
-<description>Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday, says Bayern Munich director Max Eberl.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg" medium="image"/>
+<pubDate>Fri, 23 Oct 2026 23:14:00 +0000</pubDate>
+<description>Middlesbrough thrash Bolton 5-1 to go top of the Championship and confirm their place among the promotion favourites.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/76e767a0-cf31-11f1-9f96-7f17b236547a.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/76e767a0-cf31-11f1-9f96-7f17b236547a.jpg" medium="image"/>
 </item>
 <item>
 <title>Premier League news: Spurs’ nine injuries ‘normal’, says De Zerbi; ‘emotional control’ keeps Blues red-free</title>
@@ -684,6 +695,17 @@
 <description>The national game merely reflects the mood in a divided nation which is going to the polls with very little faith in the power of democracy Look, cards on the table: I don’t know for certain, and nor do you, whether Flávio Bolsonaro – the man widely tipped to become the next president of Brazil after Sunday night’s election – really did steal an island from Richarlison. There are lawyers involved, claims and counter-claims, and in any case, adjudicating land ownership disputes between right-wing strongmen and Tottenham reserve-team strikers lies very much beyond this column’s spectrum of expertise. It’s why, for example, this newspaper took no official position on the well-publicised battle between Rodrigo Duterte and Vincent Janssen over that Polynesian isthmus. According to Richarlison, a few years ago he purchased an island off the southern coast of Rio de Janeiro, and has the documentation to prove it. Richarlison says Bolsonaro tried to buy it from him, and when he refused a lawye</description>
 <enclosure url="https://i.guim.co.uk/img/media/dec259e537ea87e7d38b9715d6ef8f86a5905309/414_0_3338_2670/master/3338.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d28ee7e5e735eca7624191000218ffb1" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/dec259e537ea87e7d38b9715d6ef8f86a5905309/414_0_3338_2670/master/3338.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d28ee7e5e735eca7624191000218ffb1" medium="image"/>
+</item>
+<item>
+<title>A Ballon d'Or campaign as fierce off the pitch as on it</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">b18df0fa70c2d9c7effc6f1f07d4e595fb571ea60975728b04633abebd31fa1c</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Fri, 23 Oct 2026 06:06:38 +0000</pubDate>
+<description>The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a748/live/9b33db90-cd54-11f1-b962-b7ff822cde72.jpg" medium="image"/>
 </item>
 <item>
 <title>Premier League: 10 things to look out for this weekend</title>
@@ -772,17 +794,6 @@
 <description>Why Declan Rice backs his England team-mate Harry Kane to win the Ballon d'Or after Arsenal's draw with Bayern Munich in the Champions League.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7e3/live/3ae218f0-cda5-11f1-b680-c76e6b70601a.jpg" medium="image"/>
-</item>
-<item>
-<title>The keeper doing 'Premier League' things for EFL's last unbeaten side</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c98rz0d0l40vo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">ec1302f6edbadddf6c11ed36238ffe51185b38c014087c07edee5b803b86bc45</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Wed, 21 Oct 2026 12:46:12 +0000</pubDate>
-<description>Walsall goalkeeper Jed Ward is producing "Premier League" contributions with his hands and feet, say dazzled team-mates and his manager.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcc/live/ab2708f0-cd3c-11f1-8177-0f8bd59b54c4.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcc/live/ab2708f0-cd3c-11f1-8177-0f8bd59b54c4.jpg" medium="image"/>
 </item>
 <item>
 <title>Manchester City have been a joy to watch but they became detached from their roots | Philipp Lahm</title>
