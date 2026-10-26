@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Tinga’s Tale</title>
+<link>https://science.nasa.gov/blog/tingas-tale</link>
+<guid isPermaLink="false">2f78b2f37b45bb56764e52cd406a1b471bfd3f52c9827a587dbbf0e043f246ea</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 21:17:02 +0000</pubDate>
+<description>Written by Margaret Deahn, Ph.D. candidate at Purdue University Oct. 19, 2026 Once upon a time, NASA’s Mars 2020 rover investigated the southern border of “Idubi,” an outcrop composed primarily of an igneous mineral geologists call olivine. The rover’s “eyes” captured a very exciting geologic feature during its traverse — a contact between distinct rock […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2009_0845281389_428EBY_N0911496ZCAM10039_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust</title>
 <link>https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust</link>
 <guid isPermaLink="false">6d879a7a5c5c91f84d3d7e7ef2cdf548ec7d3834b5ab35edc4d328d66fa0fbe9</guid>
@@ -13,6 +24,28 @@
 <description>Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>NEO Surveyor’s Sunshade Gets Inspected</title>
+<link>https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected</link>
+<guid isPermaLink="false">30f1cefc18b249ef80584e5a2752e4a47b229b31ddae97e74aa72a96299d2cd9</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 20:53:13 +0000</pubDate>
+<description>Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor is mounted on an assembly ring during inspections in a clean room at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in July 2026. The sunshade structure stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base. Its two flat […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&amp;h=1536&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26780/PIA26780.jpg?w=1024&amp;h=1536&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Solar Cells Inspected on NASA’s NEO Surveyor</title>
+<link>https://science.nasa.gov/photojournal/solar-cells-inspected-on-nasas-neo-surveyor</link>
+<guid isPermaLink="false">a8e302f318d0198e62406dfdab846a5f30fcba4fd8f7e6a4d7435730bca7c91f</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 20:52:24 +0000</pubDate>
+<description>Description The large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission is inspected by a technician at BAE Systems Space &amp; Mission Systems in Boulder, Colorado, in late July. Built by Applied Aerospace in Stockton, California, the sunshade structure was outfitted with its solar cells by SolAero Technologies in Albuquerque, New Mexico, in January. Environmental […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&amp;h=1024&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26715/PIA26715.jpg?w=1536&amp;h=1024&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>NASA SEES Interns Tackle Real-World Challenges in Lunar Exploration</title>
@@ -306,17 +339,6 @@
 <description>A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not.</description>
 </item>
 <item>
-<title>APOD: 2026 October 25 – Dark Matter in a Simulated Universe</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe</link>
-<guid isPermaLink="false">da556d91f2dc9c94a2003cbf2a37a9cc9fb113364380958a4d78cc7b447e4076</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 08:19:48 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 25 – Dark… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Dark Matter […]</description>
-<enclosure url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&amp;h=900&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2021/october/DarkMatter_KipacAmnh_1200.jpg?w=1200&amp;h=900&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>This mysterious mushroom makes people see hundreds of tiny humans</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261024222021.htm</link>
 <guid isPermaLink="false">c3b941caf62543aace2ca652401f619e60999d47557464d4f93b7c1e58d3efcb</guid>
@@ -443,17 +465,6 @@
 <description>Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing. The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss treatment.</description>
 </item>
 <item>
-<title>APOD: 2026 October 24 – Rosetta’s Selfie</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie</link>
-<guid isPermaLink="false">e1fabf65e2f56c085b060f71bcde47c63de907725aad421485e4e9a97df5a39a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Sat, 24 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 24 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rosetta’s Selfie Explanation: […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&amp;h=1024&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/ESA_Rosetta_Philae_CIVA_141007.png?w=1024&amp;h=1024&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>This 150-million-year-old bird had dinosaur teeth and a strange secret</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261023023710.htm</link>
 <guid isPermaLink="false">008172de301c2ba7be5de84f8ef62bf181304b7c8763537a61455ee56e0ae40f</guid>
@@ -470,17 +481,6 @@
 <category>science</category>
 <pubDate>Sat, 24 Oct 2026 00:48:21 +0000</pubDate>
 <description>Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue. Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread.</description>
-</item>
-<item>
-<title>NASA, Partners Accelerate Lander Development for 2028 Moon Missions</title>
-<link>https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions</link>
-<guid isPermaLink="false">c8aef14bcca24c1900f47b9f55f1ef006af90d0e601ba5619c9f78c888533d10</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 22:39:39 +0000</pubDate>
-<description>As NASA returns humans to the lunar surface and establishes a long-term presence on our closest celestial neighbor, the agency and commercial human landing system providers Blue Origin and SpaceX have streamlined the designs and changed both concepts of operations for its future crewed landers. Since NASA established initial contracts with Blue Origin and SpaceX […]</description>
-<enclosure url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
