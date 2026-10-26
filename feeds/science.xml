@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s X-59 Aircraft and Test Pilot</title>
+<link>https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot</link>
+<guid isPermaLink="false">98f258cf1b4111c1f27b91353b3e76759d6c1fffa6abb2df3e4b8a6dcaafccbd</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 15:25:47 +0000</pubDate>
+<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA, USDA Sign Agreement Advancing Earth Science, Agriculture</title>
 <link>https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture</link>
 <guid isPermaLink="false">865d376cf5cce55d678daec10bd8a3316053588fd54ade0b3578f5da0c188ebd</guid>
@@ -416,17 +427,6 @@
 <description>Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048" medium="image"/>
-</item>
-<item>
-<title>NASA, Virginia Launch Power Partnership for Energy Security</title>
-<link>https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership</link>
-<guid isPermaLink="false">89fd2f07128809d53cf01f4755f70c3e20478c134888044f2f966c5d4b14369b</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 17:50:21 +0000</pubDate>
-<description>NASA is helping to foster long-term energy security in Virginia. NASA’s Langley Research Center in Hampton, Virginia, is partnering with the Virginia Department of Energy to support informed decisions for effective energy generation, delivery and use by providing solar, meteorological, and future weather risk datasets for energy system modeling and planning purposes. Under a new […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/lrc-2026-ocio-p-03524.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
