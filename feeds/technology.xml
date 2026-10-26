@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>6+ ways you can use your PlayStation 5's USB ports</title>
+<link>https://www.engadget.com/2294767/ways-to-use-playstation-5-usb-ports</link>
+<guid isPermaLink="false">d663f3cb0e40f237c4757bf1064d6cf27fdd83700bf06ccea817041605d4cacf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 23:00:00 +0000</pubDate>
+<description>You can do more than charge your controllers with the USB ports on your PS5. Here are some of the possibilities.</description>
+<enclosure url="https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/6-ways-you-can-use-your-playstation-5s-usb-ports/l-intro-1792698653.jpg" medium="image"/>
+</item>
+<item>
+<title>Halide releases its first batch of updates for the iPhone Duo</title>
+<link>https://www.engadget.com/2297806/halide-releases-its-first-batch-of-updates-for-the-iphone-duo</link>
+<guid isPermaLink="false">2b46a65b0acefe0310709bb1b8eb5a2a5b01ff99e20e2452a3603d562407b4d1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:51:46 +0000</pubDate>
+<description>Camera app Halide released a new update for the iPhone Duo that adds three different shooting modes based on what position the foldable is in.</description>
+<enclosure url="https://www.engadget.com/img/gallery/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/l-intro-1793055082.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/halide-releases-its-first-batch-of-updates-for-the-iphone-duo/l-intro-1793055082.jpg" medium="image"/>
+</item>
+<item>
+<title>Ollama for Mac gains support for local text-to-speech models</title>
+<link>https://9to5mac.com/2026/10/26/ollama-for-mac-gains-support-for-local-text-to-speech-models</link>
+<guid isPermaLink="false">5bc005cc0e4a3b34f9463a56e8e79f232aabe66447c5baa333729cd96bec3b0a</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:49:25 +0000</pubDate>
+<description>Ollama, the popular app for running AI models locally, announced that its Mac app now supports text-to-speech generation, with Windows and Linux support coming soon. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ollama-macos27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ollama-macos27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’</title>
 <link>https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate</link>
 <guid isPermaLink="false">9e22adefbeed52bdf78004fd8dd70a98fa5d45df614d374e0fc300d3d8d31448</guid>
@@ -13,6 +46,26 @@
 <description>Months after Elon Musk declared that the xAI model would outclass Christopher Nolan’s mythological epic, the bot itself admitted defeat.</description>
 <enclosure url="https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adfd0bd71d0e77d5637708d/master/pass/MCDODYS_UV008.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft offers to buy out a quarter of its workforce</title>
+<link>https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees</link>
+<guid isPermaLink="false">2b1fe4895a96a5768968220a5b52165c7fcd29a0956e36e4660ed8149419b634</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:36:06 +0000</pubDate>
+<description>Employees in the US, Canada, India, and the UK may receive offers to leave MS today.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>What are the leading causes of EV battery damage?</title>
+<link>https://www.engadget.com/2290322/leading-causing-ev-battery-damage</link>
+<guid isPermaLink="false">1c1f01b8e00f8d46e4da98b548a4c02d93d39d45e8fd5f00ee54dc9d4cef2de4</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 22:30:00 +0000</pubDate>
+<description>Charging behaviors and heat are the things to pay attention to.</description>
 </item>
 <item>
 <title>University of Copenhagen data breach exposes data of 525,000 people</title>
@@ -35,13 +88,13 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Databricks co-founder shares his secrets for winning big enterprises customers</title>
+<title>Databricks co-founder shares his secrets for winning big enterprise customers</title>
 <link>https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers</link>
 <guid isPermaLink="false">f26b7384d506b8cd106cd9de7b97643ac2af015a21a51761917b9a69c5e7a0f0</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-<description>Turns out selling to big companies isn’t about having the shiniest tech: it’s about hitching a ride on a giant’s sales team.</description>
+<description>Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.</description>
 </item>
 <item>
 <title>The mistake iPhone Duo buyers can easily avoid</title>
@@ -956,17 +1009,6 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-declutter-your-phones-address-book-and-remove-unnecessary-contacts/l-intro-1791835912.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic files to go public</title>
-<link>https://www.engadget.com/2296724/anthropic-files-to-go-public</link>
-<guid isPermaLink="false">69252a7d1d8f9de5a54bddb72e1a66f4d6eff209b0d97eded7532d42640ab6f3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:41:26 +0000</pubDate>
-<description>The company may be valued as high as $2 trillion.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anthropic-files-to-go-public/l-intro-1793025062.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anthropic-files-to-go-public/l-intro-1793025062.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple teases an ‘exciting week’ of new products ahead</title>
 <link>https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead</link>
 <guid isPermaLink="false">b2e2f0803b9a1f8c6e1a60cf95878ed45304e02d4050c08fefa5081013383893</guid>
@@ -987,28 +1029,6 @@
 <description>Today Apple unveiled its biggest update to the iPad mini yet, but if you’re looking to buy one, there’s a key limitation of the A20 Pro chip in every configuration but one. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-ipad-mini-oled-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-ipad-mini-oled-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple updates the iPad mini with an A20 processor and OLED display</title>
-<link>https://www.engadget.com/2296637/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display</link>
-<guid isPermaLink="false">b283eba26d2e300da594ade2fee938342aea1d7e027196a50177551edabc5154</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:16:56 +0000</pubDate>
-<description>The new tablet starts at $699.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/l-intro-1793034127.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-updates-the-ipad-mini-with-an-a20-processor-and-oled-display/l-intro-1793034127.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple will reportedly run diagnostics on returned iPhones without opening the packaging</title>
-<link>https://www.engadget.com/2296630/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging</link>
-<guid isPermaLink="false">0511e7a6bfcff7ecf59570eeba93ad02e17b6bfb6ff49f40146e57fbbffef5fc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:15:09 +0000</pubDate>
-<description>Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/l-intro-1793020431.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/l-intro-1793020431.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple unveils all-new iPad mini: OLED, thinner design, more</title>
@@ -2059,17 +2079,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1472974929-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs</title>
-<link>https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs</link>
-<guid isPermaLink="false">8c56e44a24b1f6b86bea44ac1882fe61dbf30956701c0eb01e1d0d1061a22e97</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:18:31 +0000</pubDate>
-<description>Company says foreign-made robotic vehicles are crucial to US chip production.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Intel-fab-interior-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>iPhone Duo accessories: Here are five top picks for Apple’s foldable</title>
 <link>https://9to5mac.com/2026/10/23/iphone-duo-accessories-here-are-five-top-picks-for-apples-foldable</link>
 <guid isPermaLink="false">797b6b6c502994984f81553e0eeadd63c21b00909e6836e31e8d385c2ff22de9</guid>
@@ -2990,17 +2999,6 @@
 <description>The Slow Horses season 6 finale is available now , with a shocking ending that is explained by new showrunner Gaby Chiappe in an interview. Plus, Apple has debuted the first trailer for season 7. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/slow-horses-s6-jackson-lamb-phone.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/slow-horses-s6-jackson-lamb-phone.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iOS Decoded: iOS 27.2 RC – hands-on w/ HomePod Sound Glow, TV profiles, Apple TV Home Theater assets, more [Video]</title>
-<link>https://9to5mac.com/2026/10/21/ios-decoded-ios-27-2-rc-hands-on-w-homepod-sound-glow-tv-profiles-apple-tv-home-theater-assets-more-video</link>
-<guid isPermaLink="false">d70ed517406f0f0313a3ee95de55b01b7ba23fe8a34ebe79966ec4a1025442fb</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 17:00:32 +0000</pubDate>
-<description>In this episode of iOS Decoded , we take the HomePod’s new Sound Glow feature for a test drive and try out the new Lock Controls feature to prevent accidental activation of its top cap. We also go hands-on with other changes, like the handy new profiles option for the TV app and Suggested Actions for Messages. Further, we take a look at and listen to some of the assets and sounds from Apple TV’s new surround-sound Home Theater functionality. Watch our full hands-on video as we dive into these changes and many more, and be sure to subscribe to our YouTube channel for more. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.2-RC-SoundGlow-03.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iOS-27.2-RC-SoundGlow-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
