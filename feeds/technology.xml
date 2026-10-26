@@ -4,6 +4,94 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple releases iOS 26.7.2 for iPhone, here’s what’s new</title>
+<link>https://9to5mac.com/2026/10/26/apple-releases-ios-26-7-2-for-iphone-heres-whats-new</link>
+<guid isPermaLink="false">d36520733e5f3717ba0fbb8f15187ec4f688a3268cb7b5ca7fd18091700c65fe</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:36:56 +0000</pubDate>
+<description>Today alongside iOS 27.2 , Apple has also released iOS 26.7.2, a security-focused update for iPhones still running iOS 26. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Siri AI keeps getting better, here’s what’s new in iOS 27.2</title>
+<link>https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2</link>
+<guid isPermaLink="false">cfc4fba26b7314686c51f3b9ab9036ea60d738b635e41f01ae4b5072ae74d164</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:36:02 +0000</pubDate>
+<description>Apple is rolling out its 27.2 software updates today, and among a variety of new features , they introduce several improvements for Siri AI. Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple releases iOS 27.2, here’s what’s new</title>
+<link>https://9to5mac.com/2026/10/26/apple-releases-ios-27-2-heres-whats-new</link>
+<guid isPermaLink="false">e5a40f375c8b436bf874110e8519ed5b77250b5738f99b9b3a2c08340fdb3696</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:33:04 +0000</pubDate>
+<description>Apple has officially released iOS 27.2 for iPhone. The update brings a new look to Apple Music, more Siri AI languages, changes to Messages and Podcasts, and Apple Pencil support for iPhone Duo. Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-hero.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iOS-27.2-hero.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple releases iPadOS 27.2, here’s everything new for iPad</title>
+<link>https://9to5mac.com/2026/10/26/apple-releases-ipados-27-2-heres-everything-new-for-ipad</link>
+<guid isPermaLink="false">86089a09f2fb9d3671bc837a27f88bda74097d156c95fa65906caf15f8c6aef9</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:31:54 +0000</pubDate>
+<description>Apple has released iPadOS 27.2, its latest software update for iPad users. Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Your Apple TV remote has handy shortcuts most people never use</title>
+<link>https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts</link>
+<guid isPermaLink="false">26e846fea7f58c1535b5a0a07c3b6ec501ee964126ea772d3878ca77422be1b2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
+<description>Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use/l-intro-1792761117.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use/l-intro-1792761117.jpg" medium="image"/>
+</item>
+<item>
+<title>OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model</title>
+<link>https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model</link>
+<guid isPermaLink="false">2cd0b40ce957bc7c1b3c2a6691bc8f20b47b13c6061992037b54842e7d8cb387</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:21:40 +0000</pubDate>
+<description>Earth is so back. Last month when OpenAI released GPT-6 models of Sol and Luna, its medium model Terra was excluded from the update. Now OpenAI has upgraded Terra from GPT-5.6 to GPT-6.1, touting speed and computer use at a lower price. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/chatgpt-codex-gpt-6-astra-1.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>MagSafe Monday: TESSAN’s 6-in-1 charging station replaces every charger on your desk</title>
+<link>https://9to5mac.com/2026/10/26/tessans-6-in-1-charging-station-replaces-every-charger-on-your-desk</link>
+<guid isPermaLink="false">ec70cae09e75cd2f3b8c2b8fbe70e858a8b60fca8fbef7139ca1200f0d1374e2</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:12:00 +0000</pubDate>
+<description>One hub/cord to rule them all is a goal most people have for their desk. The TESSAN Magic 65W Charging Station is built to collapse your pile of cords into a single compact hub, and a couple of its design details are really handy as well if you like to hide your power cables. Let’s take a look at it. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TESSAN-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TESSAN-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>How to use your Samsung Galaxy phone to wirelessly charge other devices</title>
+<link>https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging</link>
+<guid isPermaLink="false">8dd38ab286052e0347ef57e66e5eaf6346243dd5deff68fce64f034672b274f8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
+<description>If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices/l-intro-1792690102.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices/l-intro-1792690102.jpg" medium="image"/>
+</item>
+<item>
 <title>watchOS 27.2 available now for Apple Watch, here’s what’s new</title>
 <link>https://9to5mac.com/2026/10/26/watchos-27-2-available-now-for-apple-watch-heres-whats-new</link>
 <guid isPermaLink="false">854648c847da3efe1f9179e5a87bc22de7cfe81316bb8a76d464e333a31fe6c0</guid>
@@ -282,7 +370,7 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Microsoft offers buyouts to around 60,000 employees, reports say</title>
+<title>Microsoft offers buyouts to around 60,000 employees</title>
 <link>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say</link>
 <guid isPermaLink="false">920a745cd2931524099f80c84fe30116332a4247ef1e8962329c1376ce5a6c9b</guid>
 <source>TechCrunch</source>
@@ -615,7 +703,7 @@
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 13:00:00 +0000</pubDate>
-<description>The repair company iFixit released its repairability rating for Apple’s very first foldable iPhone. It comes as users report a wave of cracked-screen issues.</description>
+<description>Apple confirmed a “small number” of iPhone Duo units have an issue impacting the inner display.</description>
 <enclosure url="https://media.wired.com/photos/6adf134c0a7918a0f61a89fd/master/pass/iPhone%20Duo_94.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf134c0a7918a0f61a89fd/master/pass/iPhone%20Duo_94.jpg" medium="image"/>
 </item>
@@ -706,17 +794,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg" medium="image"/>
 </item>
 <item>
-<title>Elvis Presley's estate is suing Anthropic over copyright infringement</title>
-<link>https://www.engadget.com/2296535/elvis-presley-estate-suing-ai-company-for-copyright-infringement</link>
-<guid isPermaLink="false">dde96089a05a28f5fba72813ce36940536de20cee99bc9993a9cb5a20864bf49</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 11:23:48 +0000</pubDate>
-<description>The latest AI copyright infringement suit centers around a single music artist from decades past: Elvis.</description>
-<enclosure url="https://www.engadget.com/img/gallery/elvis-presley-estate-suing-ai-company-for-copyright-infringement/l-intro-1793026770.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/elvis-presley-estate-suing-ai-company-for-copyright-infringement/l-intro-1793026770.jpg" medium="image"/>
-</item>
-<item>
 <title>iPhone Duo tested to destruction, including removing nanotexture layer</title>
 <link>https://9to5mac.com/2026/10/26/iphone-duo-tested-to-destruction-including-removing-nanotexture-layer</link>
 <guid isPermaLink="false">c0d4c6f70b57a89df51fa53c2c371d0fb05f67c50007446bb98ef958cf7ab350</guid>
@@ -801,17 +878,6 @@
 <description>A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg" medium="image"/>
-</item>
-<item>
-<title>iFixit's teardown of the iPhone Duo shows potential causes for cracked screens</title>
-<link>https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens</link>
-<guid isPermaLink="false">2909da046aa69a1a6a78b0ff277a87e8f58957b12ee0f9c3aa42fc9a8ceaae6d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 09:31:44 +0000</pubDate>
-<description>iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg" medium="image"/>
 </item>
 <item>
 <title>Meet the AI Agents Trying to Be Real-Life Journalists</title>
@@ -2948,17 +3014,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-apple-pencil.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Touchscreen Mac, or double your RAM or SSD size – what’s the better deal? [Poll]</title>
-<link>https://9to5mac.com/2026/10/21/touchscreen-mac-or-double-your-ram-or-ssd-size-whats-the-better-deal-poll</link>
-<guid isPermaLink="false">c9d064eae511785a6a439c9da735350a29bfafb4d38bb588d56cc722521e388d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 13:15:31 +0000</pubDate>
-<description>We’re just a week away from the official announcement of the first ever touchscreen Mac . The upcoming MacBook Pro will also have an OLED screen, which may include a Dynamic Island, and is said to be lighter. We don’t yet know the price of the new model, but we can be sure it will carry a significant premium over the existing one. My guess would be somewhere in the $500 to $700 range … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/touchscreen-macbook.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands</title>
 <link>https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html</link>
 <guid isPermaLink="false">e2527452350fa74e2228678b88b36304d835c228438d170475aa98f796f4f0dc</guid>
@@ -2968,17 +3023,6 @@
 <description>Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls. As part of</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkkBWQk1mVx_ybLuq6r6miCGLiZJUyA_-tPpzi5cyWpcmN_WX43NqfOoH-Tc5VaAh1rVA78waqQ9hx4j-jNwq1GX9bbZjezpx1Q28YcxlBPqnxMbbHd15spg63hSVS0sidhyR9wTg6Aq7ijZJdNIfdY_jev1_K4KJR-6yIoCLlD6cbkGwVY3SUke5IuXS5/s1600/chrome-clickfix-warning.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple blocks web certificates that could be used by scammers, but Mac vulnerability remains</title>
-<link>https://9to5mac.com/2026/10/21/apple-blocks-web-certificates-that-could-be-used-by-scammers-but-mac-vulnerability-remains</link>
-<guid isPermaLink="false">30b9c347370dd9e4063b2577a6598895f11645f0725b5dd1cc91ae43c50fda41</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 12:16:19 +0000</pubDate>
-<description>Apple has blocked eight web security certificates that could have been used by scammers to impersonate legitimate websites. However, one cryptography engineer has warned that Macs may continue to trust the compromised certificates because macOS does not check for revocation … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-blocks-web-certificates-that-could-be-used-by-scammers-but-Mac-vulnerability-remains.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-blocks-web-certificates-that-could-be-used-by-scammers-but-Mac-vulnerability-remains.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors</title>
@@ -2992,17 +3036,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png" medium="image"/>
 </item>
 <item>
-<title>iPhone Duo review: The future is foldable</title>
-<link>https://9to5mac.com/2026/10/21/iphone-duo-review</link>
-<guid isPermaLink="false">ed451fd510199e89759d986ebaf6f1737306dfb55d5b0209e8b42b800245e0fe</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 12:00:06 +0000</pubDate>
-<description>The iPhone Duo is the biggest change to the iPhone’s form factor in its nearly 20-year history. It combines a compact, notebook-style design with an iPad-like inner display. It might look a little awkward, but that’s for good reason. I’ve spent the last week using the iPhone Duo. Here’s everything you need to know about Apple’s first foldable iPhone. 9to5Mac’s iPhone Duo review is sponsored by Craft: Craft will be available and fully optimized for iPhone Duo from day one! But that’s not all – the latest updates bring a ton of improvements across all platforms, making Craft smoother and more powerful than ever on iPhone, iPad, and Mac. If you’re looking for a productivity tool with beautifully designed, fully native apps across the Apple ecosystem, look no further! Check out Craft now and use code 9to5Mac40 for 40% off! more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-07-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-07-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports</title>
 <link>https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html</link>
 <guid isPermaLink="false">2b1381b5788ddde481e0a2014bfe0b4b5e5d96422adceec0fab81d3c9d9484ce</guid>
@@ -3012,28 +3045,6 @@
 <description>Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg" medium="image"/>
-</item>
-<item>
-<title>TikTok accused of profiting from illegal child sexual exploitation videos</title>
-<link>https://9to5mac.com/2026/10/21/tiktok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos</link>
-<guid isPermaLink="false">52df85d2ff8aa21ee910ddc0000b475a9b923d12a83acadd770abe5909b04b1c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 11:19:45 +0000</pubDate>
-<description>TikTok has been accused of profiting from illegal child sexual exploitation videos posted on its platform. The allegations were made by former and current employees, who say that the company failed to properly respond to internal reports … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TikTok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TikTok-accused-of-profiting-from-illegal-child-sexual-exploitation-videos.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Video shows French Apple store being emptied by looters</title>
-<link>https://9to5mac.com/2026/10/21/video-shows-french-apple-store-being-emptied-by-looters</link>
-<guid isPermaLink="false">f237070ff7cddb53c801181f383434353e80dffd12186050af9b6fc0f68a18d9</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:53:36 +0000</pubDate>
-<description>Video captured during the protests in France show an Apple store being almost completely emptied by looters amid chaotic scenes that include cars being set alight. Reports say that looters broke into Apple stores in Bordeaux and Lille as public unrest continues in what began as protests against overcrowded schools with insufficient staffing … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Video-shows-French-Apple-store-being-emptied-by-looters.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Video-shows-French-Apple-store-being-emptied-by-looters.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't</title>
@@ -3056,16 +3067,5 @@
 <description>An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple is looking for a cellular modem engineer to help shape its transition to 6G</title>
-<link>https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g</link>
-<guid isPermaLink="false">02e0520cecac9d798764e9c9067a957a2feb20a66168a162654c02f5e4506b00</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 01:18:32 +0000</pubDate>
-<description>Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
