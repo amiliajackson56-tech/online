@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The city that fought Flock</title>
+<link>https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure</link>
+<guid isPermaLink="false">e7fa5f8431d51c0466a1639b59074a0824eae31ac64cf2a1da5ed5ea914bd082</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268752_Flock_camera_photos_CAlo_25.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
+<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
+<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
+<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
+</item>
+<item>
+<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
+<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
+<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
+<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
+</item>
+<item>
 <title>iFixit's teardown of the iPhone Duo shows potential causes for cracked screens</title>
 <link>https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens</link>
 <guid isPermaLink="false">2909da046aa69a1a6a78b0ff277a87e8f58957b12ee0f9c3aa42fc9a8ceaae6d</guid>
@@ -11,8 +44,8 @@
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 09:31:44 +0000</pubDate>
 <description>iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793006964.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793006964.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793008492.jpg" medium="image"/>
 </item>
 <item>
 <title>Meet the AI Agents Trying to Be Real-Life Journalists</title>
@@ -697,17 +730,6 @@
 <description>From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.</description>
 </item>
 <item>
-<title>Pennsylvania will require labels on AI-generated ads</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act</link>
-<guid isPermaLink="false">c7aa9b7dfeaf83bd70a0235dc2db7447b4c2813e717e295ca0d51e3a66cf7ec0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 18:32:21 +0000</pubDate>
-<description>On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>iPhone Duo one day later: Here’s why its quirks don’t make it any less incredible</title>
 <link>https://9to5mac.com/2026/10/24/thoughts-on-iphone-duo-24-hours-later</link>
 <guid isPermaLink="false">4088f2f93a0c3a51c01fc13341da4035e2ecdca9a0ae0cc6da6c4a0bee06a146</guid>
@@ -945,17 +967,6 @@
 <media:content url="https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg" medium="image"/>
 </item>
 <item>
-<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
-<link>https://www.wired.com/story/best-laptops</link>
-<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
-<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
-</item>
-<item>
 <title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
 <link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
 <guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
@@ -965,6 +976,17 @@
 <description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
 <enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
+<link>https://www.wired.com/story/best-laptops</link>
+<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
+<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
@@ -2396,28 +2418,6 @@
 <description>A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg" medium="image"/>
-</item>
-<item>
-<title>Meta’s Ad Sales Are Suffering Now That Europeans Can Pick Less Personalization</title>
-<link>https://www.wired.com/story/metas-ad-sales-suffering-now-europeans-can-pick-less-personalization</link>
-<guid isPermaLink="false">3af0ccbbb60a0689bac94fd59996bf7f4a812ab94a26f980ae28282c9e963dc5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 10:43:13 +0000</pubDate>
-<description>An earnings briefing on Wednesday revealed ad revenue has slowed since the European Union introduced the Less-Personalized Ads model at the beginning of this year.</description>
-<enclosure url="https://media.wired.com/photos/6ad9d068ec7a57895da5d773/master/pass/GettyImages-2296209094.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9d068ec7a57895da5d773/master/pass/GettyImages-2296209094.jpg" medium="image"/>
-</item>
-<item>
-<title>I Worked for a Whole Day Using Only the iPhone Duo. Here’s How It Went</title>
-<link>https://www.wired.com/story/i-worked-for-a-whole-day-using-only-the-iphone-duo-heres-how-it-went</link>
-<guid isPermaLink="false">8c71b490d782d82446d87811052c48d059c0708d1e0f6b37cc17ddea28627115</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 10:30:00 +0000</pubDate>
-<description>A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.</description>
-<enclosure url="https://media.wired.com/photos/6ad935fd8dbac9acb33aa1cc/master/pass/DSC_9943.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad935fd8dbac9acb33aa1cc/master/pass/DSC_9943.jpg" medium="image"/>
 </item>
 <item>
 <title>Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple</title>
