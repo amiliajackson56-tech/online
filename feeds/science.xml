@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Invites Media to Moon Landing Simulation Experience in California</title>
+<link>https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california</link>
+<guid isPermaLink="false">f0c9dde6ad12f1419c9594fc865b33740d0b12a0d1eb91fbb71b6acb7cfe1560</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 17:13:44 +0000</pubDate>
+<description>Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.</description>
+<enclosure url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA’s X-59 Aircraft and Test Pilot</title>
 <link>https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot</link>
 <guid isPermaLink="false">98f258cf1b4111c1f27b91353b3e76759d6c1fffa6abb2df3e4b8a6dcaafccbd</guid>
@@ -138,6 +149,15 @@
 <description>Scientists have discovered a way to operate multiple silicon qubits simultaneously with remarkable accuracy, overcoming a major challenge in scaling up quantum computers. Their new technique maintained accuracy of approximately 99.9% even when all five qubits were running at once, opening the door to larger and more powerful quantum processors.</description>
 </item>
 <item>
+<title>Nerve activity initiates autoimmune hair loss</title>
+<link>https://www.nature.com/articles/d41586-026-03258-x</link>
+<guid isPermaLink="false">761b16347dc9a5ec769069eed348aeb07f23f4cc88bb18710d44dec599b1f613</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.</description>
+</item>
+<item>
 <title>Women might have invented language — but not alone</title>
 <link>https://www.nature.com/articles/d41586-026-03392-6</link>
 <guid isPermaLink="false">1907b327dea6bd2910089aa1f3a0f7736a488b5c738e801e2f5eb9b4c7087afa</guid>
@@ -154,6 +174,15 @@
 <category>science</category>
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03398-0 Nature’s survey of almost 4,000 researchers shows that you’re not alone if you struggle to make ends meet or your last pay rise is a distant memory.</description>
+</item>
+<item>
+<title>Glimpsing archaeal microbes on the move</title>
+<link>https://www.nature.com/articles/d41586-026-03259-w</link>
+<guid isPermaLink="false">44a8ff14ad4836fcdd1f9ab248e8cd7ca6ffec2dd8ddeb22ccf9b528be8b3805</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03259-w How and when did cells gain the ability to crawl? Live imaging of cells from close relatives of early eukaryotes fills in a major gap in the understanding of cellular evolution.</description>
 </item>
 <item>
 <title>Evolutionary 'game-changer': weird armoured amphibian lived in ancient seas</title>
@@ -425,17 +454,6 @@
 <description>NASA’s Neil Gehrels Swift Observatory has ended its science mission now that the spacecraft is orbiting less than 171 miles (275 kilometers) above Earth’s surface. The greater atmospheric drag at this height prevents the satellite’s telescopes from steadily gazing at their astronomical targets. Swift conducted its final observation on Oct. 20. It is expected to […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&amp;h=1084&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2026/end-of-mission/Swift_in_space_15_ac.jpg?w=2048&amp;h=1084&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>RS-25 Engine Tests at NASA Stennis</title>
-<link>https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis</link>
-<guid isPermaLink="false">1feb31ee95971ed050e24957f7d53e73257cd6e09afe58109404588023aec35d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 18:57:04 +0000</pubDate>
-<description>Teams at NASA’s Stennis Space Center near Bay St. Louis, Mississippi tested RS-25 engine No. 10001 on Oct. 21, 2026. The hot fire test lasted for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s SLS (Space Launch System) rocket, with a 111% power level. For each […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947horig.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>One of Earth’s most powerful supervolcanoes is refilling with fresh magma</title>
@@ -1309,23 +1327,5 @@
 <category>science</category>
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03374-8 The drug improved the ability to focus — but only in women. Plus, US climate scientists are facing a deluge of public-records requests and why a sleep-disorder drug might be the next big blockbuster.</description>
-</item>
-<item>
-<title>Can a human survive in a whale’s belly? The science behind the thriller &lt;i&gt;Whalefall&lt;/i&gt;</title>
-<link>https://www.nature.com/articles/d41586-026-03358-8</link>
-<guid isPermaLink="false">7efbdeb31a1fbaaaf926ca0837159453863f892d0c307a3b8fb80ad64ff849e7</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03358-8 Nature spoke with marine and anatomy specialists about the ‘modern-day Jonah’ film. Warning: spoilers ahead.</description>
-</item>
-<item>
-<title>It’s time to teach peer review as a core research skill</title>
-<link>https://www.nature.com/articles/d41586-026-03200-1</link>
-<guid isPermaLink="false">dbc49abd0e892eeb77a55c8fecad19dce4c0490345ab1f6b46d0c460517955af</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03200-1 Preprint journal clubs offer a scalable way to make peer-review training a routine part of scientific education.</description>
 </item>
 </channel></rss>

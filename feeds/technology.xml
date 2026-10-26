@@ -4,6 +4,125 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>watchOS 27.2 available now for Apple Watch, here’s what’s new</title>
+<link>https://9to5mac.com/2026/10/26/watchos-27-2-available-now-for-apple-watch-heres-whats-new</link>
+<guid isPermaLink="false">854648c847da3efe1f9179e5a87bc22de7cfe81316bb8a76d464e333a31fe6c0</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:47:47 +0000</pubDate>
+<description>watchOS 27.2 is rolling out now for Apple Watch users alongside visionOS 27.2 and more. Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ultra-4-siri-modular-apple-watch.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple releases macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2</title>
+<link>https://9to5mac.com/2026/10/26/apple-releases-macos-sequoia-15-8-2-and-macos-tahoe-26-7-2</link>
+<guid isPermaLink="false">db6dcc7c6a98a0c74c155d61d169adfc7455b9330cc374dbfcfd7723a278b4e7</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:46:33 +0000</pubDate>
+<description>In addition to releasing macOS 27.2 Golden Gate, Apple is now also rolling out macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>macOS 27.2 Golden Gate now available, here’s everything new</title>
+<link>https://9to5mac.com/2026/10/26/macos-27-2-golden-gate-now-available-heres-everything-new</link>
+<guid isPermaLink="false">9895551c2b223e3e267602f060f46391f2f96fe5d02b75f3501b8743179230c8</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:46:14 +0000</pubDate>
+<description>Mac users can now install macOS 27.2 Golden Gate, which expands the new Siri AI to five additional languages, making it available to millions more users. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-hero.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-hero.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw</title>
+<link>https://thehackernews.com/2026/10/php-issues-second-windows-security.html</link>
+<guid isPermaLink="false">c85198bbddef2ec11ea9bd7e48957ff3175a054e5f58fb8e067ecdf2918b369c</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:45:57 +0000</pubDate>
+<description>PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg" medium="image"/>
+</item>
+<item>
+<title>tvOS 27.2 just launched for Apple TV 4K, here’s what’s new</title>
+<link>https://9to5mac.com/2026/10/26/tvos-27-2-just-launched-for-apple-tv-4k-heres-whats-new</link>
+<guid isPermaLink="false">d83d7597b75f95255892899866f4d5bd9af4b40c59d6c8c58406506360a4de8c</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:45:30 +0000</pubDate>
+<description>Apple has just released tvOS 27.2 for Apple TV 4K users, here’s what’s new in the latest software update. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-2022-model-big.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-2022-model-big.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>HomePod 27.2 is available now with four new features</title>
+<link>https://9to5mac.com/2026/10/26/homepod-27-2-is-available-now-with-four-new-features</link>
+<guid isPermaLink="false">ca980e1c1ff8c2dd0b02709fb9804e8de21dd2591407483f689b2505cd645f83</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:45:21 +0000</pubDate>
+<description>Apple has released HomePod 27.2, its latest software update for HomePod users. Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>This startup’s self-driving excavators help dig up $600M in new funding</title>
+<link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding</link>
+<guid isPermaLink="false">c8834c973f1bc77c213e2debf99c25e5c659bbd2ebfd4ecfd1aeebc462923f56</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:45:00 +0000</pubDate>
+<description>Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.</description>
+</item>
+<item>
+<title>Instagram wants you to watch 90-minute videos on your TV</title>
+<link>https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv</link>
+<guid isPermaLink="false">6be8b784c4c7f093e774dedfb38da7dd05d7fe6d8a37f9e1b2947ec75174ed22</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:36:39 +0000</pubDate>
+<description>Instagram is experimenting with longform video again.</description>
+<enclosure url="https://www.engadget.com/img/gallery/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/l-intro-1793036153.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/l-intro-1793036153.jpg" medium="image"/>
+</item>
+<item>
+<title>The RealReal won’t let AI agents hog designer clothing</title>
+<link>https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal</link>
+<guid isPermaLink="false">c703d92e74636f36951afe7e2c38703ee30f3cae56f46e633a1e6bc90a23bd0d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:30:55 +0000</pubDate>
+<description>The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple acknowledges iPhone Duo display &amp;#8216;issue&amp;#8217; after reports of cracked screens</title>
+<link>https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack</link>
+<guid isPermaLink="false">c5d956352473047a2026f854ad3a71c9477c62aea8b54be1e9aaccb39df40396</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:28:07 +0000</pubDate>
+<description>Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of "an issue impacting the inner display" on a "small number of iPhone Duo units." If your iPhone Duo […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268762_iPhone_Duo_AKrales_1230.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nothing&amp;#8217;s eye-catching Ear 3A earbuds are matching their best price to date</title>
+<link>https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale</link>
+<guid isPermaLink="false">6e05bd7f1cac5454d0eda985d94af37799e1f9238b2729d15e0360be8653a86f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:25:34 +0000</pubDate>
+<description>If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268654_Nothing_Ear_3A_JHiggins_0014.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Apple responds to reports of iPhone Duo’s inner display cracking</title>
 <link>https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking</link>
 <guid isPermaLink="false">32cd47c8fe0c2c96af4d0727c068d3b5232670a012570a82e4e0d9b30e9f0a96</guid>
@@ -13,6 +132,28 @@
 <description>Over the weekend, a handful of iPhone Duo users reported that their inner display had cracked along the hinge. In a statement to 9to5Mac , Apple said it is “aware of an issue impacting the inner display on a small number of iPhone Duo units,” and that affected users can contact AppleCare for a replacement. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-round-2-03.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Dutch government to cut 16 percent of workforce as part of AI efficiency push</title>
+<link>https://www.engadget.com/2297180/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push</link>
+<guid isPermaLink="false">3bc122880e289e97bd1faf894c6b9652062adb31ddd05468f8b9842a11861008</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:13:20 +0000</pubDate>
+<description>The cabinet announced that it wants to get rid of 25,000 full-time jobs by 2035.</description>
+<enclosure url="https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/dutch-government-to-cut-16-percent-of-workforce-as-part-of-ai-efficiency-push/l-intro-1793034748.jpg" medium="image"/>
+</item>
+<item>
+<title>Five weird details from Anthropic’s IPO filing</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details</link>
+<guid isPermaLink="false">fe6583a778a0b30ba7d2d12bed072e66b2ae845103173ef85db34033dbd3341f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 17:10:23 +0000</pubDate>
+<description>Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK202_DARIO_AMODEI_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft reportedly offers voluntary buyouts to 60,000 employees as an attempt to trim costs</title>
@@ -150,6 +291,17 @@
 <description>The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.</description>
 </item>
 <item>
+<title>Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware</title>
+<link>https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html</link>
+<guid isPermaLink="false">4b8826d6a66e074543d42962242b43c47c115efa1a641d10702956c2bb749253</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 15:52:40 +0000</pubDate>
+<description>Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. "A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg" medium="image"/>
+</item>
+<item>
 <title>How to set up your phone games to play on an Android Auto screen</title>
 <link>https://www.engadget.com/2294303/how-to-set-up-phone-games-play-on-android-auto-screen</link>
 <guid isPermaLink="false">c838ff943c58395111f2d46ecac646b7879eeb3b3b489e7ab034606a61eab39f</guid>
@@ -247,17 +399,6 @@
 <media:content url="https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-foldable-electric-bike/l-intro-1791999912.jpg" medium="image"/>
 </item>
 <item>
-<title>Remarkable’s refurbished Paper Pro Move bundle is over $100 off</title>
-<link>https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale</link>
-<guid isPermaLink="false">4c86b87d4d3a2b13dab592ae50631edf37b8260dfa6099e070e3195c815ab754</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:41:43 +0000</pubDate>
-<description>The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/remarkabledeal.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/remarkabledeal.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Anthropic officially files for its public debut</title>
 <link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut</link>
 <guid isPermaLink="false">fcee7fe2ae9bec9bd7c9392d182e7de470382ba1d3e33c135bb1a16c6fc312b9</guid>
@@ -338,17 +479,6 @@
 <description>A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]</description>
 </item>
 <item>
-<title>Kevin Roose is AGI-pilled. Why aren’t you?</title>
-<link>https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic</link>
-<guid isPermaLink="false">6f7a1073a8b8ffd9755dd3416f0e0d713ccdd7bd45871632420b14c149541408</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
-<description>Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_Kevin_Roose.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Even Realities launches a brown version of its G2 smart glasses</title>
 <link>https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses</link>
 <guid isPermaLink="false">9fa3c1081c0329f5bae45081296bdf1504006c937b41d2b61c1ecd78e0c8e018</guid>
@@ -413,17 +543,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Anthropic’s IPO filing lays out a plan to &amp;#8216;revolutionize every area of human endeavor&amp;#8217; with AI</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec</link>
-<guid isPermaLink="false">8730dc35da783e3d8b16123f20dfea527db345dcc2214fcb3bd0d131ec40a5e0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:32:49 +0000</pubDate>
-<description>Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic said it plans to list on the Nasdaq exchange under the ticker symbol "ANT." The AI company confidentially filed with the SEC […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>New iPad mini has big limitation on all but one model</title>
 <link>https://9to5mac.com/2026/10/26/new-ipad-mini-has-big-limitation-on-all-but-one-model</link>
 <guid isPermaLink="false">83f45d27981cc1263f851ec6a0e67c09b4108327025a731218cd0d8021820f0c</guid>
@@ -455,17 +574,6 @@
 <description>Apple soon won't need to physically access iPhones like the new Duo before updating them or checking returns.</description>
 <enclosure url="https://www.engadget.com/img/gallery/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/l-intro-1793020431.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/apple-will-reportedly-run-diagnostics-on-returned-iphones-without-opening-the-packaging/l-intro-1793020431.jpg" medium="image"/>
-</item>
-<item>
-<title>Can AI help solve the COBOL code crisis?</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic</link>
-<guid isPermaLink="false">4d610e220c2d6684cb8cfe12aa80062dfed03192d3df2c0edc8876e9919ae389</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:15:00 +0000</pubDate>
-<description>What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everything come crashing down. OpenAI thinks it may have a solution. On October 19th, the company touted "substantial improvements" in its latest AI models' […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1246435991.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>How do Starlink speeds compare to 5G?</title>
@@ -801,28 +909,6 @@
 <description>There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.</description>
 </item>
 <item>
-<title>Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?</title>
-<link>https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less</link>
-<guid isPermaLink="false">a810f2b787f3e3548dbc3ef92cc772f190bd19fa72e9c60cd8a51552b9d1f259</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 00:30:00 +0000</pubDate>
-<description>How locked in do you want to be?</description>
-<enclosure url="https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fitbit-air-vs-whoop-which-screenless-fitness-tracker-is-better-for-you/l-intro-1792526649.jpg" medium="image"/>
-</item>
-<item>
-<title>Can you run regular Ethernet cables outside?</title>
-<link>https://www.engadget.com/2294283/ethernet-cables-use-outside-explained</link>
-<guid isPermaLink="false">dc826eeaf6a5e382884097e4bb6c7fbf1e753f64f0c58a57233934f716202d91</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<description>Just because you can do something doesn't mean you should.</description>
-<enclosure url="https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/can-you-run-regular-ethernet-cables-outside/l-intro-1792100149.jpg" medium="image"/>
-</item>
-<item>
 <title>iFixit tears down iPhone Duo, finds possible causes of early screen failures</title>
 <link>https://9to5mac.com/2026/10/25/ifixit-tears-down-iphone-duo-finds-possible-causes-of-early-screen-failures</link>
 <guid isPermaLink="false">65d4d1f15e1b62d9c6361b8545a7a0a84fa996a4616d27471575208b6dcea1a5</guid>
@@ -1151,15 +1237,6 @@
 <description>Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.</description>
 </item>
 <item>
-<title>These clever apps show off the iPhone Duo’s potential</title>
-<link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential</link>
-<guid isPermaLink="false">fe5d9d4e3909658c8de1488fb50948bb490b3ec22a986b1495f1e60ac4ca8b07</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 15:00:00 +0000</pubDate>
-<description>From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.</description>
-</item>
-<item>
 <title>BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
 <link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot</link>
 <guid isPermaLink="false">9fcce94ed3b1e9c4958aa9fdf55861c308d71d460948b415bee4d65d0c6e4d18</guid>
@@ -1330,8 +1407,8 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
 <description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
-<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
+<enclosure url="https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
@@ -2981,28 +3058,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg" medium="image"/>
 </item>
 <item>
-<title>Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections</title>
-<link>https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html</link>
-<guid isPermaLink="false">bf7cf33fc0ebbbd55593355ad4728cc3aabe6c4108273c05f2275e9d6a811218</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 10:30:27 +0000</pubDate>
-<description>Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to an SSH server made through Tor between October 1 and 5, after accepting the interception</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg" medium="image"/>
-</item>
-<item>
-<title>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
-<link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
-<guid isPermaLink="false">8231b6f9ea3f8bfffda492a722692ea691123db4b56577d66b077e9a6648656e</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 09:05:17 +0000</pubDate>
-<description>This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. ⚡</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple is looking for a cellular modem engineer to help shape its transition to 6G</title>
 <link>https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g</link>
 <guid isPermaLink="false">02e0520cecac9d798764e9c9067a957a2feb20a66168a162654c02f5e4506b00</guid>
@@ -3012,60 +3067,5 @@
 <description>Apple is looking for an experienced cellular modem systems engineer to help develop its next generation of cellular modems as the company transitions toward 6G. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/12/apple-chip-lab.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Dark comedy ‘Where’s Wanda?’ season 2 premieres on Apple TV</title>
-<link>https://9to5mac.com/2026/10/20/dark-comedy-wheres-wanda-season-2-premieres-on-apple-tv</link>
-<guid isPermaLink="false">b096c9ee8f6a1cbf38db64e3a792c3d3a73ea9b03db05287f4107f3432706cbf</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 01:01:09 +0000</pubDate>
-<description>German-language dark comedy “ Where’s Wanda? ” is back on Apple TV, with the first episode of its second season now streaming. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wheres-wanda.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/wheres-wanda.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Sensor Tower: Meta’s Muse app tops 10 million US downloads in 40 days</title>
-<link>https://9to5mac.com/2026/10/20/sensor-tower-metas-muse-app-tops-10-million-us-downloads-in-40-days</link>
-<guid isPermaLink="false">6592153e7b14b457c9891c6a57f63ed0fba029cb5c968e633af2ea7fb231ba5b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 20:45:05 +0000</pubDate>
-<description>According to a new report from Sensor Tower, not only did Meta’s Muse become the 12th app ever to reach 10 million US downloads in 40 days, but it is also outpacing its peers in user retention. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Muse-by-Meta.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple’s ‘Designers of Tomorrow’ highlights creative projects from emerging designers</title>
-<link>https://9to5mac.com/2026/10/20/apples-designers-of-tomorrow-highlights-creative-projects-from-emerging-designers</link>
-<guid isPermaLink="false">ccb9e92fcb758f1c40b843f546ca9c5b937d042dbcdb621aec9183a704c5df2a</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 20:07:26 +0000</pubDate>
-<description>Apple, in collaboration with Design Miami, is highlighting four creative projects from emerging designers in this year’s ‘Designers of Tomorrow’ exhibition, which opens today at Hôtel de Maisons in Paris. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-designers-of-tomorrow-2026.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-designers-of-tomorrow-2026.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>John Ternus talks his involvement with design teams at Apple</title>
-<link>https://9to5mac.com/2026/10/20/john-ternus-talks-his-involvement-with-design-teams-at-apple</link>
-<guid isPermaLink="false">7f59eb5a667edf5ed9404b5b32316ecc5724c8a771c6e28060b6889219b7ced3</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 19:51:56 +0000</pubDate>
-<description>Last week TIME shared select quotes from a new interview with Apple CEO John Ternus, but today the full video has been published , including a discussion on Ternus’s involvement with Apple’s design teams. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iOS 27 adds scam-prevention feature to iPhone, here’s how to enable it</title>
-<link>https://9to5mac.com/2026/10/20/ios-27-adds-scam-prevention-feature-to-iphone-heres-how-to-enable-it</link>
-<guid isPermaLink="false">5312d61b268d1e2807cb5088fb9c3e0f0cf45b54291e4115e60bf4f2dc9509f3</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 18:56:15 +0000</pubDate>
-<description>iOS 27 introduces a new security feature called ‘Impersonation Risk Detection’ that helps protect you against scams, but it’s off by default. Here’s what the feature does, and how to enable it. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/10/iphone-privacy-private-cloud-compute.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
