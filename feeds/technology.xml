@@ -218,13 +218,13 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg" medium="image"/>
 </item>
 <item>
-<title>PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking</title>
+<title>PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity</title>
 <link>https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</link>
 <guid isPermaLink="false">da19872bd8ebd641fd6397768aac402f3e921a7c58cec2a2b755c0ffbf10b243</guid>
 <source>The Hacker News</source>
 <category>technology</category>
 <pubDate>Sun, 25 Oct 2026 17:19:46 +0000</pubDate>
-<description>Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. "In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor</description>
+<description>In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. "What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application," a spokesperson for the company told The Hacker News via</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg" medium="image"/>
 </item>
@@ -859,17 +859,6 @@
 <media:content url="https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg" medium="image"/>
 </item>
 <item>
-<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
-<link>https://www.wired.com/story/best-laptops</link>
-<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
-<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
-</item>
-<item>
 <title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
 <link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
 <guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
@@ -879,6 +868,17 @@
 <description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
 <enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
+<link>https://www.wired.com/story/best-laptops</link>
+<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
+<enclosure url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb93924c15513ff5ac298b/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Best%20Buy-Walmart.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
