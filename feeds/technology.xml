@@ -4,6 +4,81 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>iFixit's teardown of the iPhone Duo shows potential causes for cracked screens</title>
+<link>https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens</link>
+<guid isPermaLink="false">2909da046aa69a1a6a78b0ff277a87e8f58957b12ee0f9c3aa42fc9a8ceaae6d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 09:31:44 +0000</pubDate>
+<description>iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793006964.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ifixits-teardown-of-the-iphone-duo-shows-potential-causes-for-cracked-screens/l-intro-1793006964.jpg" medium="image"/>
+</item>
+<item>
+<title>Meet the AI Agents Trying to Be Real-Life Journalists</title>
+<link>https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now</link>
+<guid isPermaLink="false">3dd3b8be816bc2f2154e28ccb61058f3d1f6d796ec5a513cc5669e4462f7b43f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 09:30:00 +0000</pubDate>
+<description>Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.</description>
+<enclosure url="https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg" medium="image"/>
+</item>
+<item>
+<title>PHP2Shell security flaws now sucessfully exploited in the wild</title>
+<link>https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild</link>
+<guid isPermaLink="false">bf12d0254fb716020f3160d061c1c9b8350e6e50cd54b1dcf1340f4421529c40</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 09:19:57 +0000</pubDate>
+<description>Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]</description>
+</item>
+<item>
+<title>Valve Steam Frame Review: Costly and Inconsistent</title>
+<link>https://www.wired.com/review/valve-steam-frame</link>
+<guid isPermaLink="false">3c4e6ef79faf675fcb9ac921459165ee39ddb675725d981ba532c5106ec1f5d8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 09:15:00 +0000</pubDate>
+<description>The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.</description>
+<enclosure url="https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg" medium="image"/>
+</item>
+<item>
+<title>This AI Radio Host Speaks Spanish and Backs Immigrants. It’s Winning Over Listeners</title>
+<link>https://www.wired.com/story/this-ai-radio-hosts-speaks-spanish-and-backs-immigrants-its-winning-over-listeners</link>
+<guid isPermaLink="false">67e7c3666f8e455b7a0dba57678183eb78b4052314adef3b0887ee8dc1565d77</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+<description>Coyotec is bilingual, swears, and tells listeners how to defend themselves against ICE. Its popularity comes as more broadcasters are experimenting with artificial personalities.</description>
+<enclosure url="https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbe71b429a21d2813df7cd/master/pass/GGC%20-%205-watermarked.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations</title>
+<link>https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html</link>
+<guid isPermaLink="false">399172439712b08d5e85ae1e75783c6c3387be4fdb196acb84a4e22c103b9a1f</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 08:35:51 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg" medium="image"/>
+</item>
+<item>
+<title>Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs</title>
+<link>https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html</link>
+<guid isPermaLink="false">a26d3a2a0bb03d720cf8ca011ef8de41f36f8aba5b8e835271f050902c50cab1</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 07:49:46 +0000</pubDate>
+<description>An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg" medium="image"/>
+</item>
+<item>
 <title>Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware</title>
 <link>https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html</link>
 <guid isPermaLink="false">63f16ca1b1ad1c49473e2336244b2c07ddb41de448a0b79dab4adae216d50d65</guid>
@@ -417,17 +492,6 @@
 <description>A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.</description>
 <enclosure url="https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/samsung-probably-isnt-rebranding-one-ui-as-galaxy-os/l-intro-1792594756.jpg" medium="image"/>
-</item>
-<item>
-<title>Quantum computers can get colder than deep space — Here's how they stay running</title>
-<link>https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold</link>
-<guid isPermaLink="false">cc1252ce7f58589ce1ab93d1b987a8de8b995657ea92e38e58d5c3182a88f3e6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 13:30:00 +0000</pubDate>
-<description>Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.</description>
-<enclosure url="https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/quantum-computers-can-get-colder-than-deep-space-heres-how-they-stay-running/l-intro-1792594079.jpg" medium="image"/>
 </item>
 <item>
 <title>r/opensource just banned AI, non-English speakers, and more</title>
@@ -2224,15 +2288,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Machine speed attacks require machine speed detection and response</title>
-<link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response</link>
-<guid isPermaLink="false">dcd4266a8f995cbfb1097db8c802fe1111577996cf1169043d30a4e05344a606</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 14:02:12 +0000</pubDate>
-<description>Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]</description>
-</item>
-<item>
 <title>First iPhone Duo pre-orders now say ‘shipped’ ahead of launch</title>
 <link>https://9to5mac.com/2026/10/22/first-iphone-duo-pre-orders-now-say-shipped-ahead-of-launch</link>
 <guid isPermaLink="false">40971b8e68f71f96c5cbb5124c04740368b8879f84febe92d33fb81234eb6a25</guid>
@@ -2363,39 +2418,6 @@
 <description>A portable keyboard and kickstand make it a viable emergency workstation—even if iOS still gets in the way.</description>
 <enclosure url="https://media.wired.com/photos/6ad935fd8dbac9acb33aa1cc/master/pass/DSC_9943.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad935fd8dbac9acb33aa1cc/master/pass/DSC_9943.jpg" medium="image"/>
-</item>
-<item>
-<title>They Believe 2020 Was Stolen. They Could Be in Charge of Elections in 2028</title>
-<link>https://www.wired.com/story/they-believe-2020-was-stolen-they-could-be-in-charge-of-elections-in-2028</link>
-<guid isPermaLink="false">a466e2ed94bdde471f3e59e4d1e7c0948156f4fa3ba2a44244d5f0ab7939109b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 10:15:00 +0000</pubDate>
-<description>A host of election-denying candidates are running for attorney general in states across the country.</description>
-<enclosure url="https://media.wired.com/photos/6ad17dc0a804ead0a674cfcd/master/pass/Election-Deniers-Politics.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad17dc0a804ead0a674cfcd/master/pass/Election-Deniers-Politics.jpg" medium="image"/>
-</item>
-<item>
-<title>Greenlight Family Hub (2026): Finally, a Digital Wall Calendar With a Voice Assistant</title>
-<link>https://www.wired.com/story/greenlight-hub-voice-assistant-feature</link>
-<guid isPermaLink="false">d4597d9de56224cc49b3e37c6b915f0ac5366901863a64b186fa54af4b5cad7b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 10:01:00 +0000</pubDate>
-<description>After testing multiple models, I’m convinced voice control belongs on the family calendar. Greenlight’s Family Hub shows why.</description>
-<enclosure url="https://media.wired.com/photos/6ad907aa141b637f559fb800/master/pass/Greenlight%20Family%20Hub%20102026%20top%20art%20SOURCE%20Greenlight.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad907aa141b637f559fb800/master/pass/Greenlight%20Family%20Hub%20102026%20top%20art%20SOURCE%20Greenlight.jpg" medium="image"/>
-</item>
-<item>
-<title>Hugging Face’s New AI Biology Model Lets You Chat With DNA</title>
-<link>https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna</link>
-<guid isPermaLink="false">be145cfed5b15d064d7a4ae0fa1f354bc59ebfac1da596f37fecc3864f750ec0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
-<description>The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.</description>
-<enclosure url="https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif" medium="image"/>
 </item>
 <item>
 <title>Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple</title>
@@ -2871,17 +2893,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg" medium="image"/>
 </item>
 <item>
-<title>Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion</title>
-<link>https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html</link>
-<guid isPermaLink="false">8dbb0ccea4784e45668c15c0643294e8b1a6d2280350040e91f9ad73252011ce</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 06:05:15 +0000</pubDate>
-<description>A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Partisan Zmiy, which is also known as the Cyber Partisans. Known to be active since at least 2020, the group has a track record of striking industrial</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple is looking for a cellular modem engineer to help shape its transition to 6G</title>
 <link>https://9to5mac.com/2026/10/20/apple-is-looking-for-a-cellular-modem-engineer-to-help-shape-its-transition-to-6g</link>
 <guid isPermaLink="false">02e0520cecac9d798764e9c9067a957a2feb20a66168a162654c02f5e4506b00</guid>
@@ -2968,17 +2979,6 @@
 <description>Apple acquires a variety of companies every year, and recently many of its acquisitions— including the latest, Samplab —have revolved around one clear goal: improving and expanding Apple Creator Studio. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-glowtime-event-1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/08/apple-glowtime-event-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
-<link>https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</link>
-<guid isPermaLink="false">1e26274c4cd9491712143e4ae714dfefb589c69eb42ff55f03efa741c51fcb58</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 20 Oct 2026 17:09:53 +0000</pubDate>
-<description>The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJOWLzgriXXM626bAOaX_LEoNH97Ab_XV4oQ0GxBeY3-PqkdXdcae52-wrl8r0LipTFBsvl4R7Y5j6jFsiG_9V8ZAwHOkAlsZaRcOAswStHhAG1FYm9W6kjA4FmOz0bXgVXO6LyEs9Fv75UrRFphZEzhXodKdTlYzfPK8sqW3DpxKBnD7OFQfqJJ_ay2c/s1600/ecert.jpg" medium="image"/>
 </item>
 <item>
 <title>iOS 27.2 adds new features in six iPhone apps, here’s what’s coming</title>
