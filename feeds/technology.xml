@@ -4,6 +4,44 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests</title>
+<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests</link>
+<guid isPermaLink="false">53ad5e7a5da996ed53b9b0eb2e51e8262d9da8b8b3172f7af386c943913043a4</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:43:27 +0000</pubDate>
+<description>OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]</description>
+</item>
+<item>
+<title>The best ways to tell if someone is using AI glasses</title>
+<link>https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses</link>
+<guid isPermaLink="false">d0259ddbc40f3b45435e17474afd6fabb6434ad484274f48bd12dd2e2a99cde2</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:30:00 +0000</pubDate>
+<description>While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg" medium="image"/>
+</item>
+<item>
+<title>Guidewire buys Hyperexponential for $1.7B in cash</title>
+<link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash</link>
+<guid isPermaLink="false">65df9bca02e321f30f2b7fd28f1a0e59043248c118829c5ce35d688275112b96</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:26:03 +0000</pubDate>
+<description>The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.</description>
+</item>
+<item>
+<title>From 8VC to Benchmark, here’s what’s hiding in October SEC filings</title>
+<link>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings</link>
+<guid isPermaLink="false">9a4bbe68de47249ecab2408128484e48ed474f9ef9e52fa512e36656f04969d2</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:17:18 +0000</pubDate>
+<description>A whole crop of venture capital firms are raising significant new funds.</description>
+</item>
+<item>
 <title>UNM Health ransomware attack disrupts patient care, surgeries</title>
 <link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries</link>
 <guid isPermaLink="false">8a9df3ce570e5539f47fe4951e38da1e313810c9ece9e0f81964f8ed5cb64472</guid>
@@ -30,7 +68,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 21:47:02 +0000</pubDate>
-<description>GM eschewed hybrids in favor of battery-electric vehicles. Now, it's gearing up to offer hybrid versions of its SUVs.</description>
+<description>GM eschewed hybrids in favor of battery-electric vehicles. Now it's gearing up to offer hybrid versions of its SUVs.</description>
 </item>
 <item>
 <title>Bank of America kindly asks that you don’t share your banking password with your AI assistant</title>
@@ -912,17 +950,6 @@
 <description>The latest Apple software update for iPhones and iPads includes new features and important security updates.</description>
 </item>
 <item>
-<title>Book vs clamshell foldable phones: which is better for your everyday needs?</title>
-<link>https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better</link>
-<guid isPermaLink="false">6aa5200e229e4df3198620a5ee451bd310bd39105e6f594e015c342aa7abf14b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:45:00 +0000</pubDate>
-<description>There are pros and cons to each style of foldable.</description>
-<enclosure url="https://www.engadget.com/img/gallery/book-vs-clamshell-foldable-phones-which-is-better-for-your-everyday-needs/l-intro-1791573406.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/book-vs-clamshell-foldable-phones-which-is-better-for-your-everyday-needs/l-intro-1791573406.jpg" medium="image"/>
-</item>
-<item>
 <title>M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?</title>
 <link>https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed</link>
 <guid isPermaLink="false">63f0fa805f05d466aeb78454abf051e349f5551a89a4fb9d9163ee914ad54d72</guid>
@@ -1144,15 +1171,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/2026-iPad-mini.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Nvidia backs Indian startup helping companies run AI models with fewer GPUs</title>
-<link>https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus</link>
-<guid isPermaLink="false">93d8b38790e5bd877c16471f4ff3ed4abc6034cf3abd25c6e8c0d5cce652a66a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-<description>Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.</description>
-</item>
-<item>
 <title>AI Agents Are Media’s New Favorite Audience</title>
 <link>https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience</link>
 <guid isPermaLink="false">4d7746a3bca6ecc8e96bad0512108e7424ea31866950e7810c1d05590600d49b</guid>
@@ -1299,15 +1317,6 @@
 <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. "Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded," the State Special Communications Service of Ukraine (SSSCIP)</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg" medium="image"/>
-</item>
-<item>
-<title>X is nudging users to promote their posts with a pointing hand, and people are confused</title>
-<link>https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused</link>
-<guid isPermaLink="false">c470d7c13e71f76de685bab57bc669c0a5b271b239b8232f389a33a5362e7356</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 06:34:44 +0000</pubDate>
-<description>Whose hand is behind this travesty?</description>
 </item>
 <item>
 <title>CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution</title>
@@ -1806,15 +1815,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft releases emergency .NET patches for critical Brotli flaw</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw</link>
-<guid isPermaLink="false">cbcc5c5d1532cb4996baf7f9e9e1d40a2449285c46e9ea0a1f62db420e869ded</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 15:38:24 +0000</pubDate>
-<description>Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]</description>
-</item>
-<item>
 <title>Deals: AirTag 2 all-time low, Apple TV 4K, MacBook Air $200 off, Apple Pencil (USB-C) from $59, Alpine Loop, more</title>
 <link>https://9to5mac.com/2026/10/26/deals-airtag-2-apple-tv-4k-macbook-air-apple-pencil</link>
 <guid isPermaLink="false">624f29cfc0764fd2711102e94a01a690006f0aaf4b394c3b5fb5635cd1b05083</guid>
@@ -2024,17 +2024,6 @@
 <media:content url="https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
-<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
-<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
-<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
-</item>
-<item>
 <title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
 <link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
 <guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
@@ -2044,6 +2033,17 @@
 <description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
 <enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
+</item>
+<item>
+<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
+<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
+<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
+<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
 </item>
 <item>
 <title>uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
