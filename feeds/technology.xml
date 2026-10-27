@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CISA confirms PHP2Shell vulnerabilities now exploited in attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks</link>
+<guid isPermaLink="false">860bd2d07e63e77253acd261f3f7bb47b692d309454cf1d749de577be203c6f1</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 08:20:54 +0000</pubDate>
+<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]</description>
+</item>
+<item>
+<title>OpenAI announces new discoveries in mathematics, computer science and physics</title>
+<link>https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics</link>
+<guid isPermaLink="false">f431ca66941a9e4169467edb6eaa2c57095e0b65f0b2e160884272252bab97bb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 08:18:16 +0000</pubDate>
+<description>OpenAI said its models generated proof that the Exponential Time Hypothesis is false. It also released new results for math and physics problems.</description>
+<enclosure url="https://www.engadget.com/img/gallery/openai-announces-new-discoveries-in-mathematics-computer-science-and-physics/l-intro-1793089035.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/openai-announces-new-discoveries-in-mathematics-computer-science-and-physics/l-intro-1793089035.jpg" medium="image"/>
+</item>
+<item>
 <title>Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses</title>
 <link>https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html</link>
 <guid isPermaLink="false">a2da896f1147a8f00903ae0483c0d9474c21045d64f307728d0329c07fc4e827</guid>
@@ -978,17 +998,6 @@
 <description>Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>What are the downsides of a foldable electric bike?</title>
-<link>https://www.engadget.com/2294298/foldable-electric-bike-downsides</link>
-<guid isPermaLink="false">ae3344441f6f9b15aea654070850c7a2a99365a492c188bd374a18521e20c140</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:45:00 +0000</pubDate>
-<description>The foldable form factor comes with some trade-offs.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-foldable-electric-bike/l-intro-1791999912.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-are-the-downsides-of-a-foldable-electric-bike/l-intro-1791999912.jpg" medium="image"/>
 </item>
 <item>
 <title>Anthropic officially files for its public debut</title>
@@ -2143,15 +2152,6 @@
 <description>iPhone Duo has arrived, and if you managed to snag Apple’s new foldable on launch day, here are our top recommendations for accessories. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Microsoft: Windows Server 2016 reaches end of support in January</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january</link>
-<guid isPermaLink="false">49d18bdd23778982b5687396066840912c7837edba28e0a07dff99c8d0a28839</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:05:07 +0000</pubDate>
-<description>Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]</description>
 </item>
 <item>
 <title>What’s the Best iPhone to Buy or Avoid Right Now? (2026)</title>
