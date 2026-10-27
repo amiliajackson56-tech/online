@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Watch: Serie A - Scotland's Adams scores as Torino lead Como</title>
-<link>https://www.bbc.co.uk/iplayer/live/bbcalba?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">efe888fe3aa91c94236ac6b5305474f952ab993f1188724385167a372d08c292</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Tue, 27 Oct 2026 21:45:30 +0000</pubDate>
-<description>We head to Turin for live Italian football as Torino face Como in Serie A.</description>
-<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0phhfxb.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0phhfxb.jpg" medium="image"/>
-</item>
-<item>
 <title>Liverpool keen on Stuttgart defender Jeltsch - Wednesday's gossip</title>
 <link>https://www.bbc.co.uk/sport/football/articles/ck7vpjqyd4pmo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">57d3f2d04cd018c20ad3e2983938fe5975d677598a94edfa89d7273761a07536</guid>
@@ -411,6 +400,17 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7107/live/c99908e0-d14e-11f1-93e1-3b657b665bcf.png" medium="image"/>
 </item>
 <item>
+<title>FAW sets ambitious 10-year plan but seeks more money</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c933xjdzv3j8o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">e2435704efa6706e75ddc01dd01bd999caee42b9faa96eb26fc7fc8be0929270</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Mon, 26 Oct 2026 16:58:55 +0000</pubDate>
+<description>The Football Association of Wales has called for greater funding for Welsh football after setting out ambitious targets for the next decade.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1161/live/97799c20-d159-11f1-9f24-99bf1cc18b1d.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1161/live/97799c20-d159-11f1-9f24-99bf1cc18b1d.jpg" medium="image"/>
+</item>
+<item>
 <title>Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe</title>
 <link>https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement</link>
 <guid isPermaLink="false">0305f6272adc19dbf780378410c989d84e1f339a792897d2712c88c2764b5e47</guid>
@@ -651,6 +651,17 @@
 <description>Amalie Vangsgaard scores twice for Aston Villa as the away side survive a late fightback from Everton to win 3-2 at Goodison Park in the Women's Super League.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/586c/live/083f6870-d08f-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/586c/live/083f6870-d08f-11f1-a701-fddedf244c16.jpg" medium="image"/>
+</item>
+<item>
+<title>Dunfermline meet Queen of the South in Scottish Cup</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cr5ynv4pyw95o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d893d38619e42b898e2141c9368c0a0be1392a2da6d87ab52e6f560d4165ca7d</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 25 Oct 2026 19:24:20 +0000</pubDate>
+<description>Last season's finalists Dunfermline Athletic will visit Queen of the South in the third round of the Scottish Cup.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeae/live/79e59c10-d0a8-11f1-adbe-cd0eaeb0fff9.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeae/live/79e59c10-d0a8-11f1-adbe-cd0eaeb0fff9.jpg" medium="image"/>
 </item>
 <item>
 <title>Pierre Sage regrets ‘missed 15 minutes’ as defeat increases heat on Crystal Palace manager</title>
