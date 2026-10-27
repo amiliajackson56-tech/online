@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Cohere says Alibaba’s Qwen model tried to send a file to Beijing</title>
+<link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing</link>
+<guid isPermaLink="false">6e162aff655bfd4ceae9f790be329e8c202f2ebc0b4bc3fc797d676a900f17e8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 01:12:21 +0000</pubDate>
+<description>An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.</description>
+</item>
+<item>
 <title>iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature</title>
 <link>https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons</link>
 <guid isPermaLink="false">557a73c1f1a2f856ae982b9756f344fd0dfa8a26690e693e6a248ad5862b7a65</guid>
@@ -1568,15 +1577,6 @@
 <category>technology</category>
 <pubDate>Sat, 24 Oct 2026 20:46:34 +0000</pubDate>
 <description>Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.</description>
-</item>
-<item>
-<title>Will AI expose the rickety infrastructure of the internet?</title>
-<link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet</link>
-<guid isPermaLink="false">8988f05b23400e8d3fbd3583c409d290f10670c7719b1aa8d6c8d203f062eca3</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 20:15:33 +0000</pubDate>
-<description>The moment you realize the internet is "held together by glue and dreams."</description>
 </item>
 <item>
 <title>Indie App Spotlight: ‘Flipcorder’ lets you shoot retro footage on your iPhone Duo</title>
