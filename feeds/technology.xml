@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How</title>
+<link>https://www.wired.com/story/how-nasa-oldest-martian-spacecraft-run-for-decades</link>
+<guid isPermaLink="false">60e1c423a25136d098ac5b72a1f20dbc9f4a7c0fd34856e40c8be41ed3be5f3c</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:45:00 +0000</pubDate>
+<description>Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.</description>
+<enclosure url="https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple backports CoreGraphics zero-day patches to older iPhones</title>
+<link>https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones</link>
+<guid isPermaLink="false">f3ab07cce1ac7752dbeb4a13b5572b3df2fbcd3f24e76901a1b5eb839bb356fa</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:36:12 +0000</pubDate>
+<description>​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]</description>
+</item>
+<item>
+<title>Instagram Is a Streaming Service Now</title>
+<link>https://www.wired.com/story/instagram-is-a-streaming-service-now</link>
+<guid isPermaLink="false">15325ab3405e200bd0e0ea3ddeaaa56599191844582b95713b57cc33e00ab924</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:30:00 +0000</pubDate>
+<description>Instagram’s long-form video update is more than a swipe at YouTube. It’s an attempt to capture the clip economy.</description>
+<enclosure url="https://media.wired.com/photos/6ae06babed02f1088a5b33a4/master/pass/GettyImages-2239130168.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae06babed02f1088a5b33a4/master/pass/GettyImages-2239130168.jpg" medium="image"/>
+</item>
+<item>
+<title>Massive Groups of Volunteers Are Ready to Face Down ICE at the Polls</title>
+<link>https://www.wired.com/story/massive-groups-of-volunteers-are-ready-to-face-down-ice-at-the-polls</link>
+<guid isPermaLink="false">53aa6354733c66c450d38800fb2085138b519e1a8cb0ee641a590728e64b5884</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 10:15:00 +0000</pubDate>
+<description>From heat maps to Signal chats to war rooms, volunteers across the US are ready to act if federal immigration agents show up on Election Day.</description>
+<enclosure url="https://media.wired.com/photos/6adf98357bc34babe586eb7f/master/pass/GettyImages-2300207719.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adf98357bc34babe586eb7f/master/pass/GettyImages-2300207719.jpg" medium="image"/>
+</item>
+<item>
 <title>Data center backlash is uniting America</title>
 <link>https://www.theverge.com/policy/1019152/data-centers-midterm-elections</link>
 <guid isPermaLink="false">10515f024c670e282247cef8d4c70ac78c63322329e7811bdf1294f1aa1eb21a</guid>
@@ -1991,15 +2033,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Abandoned Popcorn Time app exposed millions of devices to RCE attacks</title>
-<link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks</link>
-<guid isPermaLink="false">0ae7a1508c3f482bfa2840b370d5c5eb5330221285429e5c3eaaa46ba96fa98d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:55:05 +0000</pubDate>
-<description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]</description>
-</item>
-<item>
 <title>Hegseth warns prediction market bets warp military judgment, endanger troops</title>
 <link>https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk</link>
 <guid isPermaLink="false">d51890a8336ffb826202576aff7d4be1e5893bcf4a5e35e73a4f5b57d5218d1b</guid>
@@ -2416,39 +2449,6 @@
 <description>This feature common to VPN services gives you protection and privacy specifically when and where you need it.</description>
 <enclosure url="https://media.wired.com/photos/6ad8c933572fecfc421778e0/master/pass/102126-Split%20Tunneling.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8c933572fecfc421778e0/master/pass/102126-Split%20Tunneling.jpg" medium="image"/>
-</item>
-<item>
-<title>Turtle Beach Vulcan II XP Review: Clicky Compromise</title>
-<link>https://www.wired.com/review/turtle-beach-vulcan-xp-ii</link>
-<guid isPermaLink="false">746783690059bf29d8ca376173a76a28682992e72b6fb70aee4dcc01e3e3465d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:45:00 +0000</pubDate>
-<description>Great for typing and fine for gaming, but too many compromises keep this mechanical keyboard from leveling up your play.</description>
-<enclosure url="https://media.wired.com/photos/6ada67244d7b986a1aaead4e/master/pass/Turtle%20Beach%20Vulcan%20XP%20II%20SOURCE%20Matt%20Kamen.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada67244d7b986a1aaead4e/master/pass/Turtle%20Beach%20Vulcan%20XP%20II%20SOURCE%20Matt%20Kamen.jpg" medium="image"/>
-</item>
-<item>
-<title>TDM Neo Hybrid Headphones Review: Two-in-One Woes</title>
-<link>https://www.wired.com/review/tdm-neo-hybrid-headphones</link>
-<guid isPermaLink="false">49830758169292e400f32d098458dfbe0db77c71d8eb23649c52cdc5b10fb97f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:30:00 +0000</pubDate>
-<description>CES 2026 loved these innovative headphones that transform into a Bluetooth speaker. After living with them, I’m impressed by the engineering, but less impressed by the sound.</description>
-<enclosure url="https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/master/pass/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada7a9b8628ec861188a3e4/master/pass/TDM%20Neo%20review%20102026%20top%20art%20(3)%20SOURCE%20TDM.jpg" medium="image"/>
-</item>
-<item>
-<title>A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married</title>
-<link>https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married</link>
-<guid isPermaLink="false">e1d96a8a5344c140803efc20d542fc91e51b2d9f19ba317b6ef6ff9dda558743</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 10:15:00 +0000</pubDate>
-<description>Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.</description>
-<enclosure url="https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg" medium="image"/>
 </item>
 <item>
 <title>Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
