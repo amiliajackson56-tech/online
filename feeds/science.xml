@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s Neo Surveyor Sunshade</title>
+<link>https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade</link>
+<guid isPermaLink="false">f28bdb4f8cdcd0d9e18a8fb76fd59ecfe70fa1cabc99ccd1f2c413dc996ee80d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 27 Oct 2026 17:58:57 +0000</pubDate>
+<description>A technician inspects the large sunshade of NASA’s Near-Earth Object (NEO) Surveyor mission in this image released on Oct. 26, 2026. The sunshade structure, which stands 20 feet (6 meters) tall and measures 8 feet (2.4 meters) wide at its base, will keep the infrared space telescope cool as it searches for near-Earth asteroids and […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26715-bae-sunshade-inspection-1.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>The secret to slower aging may be hiding in your gut</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261026225620.htm</link>
 <guid isPermaLink="false">28df9602a1ad0c99fbc834e5f4c470ce5b4f51a650a0d68913d32f3d9b0d8d93</guid>
@@ -299,17 +310,6 @@
 <description>Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.</description>
 <enclosure url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>NASA’s X-59 Aircraft and Test Pilot</title>
-<link>https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot</link>
-<guid isPermaLink="false">98f258cf1b4111c1f27b91353b3e76759d6c1fffa6abb2df3e4b8a6dcaafccbd</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 15:25:47 +0000</pubDate>
-<description>NASA test pilot Mike Lippert poses for a photo ahead of his first time flying the agency’s X-59 quiet supersonic research aircraft on Oct. 21, 2026. The X-59 has flown numerous times since its inaugural flight in November 2025; its first supersonic flight was on June 5, 2026. Lippert took off from NASA’s Armstrong Flight […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/afrc2026-0227-51.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Exercise doesn't just strengthen your heart. It rewires it</title>

@@ -4,6 +4,90 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>This old Nokia phone got an AI Upgrade it was never designed for</title>
+<link>https://www.engadget.com/2295625/old-nokia-phone-ai-upgrade-never-designed-for</link>
+<guid isPermaLink="false">a96ef58457641398ddfdfb99bf21e65f56a6ff1ed4b1a55955a04d2785ec49a8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:30:00 +0000</pubDate>
+<description>The GOAT of dumb phones gets a new lease on life.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-old-nokia-phone-got-an-ai-upgrade-it-was-never-designed-for/l-intro-1792779965.jpg" medium="image"/>
+</item>
+<item>
+<title>Astropad Workbench 1.4 adds terminal access, iPhone Duo support, and more</title>
+<link>https://9to5mac.com/2026/10/27/astropad-workbench-1-4-adds-terminal-access-iphone-duo-support-and-more</link>
+<guid isPermaLink="false">57dd075ea2745b98fba3f43d587e01413385e8aeab719a94722654cd29257f2c</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:29:50 +0000</pubDate>
+<description>Astropad is out today with Workbench 1.4, the latest update to its remote desktop app for Mac. The release adds a built-in terminal, native iPhone Duo support, and a new way to transfer files between Macs. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/astropad-workbench-update-duo.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/astropad-workbench-update-duo.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>iOS 27.2 has two CarPlay improvements, here’s what’s new</title>
+<link>https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new</link>
+<guid isPermaLink="false">70064667f8148bdc4f224bcd061d221c830af62420e5ff730375f1aa425b0d2b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:20:40 +0000</pubDate>
+<description>iOS 27.2 arrived this week with new features for Messages , Apple TV , and more, plus two improvements for CarPlay. Here’s what’s new for CarPlay users. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/carplay-ios-27-home-screen-car.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>iCloud Mail and Calendar plugins now work with ChatGPT</title>
+<link>https://9to5mac.com/2026/10/27/icloud-mail-and-calendar-plugins-now-work-with-chatgpt</link>
+<guid isPermaLink="false">cc10888f81b2fb1a20c368fae50e3b2cc549a0257364970578e258728601af56</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:20:35 +0000</pubDate>
+<description>Here’s a welcome change. OpenAI just announced iCloud Mail and Calendar plugin support for ChatGPT. That means you can connect ChatGPT to your Apple email and calendar just like Gmail and other services. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks</title>
+<link>https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks</link>
+<guid isPermaLink="false">6729758e65093d31d9d71db17de56f35461d763c59bdfbd1457111c9af7c445e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:20:28 +0000</pubDate>
+<description>The data center buildout could cause a massive increase in gas prices as companies scramble for limited supplies and infrastructure fails to meet demand.</description>
+<enclosure url="https://media.wired.com/photos/6ae0a917b092bac6ae652e82/master/pass/102626_Anthropic%20Gas%20S1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae0a917b092bac6ae652e82/master/pass/102626_Anthropic%20Gas%20S1.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft releases Windows OOB updates to distrust eMudhra certificates</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates</link>
+<guid isPermaLink="false">6e56bddbe95068edc0d3bca9156bd74a2bf8acd350913acaca4b1cd276b92832</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:20:28 +0000</pubDate>
+<description>Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]</description>
+</item>
+<item>
+<title>Why buying a Mac mini over a MacBook might be the smarter move</title>
+<link>https://www.engadget.com/2296036/why-buying-mac-mini-over-macbook-smarter-move</link>
+<guid isPermaLink="false">38b11c7420f5e7956b54310ec6865d078505edab9784b2e0d4c7a17bdc616139</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+<description>Apple's smallest desktop delivers better performance and value for those willing to leave the laptop behind.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-buying-a-mac-mini-over-a-macbook-might-be-the-smarter-move/l-intro-1792413302.jpg" medium="image"/>
+</item>
+<item>
+<title>Early Black Friday Deals 2026</title>
+<link>https://www.wired.com/story/black-friday-deals-10-27-2026</link>
+<guid isPermaLink="false">f87635805e4469e529e84df076a10c1badfb742cb0c81a9b5a50c876b9fc38b9</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 18:00:00 +0000</pubDate>
+<description>The early bird gets the worm. Here are the best Black Friday deals for 2026 you can already get right now.</description>
+</item>
+<item>
 <title>VisionQuest is what happens when AI really goes rogue</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
 <guid isPermaLink="false">b2aff63a03e983b29f98161acfc87465b63b0476c06050c3535e9dd406fd781a</guid>
@@ -143,6 +227,17 @@
 <media:content url="https://www.engadget.com/img/gallery/apple-creator-studio-update-adds-motionvfx-to-final-cut-and-ai-to-everywhere/l-intro-1793118031.jpg" medium="image"/>
 </item>
 <item>
+<title>Ford simplifies using your EV as a home battery with the $30K Fathom</title>
+<link>https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck</link>
+<guid isPermaLink="false">ec3731708041bc1eea8f8ddb69ea85484ea9d14cbbea30a0e93aa86e017b1878</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 16:17:58 +0000</pubDate>
+<description>The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Warp discloses breach exposing AI agent logs, user telemetry data</title>
 <link>https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data</link>
 <guid isPermaLink="false">f581ce36da8f6020c2d7e5b71071a53f4c2d45ad9d387665dd6c8fed99a193de</guid>
@@ -185,6 +280,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2301861042.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>DeepMind unveils Genie 4 world model promising more realistic physics and humans</title>
+<link>https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations</link>
+<guid isPermaLink="false">c7cc848b2884e07731ed8beb705f821e134a4bb4b4fea4368b494e7b7026572c</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 16:00:22 +0000</pubDate>
+<description>Genie 4 will roll out to developers and Google AI Ultra subscribers soon.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" medium="image"/>
+</item>
+<item>
 <title>Google’s next Genie AI model generates more realistic experiences</title>
 <link>https://www.theverge.com/tech/1019076/google-genie-4-ai-model</link>
 <guid isPermaLink="false">8fc62bcb0cb10104010287d3cf06a4b23a2293e1f82c89cad9175119ffd1d99e</guid>
@@ -205,6 +311,17 @@
 <description>Matic, the company behind my favorite robot vacuum, is launching its first new model since its 2023 debut: the Matic Serene. The new robotic floor cleaner has one key upgrade: noise reduction. With a promised output of just 52 decibels at its highest suction level, the Serene claims to be about as quiet as a […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/matic_yoga_serene-20.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>From cheap tool to premium subscription: When a beloved app's price skyrockets</title>
+<link>https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets</link>
+<guid isPermaLink="false">e287f79869c37243d5efd9d29822f7c7be2f7284d63332ac011215c58e7fe322</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 15:50:19 +0000</pubDate>
+<description>Huge price hikes force loyal users to reconsider their favorite apps.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>You can finally see who's talking in voice chat on PlayStation 5 — here's how</title>
@@ -521,13 +638,13 @@
 <description>Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.</description>
 </item>
 <item>
-<title>Sculpture recreates odd optical effects of famed Lycurgus Cup</title>
+<title>Sculpture re-creates odd optical effects of famed Lycurgus Cup</title>
 <link>https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup</link>
 <guid isPermaLink="false">f7f0ec5c6a1084c922ca334cf85b26c00fa726adb4d3ffd95b7ac12e9ed3a561</guid>
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:32:35 +0000</pubDate>
-<description>University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.</description>
+<description>University of Sheffield researchers figured out how to re-create the 1,600-year-old glass recipe.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg" medium="image"/>
 </item>
@@ -722,17 +839,6 @@
 <media:content url="https://www.engadget.com/img/gallery/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/l-intro-1793101991.jpg" medium="image"/>
 </item>
 <item>
-<title>Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300</title>
-<link>https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300</link>
-<guid isPermaLink="false">2f2272bed38fb447de7c3197dacbfcdb3af5b91dda0fb65a4bfcdceac5f3d7fb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:50:55 +0000</pubDate>
-<description>The Predator Atlas 8 gaming handheld PC is coming to the US after all on November 1st for $1,300.</description>
-<enclosure url="https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg" medium="image"/>
-</item>
-<item>
 <title>Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key</title>
 <link>https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html</link>
 <guid isPermaLink="false">c4255691bc04847be987b7b90854e2224cfdb435bac8dee5766c974ea6026b43</guid>
@@ -795,17 +901,6 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
 <description>Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.</description>
-</item>
-<item>
-<title>20 Years of MacBook: How Apple shaped the laptops we use today</title>
-<link>https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today</link>
-<guid isPermaLink="false">5697c3a264c66327eee5b3219daa033ae7500b901b9da9c6e9b2ecb7f937c4af</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-<description>Apple has influenced everything from unibody laptop cases to high-res screens.</description>
-<enclosure url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" medium="image"/>
 </item>
 <item>
 <title>AI Agents Are Media’s New Favorite Audience</title>
@@ -1773,13 +1868,15 @@
 <media:content url="https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Kali Linux 2026.3 released with 6 new tools, desktop updates</title>
-<link>https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates</link>
-<guid isPermaLink="false">7d17df1a83c2eeaa320d76da0e00df0570592c44cea177f4cce25e6ff91b7638</guid>
-<source>BleepingComputer</source>
+<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
+<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
+<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
+<source>Wired</source>
 <category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:26:52 +0000</pubDate>
-<description>Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
+<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
 </item>
 <item>
 <title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
@@ -1791,17 +1888,6 @@
 <description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
 <enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
-</item>
-<item>
-<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
-<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
-<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
-<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
 </item>
 <item>
 <title>uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
@@ -2310,17 +2396,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0sIO412EzdDtlngPmg_icDaIn3Mb1ODDcIEPLJMLpatt8TkMHFUFK63rBJVBb72s6uV_KvpRPfKISPfLtznJpsy7_HLaxigKAZP3hvqiGF-gkqKqYi-6tEvyPV_UhUpRGf1bREenTlzt7o9OIs4LfdXy9VekUesPsb5OWcVr7X-JlCeieU0V419GJ3rNY/s1600/popcorn-botnet.jpg" medium="image"/>
 </item>
 <item>
-<title>Inside the Supermassive Debate Over the James Webb Telescope’s ‘Little Red Dots’</title>
-<link>https://www.wired.com/story/inside-the-supermassive-debate-over-the-james-webb-telescopes-little-red-dots</link>
-<guid isPermaLink="false">6d602aecb50d0e76851094ef407fc8be05edfb7e116a6904fa67992acba70d25</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 09:00:00 +0000</pubDate>
-<description>The Webb telescope sees tiny red dots everywhere. Astronomers can’t agree on what they are, but some believe they may be enormous stars with black holes inside.</description>
-<enclosure url="https://media.wired.com/photos/6ad9cd6aded54679300f97ae/master/pass/Black-Hole-Star-cr-Mark-Belan-Lede.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad9cd6aded54679300f97ae/master/pass/Black-Hole-Star-cr-Mark-Belan-Lede.jpg" medium="image"/>
-</item>
-<item>
 <title>CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
 <link>https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</link>
 <guid isPermaLink="false">ad7396463092f2b221e8ab244af2e43aab958163a26c2149f54d22f5a28be300</guid>
@@ -2354,28 +2429,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>NASA updates lander plans for Moon landings, finally solves long-festering Orion issue</title>
-<link>https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue</link>
-<guid isPermaLink="false">07eaab2d81851c7fb3d14799d090b5c94acf2038fcc5ca83b5d4d28937429edb</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 22:48:25 +0000</pubDate>
-<description>"We have the mandate, we have the resources, and the support from our stakeholders."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur-1002x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Hegseth warns prediction market bets warp military judgment, endanger troops</title>
-<link>https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk</link>
-<guid isPermaLink="false">d51890a8336ffb826202576aff7d4be1e5893bcf4a5e35e73a4f5b57d5218d1b</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:28:43 +0000</pubDate>
-<description>Pentagon memo: Insider trading gives US enemies key intel on military operations.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/06/polymarket-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today</title>
 <link>https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today</link>
 <guid isPermaLink="false">7e3cd99bb25a864c9bfa78e8fa45af30f53c12156e4ef2b8c2dcd123053b845c</guid>
@@ -2385,17 +2438,6 @@
 <description>Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Updated Google privacy policy says your Gmail might be used for advertising</title>
-<link>https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising</link>
-<guid isPermaLink="false">1224eab7439ee9c5433ca4a1e76b9a9fe45f03c3104998047776105b3a5f1ec8</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:19:55 +0000</pubDate>
-<description>Turning on Personal Intelligence gives the company more data for ad targeting.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps</title>
@@ -2484,17 +2526,6 @@
 <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" medium="image"/>
-</item>
-<item>
-<title>Revival Rugs Birthday Sale: 20 Percent Off Sitewide Through Sunday</title>
-<link>https://www.wired.com/story/revival-rugs-birthday-sale-october-2026</link>
-<guid isPermaLink="false">255ec36bd301875d76548b1314c4949bdd0bb7b2d6f8d40e81acef54517509f4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:27:32 +0000</pubDate>
-<description>The brand’s lovely selection of hand-knotted and handwoven wool rugs at reasonable prices make it a WIRED-staff favorite.</description>
-<enclosure url="https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adba57525db5ec905073c5e/master/pass/New%20Revival%20Birthday%20Sale%20102026%20top%20art%20SOURCE%20Revival.jpg" medium="image"/>
 </item>
 <item>
 <title>HomeKit Weekly: SwitchBot’s new light bars bring 12-zone color to Apple Home</title>
@@ -2946,39 +2977,6 @@
 <description>This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But those big headlines are only half the story. Stolen passwords, exposed</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg" medium="image"/>
-</item>
-<item>
-<title>Pages, Keynote, Numbers just added powerful new AI features</title>
-<link>https://9to5mac.com/2026/10/22/pages-keynote-numbers-just-added-powerful-new-ai-features</link>
-<guid isPermaLink="false">0bdb6477dfae4492b0c92e1ebb3f8a258f8804d3af176924979fdb8b94873edb</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:44:43 +0000</pubDate>
-<description>Apple is rolling out AI-centric updates to its iWork suite—Pages, Keynote, Numbers—that include a brand new ‘Intelligent Assistant’ with powerful capabilities. Here’s what it can do. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iwork-pages-keynote-numbers-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Arc browser gets a sunset date, and users have two months to move on</title>
-<link>https://9to5mac.com/2026/10/22/arc-browser-gets-a-sunset-date-and-users-have-two-months-to-move-on</link>
-<guid isPermaLink="false">062fcea0cb76121dbf6c0a38554b346c55a141c641e5dbb3daa9c60fe87ec242</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:28:58 +0000</pubDate>
-<description>The Browser Company announced plans to discontinue its flagship Arc browser in favor of a new browser project called Dia. Today, Arc received a sunset date that gives users exactly two months to move on from the discontinued app. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/09/Arc-Browser.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/09/Arc-Browser.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>1Password launches solution for safely using logins with AI agents</title>
-<link>https://9to5mac.com/2026/10/22/1password-launches-solution-for-safely-using-logins-with-ai-agents</link>
-<guid isPermaLink="false">bcd1d3f8e8f9915dd7a6615b7587f7c94644f6a284a9accdba4f3bc3036d3729</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 17:15:01 +0000</pubDate>
-<description>1Password has been focused on building password management tools that make sense in the age of agentic AI. In July, the company launched a special integration with Claude. Today, 1Password is going further with the arrival of 1Password for Agents. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/1password-app-icon-FI.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes</title>
