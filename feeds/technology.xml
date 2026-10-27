@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show</title>
+<link>https://9to5mac.com/2026/10/26/jay-z-confirmed-as-headliner-for-apple-musics-2027-super-bowl-halftime-show</link>
+<guid isPermaLink="false">8c4415c8e1350a6172ae820055d52b2108b8eba19f544f0fa898fa0be23d5c0c</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 03:30:59 +0000</pubDate>
+<description>The NFL and Apple Music announced today that JAŸ-Z will headline the Apple Music Super Bowl LXI Halftime Show on February 14, 2027. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/super-bowl-jay-z.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/super-bowl-jay-z.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>How OpenAI turned its coding tools into dots, an always-on personal assistant</title>
 <link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant</link>
 <guid isPermaLink="false">c6bba90d60fe38836854362d3448676a2c72df029d40a39ba4824e63ae4a1ce3</guid>
@@ -2966,17 +2977,6 @@
 <description>Anthropic is introducing a new AI assistant that can proactively manage tasks across connected apps, keep track of emails and calendars, and continue working even when the app is closed. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/claude-duet.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/claude-duet.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iPadOS 27.2 adds convenient new feature from the Mac</title>
-<link>https://9to5mac.com/2026/10/21/ipados-27-2-adds-convenient-new-feature-from-the-mac</link>
-<guid isPermaLink="false">d8cf23d9bef0dbffc340d255058874ecabc237ed0bc4e14fb4e28367d92d30ff</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 19:13:08 +0000</pubDate>
-<description>iPadOS 27.2 launches next week, and among its many new features , Apple has also brought over a recent Mac addition: a Siri popup when text is selected. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
