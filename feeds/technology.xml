@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Discord public server messages may be soon searchable on Google, but you can opt out</title>
+<link>https://www.engadget.com/2299126/discord-server-messages-google-searchable-opt-out</link>
+<guid isPermaLink="false">a17260832688704e9ff35d5444d91e4845191c5287a518c4d6bb3eb5fc78827c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 23:04:49 +0000</pubDate>
+<description>The platform's Discoverable Servers are about to get a lot more discoverable.</description>
+<enclosure url="https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/discord-public-server-messages-may-be-soon-searchable-on-google-but-you-can-opt-out/l-intro-1793141144.jpg" medium="image"/>
+</item>
+<item>
+<title>How to change and customize your Android Auto display</title>
+<link>https://www.engadget.com/2296047/how-to-change-customize-android-auto-display</link>
+<guid isPermaLink="false">780c99c6fe881614061ace45a006f2a53547760ba7de317628d45d57c54f2bf1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 23:00:00 +0000</pubDate>
+<description>Tailor your tech to fit your daily drive seamlessly.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-change-and-customize-your-android-auto-display/l-intro-1792678996.jpg" medium="image"/>
+</item>
+<item>
+<title>The data center boom has an upside: innovation for the US grid</title>
+<link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid</link>
+<guid isPermaLink="false">a660049bd369894dbfc9c16b46a79287f61e2ad02d4a0d55b50ca20c702c2a83</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:55:41 +0000</pubDate>
+<description>As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.</description>
+</item>
+<item>
+<title>Here’s why the iPhone Duo’s hinge could be cracking the screen</title>
+<link>https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge</link>
+<guid isPermaLink="false">0986b691bd7840fce27102f49d8f279e39fcdf49c6e0f57353395a4d83afd734</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:55:05 +0000</pubDate>
+<description>Within hours of the iPhone Duo launch last Friday, people reported that the inner screen on some brand new foldable phones was already broken. The issue was similar across many photos shared on social media: some kind of issue or crack would appear in the middle of the screen above the hinge, with lines appearing […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iPhone-Duo_208.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more</title>
+<link>https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more</link>
+<guid isPermaLink="false">6ee303c9b14cc7b1b9271f4d613626a66d911cf34516a9de4d7fc2e428db1531</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:50:54 +0000</pubDate>
+<description>In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests</title>
 <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests</link>
 <guid isPermaLink="false">53ad5e7a5da996ed53b9b0eb2e51e8262d9da8b8b3172f7af386c943913043a4</guid>
@@ -11,6 +64,17 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 22:43:27 +0000</pubDate>
 <description>OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]</description>
+</item>
+<item>
+<title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</title>
+<link>https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip</link>
+<guid isPermaLink="false">433e6cf33c878b20096832196ea6e1090ca01bcfb429a03bda03556eb8eefb14</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:37:30 +0000</pubDate>
+<description>Additionally, the N1 chip brings Wi-Fi 7 and Bluetooth 6.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>The best ways to tell if someone is using AI glasses</title>
@@ -33,6 +97,17 @@
 <description>The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions.</description>
 </item>
 <item>
+<title>South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks</title>
+<link>https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states</link>
+<guid isPermaLink="false">fcb00ac9cbde3b5cc2b6a1cf006db30ddce997842f7b2afa0dff34de5b98b373</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:22:32 +0000</pubDate>
+<description>International travel used to be the main risk of measles cases in the US—not anymore.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>From 8VC to Benchmark, here’s what’s hiding in October SEC filings</title>
 <link>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings</link>
 <guid isPermaLink="false">9a4bbe68de47249ecab2408128484e48ed474f9ef9e52fa512e36656f04969d2</guid>
@@ -51,6 +126,17 @@
 <description>The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]</description>
 </item>
 <item>
+<title>China's top-secret spaceplane can't hide in low-Earth orbit</title>
+<link>https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit</link>
+<guid isPermaLink="false">5a79c7a9e49a50fda50d68f27aacdc349cf0ef416b7f068fcce191216552e08f</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 22:04:50 +0000</pubDate>
+<description>The DIA's threat assessment suggests China may soon place directed energy weapons in space.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>What are wrong number text scams, and how can you avoid them?</title>
 <link>https://www.engadget.com/2296048/wrong-number-text-scams-how-avoid</link>
 <guid isPermaLink="false">e72043cebfe32fc44f8a42b9a95ea668043dfc2e747a3f674cc13b37b7674d2f</guid>
@@ -60,6 +146,17 @@
 <description>It's not an honest mistake; it's the start of an attack on your wallet.</description>
 <enclosure url="https://www.engadget.com/img/gallery/what-are-wrong-number-text-scams-and-how-can-you-avoid-them/l-intro-1792706086.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/what-are-wrong-number-text-scams-and-how-can-you-avoid-them/l-intro-1792706086.jpg" medium="image"/>
+</item>
+<item>
+<title>"No human at the helm": Delaware plan would let AI agents run entire businesses</title>
+<link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses</link>
+<guid isPermaLink="false">e734c0e90ec1424e9cd6f43e89acb7e853aa888be4962759888ab123b3ad9284</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 21:50:04 +0000</pubDate>
+<description>Owners of AI-run firms would evade liability for "reckless" AI, US Rep. Comer says.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>GM is embracing hybrids now</title>
@@ -109,6 +206,17 @@
 <description>The animation is pushing users to pay to promote their posts.</description>
 <enclosure url="https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/why-is-there-a-random-arm-taking-over-the-x-composer/l-intro-1793136636.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic IPO warns its AI could blackmail people, become sentient, end humanity</title>
+<link>https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity</link>
+<guid isPermaLink="false">3680aedf70659ea79553dfbf8060108cb8cc970988e2db7f3cceb8c41bb9ebbf</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 21:31:14 +0000</pubDate>
+<description>Seven potential AI nightmares pulled from Anthropic's 93-page "Risk Factor" tome.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>iPhone 18e reportedly comes with 2nm A20 chip and 60Hz screen</title>
@@ -215,7 +323,7 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/10/apple-tv-02.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Code-execution flaw in UEFI firmware threatens most servers on planet Earth</title>
+<title>Code-execution flaw in UEFI firmware affects most servers on planet Earth</title>
 <link>https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth</link>
 <guid isPermaLink="false">7111ef88cef63a435929f84a977a691b093e738a488b46a1c2c667c59471a49e</guid>
 <source>Ars Technica</source>
@@ -678,17 +786,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" medium="image"/>
 </item>
 <item>
-<title>Google’s next Genie AI model generates more realistic experiences</title>
-<link>https://www.theverge.com/tech/1019076/google-genie-4-ai-model</link>
-<guid isPermaLink="false">8fc62bcb0cb10104010287d3cf06a4b23a2293e1f82c89cad9175119ffd1d99e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:00:00 +0000</pubDate>
-<description>Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>From cheap tool to premium subscription: When a beloved app's price skyrockets</title>
 <link>https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets</link>
 <guid isPermaLink="false">e287f79869c37243d5efd9d29822f7c7be2f7284d63332ac011215c58e7fe322</guid>
@@ -857,17 +954,6 @@
 <description>The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.</description>
 </item>
 <item>
-<title>Everything Apple announced this week so far: New iPad and MacBooks</title>
-<link>https://www.engadget.com/2298220/everything-apple-announced-ipad-macbook-pro-and-tell-event</link>
-<guid isPermaLink="false">358a1c1d0d4d344d76838bbef5a3385fe51d193bd4becf6c68b0919c89a3e54e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 14:23:09 +0000</pubDate>
-<description>Ahead of its 'Pro and Tell' event, the company has already launched a few new devices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/everything-apple-announced-ipad-macbook-pro-and-tell-event/l-intro-1793118895.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/everything-apple-announced-ipad-macbook-pro-and-tell-event/l-intro-1793118895.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple iPhone Duo review: Two screens, two experiences, two thousand dollars</title>
 <link>https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars</link>
 <guid isPermaLink="false">3de55f2cee81111efe474c2c16e9c7f1e55aaec9923b86d843a35f08db827c90</guid>
@@ -877,17 +963,6 @@
 <description>I respect Apple's first crack at a foldable phone, but I'm not sure I like it.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790-1152x648.jpeg" medium="image"/>
-</item>
-<item>
-<title>Anthropic's political problem will get worse before it gets better</title>
-<link>https://www.engadget.com/2298214/anthropics-political-problem-will-get-worse-before-it-gets-better</link>
-<guid isPermaLink="false">4f42f30f0110d65fcfbcab24e00f55d16f479d4db209ecd1316c1db0625429ec</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 14:16:27 +0000</pubDate>
-<description>With the midterms closing in, its IPO paperwork reveal a company rightly worried about its regulatory future.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anthropics-political-problem-will-get-worse-before-it-gets-better/l-intro-1793110492.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anthropics-political-problem-will-get-worse-before-it-gets-better/l-intro-1793110492.jpg" medium="image"/>
 </item>
 <item>
 <title>Tailscale warns of SSH flaws allowing root privilege escalation</title>
@@ -1083,15 +1158,6 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
 <description>General Compute is betting on inference chips from outside the Nvidia ecosystem.</description>
-</item>
-<item>
-<title>Opera introduces a new web standard to let users deploy AI locally in their browser</title>
-<link>https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser</link>
-<guid isPermaLink="false">257d2044442d252a598e4c0c3b4aef757ec840435470516e2b1e12fae1e8105a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:00:00 +0000</pubDate>
-<description>The new standard, WebAI, is designed to work with a variety of AI models.</description>
 </item>
 <item>
 <title>US government acting illegally over electronic surveillance of its own citizens, say senators</title>
@@ -1575,28 +1641,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple reveals updated iPad mini with a bigger OLED screen for $700</title>
-<link>https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700</link>
-<guid isPermaLink="false">5eac376f852d690ad4cc2faeaa6e3e73ceeacda011c37dc103ae93d2f339e202</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 19:04:40 +0000</pubDate>
-<description>Apple claims this is the most significant update ever for the iPad mini line.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Apple-iPad-mini-hero-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees</title>
-<link>https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice</link>
-<guid isPermaLink="false">98a71acc806bf75d935dda0986cc0643d5cda67556ffd6da14d3636e701a937a</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:50:41 +0000</pubDate>
-<description>US robotics company stands by ICE deal as more than 300 employees warn of risk.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Google Fitbit Edge Review: I Still Prefer the Air (2026)</title>
 <link>https://www.wired.com/review/google-fitbit-edge</link>
 <guid isPermaLink="false">9e50983c5bdfea299907bd4b7f523b8e3c21c1f96ad30216bf3164bafe62195f</guid>
@@ -1685,17 +1729,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/TESSAN-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Musk accuses Ukraine of violating Starlink terms with deadly drone strikes</title>
-<link>https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes</link>
-<guid isPermaLink="false">bb360bb5861dfdfe3721f01d3accd7a8c53335f9f97651ee902e5e5f3dc90832</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:09:08 +0000</pubDate>
-<description>Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg" medium="image"/>
-</item>
-<item>
 <title>watchOS 27.2 available now for Apple Watch, here’s what’s new</title>
 <link>https://9to5mac.com/2026/10/26/watchos-27-2-available-now-for-apple-watch-heres-whats-new</link>
 <guid isPermaLink="false">854648c847da3efe1f9179e5a87bc22de7cfe81316bb8a76d464e333a31fe6c0</guid>
@@ -1762,17 +1795,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Highway thieves are spoofing GPS to steal millions in data center-bound cargo</title>
-<link>https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo</link>
-<guid isPermaLink="false">f64be88c708343055ae6de40370615314ed5b816e214b30fb5e01653ccb14e6e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:26:36 +0000</pubDate>
-<description>Investigators explain how highway thieves stole $100M in data center equipment.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/via-Cook-County-Sheriffs-Office-X-1152x648-1793033307.jpeg" medium="image"/>
-</item>
-<item>
 <title>Apple responds to reports of iPhone Duo’s inner display cracking</title>
 <link>https://9to5mac.com/2026/10/26/apple-responds-to-reports-of-iphone-duos-inner-display-cracking</link>
 <guid isPermaLink="false">32cd47c8fe0c2c96af4d0727c068d3b5232670a012570a82e4e0d9b30e9f0a96</guid>
@@ -1835,17 +1857,6 @@
 <description>Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.</description>
 <enclosure url="https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg" medium="image"/>
-</item>
-<item>
-<title>F1 in Texas: The American race that fans love to attend</title>
-<link>https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion</link>
-<guid isPermaLink="false">6f76e2a26a6fc8124359b6afe8230763f210861d65409f975390dcfddaa15dac</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:48:24 +0000</pubDate>
-<description>Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>New iPad mini vs previous model: Here’s everything new</title>
@@ -2935,17 +2946,6 @@
 <description>The popular retro game emulator Delta has today launched a big new 2.0 version, most notably featuring a refreshed Liquid Glass interface and support for the iPhone Duo. The app now has specially-designed controller skins that are optimized for all the different iPhone Duo poses, including some beautiful Nintendo DS layouts that use the full size of the inner display, and cleverly spans the crease when partially folded in book mode in portrait. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-delta-game-emulator.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-delta-game-emulator.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>MacBook Neo helps Apple soften the blow of global PC market downturn, per report</title>
-<link>https://9to5mac.com/2026/10/22/macbook-neo-helps-apple-soften-the-blow-of-global-pc-market-downturn-per-report</link>
-<guid isPermaLink="false">bbdb44521f3e48af89360481d2aae6da289e5cab74874ccae079290a2c1e499d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 22:35:38 +0000</pubDate>
-<description>A new Counterpoint Research report on global PC shipments for Q3 2026 shows Apple outperforming the broader market, with the MacBook Neo helping cushion the impact of declining demand. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</title>
