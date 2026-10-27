@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Invites Media to Crew Completion of Yearlong Mars Simulation</title>
+<link>https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation</link>
+<guid isPermaLink="false">3576ba8e09e7f10f34736952e39702b8ce331c8cdb7d7ab11d2b232681e8bf96</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 27 Oct 2026 19:27:22 +0000</pubDate>
+<description>The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA’s Neo Surveyor Sunshade</title>
 <link>https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade</link>
 <guid isPermaLink="false">f28bdb4f8cdcd0d9e18a8fb76fd59ecfe70fa1cabc99ccd1f2c413dc996ee80d</guid>
@@ -183,6 +194,15 @@
 <description>Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03276-9 How forming internal imagery is amusing but tiring, and the worry induced by lists of chemicals in foods, in this week’s pick from the Nature archive.</description>
 </item>
 <item>
+<title>Author Correction: A chemical defence against phage infection</title>
+<link>https://www.nature.com/articles/s41586-026-11302-z</link>
+<guid isPermaLink="false">5225ccb2f6a9669cdfa7439f349a792d6a159cb98efe1f7f636c5d264c2bd16e</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection</description>
+</item>
+<item>
 <title>AI watermarking efforts must encourage independent public scrutiny</title>
 <link>https://www.nature.com/articles/d41586-026-03406-3</link>
 <guid isPermaLink="false">13705e636b5eaf08d796467c91fbfc77b1fd0653e66ea7414d74c1e284f054f2</guid>
@@ -308,17 +328,6 @@
 <description>The NASA STEM (Science, Technology, Engineering, and Mathematics) Enhancement in Earth Science (SEES) Internship Program at the University of Texas Center for Space Research places high school students on small, mission-focused research teams mentored by NASA, academic, and industry experts. During summer 2026, the SEES Mission Architecture Tool for Research, Integration, and eXploration (MATRIX) team […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&amp;h=637&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/learn/science-activation-stories/2026/10.09.26_SEES_Highlight.jpg?w=955&amp;h=637&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>NASA Invites Media to Moon Landing Simulation Experience in California</title>
-<link>https://www.nasa.gov/news-release/nasa-invites-media-to-moon-landing-simulation-experience-in-california</link>
-<guid isPermaLink="false">f0c9dde6ad12f1419c9594fc865b33740d0b12a0d1eb91fbb71b6acb7cfe1560</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 17:13:44 +0000</pubDate>
-<description>Members of the media are invited to tour a new lunar landing simulator at NASA’s Ames Research Center in California's Silicon Valley on Thursday, Oct. 29, and Friday, Oct. 30.</description>
-<enclosure url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://images-assets.nasa.gov/image/art002e012632/art002e012632~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Exercise doesn't just strengthen your heart. It rewires it</title>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11168-1 Fifteen years of atmospheric CO2 measurements show that the Amazon carbon sink is weakening, with fires, deforestation and climate stress driving increasingly high carbon emissions.</description>
-</item>
-<item>
-<title>The proteome of Middle Pleistocene Xujiayao and common Denisovan morphology</title>
-<link>https://www.nature.com/articles/s41586-026-11132-z</link>
-<guid isPermaLink="false">38ceb856b409e27dbd1d808ce4814e0c2f221260036a04a3db3519932e85879f</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11132-z Denisovans from the Xujiayao and other East Asian sites are morphologically distinctive, with a low cranial profile with near-parallel lateral walls, a massive supraorbital torus, a flat zygomaxillary region and weak prognathism.</description>
 </item>
 </channel></rss>
