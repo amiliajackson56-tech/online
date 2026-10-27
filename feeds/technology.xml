@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses</title>
+<link>https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html</link>
+<guid isPermaLink="false">a2da896f1147a8f00903ae0483c0d9474c21045d64f307728d0329c07fc4e827</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 06:34:47 +0000</pubDate>
+<description>The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. "Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded," the State Special Communications Service of Ukraine (SSSCIP)</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjISG9SXb2aeE6Zy-bIbnuaqwUNmGof7xU8RQl0vGZIcxcgNE3YXpuvG7rJKSTn_q9J8d_2DEv6rU2zxoX615DIYePz9rMA2TiLT6Fo1q2leGoyH85hJuIUta8j8FEN2mY5AGaO6zH5o6MkCHZ9Sv7OpjrZ6LE1yZygl9R4hUgt7xWJMMeGXRI4UJziuPCW/s1600/hackers-camera.jpg" medium="image"/>
+</item>
+<item>
+<title>X is nudging users to promote their posts with a pointing hand, and people are confused</title>
+<link>https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused</link>
+<guid isPermaLink="false">c470d7c13e71f76de685bab57bc669c0a5b271b239b8232f389a33a5362e7356</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 06:34:44 +0000</pubDate>
+<description>Whose hand is behind this travesty?</description>
+</item>
+<item>
 <title>CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution</title>
 <link>https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html</link>
 <guid isPermaLink="false">dc98d41511a17d2ea06d022347aa16472bf0f499c81cdacdb357e1c9a7d08220</guid>
@@ -1232,17 +1252,6 @@
 <description>Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
 </item>
 <item>
-<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
-<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
-<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
-<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
-</item>
-<item>
 <title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
 <link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
 <guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
@@ -1252,6 +1261,17 @@
 <description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
 <enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
+</item>
+<item>
+<title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
+<link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
+<guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
+<enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
 </item>
 <item>
 <title>uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
@@ -1458,15 +1478,6 @@
 <description>This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in just a number of days. This MacBook Pro will fetch quite a premium, though. Here’s what we know so far. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The hottest AI wearables and gadgets you should know about</title>
-<link>https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about</link>
-<guid isPermaLink="false">f0c80d5858e06e7593e650f951fc7d84fa419a68e1f4f466f773281c6c1416a1</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 14:10:00 +0000</pubDate>
-<description>We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.</description>
 </item>
 <item>
 <title>Wallhack M-001 Review: When Fun Overrides Specs</title>
@@ -1786,17 +1797,6 @@
 <media:content url="https://media.wired.com/photos/6ada00b2fb70c7875ccb3ecc/master/pass/Watches%20Under%20400.jpg" medium="image"/>
 </item>
 <item>
-<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
-<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
-<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
-<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
-<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
 <link>https://www.wired.com/story/best-laptops</link>
 <guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
@@ -1806,6 +1806,17 @@
 <description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
 <enclosure url="https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg" medium="image"/>
+</item>
+<item>
+<title>The Qubitunes Soundstage Toy Is a Great Gift for Kids</title>
+<link>https://www.wired.com/story/qubitunes-starter-kit-october-2026</link>
+<guid isPermaLink="false">60cd5f40e384a8f9bcee55af82d76cc7702d926d16781209854afd4bc7bb99bf</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 24 Oct 2026 10:00:00 +0000</pubDate>
+<description>This screen-free soundstage starter kit opens a world of audio fun for kids aged 3 years and up.</description>
+<enclosure url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adb9462163ba15a9a5f5353/master/pass/Deals%20Post%20Qubitunes%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Ray-Ban Meta Audio Review: The Best Smart Glasses</title>
@@ -3054,16 +3065,5 @@
 <description>Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. "The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading," Sophos security researcher Gabor Szappanos said in a post published</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2iUs3zJHHrrskI-icX8x-nBeJxjr_O9uRE2lvcLQkaOhVUHFjTQYLItaZPVskt39VgI2ZYoMDuIhqkAAqEl1bYHLv5ctEfQvPe9UmLyzVEo46YS4xOEz7HcoYKSiNtT_g2bqfKLPFis98BVTTjSR9gafpKRceKKcj0rUf3pb89zBXVt_PequHoA-ta3t/s1600/sandboxie.png" medium="image"/>
-</item>
-<item>
-<title>Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports</title>
-<link>https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html</link>
-<guid isPermaLink="false">2b1381b5788ddde481e0a2014bfe0b4b5e5d96422adceec0fab81d3c9d9484ce</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 11:53:34 +0000</pubDate>
-<description>Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH7zuBEyUN7xB2yVXHoNSB6jWMLhxTtu9LqItz3TNMkY5P59w2MW5dRYcLBp1hakchf5442zpMwNG3nzombXfaoo7O5IzgNw61nsbKWAjaKGP8D9ITLy11wkHBUUAwksYEqTiH27t7FTgpa5fpJQ42t6lVqO8qcbI57oWnxc7o8SWLupLpIiiZW6eBqj4/s1600/proofpoint.jpg" medium="image"/>
 </item>
 </channel></rss>
