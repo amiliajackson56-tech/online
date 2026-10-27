@@ -4,6 +4,141 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Tailscale warns of SSH flaws allowing root privilege escalation</title>
+<link>https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation</link>
+<guid isPermaLink="false">97418a7f472c7c5a23269560378aa0ae690969091a7fc72de2215df38bd27950</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:09:46 +0000</pubDate>
+<description>The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]</description>
+</item>
+<item>
+<title>The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest</title>
+<link>https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest</link>
+<guid isPermaLink="false">728f1e861a42ac6837a342aedb7bd2ef2dff68b2341dcddbde778babab7079f0</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:01:11 +0000</pubDate>
+<description>Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]</description>
+</item>
+<item>
+<title>We&amp;#8217;ve had touchscreen laptops for years. Can Apple make them better?</title>
+<link>https://www.theverge.com/tech/1019288/apple-event-la-macbook-pro-touchscreen-questions</link>
+<guid isPermaLink="false">8eaafdb81b28b5ac99e5f2e51d9d92694aacf9325be26b071af7ea09211e8da7</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 14:00:00 +0000</pubDate>
+<description>A fridge is about to be merged with a toaster. Dogs and cats are soon to be living together. But it's not mass hysteria; Apple is expected to finally announce a touchscreen MacBook tomorrow at its "Pro and Tell" event. A laptop with a touchscreen should be no big deal - we've had them for […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24371430/236492_MacBook_Pro_16__2023__AKrales_0090.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple rolls out iOS 27.2 with new Siri AI languages and security fixes</title>
+<link>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes</link>
+<guid isPermaLink="false">3599912ae52eb69c5ccb173762367ecf91fde62109f2469b811300740cb7930c</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:54:51 +0000</pubDate>
+<description>The latest Apple software update for iPhones and iPads includes new features and important security updates.</description>
+</item>
+<item>
+<title>Apple is adding an AI chatbot to Pages, Keynote, and Numbers</title>
+<link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
+<guid isPermaLink="false">77387043f69a853ed6d450642ef16a5b4f3c276f36c99523416a225602ef41d0</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:50:51 +0000</pubDate>
+<description>Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Book vs clamshell foldable phones: which is better for your everyday needs?</title>
+<link>https://www.engadget.com/2295698/book-vs-clamshell-foldable-phones-which-better</link>
+<guid isPermaLink="false">6aa5200e229e4df3198620a5ee451bd310bd39105e6f594e015c342aa7abf14b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:45:00 +0000</pubDate>
+<description>There are pros and cons to each style of foldable.</description>
+<enclosure url="https://www.engadget.com/img/gallery/book-vs-clamshell-foldable-phones-which-is-better-for-your-everyday-needs/l-intro-1791573406.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/book-vs-clamshell-foldable-phones-which-is-better-for-your-everyday-needs/l-intro-1791573406.jpg" medium="image"/>
+</item>
+<item>
+<title>M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?</title>
+<link>https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed</link>
+<guid isPermaLink="false">63f0fa805f05d466aeb78454abf051e349f5551a89a4fb9d9163ee914ad54d72</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:43:02 +0000</pubDate>
+<description>Today Apple unveiled a new 14-inch MacBook Pro with M6 chip. It has the same design as before and many of the same features, so what’s actually changed? Here’s what’s new. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Watch the ad for Apple’s new 14-inch MacBook Pro powered by M6</title>
+<link>https://9to5mac.com/2026/10/27/watch-the-ad-for-apples-new-14-inch-macbook-pro-powered-by-m6</link>
+<guid isPermaLink="false">c2956f46be1a322624fd3ad6b2136bb976022a52fc395f0904f1edd11238ad7e</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:37:44 +0000</pubDate>
+<description>Apple’s YouTube channel has published the ad for the new 14-inch MacBook Pro, powered by the M6 chip, which was just announced. Watch it below. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/m6-mbp-ad.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/m6-mbp-ad.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Japan internet giant GMO says hackers posted stolen customer data</title>
+<link>https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data</link>
+<guid isPermaLink="false">1630e683256dee46dd1e9df69dac1de668ecfea878bfbc40c52a152d632b8437</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:32:57 +0000</pubDate>
+<description>Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.</description>
+</item>
+<item>
+<title>UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court</title>
+<link>https://www.wired.com/story/the-big-interview-podcast-jess-asato</link>
+<guid isPermaLink="false">9866bf72e87f85c819e465892f18e86aa878a040ce0668355cd225c25c50cb32</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:29:41 +0000</pubDate>
+<description>Jess Asato’s public campaigning for victims of online abuse put her in the crosshairs of Grok’s deepfake scandal. Then the UK member of parliament became a victim of the abuse herself.</description>
+<enclosure url="https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/master/pass/Big-Interview-UV-Solo-Illo-1027.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae0a01a6cfc0bdcb738ab7a/master/pass/Big-Interview-UV-Solo-Illo-1027.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple Creator Studio gets powerful new AI features using OpenAI models</title>
+<link>https://9to5mac.com/2026/10/27/apple-creator-studio-gets-powerful-new-ai-features-using-openai-models</link>
+<guid isPermaLink="false">cc2ff1cfc7c5b609fa2bfc65ca510376111f9a468af7718e9851b2e70e2f8cb0</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:26:38 +0000</pubDate>
+<description>Apple Creator Studio updates have today been announced, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models. Final Cut Pro for Mac will also include built-in MotionVFX to provide a large collection of visual effects, transitions, and motion graphics tools … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple's iMac with M6 arrives promising a 'huge leap' in AI performance</title>
+<link>https://www.engadget.com/2298132/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance</link>
+<guid isPermaLink="false">3276a35b3f4a4fc3752448205eca308b7c4c9b93e8e0387d4453a0934c99ba51</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:25:44 +0000</pubDate>
+<description>It offers more cores and more performance per core than the iMac M5.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-imac-with-m6-arrives-promising-a-huge-leap-in-ai-performance/l-intro-1793110400.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple has updated the 14-inch MacBook Pro with an M6 chip</title>
+<link>https://www.engadget.com/2298120/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip</link>
+<guid isPermaLink="false">773f147528f94c85a02a6a48b4d10508a13b4b2f7a66877b75d37ae9da139e3c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 13:23:27 +0000</pubDate>
+<description>Sadly, the 16-inch MBP is still stuck with older M5 silicon.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109958.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-has-updated-the-14-inch-macbook-pro-with-an-m6-chip/l-intro-1793109958.jpg" medium="image"/>
+</item>
+<item>
 <title>A jailbroken PlayStation 5 can play PS2 discs, but Sony is giving users a tough choice</title>
 <link>https://www.engadget.com/2295693/a-jailbroken-playstation-5-can-play-ps2-discs-but-sony-is-giving-users-a-tough-choice</link>
 <guid isPermaLink="false">dbc5f0df378ce1952a0813dbe81eacc48a3bedd3a24c3b492f67cf26aee701a5</guid>
@@ -32,7 +167,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:05:26 +0000</pubDate>
-<description>Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, ahead of Apple's "Pro and Tell" event that's scheduled to take place on Wednesday, giving Apple's all-in-one desktop computer a performance boost via the same chipset it launched with the Mac Mini in August. Prices start from $1,499, and the […]</description>
+<description>Apple is updating the iMac with M6 chips. The new iMac generation was introduced today, giving Apple's all-in-one desktop computer a performance boost via the same chipset Apple launched with the Mac Mini in August. Prices start from $1,499, and the design otherwise appears largely unchanged. The update was announced ahead of Apple's "Pro and […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-iMac-with-M6-hero-261027.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -48,13 +183,13 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Apple launches new iMac with powerful M6 chip</title>
+<title>Apple launches new iMac with M6 chip, N1 wireless, faster Ethernet</title>
 <link>https://9to5mac.com/2026/10/27/apple-launches-new-imac-with-powerful-m6-chip</link>
 <guid isPermaLink="false">e5e65fe16b12482c5f348a2fdeebce4de87f68f55dd4c77e90b7a2430f7a279e</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:01:58 +0000</pubDate>
-<description>Today Apple introduced a new iMac with the M6 chip, combining powerful performance upgrades and several other improvements. more…</description>
+<description>Today Apple introduced a new iMac with the M6 chip, combining powerful performance upgrades with a couple other improvements. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/m6-imac-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/m6-imac-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -399,17 +534,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Acer is bringing a Predator gaming handheld to the US for the first time</title>
-<link>https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price</link>
-<guid isPermaLink="false">73c8e33bd17b359e4cd260b514304019fd901e5d4e290cba7036a6c523849cab</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 09:54:22 +0000</pubDate>
-<description>It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - will be available exclusively at Best Buy on […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Acer-Predator-Atlas-8-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Is an Under-Sink Reverse Osmosis System Worth It? Benefits, Costs, and Drawbacks</title>
 <link>https://www.wired.com/story/is-an-under-sink-reverse-osmosis-system-worth-it</link>
 <guid isPermaLink="false">9a8915e4522d378bba15d4929844a006813e5576aa17d535602b0e5f925b1866</guid>
@@ -574,17 +698,6 @@
 <description>T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV , Netflix, and YouTube Premium, and switch between them several times a year without changing their monthly bill. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-t-mobile-discount.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-t-mobile-discount.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>OpenAI announces three big science discoveries and a new way to work with academics</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics</link>
-<guid isPermaLink="false">b555ce2afa55383d5d6c0fd94041352715697e582bf0bac43a6f88dadccf461d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 23:34:58 +0000</pubDate>
-<description>Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more "major" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as "shepherds" guiding the results in […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The most popular streaming platforms in the US might not be what you think</title>
@@ -998,17 +1111,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Your Apple TV remote has handy shortcuts most people never use</title>
-<link>https://www.engadget.com/2295146/handy-apple-tv-remote-shortcuts</link>
-<guid isPermaLink="false">26e846fea7f58c1535b5a0a07c3b6ec501ee964126ea772d3878ca77422be1b2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
-<description>Getting to know your remote a little better makes it a lot easier to navigate the Apple TV menus.</description>
-<enclosure url="https://www.engadget.com/img/gallery/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use/l-intro-1792761117.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/your-apple-tv-remote-has-handy-shortcuts-most-people-never-use/l-intro-1792761117.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI upgrades ChatGPT and Codex with new GPT-6.1 Terra model</title>
 <link>https://9to5mac.com/2026/10/26/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-1-terra-model</link>
 <guid isPermaLink="false">2cd0b40ce957bc7c1b3c2a6691bc8f20b47b13c6061992037b54842e7d8cb387</guid>
@@ -1051,17 +1153,6 @@
 <description>Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ukraine-starlink-1152x648-1793037272.jpg" medium="image"/>
-</item>
-<item>
-<title>How to use your Samsung Galaxy phone to wirelessly charge other devices</title>
-<link>https://www.engadget.com/2294444/how-to-use-samsung-galaxy-phone-wireless-powershare-charging</link>
-<guid isPermaLink="false">8dd38ab286052e0347ef57e66e5eaf6346243dd5deff68fce64f034672b274f8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:00:00 +0000</pubDate>
-<description>If you're in desperate need of power, lots of newer Samsung phones can wirelessly charge other devices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices/l-intro-1792690102.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-samsung-galaxy-phone-to-wirelessly-charge-other-devices/l-intro-1792690102.jpg" medium="image"/>
 </item>
 <item>
 <title>watchOS 27.2 available now for Apple Watch, here’s what’s new</title>
@@ -1137,17 +1228,6 @@
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 17:45:00 +0000</pubDate>
 <description>Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.</description>
-</item>
-<item>
-<title>Instagram wants you to watch 90-minute videos on your TV</title>
-<link>https://www.engadget.com/2297240/instagram-wants-you-to-watch-90-minute-videos-on-your-tv</link>
-<guid isPermaLink="false">6be8b784c4c7f093e774dedfb38da7dd05d7fe6d8a37f9e1b2947ec75174ed22</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:36:39 +0000</pubDate>
-<description>Instagram is experimenting with longform video again.</description>
-<enclosure url="https://www.engadget.com/img/gallery/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/l-intro-1793036153.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/instagram-wants-you-to-watch-90-minute-videos-on-your-tv/l-intro-1793036153.jpg" medium="image"/>
 </item>
 <item>
 <title>Highway thieves are spoofing GPS to steal millions in data center-bound cargo</title>
@@ -1334,15 +1414,6 @@
 <media:content url="https://media.wired.com/photos/6adbe0039bde53c96a68d73b/master/pass/Security_Trump%20Officials%20are%20Sitting%20on%20a%20Secret%20Surveillance%20Court%20Ruling_v1.jpg" medium="image"/>
 </item>
 <item>
-<title>Matiks raises $10M to expand its math and puzzle gaming platform</title>
-<link>https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform</link>
-<guid isPermaLink="false">bfe58c7e84aff8ecf98c79899247ea6d64556ca15e39cf4d6418fa1f17918657</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:08:04 +0000</pubDate>
-<description>Matiks has introduced a new platform for users to create games using AI.</description>
-</item>
-<item>
 <title>⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More</title>
 <link>https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html</link>
 <guid isPermaLink="false">e0df996ac6f273db772adcd0c6a29aced11263ca5501f7bfb8c120e25427a665</guid>
@@ -1425,15 +1496,6 @@
 <description>Apple confirmed a “small number” of iPhone Duo units have an issue impacting the inner display.</description>
 <enclosure url="https://media.wired.com/photos/6adf134c0a7918a0f61a89fd/master/pass/iPhone%20Duo_94.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf134c0a7918a0f61a89fd/master/pass/iPhone%20Duo_94.jpg" medium="image"/>
-</item>
-<item>
-<title>Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)</title>
-<link>https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised</link>
-<guid isPermaLink="false">9b45c1d78d271df29e15f2a2bf1f9af7c8d4cd5088e852a0ee69efac10b16e18</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 12:58:40 +0000</pubDate>
-<description>Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.</description>
 </item>
 <item>
 <title>Some seven years later, the iTunes Store is making an unlikely come-back</title>
@@ -1544,17 +1606,6 @@
 <description>Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
 </item>
 <item>
-<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
-<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
-<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
-<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
-</item>
-<item>
 <title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
 <link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
 <guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
@@ -1564,6 +1615,17 @@
 <description>Every day, Wikipedia biographies of living people are flagged for deletion because the subjects are not “notable” enough. How do these poor souls take the news?</description>
 <enclosure url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ada50d1133035a6bb08be2d/master/pass/WIRED-Ghost-Stories-Wikipedia-Notable-top.jpg" medium="image"/>
+</item>
+<item>
+<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
+<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
+<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
+<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
 </item>
 <item>
 <title>uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
@@ -1705,15 +1767,6 @@
 <description>For the first time since 2021, Apple will be overhauling the iPad mini with new display technology. It also marks the first chip refresh since 2024. Here’s what Apple has in store for this all-new iPad mini . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>AI coding agents hijacked using AGENTS.md file in Downloads folder</title>
-<link>https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder</link>
-<guid isPermaLink="false">264cc0e36820b485d1c10cb3584fabe716e3249f83763a11186159184e736991</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 15:49:38 +0000</pubDate>
-<description>Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]</description>
 </item>
 <item>
 <title>Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look</title>
@@ -1890,15 +1943,6 @@
 <description>It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really useful tools to limit future tracking, including App Tracking Transparency, Hide My Email, and iCloud Private Relay, but this doesn’t solve your actual problem, though. What they can’t do is remove the data that has already been collected, bought, and spread across hundreds of broker databases over the past decade. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600" medium="image"/>
-</item>
-<item>
-<title>BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
-<link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot</link>
-<guid isPermaLink="false">9fcce94ed3b1e9c4958aa9fdf55861c308d71d460948b415bee4d65d0c6e4d18</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 14:17:32 +0000</pubDate>
-<description>A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]</description>
 </item>
 <item>
 <title>Apple @ Work: The browser is the biggest gap in your AI governance strategy</title>
@@ -2528,17 +2572,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Best-iPhone-Duo-Cases-available-purchase.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could</title>
-<link>https://www.wired.com/review/samsung-galazy-z-flip8</link>
-<guid isPermaLink="false">c52dae90e9e4fc9311eb4f18975e96df5e9b7b27788554712ce72ed15a7c736d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 11:30:00 +0000</pubDate>
-<description>Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.</description>
-<enclosure url="https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches</title>
 <link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
 <guid isPermaLink="false">d3e6fb1a3911b1e6b90b1f063808a68fb4504ce04882fd635da42147c19051ce</guid>
@@ -2957,28 +2990,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-says-developers-are-showing-incredible-support-for-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>What’s going on with the web? The PHP issue and sites going offline</title>
-<link>https://9to5mac.com/2026/10/22/whats-going-on-with-the-web-the-php-issue-and-sites-going-offline</link>
-<guid isPermaLink="false">68a93f2fd2f0ed44e9e55f7e6fc772d4ea4b020ad6e47aa33577965d75d2897d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 12:10:22 +0000</pubDate>
-<description>A significant number of websites have gone offline, and that’s not due to a service outage, but rather a deliberate decision by the site’s owners. The reason is because extremely dangerous security vulnerabilities have been found in a protocol used by most websites – PHP. This issue is unrelated to the separate vulnerability discovered in web certificates … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/The-PHP-issue-and-sites-going-offline.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/The-PHP-issue-and-sites-going-offline.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iPhone Duo reviews: The absolute best foldable phone, but not without compromise</title>
-<link>https://9to5mac.com/2026/10/22/iphone-duo-reviews-the-absolute-best-foldable-phone-but-not-without-compromise</link>
-<guid isPermaLink="false">3bfeb8e0adc6e0f76049c08c09b79bb1aed8607624fcd3eedb8d774f664849b3</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 11:44:27 +0000</pubDate>
-<description>We posted our own review of the iPhone Duo yesterday, and Chance Miller was left convinced that “this form factor represents the future of the iPhone,” while acknowledging that the first-gen iPhone Duo comes with trade-offs. I think what surprised me most is the degree of consensus found across the reviews, given the generally polarized appeal of foldable phones. That’s not to say reviewers think everyone should buy one, but there is widespread agreement on the pros and cons – starting with five key takeouts … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-20-1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/iphone-duo-20-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
 <link>https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</link>
 <guid isPermaLink="false">b5736c37c6a72d90b26e449a483c794a8719be13067dd338abfc187f67db0b33</guid>
@@ -2999,17 +3010,6 @@
 <description>A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUmn80CiQx35trhXNaAwJka_Z3T-PKQrz__dlAW1GDDVwfrk2WHit1W6GZBaaAT-a9SrmqqauUhw0raYLEOS3Vv-LNxdu0a2bmJebJWVj5mBadfgxN1N1yVREXflCcV7cPmShswRE8PC0qspFY82MDEKe8MJImYVqJCBYLwTLpCHM1IzjDX7KsOAYs7tc/s1600/opencode-mcp.jpg" medium="image"/>
-</item>
-<item>
-<title>Gurman: iPhone Duo 2 prototypes with Face ID are already being tested inside Apple</title>
-<link>https://9to5mac.com/2026/10/22/gurman-iphone-duo-2-face-id</link>
-<guid isPermaLink="false">dbf7857fe49a053a1bdbc2caa810c6fbc6212b2600d8a95551b73b36a543938c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 22 Oct 2026 09:56:28 +0000</pubDate>
-<description>The iPhone Duo comes out tomorrow but, given the strong pre-order demand, it is already looking to be a smash hit. And we are all expecting Apple to follow up with a second-generation model next fall, which means the company has to be already working on the next-gen hardware. On his Power On podcast , Mark Gurman reports that iPhone Duo 2 prototypes inside Apple include Face ID, with the Face ID sensor being integrated beneath the display on the outer screen. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-round-2-01.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-round-2-01.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release</title>
