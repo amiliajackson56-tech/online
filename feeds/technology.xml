@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>VisionQuest is what happens when AI really goes rogue</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai</link>
+<guid isPermaLink="false">b2aff63a03e983b29f98161acfc87465b63b0476c06050c3535e9dd406fd781a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:30:00 +0000</pubDate>
+<description>In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/107-90190_RC.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Quince’s Merino Wool Tee Doesn’t Cost a Fortune</title>
+<link>https://www.wired.com/story/quince-merino-wool-base-layer-tee-rave</link>
+<guid isPermaLink="false">ac4f2c66950553b733348a9c87c1f6ae9d3e9ae8bc938cb45b7da0837ec3050e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:12:04 +0000</pubDate>
+<description>Merino wool is a super fiber, and Quince’s all-season tee is the perfect way to try it out without spending a fortune.</description>
+<enclosure url="https://media.wired.com/photos/6ae0d945e24951813c6e5c29/master/pass/Quince%20Merino%20T-Shirt%20Deals%20Post%20102026%20top%20art%20SOURCE%20Quince.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae0d945e24951813c6e5c29/master/pass/Quince%20Merino%20T-Shirt%20Deals%20Post%20102026%20top%20art%20SOURCE%20Quince.jpg" medium="image"/>
+</item>
+<item>
+<title>Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?</title>
+<link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean</link>
+<guid isPermaLink="false">64295c3ae779f4acba31c98f6f5cc49e96028f321305a424dab01f7c185b3db2</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 17:08:08 +0000</pubDate>
+<description>TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery</description>
+</item>
+<item>
 <title>The Super Mouse puts a touchscreen macro pad under your hand</title>
 <link>https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter</link>
 <guid isPermaLink="false">b0f782dbc7c2b431b76866f71c7ea690cb1fdbd4e19782918da1b8a4515b412e</guid>
@@ -446,17 +477,6 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 13:54:51 +0000</pubDate>
 <description>The latest Apple software update for iPhones and iPads includes new features and important security updates.</description>
-</item>
-<item>
-<title>Apple is adding an AI chatbot to Pages, Keynote, and Numbers</title>
-<link>https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update</link>
-<guid isPermaLink="false">77387043f69a853ed6d450642ef16a5b4f3c276f36c99523416a225602ef41d0</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:50:51 +0000</pubDate>
-<description>Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Book vs clamshell foldable phones: which is better for your everyday needs?</title>
@@ -1440,15 +1460,6 @@
 <description>Apple has released HomePod 27.2, its latest software update for HomePod users. Here’s what’s new. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod-2-sound-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>This startup’s self-driving excavators help dig up $600M in new funding</title>
-<link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding</link>
-<guid isPermaLink="false">c8834c973f1bc77c213e2debf99c25e5c659bbd2ebfd4ecfd1aeebc462923f56</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:45:00 +0000</pubDate>
-<description>Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.</description>
 </item>
 <item>
 <title>Highway thieves are spoofing GPS to steal millions in data center-bound cargo</title>
@@ -2539,17 +2550,6 @@
 <description>iPhone Duo has arrived, and if you managed to snag Apple’s new foldable on launch day, here are our top recommendations for accessories. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo-front-display-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>What’s the Best iPhone to Buy or Avoid Right Now? (2026)</title>
-<link>https://www.wired.com/gallery/iphone-buying-guide</link>
-<guid isPermaLink="false">2b5c28d14bbd9ca27139f5b7a5e1e4ca28a6811afcf4153445c40a72e35c4e56</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-<description>The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.</description>
-<enclosure url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s everything new Apple TV has coming in November</title>
