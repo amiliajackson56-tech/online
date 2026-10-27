@@ -4,13 +4,35 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>iPhone Lockdown Mode: The pros and cons of enabling Apple's security feature</title>
+<link>https://www.engadget.com/2295333/iphone-lockdown-mode-pros-cons</link>
+<guid isPermaLink="false">557a73c1f1a2f856ae982b9756f344fd0dfa8a26690e693e6a248ad5862b7a65</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 00:30:00 +0000</pubDate>
+<description>Lockdown Mode enables extreme protections for those most at risk, but it's overkill for most people.</description>
+<enclosure url="https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/iphone-lockdown-mode-the-pros-and-cons-of-enabling-apples-security-feature/l-intro-1792766868.jpg" medium="image"/>
+</item>
+<item>
+<title>9to5Mac Daily: October 26, 2026 – Apple unveils new iPad mini</title>
+<link>https://9to5mac.com/2026/10/26/daily-october-26-2026</link>
+<guid isPermaLink="false">23ee26a34b34c51a1a77664496e7a9e9b94a2a02be065fbc657f5314f6cc03d7</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 00:16:31 +0000</pubDate>
+<description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>T-Mobile’s new plans let users swap between Apple TV and other subscriptions</title>
 <link>https://9to5mac.com/2026/10/26/t-mobiles-new-plans-let-users-swap-between-apple-tv-and-other-subscriptions</link>
 <guid isPermaLink="false">2d23b1a7c8d67cc4bb4de3e86551fc22e6f9a170d36b7d8aa2488fae45f4792d</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 23:51:19 +0000</pubDate>
-<description>T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV, Netflix, and YouTube Premium, and switch between them several times a year without changing their monthly bill. Here are the details. more…</description>
+<description>T-Mobile’s new “T-Mix” plans let users choose from subscriptions like Apple TV , Netflix, and YouTube Premium, and switch between them several times a year without changing their monthly bill. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-t-mobile-discount.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-t-mobile-discount.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -987,17 +1009,6 @@
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 14:00:10 +0000</pubDate>
 <description>A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]</description>
-</item>
-<item>
-<title>Even Realities launches a brown version of its G2 smart glasses</title>
-<link>https://www.engadget.com/2295406/even-realities-launches-a-brown-version-of-its-g2-smart-glasses</link>
-<guid isPermaLink="false">9fa3c1081c0329f5bae45081296bdf1504006c937b41d2b61c1ecd78e0c8e018</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 14:00:00 +0000</pubDate>
-<description>It also released a couple of new accessories, including a wearable chain.</description>
-<enclosure url="https://www.engadget.com/img/gallery/even-realities-now-offers-a-brown-version-of-its-g2-smart-glasses/l-intro-1792771151.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/even-realities-now-offers-a-brown-version-of-its-g2-smart-glasses/l-intro-1792771151.jpg" medium="image"/>
 </item>
 <item>
 <title>WIRED Ghost Stories</title>
@@ -2977,17 +2988,6 @@
 <description>GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>Photographer Tyler Stalman reviews iPhone Duo’s new cameras</title>
-<link>https://9to5mac.com/2026/10/21/photographer-tyler-stalman-reviews-iphone-duos-new-cameras</link>
-<guid isPermaLink="false">705cfcece5dcc78f676ef0d17d0112a0d309b42501a46d20086d537c6b03fecc</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:17:11 +0000</pubDate>
-<description>iPhone Duo is almost here, and our in-depth 9to5Mac review was published today . While that review offers plenty of insights into iPhone Duo’s cameras, if you want a professional photographer’s take, Tyler Stalman’s new video has you covered. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-camera.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-camera.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
