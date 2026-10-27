@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens</title>
+<link>https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html</link>
+<guid isPermaLink="false">b7d7e51c85e3c557c1699527a018e84ea617c68385c5bef58ae41c7332d4f7e6</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 12:09:50 +0000</pubDate>
+<description>Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw as CVE-2026-80097 and fixed it in Authenticator for Android version 6.2606.4246, so anyone using the app should update. In the researchers' tests,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg" medium="image"/>
+</item>
+<item>
+<title>NASA plans to launch three massive rockets for the Artemis 3 crewed lunar test mission</title>
+<link>https://www.engadget.com/2298015/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission</link>
+<guid isPermaLink="false">32734e3c3a00125ade8abb7e540dff2a0075390bc1219f4bbf3a943c3d3b6300</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:58:00 +0000</pubDate>
+<description>NASA has detailed how the next Artemis 3 test will happen, but it doesn't have a concrete date for it yet.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/l-intro-1793101991.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nasa-plans-to-launch-three-massive-rockets-for-the-artemis-3-crewed-lunar-test-mission/l-intro-1793101991.jpg" medium="image"/>
+</item>
+<item>
+<title>Acer's Predator Atlas 8 gaming handheld finally launches at Best Buy on November 1 for $1,300</title>
+<link>https://www.engadget.com/2298013/acer-predator-atlas-8-gaming-handheld-comes-to-best-buy-on-november-1-for-1300</link>
+<guid isPermaLink="false">2f2272bed38fb447de7c3197dacbfcdb3af5b91dda0fb65a4bfcdceac5f3d7fb</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:50:55 +0000</pubDate>
+<description>The Predator Atlas 8 gaming handheld PC is coming to the US after all on November 1st for $1,300.</description>
+<enclosure url="https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/acers-predator-atlas-8-gaming-handheld-finally-launches-at-best-buy-on-november-1-for-1300/l-intro-1793101845.jpg" medium="image"/>
+</item>
+<item>
+<title>Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key</title>
+<link>https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html</link>
+<guid isPermaLink="false">c4255691bc04847be987b7b90854e2224cfdb435bac8dee5766c974ea6026b43</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:46:00 +0000</pubDate>
+<description>An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg" medium="image"/>
+</item>
+<item>
+<title>This super cute app turns your iPhone Duo into tiny vintage Macs</title>
+<link>https://9to5mac.com/2026/10/27/this-super-cute-app-turns-your-iphone-duo-into-tiny-vintage-macs</link>
+<guid isPermaLink="false">e057a8b802afed583383ca8ede474d0f9adb5cd25f56cace99917ac4dcb4440b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:37:56 +0000</pubDate>
+<description>It’s kind of ironic that the most fun apps we’ve seen for a brand new iPhone turn it into a decidedly old device. We’ve already seen a 1980s Sony Walkman emulator , and now Tiny Computers turns the Duo into a whole series of vintage Macs and more. You can choose between four vintage Macs and a range of non-Apple machines from a similar era, including the Commodore 64 … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/This-super-cute-app-turns-your-iPhone-Duo-into-tiny-vintage-Macs.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/This-super-cute-app-turns-your-iPhone-Duo-into-tiny-vintage-Macs.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>AI-Generated Fake Login Pages Are Making Account Takeovers Easier</title>
+<link>https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html</link>
+<guid isPermaLink="false">ee7d5cd794be00773ca8cb1c52fde21af8dbd3dc113b9260466c930a95c32ca7</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:32:46 +0000</pubDate>
+<description>Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg" medium="image"/>
+</item>
+<item>
+<title>Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption</title>
+<link>https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html</link>
+<guid isPermaLink="false">b434e7ad4a7b0ac31514c152caffbadf1e157bc6df6b139bef7e740426b338db</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:32:31 +0000</pubDate>
+<description>The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple knows the iPad mini market, but internet unimpressed by 60Hz</title>
 <link>https://9to5mac.com/2026/10/27/apple-knows-the-ipad-mini-market-but-internet-unimpressed-by-60hz</link>
 <guid isPermaLink="false">838a1fa8cae4be58db2ceaeae5cb970257695200d86553155c6f2a9fa200a282</guid>
@@ -35,17 +112,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2300740947.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Slate teams up with Smarties to add candy colors to its EV trucks</title>
-<link>https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps</link>
-<guid isPermaLink="false">70493dfc746180ca32ccc6699713821f87b17c32401c62b9c78ac2e2835f4ec1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
-<description>Fancy making your Slate EV look like halloween candy? Now you can.</description>
-<enclosure url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" medium="image"/>
-</item>
-<item>
 <title>20 Years of MacBook: How Apple shaped the laptops we use today</title>
 <link>https://www.engadget.com/2297565/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today</link>
 <guid isPermaLink="false">5697c3a264c66327eee5b3219daa033ae7500b901b9da9c6e9b2ecb7f937c4af</guid>
@@ -57,6 +123,17 @@
 <media:content url="https://www.engadget.com/img/gallery/20-years-of-macbook-how-apple-shaped-the-laptops-we-use-today/l-intro-1793042760.jpg" medium="image"/>
 </item>
 <item>
+<title>Slate teams up with Smarties to add candy colors to its EV trucks</title>
+<link>https://www.engadget.com/2295050/slate-ev-smarties-candy-color-wraps</link>
+<guid isPermaLink="false">70493dfc746180ca32ccc6699713821f87b17c32401c62b9c78ac2e2835f4ec1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
+<description>Fancy making your Slate EV look like halloween candy? Now you can.</description>
+<enclosure url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/slate-teams-up-with-smarties-to-add-candy-colors-to-its-ev-trucks/l-intro-1792751144.jpg" medium="image"/>
+</item>
+<item>
 <title>AI Agents Are Media’s New Favorite Audience</title>
 <link>https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience</link>
 <guid isPermaLink="false">4d7746a3bca6ecc8e96bad0512108e7424ea31866950e7810c1d05590600d49b</guid>
@@ -64,6 +141,8 @@
 <category>technology</category>
 <pubDate>Tue, 27 Oct 2026 11:00:00 +0000</pubDate>
 <description>As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.</description>
+<enclosure url="https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adfd6269b54dbfcc0225ffd/master/pass/business_ai_agents_media_audience.jpg" medium="image"/>
 </item>
 <item>
 <title>NASA’s Oldest Martian Spacecraft Have Been Running for Decades. Here’s How</title>
@@ -1042,17 +1121,6 @@
 <description>The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.</description>
 </item>
 <item>
-<title>Here's how much it would cost to build a PC similar to the Xbox Series X</title>
-<link>https://www.engadget.com/2294342/how-much-build-pc-similar-xbox-series-x</link>
-<guid isPermaLink="false">714888c045e7c9b27b347dca522f470c53a4c9a8b674a276d84e44499ec94ffd</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:45:00 +0000</pubDate>
-<description>An Xbox Series X isn't cutting-edge tech anymore, but it's still costly to build a similar PC due to high part prices.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-much-it-would-cost-to-build-a-pc-similar-to-the-xbox-series-x/l-intro-1792687287.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-much-it-would-cost-to-build-a-pc-similar-to-the-xbox-series-x/l-intro-1792687287.jpg" medium="image"/>
-</item>
-<item>
 <title>Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches</title>
 <link>https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches</link>
 <guid isPermaLink="false">aee4985617fbdf68a3254b82bef1335ca982df95d3a6f296b63a1d3d7b98569b</guid>
@@ -1060,17 +1128,6 @@
 <category>technology</category>
 <pubDate>Mon, 26 Oct 2026 16:27:57 +0000</pubDate>
 <description>A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]</description>
-</item>
-<item>
-<title>How do apps on the HomeView work, and what does CarPlay have to do with it?</title>
-<link>https://www.engadget.com/2294307/how-homeview-apps-work-what-carplay-have-to-do-with-it</link>
-<guid isPermaLink="false">0009967f86f2203f27e0cc7a753892dc9cfb184b136d691bfbd418f185bd38bf</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 16:15:00 +0000</pubDate>
-<description>The HomeView won't have its own App Store, but there's another method for using compatible third-party apps on the display.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-do-apps-on-the-homeview-work-and-what-does-carplay-have-to-do-with-it/l-intro-1792422085.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-do-apps-on-the-homeview-work-and-what-does-carplay-have-to-do-with-it/l-intro-1792422085.jpg" medium="image"/>
 </item>
 <item>
 <title>The Anthropic S-1 Filing Is Also an AI Doomsday Primer</title>
@@ -3008,60 +3065,5 @@
 <description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple and DOJ notify court of impasse over document cutoff in antitrust lawsuit</title>
-<link>https://9to5mac.com/2026/10/21/apple-and-doj-notify-court-of-impasse-over-document-cutoff-in-antitrust-lawsuit</link>
-<guid isPermaLink="false">4919d64148a2d33817b0b85d0d790a2b97aabceaf5a37442ca0b2830fed3b54c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 21:44:49 +0000</pubDate>
-<description>Apple and the Department of Justice have submitted a joint notice of impasse over how recent Apple’s documents must be to fall within the scope of discovery in their ongoing antitrust lawsuit. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/Apple-generates-2.4-million-per-employee-but-is-only-third-in-the-ranking.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
-<link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
-<guid isPermaLink="false">6815f2a0b4a0d8cf043fde44d9443d90822dee334dd86f143e7cce8ec37d7ae5</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:57:34 +0000</pubDate>
-<description>GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
-<link>https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</link>
-<guid isPermaLink="false">d9304dd4f7f5ae5de2a3fda8e8a29fb19a4029fa769d0a779f3751101f28c01d</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 18:01:57 +0000</pubDate>
-<description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg" medium="image"/>
-</item>
-<item>
-<title>OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
-<link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
-<guid isPermaLink="false">59a7ce99a8f3de460e7be4696946538f975127bd0b91e7c315ae264289821b46</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 16:33:47 +0000</pubDate>
-<description>OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. "A GPT-6.1 Sol agent repairing an evaluation</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLjuo6QB0kLx2z3u5thyphenhyphenjrULwTFigmtHb1U1y6141FNvIITM2nytdxcKmShZMElSSZdMFbnGfiwjTIpqOYtNzK3gAeSGkEVr8XnsPB9RF1GOh-6qqkXPmX8SY2COyV0eyA6khfN3QYzF-Ydbsz8Mw8jBmFDouame4hTt0ulaNxq0pPTR4FKFuVyQ2Ln6WC/s1600/openai-bot.jpg" medium="image"/>
-</item>
-<item>
-<title>PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
-<link>https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</link>
-<guid isPermaLink="false">02b6efa6343689ed583be05adf75690545cd4254d298475797bf3fc21013f2a0</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Wed, 21 Oct 2026 14:00:00 +0000</pubDate>
-<description>PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8MKP95jyzesxy1eZd6zQDCb3dr-9m-bRE9W0PYnomN3z8lodXmM_0Oo4AAiP_nt2QMNpLxsUNPKueH4TW6FnvXl7ijDGDwxnXcfiyAII6sUDd8cfKoB7Z3MgLOvcAWDeplnUdixy-zfpgVqCuAVZmqH-Orn4S-QhYREVcY1ew7_6kIG8LBsdLZC8Ofs/s1600/PHP2SHELL.gif" medium="image"/>
 </item>
 </channel></rss>
