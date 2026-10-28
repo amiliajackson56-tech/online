@@ -4,6 +4,70 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Police seize Virtualine bulletproof service tied to ransowmare, cybercrime</title>
+<link>https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime</link>
+<guid isPermaLink="false">4a9db94d56e1f65315b82bfc56fd9e383367c0f3e394ad9993734b17e43b6373</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:47:22 +0000</pubDate>
+<description>U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]</description>
+</item>
+<item>
+<title>Ternus addresses Apple breaking touchscreen Mac taboo: ‘Who knew?’</title>
+<link>https://9to5mac.com/2026/10/28/ternus-addresses-apple-breaking-touchscreen-mac-taboo-who-knew</link>
+<guid isPermaLink="false">3457b48f6cad7baa896d2c5d808ad2e7ac70c5b1d18d53dcce43144848e45bb5</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:33:05 +0000</pubDate>
+<description>In an interview with WIRED , Apple executives including CEO John Ternus, hardware chief Johny Srouji, and marketing chief Greg “Joz” Joswiak discussed the company’s decision to bring touch to the Mac . Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
+</item>
+<item>
+<title>Apple's PROLED XDR Display has a cringy name but incredible specs</title>
+<link>https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs</link>
+<guid isPermaLink="false">a2396b28d8559404d8404e2a66e1efbb41221c9da426922cbceea23b6932d98f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:31:43 +0000</pubDate>
+<description>With all the fuss about Apple finally releasing a touchscreen MacBook Pro, you may have forgotten about the OLED part.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/l-intro-1793218163.jpg" medium="image"/>
+</item>
+<item>
+<title>Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw</title>
+<link>https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware</link>
+<guid isPermaLink="false">6eab8d16980c4265f607e132f7fcc94b13330818575ae212828a9cc00cd3abca</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:30:00 +0000</pubDate>
+<description>The critical flaw in UEFI firmware—used by most server vendors and data centers—allows attackers to execute code early in the boot process.</description>
+<enclosure url="https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae24abf56ee4dcb93f11815/master/pass/Untitled-5.gif" medium="image"/>
+</item>
+<item>
+<title>Google says its investments in AI are driving more searches</title>
+<link>https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026</link>
+<guid isPermaLink="false">7ce2c248469b55d0c6b632d3cd658990b5f8f6bff1218091a2645c0dafa151bf</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:22:26 +0000</pubDate>
+<description>Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. "Our AI investments are driving overall Search query growth, including commercial queries," CEO Sundar Pichai says in a statement. "In fact, our year-over-year query growth rate is the highest […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft reveals strong cloud growth amid financial reporting overhaul</title>
+<link>https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027</link>
+<guid isPermaLink="false">2c03ddb418ae55deb6a57d85c5b177ac76876635b85177bbc4fe118786de850a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:20:00 +0000</pubDate>
+<description>Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a new financial year for Microsoft, so the company is changing up […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Apple charges $14,549 for a fully specced touchscreen MacBook Pro</title>
 <link>https://www.theverge.com/tech/1021308/apple-touchscreen-macbook-pro-proled-xdr-fully-specced</link>
 <guid isPermaLink="false">63133c945866b0d71e1a5ff383e7c5d56bdc8bf6e4b9bfbf8000fba1a94cbddf</guid>
@@ -41,7 +105,7 @@
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 20:00:00 +0000</pubDate>
-<description>The leaked records include the locations of ICE and CBP facilities, workers' cellphone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.</description>
+<description>The leaked records include the locations of ICE and CBP facilities, workers’ cell phone numbers, and the members of groups tied to wiretap programs, Palantir software, and xAI’s Grok chatbot.</description>
 <enclosure url="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/master/pass/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/master/pass/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg" medium="image"/>
 </item>
@@ -90,6 +154,17 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2261816039.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
+<title>Trump admin sues Utah to save Kalshi from the state's total ban on gambling</title>
+<link>https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling</link>
+<guid isPermaLink="false">da1b5997a61e624a913d34b516cfece4503e5bcd0ce23af2df2176d14bcd9bc1</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:30:33 +0000</pubDate>
+<description>US agency has sued 10 states for trying to stop gambling on prediction markets.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/09/kalshi-1152x648-1788462763.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple releases touchscreen Mac developer videos, with live sessions coming in November</title>
 <link>https://9to5mac.com/2026/10/28/apple-releases-touchscreen-mac-developer-videos-with-live-sessions-coming-in-november</link>
 <guid isPermaLink="false">1259293eb8e98ea663a6a626421dd26645dad9ac3637cd7ca7be1b7d53dfcd15</guid>
@@ -99,6 +174,17 @@
 <description>Apple has announced a series of videos and upcoming live sessions to help developers optimize their apps for touchscreen Macs. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/touch-mac-apps.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/touch-mac-apps.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>The last, best hope for space tourism just rolled onto a runway in Arizona</title>
+<link>https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona</link>
+<guid isPermaLink="false">ca9d651545e8c4f2bacecfe1a24c8823de69430a5e81cb33d058632e6e662c94</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:20:36 +0000</pubDate>
+<description>It has been nearly a year since any space tourism flights occurred.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/VIRGIN-GALACTIC_CORDWELL_10232026_APEIRON_STILLS-SELECT-1653-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Anthropic just launched tools to show companies what their AI spending is buying</title>
@@ -130,6 +216,17 @@
 <description>The feature works with both iMessage and RCS messaging.</description>
 <enclosure url="https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/openai-now-lets-you-text-your-dot-agent/l-intro-1793214741.jpg" medium="image"/>
+</item>
+<item>
+<title>Touchscreen MacBook Pro hands-on: OLED looks great on a Mac</title>
+<link>https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac</link>
+<guid isPermaLink="false">79b03aa9fa8771e1fec5f886988d35bc81a1d9f7a7ba27f55dc63f6d02459afd</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 19:10:29 +0000</pubDate>
+<description>It's not as different from the previous model as you might have expected.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/16-inch-MacBook-Pro-lid-closed-1152x648-1793212511.jpg" medium="image"/>
 </item>
 <item>
 <title>All-new MacBook Pro brings back beloved design feature from the past</title>
@@ -194,6 +291,17 @@
 <description>If you’re a fan of the default wallpaper for the new MacBook Pro with PROLED XDR Display , Basic Apple Guy has got your back. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-wallpaper.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-wallpaper.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use</title>
+<link>https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use</link>
+<guid isPermaLink="false">490073e57670269a1c9c6bc86a154f29e61acbfafe5ffcca122d2375991b60f9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 18:47:27 +0000</pubDate>
+<description>Gemini 4 Carbon is essentially a slightly better version of Argon.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Discord to let search engines index public server messages</title>
@@ -266,7 +374,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 18:14:11 +0000</pubDate>
-<description>In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sale today. Xreal and Google have just announced the headset costs $1,099 through […]</description>
+<description>In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens - which just went on sale today. Xreal and Google have just announced the headset costs […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -315,17 +423,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" medium="image"/>
 </item>
 <item>
-<title>You can see every red flag in Theranos 2.0</title>
-<link>https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything</link>
-<guid isPermaLink="false">fed12fe7687db12af9d3c085a3114df5c0c44dacaf4cd2c48692d25f0bf38585</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:00:00 +0000</pubDate>
-<description>This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. From afar, it's easy to look back at the Theranos debacle and scream at Nathan Fielder that, obviously, Elizabeth Holmes […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-1248465318.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Cadillac Escalade IQ review: Huge battery, huge range, huge SUV</title>
 <link>https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels</link>
 <guid isPermaLink="false">103d72fa0a0d8dbe3a36acacc139e235995aef8745e86e77662ff27a863f69c2</guid>
@@ -335,17 +432,6 @@
 <description>With more than 200 kWh, this luxury three-row can go 460 miles on a charge.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-Cadillac-Escalade-IQ-1-of-26-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s how macOS is changing for touchscreens</title>
-<link>https://www.theverge.com/tech/1020084/macos-touchscreen-changes</link>
-<guid isPermaLink="false">b0fcafa5542715b625ee2b26711f26d7452f1c82eb7eccdde93b648d044962f2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:48:28 +0000</pubDate>
-<description>Touchscreen laptops are nothing new in the Windows world, but Apple has only just announced its first MacBook with a touchscreen. Apple isn't rushing to change a bunch of things in macOS to optimize for touch, though: Most of the touch action will be in the apps themselves, it seems. As far as major macOS […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-28-at-10.31.37-AM.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Google AI gets cagey when asked who won the 2020 elections</title>
@@ -977,17 +1063,6 @@
 <media:content url="https://www.engadget.com/img/gallery/amazon-launches-its-first-photo-frame-with-built-in-alexa/l-intro-1793179679.jpg" medium="image"/>
 </item>
 <item>
-<title>Amazon's new Echo Time smart alarm clock tries to make waking up less painful</title>
-<link>https://www.engadget.com/2299263/amazon-echo-time-smart-alarm-clock</link>
-<guid isPermaLink="false">7108e0fcb4e968c1c00687aadfec26601247d16d764677170796fd6e5feb297b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<description>Amazon has launched a new smart alarm clock that can determine when you're in lighter sleep before waking you up.</description>
-<enclosure url="https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/amazons-new-echo-time-smart-alarm-clock-comes-with-science-backed-wake-up-features/l-intro-1793183183.jpg" medium="image"/>
-</item>
-<item>
 <title>Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers</title>
 <link>https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html</link>
 <guid isPermaLink="false">9590ed7a40f8b7a4cf3f4901d2f3fa0af9dd1327fe10a707dcfebbf5172cf696</guid>
@@ -1356,17 +1431,6 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in October 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>20% Off Samsung Promo Code | October 2026</title>
 <link>https://www.wired.com/story/samsung-promo-codes</link>
 <guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
@@ -1376,6 +1440,17 @@
 <description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in October 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
@@ -1751,17 +1826,6 @@
 <description>Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]</description>
 </item>
 <item>
-<title>Warner Bros. drops final trailer for Dune: Part Three</title>
-<link>https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three</link>
-<guid isPermaLink="false">6cd3e070556951a7f742bb26756e50d4ab64321446e567c59d8512027bd21dd4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 18:05:55 +0000</pubDate>
-<description>"After years of combat, I've become the oppressor Chani had sworn to fight."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/dune1-1152x648-1793122985.jpg" medium="image"/>
-</item>
-<item>
 <title>Early Black Friday Deals 2026</title>
 <link>https://www.wired.com/story/black-friday-deals-10-27-2026</link>
 <guid isPermaLink="false">f87635805e4469e529e84df076a10c1badfb742cb0c81a9b5a50c876b9fc38b9</guid>
@@ -1815,48 +1879,6 @@
 <description>Following the floating navigation bar in July, Google Photos is rolling out a big redesign that lets you customize the Collections tab on Android and iOS. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/google-photos-1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/google-photos-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Ford simplifies using your EV as a home battery with the $30K Fathom</title>
-<link>https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck</link>
-<guid isPermaLink="false">ec3731708041bc1eea8f8ddb69ea85484ea9d14cbbea30a0e93aa86e017b1878</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:17:58 +0000</pubDate>
-<description>The Fathom pickup won’t need a wall-mounted inverter to output 10 kW to your house.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/UEV_Ebox_1-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Warp discloses breach exposing AI agent logs, user telemetry data</title>
-<link>https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data</link>
-<guid isPermaLink="false">f581ce36da8f6020c2d7e5b71071a53f4c2d45ad9d387665dd6c8fed99a193de</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:15:39 +0000</pubDate>
-<description>Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]</description>
-</item>
-<item>
-<title>DeepMind unveils Genie 4 world model promising more realistic physics and humans</title>
-<link>https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations</link>
-<guid isPermaLink="false">c7cc848b2884e07731ed8beb705f821e134a4bb4b4fea4368b494e7b7026572c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:00:22 +0000</pubDate>
-<description>Genie 4 will roll out to developers and Google AI Ultra subscribers soon.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/vlcsnap-2026-10-27-10h06m52s461-1152x648.png" medium="image"/>
-</item>
-<item>
-<title>From cheap tool to premium subscription: When a beloved app's price skyrockets</title>
-<link>https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets</link>
-<guid isPermaLink="false">e287f79869c37243d5efd9d29822f7c7be2f7284d63332ac011215c58e7fe322</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 15:50:19 +0000</pubDate>
-<description>Huge price hikes force loyal users to reconsider their favorite apps.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1321941710-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Deals: AirPods Pro 3 20% off, Apple Pencil (USB-C), most affordable M5 MacBook Air $200 off, AirTag 2, more</title>
@@ -2352,17 +2374,6 @@
 <description>Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.</description>
 <enclosure url="https://media.wired.com/photos/6adfb111ce126e8759a8370d/master/pass/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adfb111ce126e8759a8370d/master/pass/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now</title>
-<link>https://www.wired.com/story/apple-airtag-deal-october-2026</link>
-<guid isPermaLink="false">4a2f12f0a631b28b2225aec6c4494e175a90030b1652b7f18a1442e3dc23d649</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 19:40:31 +0000</pubDate>
-<description>Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.</description>
-<enclosure url="https://media.wired.com/photos/6adfa712dae5c72239fced97/master/pass/AirTag%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adfa712dae5c72239fced97/master/pass/AirTag%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple raises trade-in values for iPads and Macs, with increases of up to $365</title>
@@ -2990,17 +3001,6 @@
 <description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>9to5Mac Overtime 087: Happy iPhone Duo day</title>
-<link>https://9to5mac.com/2026/10/23/9to5mac-overtime-087-happy-iphone-duo-day</link>
-<guid isPermaLink="false">717ccc935aab48cc0e3c02e690fa1dc038902c73f15beda5c218083f1c0fdc88</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:00:00 +0000</pubDate>
-<description>Jeff interviews Fernando about his first 24 hours with the iPhone Duo, covering everything from initial impressions to how it works as a phone versus a tablet, how it compares to the iPad mini, and, of course, the crease. Does he plan on keeping it as a daily driver? Join us for a realistic take on Apple’s radical departure from the standard iPhone form factor. Sponsored by Rokform : Get your iPhone 18 Pro and iPhone Duo cases today for 20% off when using code MAC2026. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/OT-087.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/OT-087.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
