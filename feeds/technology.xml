@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal</title>
+<link>https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal</link>
+<guid isPermaLink="false">c58119c56acec6390ec6fcdc69671a84d092524f76fb02dc580306fb3dc20af7</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 22:54:16 +0000</pubDate>
+<description>The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here's why it's unlike anything else you can currently buy.</description>
+<enclosure url="https://media.wired.com/photos/6ae27b1cbef604c6ee2089e7/master/pass/APPLE_OLED.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae27b1cbef604c6ee2089e7/master/pass/APPLE_OLED.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme</title>
+<link>https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme</link>
+<guid isPermaLink="false">4616f940d2684e5abd12f72f70695e8efe4fd15b2990e509f7fd072e3f3c66c3</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 22:47:50 +0000</pubDate>
+<description>Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.</description>
+</item>
+<item>
+<title>iPhone Duo could capture nearly 30% of foldable market in 2027, per report</title>
+<link>https://9to5mac.com/2026/10/28/iphone-duo-could-capture-nearly-30-of-foldable-market-in-2027-per-report</link>
+<guid isPermaLink="false">0943ad642c82e4873c48bd08b2f55607d7daf055510b5b21f6338d1ea980448b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 22:40:45 +0000</pubDate>
+<description>In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
+</item>
+<item>
 <title>New MacBook Pro, iPad mini, and more now available for pre-order on Amazon</title>
 <link>https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon</link>
 <guid isPermaLink="false">b10de6f8fac45a666086f139e44ff66526c6bf2854ca8e72c3b2afdedf9cb978</guid>
@@ -650,7 +681,7 @@
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 17:06:48 +0000</pubDate>
-<description>Apple has officially announced the all-new MacBook Pro with PROLED XDR display, its first touchscreen laptop. The new machine was first hinted at by Apple on October 19 with the company’s “Pro and tell” experience teaser . Earlier today, new Apple CEO John Ternus shared a “spotlight” teaser for the laptop as well. Read on for all the details about the new high-end laptop… more…</description>
+<description>Apple has officially announced the all-new MacBook Pro with PROLED XDR display , its first touchscreen laptop. The new machine was first hinted at by Apple on October 19 with the company’s “Pro and tell” experience teaser . Earlier today, new Apple CEO John Ternus shared a “spotlight” teaser for the laptop as well. Read on for all the details about the new high-end laptop… more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr.webp?w=1600" medium="image"/>
 </item>
@@ -953,15 +984,6 @@
 <description>PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]</description>
 </item>
 <item>
-<title>Free Fire returns to India as Garena launches localized version four years after ban</title>
-<link>https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban</link>
-<guid isPermaLink="false">f3184a1faad9e6e6508bb946246bcd3bd515537138b2123692f32a062c0cd11f</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:39:18 +0000</pubDate>
-<description>Free Fire India was originally set to launch in September 2023, but Garena postponed its release.</description>
-</item>
-<item>
 <title>A hidden ocean change near Antarctica could have global consequences</title>
 <link>https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole</link>
 <guid isPermaLink="false">5907cb26b6b9fd372bb987c5f5d87c8a1172e40b7b22fd3e5d0cf15001eaf3ac</guid>
@@ -1068,8 +1090,8 @@
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 12:30:00 +0000</pubDate>
 <description>Reports indicate that a "MacBook Ultra" with a touch-sensitive display is likely on the agenda today.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793207087.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793207087.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793227331.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793227331.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers now scanning systems for recently-patched Oracle flaw</title>
@@ -1385,6 +1407,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg" medium="image"/>
 </item>
 <item>
+<title>LG Promo Codes and Coupons for October 2026</title>
+<link>https://www.wired.com/story/lg-promo-code</link>
+<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
+<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
+</item>
+<item>
 <title>Google Workspace Promo Codes: 14% Off for October 2026</title>
 <link>https://www.wired.com/story/google-workspace-promo-code</link>
 <guid isPermaLink="false">881a132c21a910474f4ed4f3d0be689d6f447216f17f014e8266b1336ef41397</guid>
@@ -1451,17 +1484,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
 <title>30% VistaPrint Coupon &amp; Promo Codes | October 2026</title>
 <link>https://www.wired.com/story/vistaprint-coupon-code</link>
 <guid isPermaLink="false">f6e412f898324735031fee1960bf3b8b70d3cd7d0ca6d343b05f6e624b928ecd</guid>
@@ -1484,17 +1506,6 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>20% Off Samsung Promo Code | October 2026</title>
-<link>https://www.wired.com/story/samsung-promo-codes</link>
-<guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Dyson Promo Codes: 25% Off in October 2026</title>
 <link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
 <guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
@@ -1504,6 +1515,17 @@
 <description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
 <enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+</item>
+<item>
+<title>20% Off Samsung Promo Code | October 2026</title>
+<link>https://www.wired.com/story/samsung-promo-codes</link>
+<guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
 </item>
 <item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
@@ -2387,17 +2409,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Best Dyson Vacuum Deals for Dyson Week 2026</title>
-<link>https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026</link>
-<guid isPermaLink="false">18abe119531abc55cde32f64ab72073d9f659ddb23f98e5a945853fe02503cea</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 20:28:30 +0000</pubDate>
-<description>The powerful Dyson V16 Piston Animal and other Dyson vacuums and tools are discounted until Halloween.</description>
-<enclosure url="https://media.wired.com/photos/6a67cdb1173a7fcd3f13de82/master/pass/Review--Dyson-V16-Piston-Animal-Submarine.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6a67cdb1173a7fcd3f13de82/master/pass/Review--Dyson-V16-Piston-Animal-Submarine.jpg" medium="image"/>
-</item>
-<item>
 <title>From iPhone Duo to Mac, Craft shows what a native productivity app can do</title>
 <link>https://9to5mac.com/2026/10/26/from-iphone-duo-to-mac-craft-shows-what-a-native-productivity-app-can-do</link>
 <guid isPermaLink="false">e3907889165c975bd3c1fa65edf82c1416b9bc2f608c325c3be61f74a48e350d</guid>
@@ -2990,17 +3001,6 @@
 <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple exploring fix for Safari’s cramped layout on the iPhone Duo’s outer display</title>
-<link>https://9to5mac.com/2026/10/23/apple-exploring-fix-for-safaris-cramped-layout-on-the-iphone-duos-outer-display</link>
-<guid isPermaLink="false">3890054f15d148a5fcee6af6f29ef9cefaa1e8a2656ea26d19b8d85dc15d67ef</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 23:50:49 +0000</pubDate>
-<description>In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
