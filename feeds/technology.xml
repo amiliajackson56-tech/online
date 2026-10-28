@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New MacBook Pro, iPad mini, and more now available for pre-order on Amazon</title>
+<link>https://9to5mac.com/2026/10/28/new-macbook-pro-ipad-mini-and-more-now-available-for-pre-order-on-amazon</link>
+<guid isPermaLink="false">b10de6f8fac45a666086f139e44ff66526c6bf2854ca8e72c3b2afdedf9cb978</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 22:12:39 +0000</pubDate>
+<description>Apple this week unveiled a range of new products, including a new iPad mini, M6 updates for the iMac and MacBook Pro, and the first-ever MacBook Pro with a touchscreen. Those products are now available to pre-order on Amazon: iPad mini M6 MacBook Pro M6 iMac MacBook Pro with PROLED XDR Display and Touch more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion</title>
+<link>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion</link>
+<guid isPermaLink="false">3801bfeec8403796ab0b68700e5ad387c20e40258c53ad9099414d332a36fb2e</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:58:32 +0000</pubDate>
+<description>Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</description>
+</item>
+<item>
+<title>A hacker stole more than 40,000 DHS employee records</title>
+<link>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</link>
+<guid isPermaLink="false">b6ad05727112179f3446b0884e3293eee8ce84963c6546820f3d72be0659cb43</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:57:45 +0000</pubDate>
+<description>A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google expands AI Search ads globally as core ad growth slows</title>
+<link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows</link>
+<guid isPermaLink="false">14bd5a3a69122b7bb70069925821944259b7e4a5f3e228c4134359e2e24ef957</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:48:37 +0000</pubDate>
+<description>The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.</description>
+</item>
+<item>
+<title>Apple fined $15.5 million as South Korea orders changes to App Store rules</title>
+<link>https://9to5mac.com/2026/10/28/apple-fined-15-5-million-as-south-korea-orders-changes-to-app-store-rules</link>
+<guid isPermaLink="false">0cf58ed0dc547ced11496fe6267ac2b4fc964e77685baabc939a0bd48b55bc30</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:44:56 +0000</pubDate>
+<description>Apple and Google were fined today in South Korea over their app payment practices, with regulators also ordering both companies to change several policies. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Microsoft recorded $10 billion in revenue from OpenAI</title>
 <link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai</link>
 <guid isPermaLink="false">353dd9ae4406521804ae775719751c08947c4100a0f4a70a7f51ce20088a1c12</guid>
@@ -13,7 +64,18 @@
 <description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.</description>
 </item>
 <item>
-<title>Microsoft hits 10 quarters of record- breaking revenue in a row</title>
+<title>Akai is embracing vibe-coded mods with an open-source MPC</title>
+<link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link>
+<guid isPermaLink="false">cf0b445a13fca74cd4d1dfb73fd207cd95d4bfcd10773851d44d3596b9fa6b3e</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:34:04 +0000</pubDate>
+<description>The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft hits 10 quarters of record-breaking revenue in a row</title>
 <link>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row</link>
 <guid isPermaLink="false">7689670b21d5b35e8d49f113ceff6a80787b54dd11b4b41b632040a5d8c98e58</guid>
 <source>TechCrunch</source>
@@ -375,17 +437,6 @@
 <media:content url="https://www.engadget.com/img/gallery/sonys-new-see-through-dualsense-controllers-let-you-game-like-its-1999/l-intro-1793212633.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft is ending Copilot support on smart TVs</title>
-<link>https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending</link>
-<guid isPermaLink="false">8c981a7773ea1054fdafa2b299186f918457df1184624f9f5ea2e4e199d2365e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:36:26 +0000</pubDate>
-<description>Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet</title>
 <link>https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team</link>
 <guid isPermaLink="false">8965c562f4d21fcca2b0b57ad81d53ea2bc01e32e298a50bc183e9dc44e813a8</guid>
@@ -417,17 +468,6 @@
 <description>If you’re a designer who relies on Apple’s official design resources, the company has already added the new MacBook Pro with PROLED XDR Display to its collection of product bezels. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-asset.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-asset.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Surprise: The Google Xreal glasses debut at a Meta-beating $1,099</title>
-<link>https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date</link>
-<guid isPermaLink="false">cb3cd7e35829dec2fed95385c5694f32b94f3c9a1bd13ec5bf7e58772bf7dd10</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:14:11 +0000</pubDate>
-<description>In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens - which just went on sale today. Xreal and Google have just announced the headset costs […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</title>
@@ -977,24 +1017,6 @@
 <media:content url="https://media.wired.com/photos/6ae11ac795de04d71913da53/master/pass/Review%20Kindle%20Paperwhite%20and%20Colorsoft%202026%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Kodiak lands first commercial deal to supply driverless trucks for public highways</title>
-<link>https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways</link>
-<guid isPermaLink="false">c00595035c067d638cc596f80c9271801cf150f54379d4655a73b8a0c676111d</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator.</description>
-</item>
-<item>
-<title>7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open</title>
-<link>https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open</link>
-<guid isPermaLink="false">f9d0c14c0ffafa075120d1a721fb4b0314ad4a05b945bc9d7e6508a5cd540039</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.</description>
-</item>
-<item>
 <title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price</title>
 <link>https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review</link>
 <guid isPermaLink="false">2d8822539395d640fd71d13df7d4eebbe4b715918cd6f812c2cfd06e36388b08</guid>
@@ -1462,17 +1484,6 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in October 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>20% Off Samsung Promo Code | October 2026</title>
 <link>https://www.wired.com/story/samsung-promo-codes</link>
 <guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
@@ -1482,6 +1493,17 @@
 <description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in October 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
@@ -2979,28 +3001,6 @@
 <description>In a new post on the WebKit blog highlighting what’s new in Safari 27.1, Apple’s Jen Simmons said the company is exploring ways to let websites make better use of the iPhone Duo’s outer display. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2027/10/safari.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple’s official DIY repair guides for the iPhone Duo now available</title>
-<link>https://9to5mac.com/2026/10/23/apples-official-diy-repair-guides-for-the-iphone-duo-now-available</link>
-<guid isPermaLink="false">980e8e3944b2eeae82f1f0ab217f153f2fca8f4b619360cf4b375686ee4001a9</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 23:12:21 +0000</pubDate>
-<description>Following today’s launch of the iPhone Duo , Apple has now published multiple repair guides and manuals for users and independent technicians looking to replace or repair individual components in the device. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-repair-guide.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Formula 1 gets Dolby Atmos support on Apple TV in the U.S. starting today</title>
-<link>https://9to5mac.com/2026/10/23/formula-1-gets-dolby-atmos-support-on-apple-tv-in-the-u-s-starting-today</link>
-<guid isPermaLink="false">7e3cd99bb25a864c9bfa78e8fa45af30f53c12156e4ef2b8c2dcd123053b845c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:23:43 +0000</pubDate>
-<description>Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
