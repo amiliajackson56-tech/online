@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Webb Sees Turbulent Star Nursery</title>
+<link>https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery</link>
+<guid isPermaLink="false">bd70dbd4d4144bb642a99dfb101d6bb6c330a0c14099cd86f9edb06285522fb4</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 28 Oct 2026 15:33:10 +0000</pubDate>
+<description>In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy. This region has a lower metallicity […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/55604475252-31d25bf2e0-o.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>Scientists discover a hidden reason why muscles weaken with age</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261027063704.htm</link>
 <guid isPermaLink="false">9844e4ec9e89e1e70555d05570395356f687d81478f9ba2e16884ec1cff3f93b</guid>
@@ -549,17 +560,6 @@
 <description>Description This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg?w=1536&amp;h=405&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26816/PIA26816_low_res.jpg?w=1536&amp;h=405&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust</title>
-<link>https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust</link>
-<guid isPermaLink="false">6d879a7a5c5c91f84d3d7e7ef2cdf548ec7d3834b5ab35edc4d328d66fa0fbe9</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 21:07:28 +0000</pubDate>
-<description>Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will be published Tuesday, Oct. 27, in the Proceedings of […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26816-pano-resized-for-web-feature.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Exercise doesn't just strengthen your heart. It rewires it</title>

@@ -4,6 +4,119 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Touchscreen MacBook live blog: On the ground at Apple’s launch event</title>
+<link>https://www.theverge.com/tech/1019809/apple-touchscreen-macbook-pro-la-keynote-event-live-blog</link>
+<guid isPermaLink="false">fcac31bbeeefaa47fd2f89389f9a02aa0b4582fd1aa217e08b1b46e3b44e4658</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:33:32 +0000</pubDate>
+<description>Apple has already had a busy week. On Monday, it announced a new iPad Mini with an upgraded OLED display, and on Tuesday, we got M6 chip upgrades for the MacBook Pro and iMac. The Macs are the definition of iterative updates - they're quiet refreshes that look just like their direct predecessors. But today […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25786626/247412_Apple_MacBook_Pro_16_M4_Max_ADiBenedetto_0008.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>All the news from Apple’s ‘Pro and tell’ event</title>
+<link>https://www.theverge.com/tech/1018096/apple-pro-and-tell-launch-event-news-announcements</link>
+<guid isPermaLink="false">ea0456dc51d6edfe871b5841c27483957f6ca3433b203b7b7726453b18461256</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
+<description>Apple’s “Pro and tell” event kicks off at 1PM ET / 10AM PT on October 28th. The event comes just a couple of weeks after Apple debuted the HomeView, its first smart display, and a little over a month after it announced the iPhone Duo, its first foldable. Its next event could feature yet another […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK071_APPLE_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Perplexity upgrades Mac app with ChatGPT-powered voice mode</title>
+<link>https://9to5mac.com/2026/10/28/perplexity-upgrades-mac-app-with-chatgpt-powered-voice-mode</link>
+<guid isPermaLink="false">ebcbe7e65043f744dae38fb41c62593886f452b3733c26ff2424b728e87972ee</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:28:15 +0000</pubDate>
+<description>Earlier this year, OpenAI unveiled its gpt-live-1 voice model. This includes the ability for the model to listen to you while it speaks. Starting today, Perplexity has upgraded its Mac app voice mode by using gpt-live-1 under the hood. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/perplexity-mac-app.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>Meta says it&amp;#8217;ll probably delay its controversial new business terms again</title>
+<link>https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely</link>
+<guid isPermaLink="false">1583c560106073a3e7c93605138f11771757e721d13ae19a42a449db892a0365</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:15:30 +0000</pubDate>
+<description>Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does "not plan to make policy changes without a full consultation with industry groups and leaders." […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network</title>
+<link>https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html</link>
+<guid isPermaLink="false">257599f0048efc914687bf8cbe309cf14c54b57259dbb661be83599a2c582e36</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:02:45 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg" medium="image"/>
+</item>
+<item>
+<title>Reddit is the latest platform to embrace the ‘For You’ feed</title>
+<link>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed</link>
+<guid isPermaLink="false">b2ebfec86534a60e4b8faad9a5203dbfafb22eff3ab4a8f9e8084630fec70666</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+<description>The For You feed combines posts from communities users have joined with recommendations tailored to their interests.</description>
+</item>
+<item>
+<title>Reddit is getting a For You feed</title>
+<link>https://www.theverge.com/tech/1020751/reddit-for-you-following-feeds</link>
+<guid isPermaLink="false">a172d1c86ed9538df8ed8ddfe29a771e3678d678104af932ad0dbfcf443218fe</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+<description>Reddit is switching up its homepage feeds. The company announced today that it's going to start offering a "new feed experience" that includes both a Following feed to show you posts from subreddits you follow and a For You feed that includes posts from your subreddits and "recommendations related to your interests." You may already […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Reddit is adding a 'for you' feed for recommendations</title>
+<link>https://www.engadget.com/2299618/reddit-is-adding-a-for-you-feed-for-recommendations</link>
+<guid isPermaLink="false">078870dfacd61e3617e3410c409dc6ab6a2a5c1a54b4b38ac39a7cf654a84b69</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+<description>The app will have a "following" tab to surface content from subreddits you've joined.</description>
+<enclosure url="https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/reddit-is-adding-a-for-you-feed-for-recommendations/l-intro-1793201967.jpg" medium="image"/>
+</item>
+<item>
+<title>Volt Typhoon hides zero-day attacks using 'Silent Train' framework</title>
+<link>https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework</link>
+<guid isPermaLink="false">49d0f1bc00afd8c5aae1ca4a287e35adbdbc18ceb45444243d98c56ce6c51df2</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+<description>Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</description>
+</item>
+<item>
+<title>AI execs may be too out of touch to build for the general public</title>
+<link>https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public</link>
+<guid isPermaLink="false">29526404518cacde12dec7c8063c898493bd448da714a9bc0a82d0737c36361c</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 15:53:52 +0000</pubDate>
+<description>Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.</description>
+</item>
+<item>
+<title>Trump DOE loans $5B to nuclear plants that will power data centers</title>
+<link>https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers</link>
+<guid isPermaLink="false">2eea4b12012ad1927e1455231e34b52a7a9579b9b7b07ebf6c05ccbc49c89baa</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 15:53:21 +0000</pubDate>
+<description>Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.</description>
+</item>
+<item>
 <title>South Korea’s financial industry hit by fresh wave of cyberattacks</title>
 <link>https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks</link>
 <guid isPermaLink="false">3db1c51608c54789f54e7ebf12da1b1155a88e41639c3055f480b8e4e6b36201</guid>
@@ -20,8 +133,8 @@
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 15:34:43 +0000</pubDate>
 <description>Halloween isn’t even here yet, but it’s never too early to start thinking about holiday decorations, especially when there are already deals on smart, programmable lights. If you want your house, tree, fireplace, or whatever else to stand out this year, Govee’s Christmas String Lights 2 are on sale starting at $74.99 ($25 off) at […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmasstringlights2vergedeals.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmasstringlights2vergedeals.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmas.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/goveechristmas.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Deals: AirPods Pro 3, Apple’s iPhone Duo charger, MacBook Air $200 off, Beats 360 first discount, more</title>
@@ -239,17 +352,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/antarctic-seaice-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>This is how badly X wants you to pay to promote your posts</title>
-<link>https://www.theverge.com/tech/1020488/x-twitter-animated-hand-point-promote-posts</link>
-<guid isPermaLink="false">dd656fc4b1b64ac6cb9111723a5188110b47d6dc0159cdf71f5b6232b3588799</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:26:39 +0000</pubDate>
-<description>After Elon Musk warned that "advertisers who post ads that are ugly, shrill, strident or overstate claims about their product will be barred from advertising" on X earlier this month, the platform now appears to be using a jarring animated arm that reaches across the screen to draw attention to the "promote" button while users […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xarm.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>FCC clears Amazon Leo to acquire mobile-satellite operator Globalstar</title>
 <link>https://www.engadget.com/2299367/fcc-clears-amazon-leo-to-acquire-mobile-satellite-operator-globalstar</link>
 <guid isPermaLink="false">849e1e549c59b3e84c28c7552c49c1fcc6b08b1c62eea9d3820b34345d07aaf8</guid>
@@ -312,17 +414,6 @@
 <description>In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.</description>
 </item>
 <item>
-<title>TikTok is going after Yelp and Google Maps with an in-app restaurant guide</title>
-<link>https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp</link>
-<guid isPermaLink="false">0da41f6543d00a5603c50af9b8612cf0a6267e9ba526c786da55d89d36915058</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 million posts, reviews, and comments about dining on the platform. The new feature uses videos and […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Kindle Colorsoft Signature Edition 2026 review: Nice, but doesn't justify the price</title>
 <link>https://www.engadget.com/2299326/kindle-colorsoft-signature-edition-2026-review</link>
 <guid isPermaLink="false">2d8822539395d640fd71d13df7d4eebbe4b715918cd6f812c2cfd06e36388b08</guid>
@@ -367,37 +458,15 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1600/oracle-hack.jpg" medium="image"/>
 </item>
 <item>
-<title>Inside Amazon’s Echo hardware event</title>
-<link>https://www.theverge.com/tech/1020388/inside-amazons-echo-hardware-event</link>
-<guid isPermaLink="false">699df48053edab04837a44a0171afe613a4991eb9b34bbf2d4a9a2e58b1b2479</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:46:42 +0000</pubDate>
-<description>Amazon swapped its usual big fall hardware showcase this year for a series of smaller launches throughout October. So far this month, it has announced new Fire TV devices, new Kindles, the Alexa Tablet Pro 12, Ring's first smart lock, new hardware from AI-wearable startup Bee, and new Blink 4K cameras. Then this week, it […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Fall_2026_OGrove_0045.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Apple's Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</title>
+<title>Apple Pro and Tell event: Live updates as we wait to see a MacBook Pro with a touch screen</title>
 <link>https://www.engadget.com/2299176/apple-pro-and-tell-macbook-event-live-blog</link>
 <guid isPermaLink="false">934ec8850cbd526fc43ee0ebb2d6704ea26d21298ccc59e70ed51a2a6ad85795</guid>
 <source>Engadget</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 12:30:00 +0000</pubDate>
 <description>Reports indicate that a "MacBook Ultra" with a touch-sensitive display is likely on the agenda today.</description>
-<enclosure url="https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/apples-pro-and-tell-event-live-updates-as-we-wait-to-see-a-macbook-pro-with-touch-screen/l-intro-1793153611.jpg" medium="image"/>
-</item>
-<item>
-<title>Almost all of Amazon’s new Echo gear is available now</title>
-<link>https://www.theverge.com/gadgets/1019686/amazon-echo-dot-studio-camera-frame-show-16-buy</link>
-<guid isPermaLink="false">56eda3ab69364e04f0db14e86aba6ffa2fd9f768db753dbd8ade5eec84a91d98</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:29:52 +0000</pubDate>
-<description>Amazon used to blast out dozens of products onstage at annual hardware events. If this October is any indication, the company has wisely changed its strategy to put more focus on each new product with its own launch. The latest round of launches focuses on Echo products, including speakers, smart displays, as well as a […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268832_Amazon_Echo_Time_JTuohy_0012.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793203504.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-pro-and-tell-macbook-event-live-blog/l-intro-1793203504.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers now scanning systems for recently-patched Oracle flaw</title>
@@ -1086,17 +1155,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/M6-iMac-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>The best ways to tell if someone is using AI glasses</title>
-<link>https://www.engadget.com/2296049/best-ways-tell-if-someone-wearing-ai-glasses</link>
-<guid isPermaLink="false">d0259ddbc40f3b45435e17474afd6fabb6434ad484274f48bd12dd2e2a99cde2</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:30:00 +0000</pubDate>
-<description>While it can be jarring to discover that your companion is using AI glasses, there are some steps you can take to recognize them ASAP.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-best-ways-to-tell-if-someone-is-using-ai-glasses/l-intro-1792775168.jpg" medium="image"/>
-</item>
-<item>
 <title>Guidewire buys Hyperexponential for $1.7B in cash</title>
 <link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash</link>
 <guid isPermaLink="false">65df9bca02e321f30f2b7fd28f1a0e59043248c118829c5ce35d688275112b96</guid>
@@ -1206,15 +1264,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Discord is making its public communities more searchable, and people have concerns</title>
-<link>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns</link>
-<guid isPermaLink="false">1b99b7af053b66a51f16c69d2d2eb5af0ffb6a19822e4ef05c572b1f20d1fed2</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 21:22:35 +0000</pubDate>
-<description>In December, messages from Discord's public discoverable servers will begin appearing in search engine results.</description>
-</item>
-<item>
 <title>Apple’s European government affairs chief to speak at Web Summit 2026</title>
 <link>https://9to5mac.com/2026/10/27/apples-european-government-affairs-chief-to-speak-at-web-summit-2026</link>
 <guid isPermaLink="false">f91f8bc1b114ec139ebca6929113599a753d81e70439dbf2c21864c8bb9fd3d7</guid>
@@ -1255,15 +1304,6 @@
 <description>iOS 27.2 is now available to everyone after six weeks of beta testing. The update was released on Monday , bringing multiple new iPhone features. Here’s everything you need to know. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27.2-guide.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Re:Build, which spun out Slate Auto, raises $2.1B</title>
-<link>https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b</link>
-<guid isPermaLink="false">a319fafacbe8e7445581e7f2db8becb8ed96604f6933695304f0c17809d0e92a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 20:31:17 +0000</pubDate>
-<description>The manufacturing accelerator bills itself as "America’s answer to Shenzhen."</description>
 </item>
 <item>
 <title>Apple TV releases trailer for upcoming original film starring Chris Pratt</title>
@@ -1341,15 +1381,6 @@
 <description>Copilot Money, the award-winning personal finance app, is getting even better this week with the launch of Money Assistant: an AI financial agent built into every part of the app. It tells you what you need to know, makes changes for you, and answers anything about your money. Copilot Money is exclusively offering 9to5Mac readers an extended two-month free trial with code 9TO5MAC. Get started today by visiting the Copilot Money website . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/header_85a24f.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/header_85a24f.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Disruptive raises $10B fund to make big bets on at least 10 companies</title>
-<link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies</link>
-<guid isPermaLink="false">ff390db43c3b5faf08c1df7daab2eaf5108c755d1d2a512abcd72ac6099a661c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 18:55:35 +0000</pubDate>
-<description>Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.</description>
 </item>
 <item>
 <title>Best Skylight Calendar Alternative on Sale: Save $100 on Everblog HomeCal (2026)</title>
@@ -1881,15 +1912,6 @@
 <description>Two orbiters have long outlasted their expected lifespans and completely reshaped our understanding of the Red Planet, all while operating 140 million miles from Earth.</description>
 <enclosure url="https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf16c7cec2deb872010799/master/pass/PIA04816~large.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple backports CoreGraphics zero-day patches to older iPhones</title>
-<link>https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones</link>
-<guid isPermaLink="false">f3ab07cce1ac7752dbeb4a13b5572b3df2fbcd3f24e76901a1b5eb839bb356fa</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 10:36:12 +0000</pubDate>
-<description>​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]</description>
 </item>
 <item>
 <title>Instagram Is a Streaming Service Now</title>
@@ -2981,17 +3003,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/apple-glasses.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Deals: iPhone Duo cases, Apple Pencil, AirPods Pro 3, Apple TV 4K, power banks, more</title>
-<link>https://9to5mac.com/2026/10/23/deals-duo-cases-apple-pencil-airpods-apple-tv-4k</link>
-<guid isPermaLink="false">661824f435fdf62435049ca2a45516442f14187ba869c955ba8cf97686404658</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 15:33:26 +0000</pubDate>
-<description>We are still tracking a solid Apple Pencil USB-C as low as $61 (more details here ), some exclusive discounts on some of our favorite new leather cases as well as other models from just $14 , and this launch deal on the best new Qi2 iPhone Duo MagSafe power bank yet. Check it all out below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-AirPods-iPhone-Duo-cases.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-deals-Apple-TV-4K-AirPods-iPhone-Duo-cases.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
 <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
 <guid isPermaLink="false">64b0ac9d140d11671a4acbe942ade27af436c73b5627240eb087f5c95f9a86d0</guid>
@@ -3056,16 +3067,5 @@
 <description>AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg" medium="image"/>
-</item>
-<item>
-<title>PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
-<link>https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</link>
-<guid isPermaLink="false">9d0cfa945b257eb4fa88e08028067c17eef1cee4e619ba476384f035a8fc62c7</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 07:40:45 +0000</pubDate>
-<description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg" medium="image"/>
 </item>
 </channel></rss>
