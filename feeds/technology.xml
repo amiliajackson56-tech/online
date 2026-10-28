@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sauerkraut at Every Meal? These Fermentation Fanatics Tried That Long Before MAHA</title>
+<link>https://www.wired.com/story/portland-fermentation-festival-stinkfest</link>
+<guid isPermaLink="false">1fd344193ce0e860bb459e3845158627a4a711c0fe1252380eb07d8a8fd92849</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
+<description>The annual Portland Fermentation Festival took place last week in Oregon, at a time when sauerkraut, kimchi, and other funky foods are in the social and political spotlight.</description>
+<enclosure url="https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/master/pass/102726-Pickles!.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae0ed29f7e0fe592a7ec463/master/pass/102726-Pickles!.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple memory supplier expects price increases through at least 2030</title>
+<link>https://9to5mac.com/2026/10/28/apple-memory-supplier-expects-price-increases-through-at-least-2030</link>
+<guid isPermaLink="false">afc1e7e5d1b9867cd3c7a2489192d0b85737a0da15a0ff54518ab4582623e612</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 10:57:20 +0000</pubDate>
+<description>Key Apple memory supplier SK Hynix has warned that RAM and flash memory shortages are likely to last through at least 2030, keeping product prices high. Apple is believed to be one of 14 customers who have locked in priority orders, but the contract does not protect against price increases related to the balance of supply and demand … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-memory-supplier-expects-price-increases-through-at-least-2030.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-memory-supplier-expects-price-increases-through-at-least-2030.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>CISA warns of hackers now exploiting critical Node2Shell flaw</title>
+<link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw</link>
+<guid isPermaLink="false">ce79347afeadb8a335eec4c99b68fed4c6c5d1ca47ef4a5209df3b2aa6b2afb1</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 10:46:23 +0000</pubDate>
+<description>On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]</description>
+</item>
+<item>
+<title>Pornhub Stars Want to Teach You How to Make Dinner</title>
+<link>https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner</link>
+<guid isPermaLink="false">bcd77e49b81098513da0b479c94137c904632fac6a66ae687c0c1520be83ade1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 10:45:00 +0000</pubDate>
+<description>Faced with censorship and anti-porn laws, the adult site is encouraging creators to embrace cooking, gaming, podcasting, and other safe-for-work content.</description>
+<enclosure url="https://media.wired.com/photos/6adede77dbc6676891653f9d/master/pass/SFW%20pornhub.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adede77dbc6676891653f9d/master/pass/SFW%20pornhub.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple AirPods Max 2 Are $100 Off Ahead of Black Friday</title>
+<link>https://www.wired.com/story/apple-airpods-max-2-deal-november-2026</link>
+<guid isPermaLink="false">0fdd0851871acba5f540ebdf4780362114de9e4c5644a0e7c427f1429cdc9203</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
+<description>If Apple headphones have been sitting on your wish list, now might be the time to buy ahead of the holiday rush.</description>
+<enclosure url="https://media.wired.com/photos/6ae11d65f409d832a824126b/master/pass/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae11d65f409d832a824126b/master/pass/New%20Apple%20AirPods%20Max%202%20Deal%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
 <title>Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed</title>
 <link>https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed</link>
 <guid isPermaLink="false">580eb2775725ea47c29559a2b3203d85a19d73e1e0bfc1866809ba7a78439305</guid>
@@ -1828,15 +1881,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing</title>
-<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing</link>
-<guid isPermaLink="false">3b776e5e67edc5c1b8184c6d57d410d83186ab38dbd7402e7fb7c48cdf2c808d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 20:46:49 +0000</pubDate>
-<description>OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]</description>
-</item>
-<item>
 <title>Best Dyson Vacuum Deals for Dyson Week 2026</title>
 <link>https://www.wired.com/story/best-dyson-week-vacuum-deal-oct-2026</link>
 <guid isPermaLink="false">18abe119531abc55cde32f64ab72073d9f659ddb23f98e5a945853fe02503cea</guid>
@@ -2332,17 +2376,6 @@
 <media:content url="https://media.wired.com/photos/6ade13f8303d1f1d72ef4b2b/master/pass/Review%20LG%20B6%20OLED%20TV%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>Lykyn Review: A Mushroom Garden Worth Showing Off</title>
-<link>https://www.wired.com/review/lykyn-automated-mushroom-grow-box</link>
-<guid isPermaLink="false">10eca22c32f00a33398313a3e8a83ee4e2ae88a47a7fb7170db871a1879e5f7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-<description>Dramatic lighting and fog make this countertop fruiting chamber a conversation starter. The mushrooms are pretty good too.</description>
-<enclosure url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad8c39e703442e7edd75dbd/master/pass/Review%20Lykyn%20Automated%20Mushroom%20Grow%20Box%20102026%20top%20art%20SOURCE%20Lykyn.jpg" medium="image"/>
-</item>
-<item>
 <title>The Tragedy of Having a Wikipedia Page—and Then Losing It</title>
 <link>https://www.wired.com/story/the-tragedy-of-losing-your-wikipedia-page</link>
 <guid isPermaLink="false">056ac0c973284823f1b9cf91796656de9e6a0b85d855dd2ce951e68485069a63</guid>
@@ -2363,28 +2396,6 @@
 <description>A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg" medium="image"/>
-</item>
-<item>
-<title>Meet the AI Agents Trying to Be Real-Life Journalists</title>
-<link>https://www.wired.com/story/ai-agents-are-trying-to-be-journalists-now</link>
-<guid isPermaLink="false">3dd3b8be816bc2f2154e28ccb61058f3d1f6d796ec5a513cc5669e4462f7b43f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 09:30:00 +0000</pubDate>
-<description>Jayden, Sam, and Zack are eagerly pitching editors on reported stories and investigative features. The catch? They're all AI agents.</description>
-<enclosure url="https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adcfb8cc56cd60fecb6db05/master/pass/AI%20journalists%202.jpg" medium="image"/>
-</item>
-<item>
-<title>Valve Steam Frame Review: Costly and Inconsistent</title>
-<link>https://www.wired.com/review/valve-steam-frame</link>
-<guid isPermaLink="false">3c4e6ef79faf675fcb9ac921459165ee39ddb675725d981ba532c5106ec1f5d8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 09:15:00 +0000</pubDate>
-<description>The Steam Frame’s promise of greatness for stand-alone and streaming VR gaming doesn’t quite connect.</description>
-<enclosure url="https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adbc96a2eadfa02886c7f8c/master/pass/ValveArt.jpg" medium="image"/>
 </item>
 <item>
 <title>Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations</title>
@@ -3001,17 +3012,6 @@
 <description>Friday is iPhone Duo launch day, and there are a lot of eager customers hoping to walk into an Apple Store and get one after a messy pre-order launch . In a new interview with TechRadar , Apple marketing SVP Greg Joswiak offered insight into demand and in-store availability for the first foldable iPhone. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple is finally catching up with Siri, but the goalposts are moving again</title>
-<link>https://9to5mac.com/2026/10/22/apple-is-finally-catching-up-with-siri-but-the-goalposts-are-moving-again</link>
-<guid isPermaLink="false">b216042fd27d72aaff881b5cc23c0112ad9499302bb2859e210ad848f955640b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 01:42:38 +0000</pubDate>
-<description>9to5Mac is brought to you by Memoket : Memoket Gem is a 0.4 oz AI wearable that slots beside your Apple Watch. One press captures a conversation, and KITE memory connects it to what you said weeks ago. 20-hour battery. Available now from $168.99 on memoket.ai and Amazon. While it is great that Siri AI can finally deliver Apple’s promise of an actually useful, personal assistant for the age of AI, expectations surrounding agentic assistants are quickly shifting. But Apple is showing it might not watch from the sidelines again. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</title>
