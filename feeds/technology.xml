@@ -4,6 +4,57 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft recorded $10 billion in revenue from OpenAI</title>
+<link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai</link>
+<guid isPermaLink="false">353dd9ae4406521804ae775719751c08947c4100a0f4a70a7f51ce20088a1c12</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:34:30 +0000</pubDate>
+<description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.</description>
+</item>
+<item>
+<title>Microsoft hits 10 quarters of record- breaking revenue in a row</title>
+<link>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row</link>
+<guid isPermaLink="false">7689670b21d5b35e8d49f113ceff6a80787b54dd11b4b41b632040a5d8c98e58</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:25:30 +0000</pubDate>
+<description>Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.</description>
+</item>
+<item>
+<title>Readwise is taking on Kindle and Kobo for ebook supremacy</title>
+<link>https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store</link>
+<guid isPermaLink="false">411e81e2de54ba41b1a2b54c43165dd81bcd3c2545b4cb79ba379896a55b9420</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:16:18 +0000</pubDate>
+<description>For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for reading newsletters, PDFs, and web articles you've saved for later. And now there's Readwise Books, a full-fledged […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Readwise-Books-2.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>This Is What the GOP’s Final Midterms Push Looks Like</title>
+<link>https://www.wired.com/story/this-is-what-the-gops-final-midterms-push-looks-like</link>
+<guid isPermaLink="false">5fdcfde15e7984c1c64c79ebb46bf1da23924d637cf6e70d321d089d388992fe</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 21:00:00 +0000</pubDate>
+<description>Republicans are spending their time and money on Senate races in historically red states—a sign they’re more nervous than ever as Election Day looms.</description>
+<enclosure url="https://media.wired.com/photos/6ae117bf28ee41eb8014dfa9/master/pass/politics_republicans_midterms_spending.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae117bf28ee41eb8014dfa9/master/pass/politics_republicans_midterms_spending.jpg" medium="image"/>
+</item>
+<item>
+<title>The new MacBook Pro has everything I wanted, minus one thing</title>
+<link>https://9to5mac.com/2026/10/28/the-new-macbook-pro-has-everything-i-wanted-minus-one-thing</link>
+<guid isPermaLink="false">674e4e8c063db772ef9d5edc7b8bca15fc332d7c3e74ffd066b8b7eaaed83ada</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 20:59:42 +0000</pubDate>
+<description>Apple’s new MacBook Pro with PROLED XDR is an exciting upgrade that delivers nearly every feature I was hoping for, with just one exception. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Police seize Virtualine bulletproof service tied to ransowmare, cybercrime</title>
 <link>https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime</link>
 <guid isPermaLink="false">4a9db94d56e1f65315b82bfc56fd9e383367c0f3e394ad9993734b17e43b6373</guid>
@@ -377,17 +428,6 @@
 <description>In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura - the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens - which just went on sale today. Xreal and Google have just announced the headset costs […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Aura_4_TAS_XR_-Nov-06-2025_113.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Here’s where to preorder the new MacBook Pros</title>
-<link>https://www.theverge.com/gadgets/1019109/apple-macbook-pro-m6-proled-xdr-how-to-buy-price-release-date</link>
-<guid isPermaLink="false">ca640cada92c4b361de84dcf4876c5b2be8e6e96e5b1e825decd1b82d3a63d62</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:10:23 +0000</pubDate>
-<description>As expected, Apple finally showed off its 14- and 16-inch MacBook Pros at its recent "Pro and tell" event. The long-awaited laptops feature a Tandem OLED display with full touch capabilities, while also cutting some weight and bringing back the glowing Apple logo. While less exciting, there's also an updated 14-inch MacBook Pro that features […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/MacBook-Pro-M6-2026-preorder-3_5144c7.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</title>
@@ -1323,15 +1363,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg" medium="image"/>
 </item>
 <item>
-<title>Jio shares surge 21% in market debut after blockbuster India IPO</title>
-<link>https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo</link>
-<guid isPermaLink="false">20975f7005c2ac49c078c418cf31b0e9703bac89a3121fd27dd498a654c57886</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:20:32 +0000</pubDate>
-<description>Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.</description>
-</item>
-<item>
 <title>Google Workspace Promo Codes: 14% Off for October 2026</title>
 <link>https://www.wired.com/story/google-workspace-promo-code</link>
 <guid isPermaLink="false">881a132c21a910474f4ed4f3d0be689d6f447216f17f014e8266b1336ef41397</guid>
@@ -1431,17 +1462,6 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>20% Off Samsung Promo Code | October 2026</title>
-<link>https://www.wired.com/story/samsung-promo-codes</link>
-<guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
 <title>Dyson Promo Codes: 25% Off in October 2026</title>
 <link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
 <guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
@@ -1453,6 +1473,17 @@
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
+<title>20% Off Samsung Promo Code | October 2026</title>
+<link>https://www.wired.com/story/samsung-promo-codes</link>
+<guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
 <link>https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes</link>
 <guid isPermaLink="false">2b743c379ca17ee7bc754afd1c4628f940a34bff2e3cc1b0ec6fec62486566b4</guid>
@@ -1462,15 +1493,6 @@
 <description>In addition to the spec bumps, today’s M6-powered iMac and 14-inch MacBook Pro announcements came with an extra piece of good news: prices remained unchanged from the previous generations, unlike several other recent Apple product launches that brought another round of increases. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
-<guid isPermaLink="false">8128c7853b28b7676e19cc1122d9c8245ad5ecbfda958a1d248f29b0b607bcd7</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
-<description>Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.</description>
 </item>
 <item>
 <title>Apple wins expanded access to evidence in OpenAI trade secrets lawsuit</title>
@@ -2365,17 +2387,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/craft.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>Anker’s Halloween Sale Takes 20% Off Our Favorite Chargers and Power Banks</title>
-<link>https://www.wired.com/story/anker-halloween-sale-oct-2026</link>
-<guid isPermaLink="false">10debb726210de149f9147d8901b85287a8162c18313db53aff1a48a8ed6fc1a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 20:13:46 +0000</pubDate>
-<description>Avoid the scariest thing this Halloween (your phone at 1 percent) with Anker's 20 percent off sale on all charging gear.</description>
-<enclosure url="https://media.wired.com/photos/6adfb111ce126e8759a8370d/master/pass/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adfb111ce126e8759a8370d/master/pass/Anker%20Halloween%20Sale%20deals%20102026%20top%20art%20SOURCE%20Anker.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple raises trade-in values for iPads and Macs, with increases of up to $365</title>
 <link>https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365</link>
 <guid isPermaLink="false">c4b057601b3bb524fe492624666cc3c9ab16c00cf791f4e9e0aaf20f324043bc</guid>
@@ -2990,17 +3001,6 @@
 <description>Apple TV subscribers in the US can now watch Formula 1 live in Dolby Atmos, starting with this weekend’s United States Grand Prix. Here’s the schedule. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/f1-austin.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>9to5Mac Daily: October 23, 2026 – MacBook Pro rumors, iPhone Duo apps</title>
-<link>https://9to5mac.com/2026/10/23/daily-october-23-2026</link>
-<guid isPermaLink="false">2bc8ef6746c03b3ecacf5217a21389eb42aa72c3ce2ad7bb80872a8361238b78</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 20:14:02 +0000</pubDate>
-<description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
