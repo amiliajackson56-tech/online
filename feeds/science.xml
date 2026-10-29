@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA-funded Study Details One of Oldest Mars Meteorites Ever Found</title>
+<link>https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found</link>
+<guid isPermaLink="false">5c3380370cf61ae7bb7a4cbe85131ee4a01ae507b013f8331237fe09ea05de5c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 29 Oct 2026 18:18:09 +0000</pubDate>
+<description>When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>NASA Names Troy Asher Armstrong Flight Research Center Director</title>
+<link>https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director</link>
+<guid isPermaLink="false">8e1b5d99dbee8b9bde1e6f4dcba0b40a732ef8ad3d3341f967cbc4024121b64b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 29 Oct 2026 18:00:35 +0000</pubDate>
+<description>NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638" medium="image"/>
+</item>
+<item>
+<title>NIH–NASA QuSAFE Challenge</title>
+<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge</link>
+<guid isPermaLink="false">9cdd9476a6011aa642728dbb6ec6c16b969058714413c0e0dc55dbdf5d3a7466</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 29 Oct 2026 17:44:37 +0000</pubDate>
+<description>The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000" medium="image"/>
+</item>
+<item>
 <title>Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA</title>
 <link>https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa</link>
 <guid isPermaLink="false">0ea7abfcbee7e1720d3cb56d3a080adc6dc8ca9ab360731afb8484013f34deab</guid>
@@ -153,17 +186,6 @@
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg?w=744&amp;h=744&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>Arnab Strikes India</title>
-<link>https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india</link>
-<guid isPermaLink="false">7a5a1db73b614abfd9f118095df040934daf7c090378075f3a1854803bfdd7b0</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 04:01:00 +0000</pubDate>
-<description>The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Your blood pressure could be dangerous even when your numbers look normal</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261027063814.htm</link>
 <guid isPermaLink="false">907d95ac7dd3b754acbf04900cf94acf768ecc2ff89f009146ae1ac1c9a46f2d</guid>
@@ -191,17 +213,6 @@
 <description>Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere.</description>
 </item>
 <item>
-<title>Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy</title>
-<link>https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy</link>
-<guid isPermaLink="false">eebb713fe02cdf43c3d8bfaeaf9d7729cf086ffe74e3aaa976bfa88cf3e5b326</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 02:49:59 +0000</pubDate>
-<description>Artemis II Commander Reid Wiseman has been named Caltech associate vice president and deputy director of NASA’s Jet Propulsion Laboratory in Southern California. The emeritus astronaut and retired U.S. Navy captain begins his new role at NASA’s center of excellence for robotics and deep space exploration and at Caltech, which manages JPL for NASA, on […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/wiseman-portrait-crop-for-portal.jpg?w=2048" medium="image"/>
-</item>
-<item>
 <title>Scientists discover a hidden oxygen reservoir deep inside Earth</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261027063702.htm</link>
 <guid isPermaLink="false">48d8bd4964c94406304ea695bfd2f9eebb4b438141ac3a2b5ef58d52756092a6</guid>
@@ -218,17 +229,6 @@
 <category>science</category>
 <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies.</description>
-</item>
-<item>
-<title>NASA Welcomes Vietnam as Newest Artemis Accords Signatory</title>
-<link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory</link>
-<guid isPermaLink="false">ec2503a37a6c87978f801539f661664b885519736c7130b31b2c98a25b619d6f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 21:50:01 +0000</pubDate>
-<description>The Socialist Republic of Vietnam became the 78th nation to sign the Artemis Accords, joining a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space. “Vietnam is joining at an important point in the development of its own space program,” said NASA Deputy Administrator Matt Anderson in recorded remarks […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-vietnam-78-102826.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Scientists discover a hidden reason why muscles weaken with age</title>
