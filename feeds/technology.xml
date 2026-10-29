@@ -4,6 +4,66 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Elon Musk is ‘truly a genius,’ says Vladimir Putin</title>
+<link>https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin</link>
+<guid isPermaLink="false">11857d12c011fb4482426ca2c593c944627c88d1112c81bc9d35cf708a320cb8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:51:29 +0000</pubDate>
+<description>Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.</description>
+</item>
+<item>
+<title>VRChat says it's not adding AI labels despite user survey showing people want that</title>
+<link>https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that</link>
+<guid isPermaLink="false">f74fe344a1fab0a03eb4bc4557b904c65d6929962639b3f5a73b5dd34e1319b7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:48:05 +0000</pubDate>
+<description>Trying to make everyone happy could make no one happy.</description>
+<enclosure url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" medium="image"/>
+</item>
+<item>
+<title>Polymarket halts trading after crypto-draining script breach, $2.5M traced</title>
+<link>https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced</link>
+<guid isPermaLink="false">26a82e600f1f2c64078cc2128098a90d337d63f6d4f01c2d3967ab69961711e0</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:47:25 +0000</pubDate>
+<description>Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]</description>
+</item>
+<item>
+<title>Amazon reported booming cloud revenue but otherwise missed expectations</title>
+<link>https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations</link>
+<guid isPermaLink="false">7f0753368b3a8b32d999f9dc7cf7e0604d4b3067e5dce8307a472648d4fcc502</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:20:47 +0000</pubDate>
+<description>The biggest ouch of the report was its negative free cash flow of $2.4 billion.</description>
+</item>
+<item>
+<title>Fan fiction website AO3 is down, and it could take weeks to recover</title>
+<link>https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks</link>
+<guid isPermaLink="false">d2785366febadb57ed69146c90170942cc286a99bb9921bccbfcca2ca1e4c364</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:18:22 +0000</pubDate>
+<description>The site's data is reportedly intact, but the cause of the outage is still unknown.</description>
+<enclosure url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793308521.jpg" medium="image"/>
+</item>
+<item>
+<title>Strava adds Google Gemini integration with personalized workout insights</title>
+<link>https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights</link>
+<guid isPermaLink="false">98a02608adcd6da20f31b97936ae197078ccbd1e96a9c26a649b4d4b19e02236</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:06:35 +0000</pubDate>
+<description>Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>GM reaches $220M settlement over selling drivers’ private data</title>
 <link>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data</link>
 <guid isPermaLink="false">5edb26362daf4b2a7dab270b7bdb1662f5a925e5841a5331876646e5140d1176</guid>
@@ -35,13 +95,13 @@
 <media:content url="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" medium="image"/>
 </item>
 <item>
-<title>Fan fiction site Archive of Our Own could be offline for up to 4 weeks</title>
+<title>Fan-fiction site Archive of Our Own could be offline for up to 4 weeks</title>
 <link>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks</link>
 <guid isPermaLink="false">80872e49b54e34ac7991dd2febad08a80c9392a02e9a4860b426ae9ab2f79108</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 20:43:56 +0000</pubDate>
-<description>Archive of Our Own, the popular online home of fan fiction readers and writers, has bad news for its community.</description>
+<description>The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.</description>
 </item>
 <item>
 <title>Reddit will force users to log in as AI is killing search traffic</title>
@@ -51,8 +111,8 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 20:32:49 +0000</pubDate>
 <description>The company is starting with tests outside of the US.</description>
-<enclosure url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793305910.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg" medium="image"/>
 </item>
 <item>
 <title>Google fixes an annoying Photos bug that hid edited images from other apps</title>
@@ -759,24 +819,6 @@
 <description>With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.</description>
 </item>
 <item>
-<title>Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions</title>
-<link>https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions</link>
-<guid isPermaLink="false">503de030fe636205700292aa42b94a5b5902dedbf495856e2b8164281be0fbf7</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
-<description>The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.</description>
-</item>
-<item>
-<title>Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages</title>
-<link>https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage</link>
-<guid isPermaLink="false">1839e72430f2fff595bbeb34005d2a8b017f33c705dd25bdf4bd0a776bb954d7</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
-<description>Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.</description>
-</item>
-<item>
 <title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</title>
 <link>https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents</link>
 <guid isPermaLink="false">0f9eaec95f56b60be3be28dbaf7b0e3f9798457050564b2964438a614ae1ab4d</guid>
@@ -1015,17 +1057,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>I Gave My Blood to the AI Death Clock</title>
-<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
-<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
-<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
-</item>
-<item>
 <title>Reencle Essential Review: Same Scraps, Lower Price</title>
 <link>https://www.wired.com/review/reencle-essential-electric-composter</link>
 <guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
@@ -1035,6 +1066,17 @@
 <description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
 <enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>I Gave My Blood to the AI Death Clock</title>
+<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
+<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
+<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1191,28 +1233,6 @@
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
 <item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
-</item>
-<item>
-<title>Pura Promo Codes: $20 Off November 2026</title>
-<link>https://www.wired.com/story/pura-promo-code</link>
-<guid isPermaLink="false">be0c7f2a81f7ca3f008cc1a665242335ccce13207f77b924ac150a5986ab715d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe &amp; save offers.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
-</item>
-<item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
 <link>https://www.wired.com/story/skullcandy-discount-code</link>
 <guid isPermaLink="false">bdc4b523599277774675a6946a40f7a6a0a765918ff0042acb9518d4bddbfb2e</guid>
@@ -1233,6 +1253,28 @@
 <description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
 <enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+</item>
+<item>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+</item>
+<item>
+<title>Pura Promo Codes: $20 Off November 2026</title>
+<link>https://www.wired.com/story/pura-promo-code</link>
+<guid isPermaLink="false">be0c7f2a81f7ca3f008cc1a665242335ccce13207f77b924ac150a5986ab715d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe &amp; save offers.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
@@ -1451,28 +1493,6 @@
 <description>Today alongside the launch of the MacBook Pro with PROLED XDR, Apple has introduced four new accessories for Mac: two updated power adapters, a power extension cable, and a travel adapter kit. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-power-adapter-extension-cable.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Meta weighs delaying 'alarming' new business terms as backlash grows</title>
-<link>https://www.engadget.com/2300293/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows</link>
-<guid isPermaLink="false">cfa9b1b46952e259762f68a8cca2770fddfe8d543c24a980fcba08a973aaf1e1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:42:27 +0000</pubDate>
-<description>The company says it won't make "policy changes" until it consults with publishers.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-weighs-delaying-alarming-new-business-terms-as-backlash-grows/l-intro-1793216507.jpg" medium="image"/>
-</item>
-<item>
-<title>The PlayStation 5 just might be Sony's final Blu-Ray player</title>
-<link>https://www.engadget.com/2300289/playstation-5-might-be-sony-final-blu-ray-player</link>
-<guid isPermaLink="false">3e9a002d6f5edbfc051146e422623e1b9fdffe5406fe500db4cf8c435391f3b8</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 19:39:47 +0000</pubDate>
-<description>Between Sony's plan to end PlayStation disc production and discontinuing its Blu-ray players, the future looks grim for physical media.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-playstation-5-just-might-be-sonys-final-blu-ray-player/l-intro-1793107319.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple releases touchscreen Mac developer videos, with live sessions coming in November</title>
@@ -1859,15 +1879,6 @@
 <description>Shrinking just aired season 3 earlier this year, but all signs point to a refreshingly quick return, as one of the show’s stars just confirmed season 4 is officially done filming. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/shrinking-s3-cast.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/shrinking-s3-cast.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Even after PHP2Shell, blast radius matters more than a CVSS score</title>
-<link>https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score</link>
-<guid isPermaLink="false">303c17a3cab1c27ee61b0863d9c486d6a8b17651bb71f3436a7af03cc8ec92f3</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:50:59 +0000</pubDate>
-<description>PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]</description>
 </item>
 <item>
 <title>John Ternus posts teaser video ahead of MacBook Pro redesign unveiling</title>
@@ -2990,17 +3001,6 @@
 <description>Today Apple unveiled its biggest update to the iPad mini yet, but if you’re looking to buy one, there’s a key limitation of the A20 Pro chip in every configuration but one. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-ipad-mini-oled-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-ipad-mini-oled-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple unveils all-new iPad mini: OLED, thinner design, more</title>
-<link>https://9to5mac.com/2026/10/26/new-ipad-mini-features-release-date-price</link>
-<guid isPermaLink="false">4673afcdbdc472aab21655ad5f3f92b775eb54188c836f4cbcd557f48d82d74d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:04:24 +0000</pubDate>
-<description>Update 10/28: The new OLED iPad mini is now available for pre-order . OLED iPad mini 128GB $699 OLED iPad mini 256GB $799 OLED iPad mini 512GB $999 Apple has officially unveiled a new iPad mini . The company calls it the “biggest update ever” for the iPad mini, adding an OLED display and a thinner, lighter design. The new iPad mini is powered by the A20 Pro chip. Here’s everything you need to know. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPad-mini-hero-261026_big.jpg.large_2x.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-iPad-mini-hero-261026_big.jpg.large_2x.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
