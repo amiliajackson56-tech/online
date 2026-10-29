@@ -4,6 +4,97 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The NYT Cooking app is testing AI recipe modifications</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool</link>
+<guid isPermaLink="false">8d448df3e470faabd24cd2cfb7a8cb51a57df4f067cde2fbed649f8d19ee9672</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:39:37 +0000</pubDate>
+<description>The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it's sparked some drama among users. NYT Cooking senior editor Genevieve Ko announced the feature last Friday, which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NYT-Cooking-AI-recipe-modification-feature-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft fixes Remote Desktop failures caused by recent Windows updates</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates</link>
+<guid isPermaLink="false">ec60372839277a56324cde1a668bb12aedc37b72deb6a7fb6b0881fed7398864</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:35:40 +0000</pubDate>
+<description>Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the "Administrator protection" security feature is enabled. [...]</description>
+</item>
+<item>
+<title>Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round</title>
+<link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round</link>
+<guid isPermaLink="false">f8adb1021dcc3d4cffb4809818366d49d878426b97166a1a4f8bff2aa24a7cc3</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:35:26 +0000</pubDate>
+<description>On Thursday, AI app, Wabi, now describing itself as a "personal agent," said it has raised $55 million at a $1.25 billion valuation.</description>
+</item>
+<item>
+<title>There’s one week left to preorder the Ocarina of Time remake for $10 off</title>
+<link>https://www.theverge.com/gadgets/1022103/ocarina-of-time-remake-apple-mac-mini-ssd-hdmi-dock-deal-sale</link>
+<guid isPermaLink="false">15e2bd44a8373d3016f93e33038b9717bd527781a411926e7a76c1652b842533</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:24:45 +0000</pubDate>
+<description>The long-awaited remake of The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 launches next Thursday, November 5th. In other words, you have a week remaining to secure your physical edition with a $10 discount at Amazon and Walmart. Once the game launches, the physical version will almost certainly go from $59.99 to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Legend-of-Zelda-Ocarina-Switch2-roundup.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>iOS 27.2 gives Shortcuts app these new and improved features</title>
+<link>https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features</link>
+<guid isPermaLink="false">b5ead6fbc476d1451abe258ddef70a1c95fe3455c357f7cc6ef89d30bc6a429d</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:16:33 +0000</pubDate>
+<description>iOS 27.2 launched this week with a variety of new features for Siri AI , FaceTime , Messages , and more, plus a handful of improvements for the Shortcuts app. Here’s everything new in Shortcuts. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-shortcuts-app-ios-27-icon.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-shortcuts-app-ios-27-icon.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>3 Ways AI Agents Already Operate in Your Browser</title>
+<link>https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser</link>
+<guid isPermaLink="false">10a5460124084535066e99dc5c46a0d50e31f34581f5ea103c062b6a3028f94d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:00:10 +0000</pubDate>
+<description>AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]</description>
+</item>
+<item>
+<title>Anthropic is asking Wall Street to believe in AGI</title>
+<link>https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview</link>
+<guid isPermaLink="false">3a644431de131a7405e5f75f870e18192af0eafc398feaa3ade7127bcc67337c</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+<description>Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_DCD_anthropic_IPO.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race</title>
+<link>https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity</link>
+<guid isPermaLink="false">7a2ff422d91cef5c48f97e9de17ba0c692f188cf495573d6e8ab02be6fb1f297</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
+<description>The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.</description>
+<enclosure url="https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg" medium="image"/>
+</item>
+<item>
+<title>CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks</link>
+<guid isPermaLink="false">207ac6ae9c2086a201581bab805ea47e1045f4a268c9e3362acd0891e50b1a98</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 13:59:48 +0000</pubDate>
+<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]</description>
+</item>
+<item>
 <title>Amazon’s AI shopping assistant can now edit your grocery lists and gift registries</title>
 <link>https://www.theverge.com/tech/1022140/amazon-alexa-for-shopping-grocery-lists-gift-registries</link>
 <guid isPermaLink="false">c9e4e478a9e24f9cfe759e3c019419a01866f65609cedac0f66541d8f6fe6662</guid>
@@ -33,6 +124,17 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 13:43:53 +0000</pubDate>
 <description>The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.</description>
+</item>
+<item>
+<title>Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities</title>
+<link>https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html</link>
+<guid isPermaLink="false">17b1ed18b9db9df1dd4b4d47338a47c3092da53302d72c1b3e5c984c73d6af97</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 13:42:40 +0000</pubDate>
+<description>Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. "It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg" medium="image"/>
 </item>
 <item>
 <title>Petkit Automatic Cat Litter Box Sale (2026)</title>
@@ -113,6 +215,17 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
 <description>Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov. 4 to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket savings and deals.</description>
+</item>
+<item>
+<title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</title>
+<link>https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents</link>
+<guid isPermaLink="false">0f9eaec95f56b60be3be28dbaf7b0e3f9798457050564b2964438a614ae1ab4d</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 12:58:34 +0000</pubDate>
+<description>The leak reveals undercover agents, surveillance groups, and sensitive DHS access.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/ice-agent-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Reddit now lets you choose between For You and Following feeds</title>
@@ -485,17 +598,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Norton Coupon Codes: Up to 58% Off</title>
 <link>https://www.wired.com/story/norton-coupon-code</link>
 <guid isPermaLink="false">50b873512f69679235835bc5cc94d571920256f2b2e7f7c851c9f3af7515d591</guid>
@@ -540,26 +642,15 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
-</item>
-<item>
-<title>Pura Promo Codes: $20 Off November 2026</title>
-<link>https://www.wired.com/story/pura-promo-code</link>
-<guid isPermaLink="false">be0c7f2a81f7ca3f008cc1a665242335ccce13207f77b924ac150a5986ab715d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe &amp; save offers.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -582,6 +673,28 @@
 <description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
 <enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+</item>
+<item>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+</item>
+<item>
+<title>Pura Promo Codes: $20 Off November 2026</title>
+<link>https://www.wired.com/story/pura-promo-code</link>
+<guid isPermaLink="false">be0c7f2a81f7ca3f008cc1a665242335ccce13207f77b924ac150a5986ab715d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe &amp; save offers.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
@@ -659,17 +772,6 @@
 <media:content url="https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg" medium="image"/>
 </item>
 <item>
-<title>Adam Mosseri says negativity around AI is ‘going to get worse’</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity</link>
-<guid isPermaLink="false">3b64f2126ca310fc1aab8c279ff1c2d5126b60e12b1cae6b8321b39d9a3ef124</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 23:05:39 +0000</pubDate>
-<description>Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal</title>
 <link>https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal</link>
 <guid isPermaLink="false">c58119c56acec6390ec6fcdc69671a84d092524f76fb02dc580306fb3dc20af7</guid>
@@ -687,7 +789,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 22:51:15 +0000</pubDate>
-<description>This Vulcan launch will be the first to utilize a full complement of six solid rocket boosters.</description>
+<description>This Vulcan launch will be first to use a full complement of 6 solid rocket boosters.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/55617683176_c8f6425b60_o-1152x648-1793207864.jpg" medium="image"/>
 </item>
@@ -754,17 +856,6 @@
 <description>Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.</description>
 </item>
 <item>
-<title>A hacker stole more than 40,000 DHS employee records</title>
-<link>https://www.theverge.com/tech/1021528/ice-cbp-data-leak</link>
-<guid isPermaLink="false">b6ad05727112179f3446b0884e3293eee8ce84963c6546820f3d72be0659cb43</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 21:57:45 +0000</pubDate>
-<description>A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigration and Customs Enforcement (ICE) and Customs and Border Protection (CBP), according to TechCrunch and Wired. The […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2200388904.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Google expands AI Search ads globally as core ad growth slows</title>
 <link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows</link>
 <guid isPermaLink="false">14bd5a3a69122b7bb70069925821944259b7e4a5f3e228c4134359e2e24ef957</guid>
@@ -792,17 +883,6 @@
 <category>technology</category>
 <pubDate>Wed, 28 Oct 2026 21:34:30 +0000</pubDate>
 <description>Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.</description>
-</item>
-<item>
-<title>Akai is embracing vibe-coded mods with an open-source MPC</title>
-<link>https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key</link>
-<guid isPermaLink="false">cf0b445a13fca74cd4d1dfb73fd207cd95d4bfcd10773851d44d3596b9fa6b3e</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 21:34:04 +0000</pubDate>
-<description>The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware. It will likely run […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai-MPC-Sample-Key.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft hits 10 quarters of record-breaking revenue in a row</title>
@@ -1417,15 +1497,6 @@
 <description>Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</description>
 </item>
 <item>
-<title>AI execs may be too out of touch to build for the general public</title>
-<link>https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public</link>
-<guid isPermaLink="false">29526404518cacde12dec7c8063c898493bd448da714a9bc0a82d0737c36361c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 15:53:52 +0000</pubDate>
-<description>Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.</description>
-</item>
-<item>
 <title>Buckle up for more body-swapping hijinks in Jumanji: Open World trailer</title>
 <link>https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer</link>
 <guid isPermaLink="false">59760c2cbcc3c9cb4de3fc3929cf15ad67329614547fcbd32a6b8fe7fdbb8296</guid>
@@ -1964,17 +2035,6 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>LG Promo Codes and Coupons for October 2026</title>
-<link>https://www.wired.com/story/lg-promo-code</link>
-<guid isPermaLink="false">c979b8c67b1b0e03b4d9de2f273d51087a61a12ebcae1dcff25c47b48def773e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
-</item>
-<item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
 <link>https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes</link>
 <guid isPermaLink="false">2b743c379ca17ee7bc754afd1c4628f940a34bff2e3cc1b0ec6fec62486566b4</guid>
@@ -2019,15 +2079,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Japan's GMO urges customers to shut down PCs amid ransomware threat</title>
-<link>https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat</link>
-<guid isPermaLink="false">8cd2ef6409774ff8e021b7e6e5e868a86e71339857bc97183a871357452ee6f9</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 23:35:51 +0000</pubDate>
-<description>The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]</description>
-</item>
-<item>
 <title>Last-minute leak reveals new touchscreen MacBook Pro details: pricing, new cooling system, more</title>
 <link>https://9to5mac.com/2026/10/27/last-minute-leak-reveals-new-touchscreen-macbook-pro-details-pricing-new-cooling-system-more</link>
 <guid isPermaLink="false">6ee303c9b14cc7b1b9271f4d613626a66d911cf34516a9de4d7fc2e428db1531</guid>
@@ -2037,15 +2088,6 @@
 <description>In a roundup of what to expect from tomorrow’s “Pro and Tell” event , Bloomberg ’s Mark Gurman shared new details about the upcoming OLED touchscreen MacBook Pro models. Here’s what to expect. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/02/macbook-pro-touchscreen-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests</title>
-<link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests</link>
-<guid isPermaLink="false">53ad5e7a5da996ed53b9b0eb2e51e8262d9da8b8b3172f7af386c943913043a4</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:43:27 +0000</pubDate>
-<description>OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]</description>
 </item>
 <item>
 <title>Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip</title>
@@ -2070,15 +2112,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-930111236-1152x648.jpeg" medium="image"/>
 </item>
 <item>
-<title>UNM Health ransomware attack disrupts patient care, surgeries</title>
-<link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries</link>
-<guid isPermaLink="false">8a9df3ce570e5539f47fe4951e38da1e313810c9ece9e0f81964f8ed5cb64472</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 22:07:34 +0000</pubDate>
-<description>The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]</description>
-</item>
-<item>
 <title>China's top-secret spaceplane can't hide in low-Earth orbit</title>
 <link>https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit</link>
 <guid isPermaLink="false">5a79c7a9e49a50fda50d68f27aacdc349cf0ef416b7f068fcce191216552e08f</guid>
@@ -2088,17 +2121,6 @@
 <description>The DIA's threat assessment suggests China may soon place directed energy weapons in space.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/shenlong_maxar-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>"No human at the helm": Delaware plan would let AI agents run entire businesses</title>
-<link>https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses</link>
-<guid isPermaLink="false">e734c0e90ec1424e9cd6f43e89acb7e853aa888be4962759888ab123b3ad9284</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 21:50:04 +0000</pubDate>
-<description>Owners of AI-run firms would evade liability for "reckless" AI, US Rep. Comer says.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Firefox’s AI-powered Smart Window gets form autofill and website monitoring</title>
@@ -3036,17 +3058,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/ipad-mini-touch-id-button-top.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Touchscreen OLED MacBook Pro launches this week, here’s how the lineup will look</title>
-<link>https://9to5mac.com/2026/10/25/macbook-pro-redesign-oled-touch-launching-this-week</link>
-<guid isPermaLink="false">35cbf07bf870a723cd04f93d8f053ee40f35874981edab6c9658500450135b2c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sun, 25 Oct 2026 14:48:28 +0000</pubDate>
-<description>This week, Apple will be reversing a decades-long decision to exclude touchscreens from its laptop lineup, and we’ll be getting our first ever touchscreen MacBook in just a number of days. This MacBook Pro will fetch quite a premium, though. Here’s what we know so far. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-mockup-blue-red.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication</title>
 <link>https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html</link>
 <guid isPermaLink="false">2b44ac8d0a52ce9fe00c2800adcc48c1a378b3d1b6f776b22aaf7ccad9610208</guid>
@@ -3056,16 +3067,5 @@
 <description>OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg" medium="image"/>
-</item>
-<item>
-<title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
-<link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
-<guid isPermaLink="false">a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 11:09:29 +0000</pubDate>
-<description>A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory,</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg" medium="image"/>
 </item>
 </channel></rss>
