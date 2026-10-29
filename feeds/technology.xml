@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Bluesky Is Blocking Links to a Major Leak of DHS Employee Records</title>
+<link>https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data</link>
+<guid isPermaLink="false">ba5d496d1852a7f99e37636583addb87103a34fc8e3cf697318d22b9910a15c2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 03:34:46 +0000</pubDate>
+<description>Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people’s contact information, shared without their authorization.</description>
+<enclosure url="https://media.wired.com/photos/6ae2b697af20331957eab942/master/pass/2195830714" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2b697af20331957eab942/master/pass/2195830714" medium="image"/>
+</item>
+<item>
 <title>Anduril now says its BlueChip laptop will meet Buy American standards at launch</title>
 <link>https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american</link>
 <guid isPermaLink="false">cfd5e9071be8aa35edf3d59bd0ad331d2ebce652a0f844eb12b2243f4412ba82</guid>
@@ -2407,17 +2418,6 @@
 <description>According to The Hollywood Reporter , Instagram today began testing a new long-form horizontal video format with select creators in the U.S. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/instagram-app-icon-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures</title>
-<link>https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers</link>
-<guid isPermaLink="false">d4711f2306c23d0c059ee6aaa228d81560b40bec6166a8fc91ecebd970050ca2</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 21:27:15 +0000</pubDate>
-<description>Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.</description>
-<enclosure url="https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple addressed at least 329 unique security vulnerabilities across today’s system updates</title>
