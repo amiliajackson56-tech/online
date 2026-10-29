@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 29 October 2026 – The Horns of Venus</title>
+<link>https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus</link>
+<guid isPermaLink="false">8382e242923f3b28b1ae7b714227593e645d09fe118aca41cad66b75fef1e093</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 29 Oct 2026 04:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 29 October 2026 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Horns […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg?w=744&amp;h=744&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/venus_20261024a.jpg?w=744&amp;h=744&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Arnab Strikes India</title>
+<link>https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india</link>
+<guid isPermaLink="false">7a5a1db73b614abfd9f118095df040934daf7c090378075f3a1854803bfdd7b0</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 29 Oct 2026 04:01:00 +0000</pubDate>
+<description>The first named storm of the North Indian Ocean’s cyclone season made landfall along the coast of Andhra Pradesh.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/arnab-strikes-india/typhoonarnab_vir_20261026.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Your blood pressure could be dangerous even when your numbers look normal</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261027063814.htm</link>
 <guid isPermaLink="false">907d95ac7dd3b754acbf04900cf94acf768ecc2ff89f009146ae1ac1c9a46f2d</guid>
@@ -196,17 +218,6 @@
 <category>science</category>
 <pubDate>Wed, 28 Oct 2026 04:05:00 +0000</pubDate>
 <description>APODScienceAPODAPOD: 2026 October 28 – The…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this video please enable JavaScript, and consider upgrading to a web browser that supports […]</description>
-</item>
-<item>
-<title>The Land of the Standing-Up Rocks</title>
-<link>https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks</link>
-<guid isPermaLink="false">16ec12418638d42ca220f0ac542e8ae6697de206aa70a7602c70282dbbf37392</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 04:01:00 +0000</pubDate>
-<description>A national monument since the 1920s, Chiricahua is America’s newest national park.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-land-of-the-standing-up-rocks/chiricahua_oli2_20260702.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>A simple daily fiber supplement reduced arthritis pain and improved strength</title>
@@ -675,17 +686,6 @@
 <category>science</category>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11197-w Loss of function of canonical BAF induces gain of CTCF and cohesin binding that alters 3D genome architecture and reprograms transcription.</description>
-</item>
-<item>
-<title>NASA Invites Media to Crew Completion of Yearlong Mars Simulation</title>
-<link>https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation</link>
-<guid isPermaLink="false">3576ba8e09e7f10f34736952e39702b8ce331c8cdb7d7ab11d2b232681e8bf96</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 19:27:22 +0000</pubDate>
-<description>The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health and performance data collected from the simulation can help NASA develop methods […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/chapeamission2.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>The secret to slower aging may be hiding in your gut</title>
