@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sony is working on a film adaptation of viral indie horror game Mouthwashing</title>
+<link>https://www.engadget.com/2301826/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing</link>
+<guid isPermaLink="false">a94ac9287b4e5eb932d7f7cfa30c8f60410f0b02621c2976fb9687520733694e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 22:52:36 +0000</pubDate>
+<description>The adaptation will be directed by Karyn Kusama, and scripted by the writers of The Invitation.</description>
+<enclosure url="https://www.engadget.com/img/gallery/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/l-intro-1793314079.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/sony-is-working-on-a-film-adaptation-of-viral-indie-horror-game-mouthwashing/l-intro-1793314079.jpg" medium="image"/>
+</item>
+<item>
+<title>Binance probes potential $5.8 billion crypto-theft hack</title>
+<link>https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack</link>
+<guid isPermaLink="false">0d4158f28ceec8977e42ad36742265dc56c936ec610cbe1434391b6656995eb7</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 22:45:23 +0000</pubDate>
+<description>Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]</description>
+</item>
+<item>
+<title>Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027</title>
+<link>https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027</link>
+<guid isPermaLink="false">be46f0e84ff457fc0127a3447185f309d9815492c34c2e7fc505c7c481285393</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 22:37:53 +0000</pubDate>
+<description>A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own shipment prospects for 2027. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Binance pauses withdrawals as hackers suspected of stealing billions in crypto</title>
 <link>https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto</link>
 <guid isPermaLink="false">85f843ea62d20afdbcdd8ea5a07fd4af8c0c286f3bbea8804b389add474c24d7</guid>
@@ -82,6 +113,17 @@
 <description>Trying to make everyone happy could make no one happy.</description>
 <enclosure url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" medium="image"/>
+</item>
+<item>
+<title>Reddit is moving to “a logged-in-only experience,” CEO says</title>
+<link>https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms</link>
+<guid isPermaLink="false">127c220681f02cbc871be3e959719bad790ce92e2e1a388bb4abe13107802aa7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 21:47:57 +0000</pubDate>
+<description>Reddit's search traffic "was down meaningfully" last quarter.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/reddit-icon-1152x648-1752522571.jpg" medium="image"/>
 </item>
 <item>
 <title>Polymarket halts trading after crypto-draining script breach, $2.5M traced</title>
@@ -197,7 +239,7 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/app-store-connect-ios.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>Windows 11 gets right-click menu improvements as PC revenue slides</title>
+<title>Microsoft fixes a Windows 11 annoyance as PC revenue declines</title>
 <link>https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides</link>
 <guid isPermaLink="false">ebaeae1e15ad725e68d20710cf792ec7cad0fa8cb67ee03c7b51978ef5bda7d4</guid>
 <source>Ars Technica</source>
@@ -1097,17 +1139,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>I Gave My Blood to the AI Death Clock</title>
-<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
-<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
-<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
-</item>
-<item>
 <title>Reencle Essential Review: Same Scraps, Lower Price</title>
 <link>https://www.wired.com/review/reencle-essential-electric-composter</link>
 <guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
@@ -1117,6 +1148,17 @@
 <description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
 <enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>I Gave My Blood to the AI Death Clock</title>
+<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
+<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
+<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1218,17 +1260,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Norton Coupon Codes: Up to 58% Off</title>
 <link>https://www.wired.com/story/norton-coupon-code</link>
 <guid isPermaLink="false">50b873512f69679235835bc5cc94d571920256f2b2e7f7c851c9f3af7515d591</guid>
@@ -1273,6 +1304,17 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
 <title>Dermstore Coupons: 25% Off for November 2026</title>
 <link>https://www.wired.com/story/dermstore-promo-code</link>
 <guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
@@ -1295,6 +1337,17 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
+<title>Petlibro Offers: 30% Off in November 2026</title>
+<link>https://www.wired.com/story/petlibro-discount-code</link>
+<guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
 <link>https://www.wired.com/story/skullcandy-discount-code</link>
 <guid isPermaLink="false">bdc4b523599277774675a6946a40f7a6a0a765918ff0042acb9518d4bddbfb2e</guid>
@@ -1315,17 +1368,6 @@
 <description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
 <enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
-</item>
-<item>
-<title>Petlibro Offers: 30% Off in November 2026</title>
-<link>https://www.wired.com/story/petlibro-discount-code</link>
-<guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Bluesky Is Blocking Links to a Major Leak of DHS Employee Records</title>
@@ -1359,17 +1401,6 @@
 <description>Judge Edward Davila today formally established the schedule for Apple’s trade secrets misappropriation lawsuit against two former employees, OpenAI, and io Products, including a trial date. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-02.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-vs-openai-02.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>FCC chair wants to let prisons jam illegal cellphones</title>
-<link>https://www.engadget.com/2300569/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones</link>
-<guid isPermaLink="false">adde31576ce33f9ba68c38e1dddf45ac0bb08a6630287d297db23f7a9039ed9b</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 23:09:22 +0000</pubDate>
-<description>The agency will vote next month on relaxing its long-standing opposition to jammers.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fcc-chair-wants-to-let-prisons-jam-illegal-cellphones/l-intro-1793228522.jpg" medium="image"/>
 </item>
 <item>
 <title>The 2,000-Nit OLED in Apple’s New MacBook Is a Big Deal</title>
@@ -1731,17 +1762,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-display.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Apple announces touchscreen MacBook Pro with OLED display</title>
-<link>https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display</link>
-<guid isPermaLink="false">9c955f8061904d7d0558d91458a9808c6ccf5a64aa2a0af57a6164ff675abbbe</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 17:25:04 +0000</pubDate>
-<description>The OLED display is the main draw, but the price is a lot to reckon with.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2026-MacBook-Pro-1152x648-1793208150.jpg" medium="image"/>
-</item>
-<item>
 <title>The Inside Story of Why Apple Finally Brought a Touch Display to the Mac</title>
 <link>https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac</link>
 <guid isPermaLink="false">ea5bdc59e493d58fec095603c79862cbd638db07123773d5a2f9f7dedefd6bd2</guid>
@@ -1815,15 +1835,6 @@
 <description>Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl3PPkqzXf7YyMcnwdBu5XWlOwWtUonf15z0n79qMtIOVTb4LNfKdnl7tUK-45_2boP9r2ZKuHmX6e1BZLmo-LYF-rUwH8gtNrynFuaX4rlNh20UXPvtIfC85BcKcHXK1qei6uOJyImSjTfO537yljJve0Y_zMlfFfhBl0mKPfppWhkfojtGlYgxLjdSO0/s1600/php-united.jpg" medium="image"/>
-</item>
-<item>
-<title>Volt Typhoon hides zero-day attacks using 'Silent Train' framework</title>
-<link>https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework</link>
-<guid isPermaLink="false">49d0f1bc00afd8c5aae1ca4a287e35adbdbc18ceb45444243d98c56ce6c51df2</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
-<description>Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</description>
 </item>
 <item>
 <title>Deals: AirPods Pro 3, Apple’s iPhone Duo charger, MacBook Air $200 off, Beats 360 first discount, more</title>
@@ -2990,17 +3001,6 @@
 <description>This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And that's not even the full story. A leaked key led to a software supply-chain</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple teases an ‘exciting week’ of new products ahead</title>
-<link>https://9to5mac.com/2026/10/26/apple-teases-an-exciting-week-of-new-products-ahead</link>
-<guid isPermaLink="false">b2e2f0803b9a1f8c6e1a60cf95878ed45304e02d4050c08fefa5081013383893</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 13:36:02 +0000</pubDate>
-<description>Today Apple introduced a big update to the iPad mini, but it’s only the start of what the company has planned, as Greg Joswiak just teased an exciting week ahead. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/pro-and-tell.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
