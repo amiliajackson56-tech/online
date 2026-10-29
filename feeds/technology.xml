@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Astronomers Discover a Possible New Dwarf Planet in Our Solar System</title>
+<link>https://www.wired.com/story/astronomers-discover-a-possible-new-dwarf-planet-in-our-solar-system</link>
+<guid isPermaLink="false">4a8ea927af4e20675b3d2b91fa543a661c4651c270a35c89732dbbe443401083</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<description>Lying beyond Pluto, 2026 ED138 could be as large as 1,500 kilometers in diameter. Astronomers are still working to confirm whether it meets the criteria for a dwarf planet.</description>
+<enclosure url="https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae26ce6735e20536e98e3d0/master/pass/noirlab2626b.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers leaked details of more than 41,000 Homeland Security personnel</title>
+<link>https://www.engadget.com/2300661/hackers-leaked-details-more-than-41000-homeland-security-personnel</link>
+<guid isPermaLink="false">7cff8483ad185db280394b9cc5ebcfb8b217f56aa46a976b024bf2c20a01b12c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 08:33:46 +0000</pubDate>
+<description>A hacktivist group stole the information of ICE agents and border police from Homeland Security.</description>
+<enclosure url="https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/hackers-leaked-details-of-more-than-41000-homeland-security-personnel/l-intro-1793262738.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys</title>
+<link>https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</link>
+<guid isPermaLink="false">96402b0bba36a5534299f8cf76a48208eb7d49296eee770808d2622dce34c589</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 08:24:22 +0000</pubDate>
+<description>Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuVB5nQJHwAnAATDQxAqD8KtWk7IpNvBqXQq6RPkqJ72joLVDp5dUDDdYmRHlrbUhJQpaQQ59p245XjotvW2DNx_fKk7cPp0wJUsK0z5IQY2jXA1oP-YcYKLtSdBXnZJDNECWOzX9tP3-12cKXJm2A1KKoBsu9CEiOYKbgJDVqvQt7YRF8Fzd706YumA/s1600/cisco-sdwan.jpg" medium="image"/>
+</item>
+<item>
 <title>China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility</title>
 <link>https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html</link>
 <guid isPermaLink="false">48f467fc9990539a6e8ad8a2bbce0f0d1d0c63500e496a2e9335a95820f828df</guid>
@@ -24,6 +57,17 @@
 <description>Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. "Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet," the network security company said in an update to its advisory. The vulnerabilities, tracked as</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg" medium="image"/>
+</item>
+<item>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
 <item>
 <title>Norton Coupon Codes: Up to 58% Off</title>
@@ -70,17 +114,6 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Dermstore Coupons: 25% Off for November 2026</title>
 <link>https://www.wired.com/story/dermstore-promo-code</link>
 <guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
@@ -103,17 +136,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Petlibro Offers: 30% Off in November 2026</title>
-<link>https://www.wired.com/story/petlibro-discount-code</link>
-<guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
 <link>https://www.wired.com/story/skullcandy-discount-code</link>
 <guid isPermaLink="false">bdc4b523599277774675a6946a40f7a6a0a765918ff0042acb9518d4bddbfb2e</guid>
@@ -134,6 +156,17 @@
 <description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
 <enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+</item>
+<item>
+<title>Petlibro Offers: 30% Off in November 2026</title>
+<link>https://www.wired.com/story/petlibro-discount-code</link>
+<guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Bluesky Is Blocking Links to a Major Leak of DHS Employee Records</title>
@@ -1334,17 +1367,6 @@
 <media:content url="https://media.wired.com/photos/6ae097bb45acc693d52eb8ba/master/pass/New%20Amazon%202026%20Echo%20Speakers%20SOURCE%20Julian%20Chokkattu.jpg.jpg" medium="image"/>
 </item>
 <item>
-<title>All the Amazon Echo devices announced today: Echo Time, Alexa Photo Frame and more</title>
-<link>https://www.engadget.com/2299032/all-amazon-echo-news-october-2026</link>
-<guid isPermaLink="false">098fb37fc1461ee6adf5c2c113264fd61619431a581e3cc4af94632f6a5b387e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
-<description>Along with speaker and Echo Show upgrades, Amazon unveiled a smart alarm clock and photo frame.</description>
-<enclosure url="https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/all-amazon-echo-news-october-2026/l-intro-1793195731.jpg" medium="image"/>
-</item>
-<item>
 <title>Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers</title>
 <link>https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html</link>
 <guid isPermaLink="false">9590ed7a40f8b7a4cf3f4901d2f3fa0af9dd1327fe10a707dcfebbf5172cf696</guid>
@@ -1704,17 +1726,6 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in October 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>20% Off Samsung Promo Code | October 2026</title>
 <link>https://www.wired.com/story/samsung-promo-codes</link>
 <guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
@@ -1724,6 +1735,17 @@
 <description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in October 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
@@ -2088,17 +2110,6 @@
 <description>Last month, Twelve South introduced the wildly popular AirFly Drive , its first wireless CarPlay adapter (which is now back in stock after initially selling out). Now, the popular accessory maker is back with Airfly View , which adds a built-in screen to its other popular wireless audio dongle. You can order it on Amazon today . Here’s how it works. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Twelve-South-Airfly-View-2026-reveal-01.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Twelve-South-Airfly-View-2026-reveal-01.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There</title>
-<link>https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there</link>
-<guid isPermaLink="false">19619f1746651e4bbf017d4bf6f3ca71f95c6d88c2c93b60687c72e0e0afd6cd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 16:24:34 +0000</pubDate>
-<description>Despite the agency's human resources department saying he hadn’t even been onboarded, Jeremy Lewin oversaw the destruction of USAID. It’s not clear he had the legal authority to do so.</description>
-<enclosure url="https://media.wired.com/photos/6acf8c83ca8681083870745e/master/pass/GettyImages-2253183585.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6acf8c83ca8681083870745e/master/pass/GettyImages-2253183585.jpg" medium="image"/>
 </item>
 <item>
 <title>Google Photos rolls out customizable redesign of your ‘Collections’ tab</title>
@@ -3056,16 +3067,5 @@
 <description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" medium="image"/>
-</item>
-<item>
-<title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
-<link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
-<guid isPermaLink="false">64b0ac9d140d11671a4acbe942ade27af436c73b5627240eb087f5c95f9a86d0</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 13:50:56 +0000</pubDate>
-<description>Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. "Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg" medium="image"/>
 </item>
 </channel></rss>
