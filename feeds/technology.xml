@@ -4,6 +4,103 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>New Cisco firewall zero-day exploited to crash SSL VPN devices</title>
+<link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices</link>
+<guid isPermaLink="false">645f7bdeecdfe91ea991c52d985ee91348221ba8d870f941d4a3bc6627e0d520</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:10:13 +0000</pubDate>
+<description>Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]</description>
+</item>
+<item>
+<title>The Kindle Accessories I Never Want to Read Without (2026)</title>
+<link>https://www.wired.com/story/best-kindle-accessories</link>
+<guid isPermaLink="false">39c3f6ddd60a28779b429a0e358a977a7167af99156a12ba29c0cd77da5593b9</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 11:03:00 +0000</pubDate>
+<description>Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and stickers, this is the guide for you.</description>
+<enclosure url="https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg" medium="image"/>
+</item>
+<item>
+<title>You can now spend between $1,999 and $14,549 on a MacBook Pro</title>
+<link>https://9to5mac.com/2026/10/29/you-can-now-spend-between-1999-and-14549-on-a-macbook-pro</link>
+<guid isPermaLink="false">95218d27c4903bcb8ef08c56d6182d7a44f2fe1b09a8ea68bb063134b6e6322d</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:55:25 +0000</pubDate>
+<description>There weren’t too many surprises with yesterday’s launch of the first touchscreen Mac, the MacBook Pro with PROLED XDR display . But one of those was the option to spec the SSD to a massive 16GB. With the M6 MacBook Pro the new entry-level model, that means that you can now spend anywhere between $1,999 and $14,549 on a new MacBook Pro … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’</title>
+<link>https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant</link>
+<guid isPermaLink="false">ee7bc266ca0de39106bd8195a4d917b741443b7755fb1683950aae2ae06763bb</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:45:00 +0000</pubDate>
+<description>Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.</description>
+<enclosure url="https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg" medium="image"/>
+</item>
+<item>
+<title>Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls</title>
+<link>https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html</link>
+<guid isPermaLink="false">7d482c1bcf9fa313acb9e633e6f24c3333f3e150c7ee16dd31aae22a564e553b</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:44:46 +0000</pubDate>
+<description>Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple and Google fined in South Korea over app store violations</title>
+<link>https://www.engadget.com/2300690/apple-google-fined-south-korea-app-store-violations</link>
+<guid isPermaLink="false">84bb9b072076a8f839ff036ff0e6d078cc99c7d0e073a140355cb64b1f740724</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:42:26 +0000</pubDate>
+<description>South Korean regulators found that Apple and Google violated the country's Telecommunications Business Act.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-and-google-fined-in-south-korea-for-app-store-violations/l-intro-1793270417.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-and-google-fined-in-south-korea-for-app-store-violations/l-intro-1793270417.jpg" medium="image"/>
+</item>
+<item>
+<title>Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy</title>
+<link>https://www.wired.com/review/review-hisense-ur8</link>
+<guid isPermaLink="false">610495ce8918bf87e198aa737145abac6be487825a52fac0d602f01961c9800a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:30:00 +0000</pubDate>
+<description>The Hisense UR8 RGB MiniLED is more affordable than competitors and offers exceptional color accuracy, but is otherwise just OK.</description>
+<enclosure url="https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
+</item>
+<item>
+<title>A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards</title>
+<link>https://www.wired.com/story/a-hacker-targeted-high-stakes-poker-players-with-malware-that-exposed-their-cards</link>
+<guid isPermaLink="false">22cabd5525f0691b9e7e926441f933e451dd76ec27e65f5dfd11f08b31a0b5ef</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:30:00 +0000</pubDate>
+<description>Illicit software on the computers of some of the world’s best online poker players allowed the accused cheater to see what cards were in the victims’ hands—and trounce them at the tables.</description>
+<enclosure url="https://media.wired.com/photos/6adfb9e14342ac0de5548666/master/pass/Security_A%20Hacker%20Snuck%20Malware%20Onto%20Online%20Poker%20Players%E2%80%99%20Computers%20That%20Let%20Him%20See%20Their%20Cards_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adfb9e14342ac0de5548666/master/pass/Security_A%20Hacker%20Snuck%20Malware%20Onto%20Online%20Poker%20Players%E2%80%99%20Computers%20That%20Let%20Him%20See%20Their%20Cards_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>GitHub Launches npm Firewall to Block Malicious Packages Before Installation</title>
+<link>https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html</link>
+<guid isPermaLink="false">193f5a35878b3318e2295579104063925d0f3e50d5e034da5f8b39d637bb391c</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:26:33 +0000</pubDate>
+<description>GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. "The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate," GitHub said. The feature, which currently supports only npm packages, is available in public preview</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7hXo0MoiQiXCSLnOj0h2YUqDhIHl13Le4XxOU3UxV7X2mm4_YGJKOT6akyW58uRaMhslGN6NY9B_1u7V-y_fy0kYJHKoVA-yBWVt53xqBk06_syRpASgWezvnVIZs9goRlwNrp_HMVj_Pu8rzXmIsfJBV1YzhJ8IAd-1g7FFVhFWqc9HegTk4Jok5kR9/s1600/github.gif" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ7hXo0MoiQiXCSLnOj0h2YUqDhIHl13Le4XxOU3UxV7X2mm4_YGJKOT6akyW58uRaMhslGN6NY9B_1u7V-y_fy0kYJHKoVA-yBWVt53xqBk06_syRpASgWezvnVIZs9goRlwNrp_HMVj_Pu8rzXmIsfJBV1YzhJ8IAd-1g7FFVhFWqc9HegTk4Jok5kR9/s1600/github.gif" medium="image"/>
+</item>
+<item>
 <title>I Did Push-Ups With Snap’s Chunky AR Glasses</title>
 <link>https://www.wired.com/story/i-did-push-ups-with-snaps-chunky-ar-glasses</link>
 <guid isPermaLink="false">eaf59681171967dd5830c2adb44dba05066031df8387842a31bf4906b534213e</guid>
@@ -26,17 +123,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268658_Data_center_AZ_LEDE_VOSSS50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>I Gave My Blood to the AI Death Clock</title>
-<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
-<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
-<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
-</item>
-<item>
 <title>Reencle Essential Review: Same Scraps, Lower Price</title>
 <link>https://www.wired.com/review/reencle-essential-electric-composter</link>
 <guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
@@ -46,6 +132,17 @@
 <description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
 <enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>I Gave My Blood to the AI Death Clock</title>
+<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
+<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
+<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -79,6 +176,17 @@
 <description>Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.</description>
 <enclosure url="https://media.wired.com/photos/6ad79403fc73d5bd28140aac/master/pass/DSC_9897.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ad79403fc73d5bd28140aac/master/pass/DSC_9897.jpg" medium="image"/>
+</item>
+<item>
+<title>Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open</title>
+<link>https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html</link>
+<guid isPermaLink="false">b36cbddd30558feada5c369fe36c7d7a45f3497ff9d237dfac8aefa4e39e39e3</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 09:05:39 +0000</pubDate>
+<description>An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65eroK1pQacKJwqeGmgp2sDta1mgCrPuNMXiwAgTi-FVZNc1V4D7qooFFc-V-XNOJzYpjYk28Y_kIkoHMNJfnQ5h2gI0-bOWlVOt9VJ9oZUpRsBzYLsSMe3oNRTfZe53dtpezOOq1MHmWhEhAigbyOMLx4jWAbcvvImY39jY1h4FMS4_OUqSDF-kZJvQ/s1600/linux-gitlab.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh65eroK1pQacKJwqeGmgp2sDta1mgCrPuNMXiwAgTi-FVZNc1V4D7qooFFc-V-XNOJzYpjYk28Y_kIkoHMNJfnQ5h2gI0-bOWlVOt9VJ9oZUpRsBzYLsSMe3oNRTfZe53dtpezOOq1MHmWhEhAigbyOMLx4jWAbcvvImY39jY1h4FMS4_OUqSDF-kZJvQ/s1600/linux-gitlab.jpg" medium="image"/>
 </item>
 <item>
 <title>Astronomers Discover a Possible New Dwarf Planet in Our Solar System</title>
@@ -136,6 +244,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9wRucatO6j8IYS9drMJNn_BtgvNwY739pg33a6-50h33cCXnqi4unW5RppMfzO6TLjMdDQ-XICWN6uKTU6ai_SyLBeD8k4SdO7Kx2-QJeMbz0LSEMZkuKZls2dMSNoJmkY5nSc2SOduiSkVpKY9uFjCG0gU73hMvSyyqMANymiqb012-Z_rVUUUJtQQ5C/s1600/php-palo.jpg" medium="image"/>
 </item>
 <item>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
 <title>Norton Coupon Codes: Up to 58% Off</title>
 <link>https://www.wired.com/story/norton-coupon-code</link>
 <guid isPermaLink="false">50b873512f69679235835bc5cc94d571920256f2b2e7f7c851c9f3af7515d591</guid>
@@ -180,15 +299,26 @@
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+</item>
+<item>
+<title>Pura Promo Codes: $20 Off November 2026</title>
+<link>https://www.wired.com/story/pura-promo-code</link>
+<guid isPermaLink="false">be0c7f2a81f7ca3f008cc1a665242335ccce13207f77b924ac150a5986ab715d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe &amp; save offers.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -211,28 +341,6 @@
 <description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
 <enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
-</item>
-<item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
-</item>
-<item>
-<title>Pura Promo Codes: $20 Off November 2026</title>
-<link>https://www.wired.com/story/pura-promo-code</link>
-<guid isPermaLink="false">be0c7f2a81f7ca3f008cc1a665242335ccce13207f77b924ac150a5986ab715d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Enhance your home's ambiance for less with active Pura promo codes. Find savings on smart diffusers, exclusive scents, and subscribe &amp; save offers.</description>
-<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
@@ -1358,17 +1466,6 @@
 <media:content url="https://www.engadget.com/img/gallery/kindle-colorsoft-signature-edition-2026-review-nice-but-doesnt-justify-the-price/l-intro-1793191346.jpg" medium="image"/>
 </item>
 <item>
-<title>Kindle Paperwhite Signature Edition (2026) review: Updated in all the right places</title>
-<link>https://www.engadget.com/2299180/kindle-paperwhite-signature-edition-2026-review</link>
-<guid isPermaLink="false">37918bc06b0a1f655dcb95a257a9ba1f59f348d693a8ebf3ada1cb84739e0914</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:00:00 +0000</pubDate>
-<description>Amazon's updates to the Paperwhite Signature Edition make it feel even more premium, but the regular version remains a great choice for less money.</description>
-<enclosure url="https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/kindle-paperwhite-signature-edition-2026-review-updated-in-all-the-right-places/l-intro-1793129474.jpg" medium="image"/>
-</item>
-<item>
 <title>Amazon announced five new Alexa devices, including 16-inch Echo Show</title>
 <link>https://9to5mac.com/2026/10/28/amazon-announced-five-new-alexa-devices-including-16-inch-echo-show</link>
 <guid isPermaLink="false">99122ff192612480adf60e403a9f2176eb9af2fb7e9be063173a7b77bbee5f46</guid>
@@ -1770,39 +1867,6 @@
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
-<title>Squarespace Promo Codes: 20% Off in October 2026</title>
-<link>https://www.wired.com/story/squarespace-promo-code</link>
-<guid isPermaLink="false">55256078d050194f83531e6f3a6edf20b6885f87f579f1157a1880e62ae4a802</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 20% off your next website, 10% off with exclusive Squarespace discount code, 50% off plans, and more top coupons from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
-</item>
-<item>
-<title>20% Off Samsung Promo Code | October 2026</title>
-<link>https://www.wired.com/story/samsung-promo-codes</link>
-<guid isPermaLink="false">d260f7124d468b6803823d5cfd2974cd36759adfef944bc32e67b55288f97265</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Dyson Promo Codes: 25% Off in October 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 05:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>New M6 Macs buck Apple’s second wave of price hikes</title>
 <link>https://9to5mac.com/2026/10/27/new-m6-macs-buck-apples-second-wave-of-price-hikes</link>
 <guid isPermaLink="false">2b743c379ca17ee7bc754afd1c4628f940a34bff2e3cc1b0ec6fec62486566b4</guid>
@@ -2015,17 +2079,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-18pro.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Anthropic Says It Will Revolutionize Biology—Some Day</title>
-<link>https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day</link>
-<guid isPermaLink="false">b1e376bba5838b3f7304b3a949cd0e4b9f83c0638c19adb6d49ed7b931bd73fb</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 19:39:04 +0000</pubDate>
-<description>In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.</description>
-<enclosure url="https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple’s low-cost iPhone 18 details revealed by leaker</title>
 <link>https://9to5mac.com/2026/10/27/apples-low-cost-iphone-18-details-revealed-by-leaker</link>
 <guid isPermaLink="false">ff43f5d16ab44e15ab50bb9997a20ec1886471bf082517e14c6e00a1275ca55d</guid>
@@ -2090,15 +2143,6 @@
 <description>Here’s a welcome change. OpenAI just announced iCloud Mail and Calendar plugin support for ChatGPT. That means you can connect ChatGPT to your Apple email and calendar just like Gmail and other services. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/icloud-chatgpt.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Microsoft releases Windows OOB updates to distrust eMudhra certificates</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates</link>
-<guid isPermaLink="false">6e56bddbe95068edc0d3bca9156bd74a2bf8acd350913acaca4b1cd276b92832</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 18:20:28 +0000</pubDate>
-<description>Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]</description>
 </item>
 <item>
 <title>Twelve South launches new Airfly View dongle with built-in screen</title>
@@ -2970,17 +3014,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/DSC04170.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Cybersecurity Awareness Week: How to remove your personal data from the internet, and why Apple’s tools alone aren’t enough</title>
-<link>https://9to5mac.com/2026/10/24/cybersecurity-awareness-week-remove-personal-data-internet-apples-tools-alone-arent-enough</link>
-<guid isPermaLink="false">7040a160aa1eda31c0319d22091eb75584b12a2cdd82f2b6d8e2b87d22c96408</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sat, 24 Oct 2026 16:00:00 +0000</pubDate>
-<description>It actually seems like an episode of Black Mirror that it’s legal for a company to buy and sell our personal data without our consent, but that’s the reality in the US. Apple has built some really useful tools to limit future tracking, including App Tracking Transparency, Hide My Email, and iCloud Private Relay, but this doesn’t solve your actual problem, though. What they can’t do is remove the data that has already been collected, bought, and spread across hundreds of broker databases over the past decade. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/16_9_Incogni_partnerships_generic_v3.png?w=1600" medium="image"/>
-</item>
-<item>
 <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
 <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
 <guid isPermaLink="false">a64123d828297872a642cff5b055159f640284e80dcf89de6ec97689a63c0c06</guid>
@@ -3034,38 +3067,5 @@
 <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg" medium="image"/>
-</item>
-<item>
-<title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
-<link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
-<guid isPermaLink="false">68f2c8a7a2b64fb92945ca756d6bbda3d540d334d327f72cc6598fc8fba846db</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 18:50:13 +0000</pubDate>
-<description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg" medium="image"/>
-</item>
-<item>
-<title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
-<link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
-<guid isPermaLink="false">14b4c9cf953f428c07e635f73d4c9d140b94631d324ef43318893d31a39aadf2</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:54:08 +0000</pubDate>
-<description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
-<link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
-<guid isPermaLink="false">6fb95eceef2a89d96948d566dbb004281ae2f9011c0a0c096d8652b0bd52402b</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Fri, 23 Oct 2026 17:50:47 +0000</pubDate>
-<description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an "Autonomous Red Team Kill Chain Framework" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg" medium="image"/>
 </item>
 </channel></rss>
