@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Podcast: Midweek mayhem in the SPFL - The full debrief</title>
+<link>https://www.bbc.co.uk/sounds/play/p0pk76wv?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">b40490f44589a568c01b7aabbd97f9c7a500b6469bca758b87476430acc6ed36</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Thu, 29 Oct 2026 08:00:00 +0000</pubDate>
+<description>Tynecastle drama, Celtic held and mounting pressure at Aberdeen.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pk76y0.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pk76y0.jpg" medium="image"/>
+</item>
+<item>
+<title>'Leggy' Rangers frustrate Makhanya - gossip</title>
+<link>https://www.bbc.co.uk/sport/football/articles/ckly4dqz66z6o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">968a4fbdfbddf09804f3d15fac91c3360dc44f90cdb0dc9ba2771699b0d98303</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Thu, 29 Oct 2026 07:40:56 +0000</pubDate>
+<description>Rangers scorer frustrated as Celtic manager plays down hopes of winger getting starts.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/bdfc8380-d36b-11f1-b441-2b33b063138f.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/bdfc8380-d36b-11f1-b441-2b33b063138f.png" medium="image"/>
+</item>
+<item>
 <title>Who am I? Plus today's other quizzes</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cqr7y1218vjvo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">2212fa9a4d75f3473e1965a469b232c3c2464b481d0c6ea781238617f712d3c3</guid>
@@ -24,6 +46,17 @@
 <description>The stuttering run-up for penalties has been called 'naive' as players continue to try to deceive goalkeepers with a stop-start approach - but why?</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2567/live/4a1635a0-d32b-11f1-b0c3-4b2ce0e9f02a.jpg" medium="image"/>
+</item>
+<item>
+<title>Watch: Sportscene - all of Wednesday's Premiership goals</title>
+<link>https://www.bbc.co.uk/iplayer/episode/m0033mbx?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">c726c39cc9a223b351b2f46a53009b2b8bffe90eaae8fbbf3577b756551114c1</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 28 Oct 2026 23:58:05 +0000</pubDate>
+<description>With Hearts v Rangers, Celtic v Dundee Utd and masses of midweek action</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pk5vc8.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pk5vc8.jpg" medium="image"/>
 </item>
 <item>
 <title>Scottish Premiership: McInnes booed in Rangers draw at Hearts, Celtic held at home</title>
@@ -57,6 +90,39 @@
 <description>Cherries win 3-0 to set up Anfield visit in last eight Wearsiders resist Brentford fightback in 3-2 success Bournemouth continued their impressive run of results by thumping Aston Villa 3-0 to reach the Carabao Cup quarter-finals for the first time in eight seasons, while Sunderland scored three times in 10 minutes at the Stadium of Light to leave Brentford too much to do as the home side won 3-2. The winger Amine Adli fired home in the seventh minute at the Vitality Stadium to set Marco Rose’s in-form side on course for a fifth consecutive win in all competitions. Lewis Cook, the Cherries captain, added a fortuitous second early in the second period before the striker Álvaro Rodríguez sealed another 3-0 success after similar wins against Milan and Manchester United. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/902a0337346d7a986763251844e4804575c6f5c2/494_0_3335_2668/master/3335.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99551336cc9830ff5c85d4b3548b6b98" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/902a0337346d7a986763251844e4804575c6f5c2/494_0_3335_2668/master/3335.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99551336cc9830ff5c85d4b3548b6b98" medium="image"/>
+</item>
+<item>
+<title>'He knows his role' - Rulli provides heroics but no worries for Donnarumma</title>
+<link>https://www.bbc.co.uk/sport/articles/cqrky1jnpy1no?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">8f59b0585f7d21610923626edc3f77a5e37d221edc811998a5e1efb9341c5e1b</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 28 Oct 2026 23:10:06 +0000</pubDate>
+<description>Geronimo Rulli's penalty shootout heroics may have put the pressure on Gianluigi Donnarumma at Manchester City, but manager Enzo Maresca has no doubt about his number one.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4071/live/c953f890-d31a-11f1-ba7d-b5eab6da6837.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4071/live/c953f890-d31a-11f1-ba7d-b5eab6da6837.jpg" medium="image"/>
+</item>
+<item>
+<title>Fleetwood to face Everton or Newcastle in last eight</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">22533212080ea3dff1898da0c40f1ff4cba4466ea9d700e37a71b8ccca01d77b</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 28 Oct 2026 22:45:35 +0000</pubDate>
+<description>League Two Fleetwood Town will face Everton or Newcastle United at Highbury in the quarter-finals of the EFL Cup.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg" medium="image"/>
+</item>
+<item>
+<title>Liverpool beat Chelsea on penalties yet again to secure Carabao Cup progress</title>
+<link>https://www.theguardian.com/football/2026/oct/28/liverpool-chelsea-carabao-cup-fourth-round-match-report</link>
+<guid isPermaLink="false">e1f4216bdd02612681e6b135dc56925a7c2f6ab0ee02eaf9223825e73d7bde18</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Wed, 28 Oct 2026 22:30:20 +0000</pubDate>
+<description>Chelsea must have been resigned to their fate as soon as the shootout arrived at Anfield. Four times they had faced Liverpool on penalties previously and four times they had lost. Number five was confirmed when Wesley Fofana’s wild effort sailed high into the Kop and sent Andoni Iraola’s side into a Carabao Cup quarter-final against his old club Bournemouth. Fofana was not the only culprit as Chelsea’s catalogue of penalty misery against Liverpool gained a new chapter alongside the 2007 Champions League semi-final, the 2019 Uefa Super Cup final and the FA and League Cup finals of 2022. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/99d0e44a15fabd2cbbb498c5603294d9c70c8afc/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d84668c852c7c833bf85f800345ac80" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/99d0e44a15fabd2cbbb498c5603294d9c70c8afc/333_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d84668c852c7c833bf85f800345ac80" medium="image"/>
 </item>
 <item>
 <title>Russo scores hat-trick as Arsenal beat Benfica</title>
@@ -134,17 +200,6 @@
 <description>Manchester United striker Benjamin Sesko is expected to be out until at least January with a shin injury.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a322/live/ef367710-d304-11f1-a9bf-3316693f55f0.jpg" medium="image"/>
-</item>
-<item>
-<title>Burnley turn to former CSKA Moscow manager Fabio Celestini as new head coach</title>
-<link>https://www.theguardian.com/football/2026/oct/28/burnley-former-cska-moscow-manager-fabio-celestini-new-head-coach</link>
-<guid isPermaLink="false">5ece186bd0c2a03f5462409dba88432b76b6011faa08e2b12aa275df7f82b34c</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Wed, 28 Oct 2026 19:14:37 +0000</pubDate>
-<description>Swiss, 50, also had successful spell at Basel He replaces Nicky Hayen with club 22nd in Championship Burnley have announced former Switzerland midfielder Fabio Celestini as their new head coach four days after sacking Nicky Hayen . Burnley, who have won only one of their 12 league games this season after relegation from the Premier League, have not disclosed the length of Celestini’s contract. They heralded his appointment by saying in a statement that the 50-year-old “arrives with a proven capacity to win and to adapt to different football environments”. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/4ec89c26aac17c6901681e16da7616075900dfab/7_28_1065_852/master/1065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=821454573e70534f72e4f389214ea521" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/4ec89c26aac17c6901681e16da7616075900dfab/7_28_1065_852/master/1065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=821454573e70534f72e4f389214ea521" medium="image"/>
 </item>
 <item>
 <title>Wrexham fined for fielding ineligible players</title>
@@ -422,17 +477,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3415/live/1c1ff480-d257-11f1-aea4-e9d772bed98c.jpg" medium="image"/>
 </item>
 <item>
-<title>Barcelona fined £503 over their approach for Atlético Madrid star Alvarez</title>
-<link>https://www.theguardian.com/football/2026/oct/27/barcelona-fined-503-over-their-approach-for-atletico-madrid-star-alvarez</link>
-<guid isPermaLink="false">949919b8e1cb11deebc3a080da44bbdf6d697a3bb03ece46bfb02b1ebaa2153a</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Tue, 27 Oct 2026 23:18:47 +0000</pubDate>
-<description>Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Alvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the striker. Atlético accused Barcelona of approaching the Argentinian, whose contract runs until June 2030, ⁠without first notifying them in writing. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/9d6ea7bfada42139a273ebf714ecc8f9c8a57460/107_0_2575_2061/master/2575.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f997b5cf71b8bf982f1476f54940979e" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/9d6ea7bfada42139a273ebf714ecc8f9c8a57460/107_0_2575_2061/master/2575.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f997b5cf71b8bf982f1476f54940979e" medium="image"/>
-</item>
-<item>
 <title>An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur</title>
 <link>https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur</link>
 <guid isPermaLink="false">22e58b1bf7b9ed864b93102e59a0264a6e79ea110c0bc5b68d9282d2f97cf016</guid>
@@ -477,17 +521,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b1f9719edfeba8e7445e366a9367b42716f38ddf/212_0_4822_3857/master/4822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d4e988e6a3a417909af59f3af26affe" medium="image"/>
 </item>
 <item>
-<title>Arise, Sir Harry? Downing Street hints at Kane knighthood after Ballon d’Or win</title>
-<link>https://www.theguardian.com/football/2026/oct/27/harry-kane-andy-burnham-knighthood-ballon-dor-win</link>
-<guid isPermaLink="false">5698d5d7e7f617ae0c3dcf5afb635054d7d2a1ee17aba5c67ca33f46cf690dbe</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Tue, 27 Oct 2026 14:25:29 +0000</pubDate>
-<description>Andy Burnham sends congratulations to England captain Bayern player is first Englishman to win award since 2001 Downing Street has hinted that Harry Kane deserves a knighthood, ­praising the England captain’s “extraordinary achievement” as the first English winner of the Ballon d’Or in 25 years. The prime minister’s spokesperson said Andy Burnham sent praise and congratulations to the England captain, who was announced as the men’s winner of football’s most prestigious individual award at a ceremony on Monday night. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/3f308473d6b4bbd5b9eded471d6465c8537ec2f5/1404_590_1937_1550/master/1937.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9275a5298c7d666fb69ccb91a94c4a38" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/3f308473d6b4bbd5b9eded471d6465c8537ec2f5/1404_590_1937_1550/master/1937.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9275a5298c7d666fb69ccb91a94c4a38" medium="image"/>
-</item>
-<item>
 <title>Alexia Putellas a worthy Ballon d’Or winner but the limited shortlist illustrates flaws</title>
 <link>https://www.theguardian.com/football/2026/oct/27/alexia-putellas-ballon-dor-winner-awards-long-way-before-being-equal-moving-the-goalposts</link>
 <guid isPermaLink="false">9cff2a7c90cc12c960d82f953701f269a5e8bc0cd4a73603a8e700b861b0cb24</guid>
@@ -497,17 +530,6 @@
 <description>Neglect of African football and a third win for the Spanish great does little to challenge narrative that the prize is reserved only for top nations’ players After a four-year wait, Alexia Putellas is the queen of women’s football once again. Receiving the Ballon d’Or for a record‑equalling third time to continue Spain’s domination of the award, the 32-year-old reinforces her status as one of the greatest players of all time. It was the sixth consecutive year in which the honour went to either Putellas or her international teammate Aitana Bonmatí, and it was symbolic of Putellas’s resurgence after her comeback from the anterior cruciate ligament injury she sustained in 2022, her refusal to surrender her career to that setback, and her majestic rise back to the top. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7a0b544eb06051263fc3690abe23ab46e818ca8f/386_284_3868_3094/master/3868.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed77ae1e7a39c3cc9ed67908b31625c8" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7a0b544eb06051263fc3690abe23ab46e818ca8f/386_284_3868_3094/master/3868.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed77ae1e7a39c3cc9ed67908b31625c8" medium="image"/>
-</item>
-<item>
-<title>Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment</title>
-<link>https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes</link>
-<guid isPermaLink="false">96f74131776dad575f32602c7469505fba5aaeb75f1ec4796b48765da580308f</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Tue, 27 Oct 2026 11:54:47 +0000</pubDate>
-<description>Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with the player Kylian Mbappé has apologised after the Real Madrid forward was dropped by major Chinese brands for apparently joking about Mao Zedong in a video that has gone viral. There were also signs of broader repercussions, with the state-run Chinese digital newspaper The Paper reporting that public television was suspending broadcasts of matches from La Liga. The offending video shows Mbappé saying that the funniest internet meme he had seen involving him was of his face photoshopped on to that of “some guy – I think he’s a Chinese dictator”. This was an apparent reference to a meme of Mbappé superimposed on an image of Mao. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2ea8b24fb5e2eb57ae6795fabfda64ddbbe84c84/120_0_3367_2694/master/3367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ae8f1502a10d5342914e03dbd2bce27" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2ea8b24fb5e2eb57ae6795fabfda64ddbbe84c84/120_0_3367_2694/master/3367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ae8f1502a10d5342914e03dbd2bce27" medium="image"/>
 </item>
 <item>
 <title>David Squires on … Manchester United’s latest crisis and dirty laundry</title>
