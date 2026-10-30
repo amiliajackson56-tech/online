@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>The biggest names in AI are backing a new way to opt out of scraping</title>
+<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
+<guid isPermaLink="false">7a24eca35f77e86d873fde1b3133eb6c2782f99772d9581abac82b6be52a155a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
+<description>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meta settles another social media addiction case just before trial</title>
+<link>https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial</link>
+<guid isPermaLink="false">a3d201069ae57d583283c1f5eebe70fde24134ea16219ccc7db2656b3962269e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:21:28 +0000</pubDate>
+<description>Snap is now the only defendant in the case.</description>
+<enclosure url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" medium="image"/>
+</item>
+<item>
+<title>Bluesky now has a dedicated 'moderation inbox'</title>
+<link>https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox</link>
+<guid isPermaLink="false">d7844361176bb09489e0a4af35d5c28c539fcccfe884fe8e97a028b7b36c6d71</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 20:07:00 +0000</pubDate>
+<description>The beta feature makes it easier to stay on top of reports and account strikes.</description>
+<enclosure url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" medium="image"/>
+</item>
+<item>
+<title>AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal</title>
+<link>https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal</link>
+<guid isPermaLink="false">01cfd057a016cd318817ef5367f421ec944516c07fc991d0f50cafa058c02fc9</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 19:55:13 +0000</pubDate>
+<description>Like a real-life episode of "Suits," the demise of famed white-shoe Wall Street law firm Weil, Gotshal &amp; Manges has been the talk of the legal industry. And now an AI firm has entered the picture.</description>
+</item>
+<item>
 <title>iOS 27.2 adds two FaceTime features, including a personal favorite</title>
 <link>https://9to5mac.com/2026/10/30/ios-27-2-adds-two-facetime-features-including-a-personal-favorite</link>
 <guid isPermaLink="false">3ff85df8b96bf159af56438e53b0370dbfccbfa0652e9b018b2ef5a67f202ef6</guid>
@@ -238,7 +280,7 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>John Ternus defines his focus as Apple CEO with one word</title>
+<title>John Ternus used one word to describe his focus as Apple CEO</title>
 <link>https://9to5mac.com/2026/10/30/john-ternus-defines-his-focus-as-apple-ceo-with-one-word</link>
 <guid isPermaLink="false">5afcaf9d7052f92f62de153d139b666622ec6ecc158d622a292530cbad44c1ae</guid>
 <source>9to5Mac</source>
@@ -488,17 +530,6 @@
 <description>iPadOS 27.2 arrived this week as the latest noteworthy iPad software update, here are two new features it includes. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Silicon Valley wants you to invest in miracles</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles</link>
-<guid isPermaLink="false">57bd8cae501a4c7803bcdea65bff5258df6940e4c6836b6573eb0e88f1b387dc</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:11:05 +0000</pubDate>
-<description>Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, "pose catastrophic or existential risks to humanity," or best case, "bring forth an age of miracles"? To some extent, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Anthropic_miracles_K_Radtke_b5ca50.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Harley-Davidson's electric motorbike brand has 'substantial doubt' about its future</title>
@@ -1218,15 +1249,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/starlink-ukraine-1152x648-1792605015.jpg" medium="image"/>
 </item>
 <item>
-<title>Rivian expands joint venture with VW to include AI assistant</title>
-<link>https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant</link>
-<guid isPermaLink="false">f3117e1d89a120caf342486c6d7af76cd07596fa755739568448c9fcb6f60ef3</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 20:05:47 +0000</pubDate>
-<description>Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.</description>
-</item>
-<item>
 <title>Polymarket Halted International Trading After Hackers Drained Accounts</title>
 <link>https://www.wired.com/story/polymarket-flagship-platform-hack-traders-lose-money</link>
 <guid isPermaLink="false">508c0633940fb74d883b2ef310156c4fb1cddfd55ab34624bf83cce3a87d3a72</guid>
@@ -1260,17 +1282,6 @@
 <media:content url="https://media.wired.com/photos/6ae36f07feb0012f49429412/master/pass/Nothing%20Headphone%20Deals%20October%20102026%20top%20art%20SOURCE%20Shop.com.jpg" medium="image"/>
 </item>
 <item>
-<title>Popcorn bucket innovation is at an all-time low and the Dune: Part Three 'Double Sandworm' is proof</title>
-<link>https://www.engadget.com/2301587/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof</link>
-<guid isPermaLink="false">80caded14a1b27f655ba65c9313d1ad0d52e61aa85dee32399b8e65865b1be34</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:40:27 +0000</pubDate>
-<description>Just what the Sandworm bucket needed: a second hole.</description>
-<enclosure url="https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/popcorn-bucket-innovation-is-at-an-all-time-low-and-the-dune-part-three-double-sandworm-is-proof/l-intro-1793302293.jpg" medium="image"/>
-</item>
-<item>
 <title>Fake crypto app on Apple App Store linked to $23K wallet theft</title>
 <link>https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft</link>
 <guid isPermaLink="false">5f4f420d84fa2b024a678bba138e02addf7849735dc7ecdc620efb11dbb96569</guid>
@@ -1300,17 +1311,6 @@
 <description>President orders trade talks on foreign-made factory robots, threatens tariffs.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/6k_quick_delivery_robots-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Hacker may have stolen millions in a malware attack against online poker players</title>
-<link>https://www.engadget.com/2301500/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players</link>
-<guid isPermaLink="false">a37a47a1436fbfb97796a43d2969c5ca53e3ccdb71985d59776fdf259d99fa7d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:03:18 +0000</pubDate>
-<description>Wired has the story of a superuser cheating scandal.</description>
-<enclosure url="https://www.engadget.com/img/gallery/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/l-intro-1793300458.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/l-intro-1793300458.jpg" medium="image"/>
 </item>
 <item>
 <title>A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System</title>
@@ -1716,17 +1716,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>Reencle Essential Review: Same Scraps, Lower Price</title>
-<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
-<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
-<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>I Gave My Blood to the AI Death Clock</title>
 <link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
 <guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
@@ -1736,6 +1725,17 @@
 <description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
 <enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
+</item>
+<item>
+<title>Reencle Essential Review: Same Scraps, Lower Price</title>
+<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
+<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
+<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1892,17 +1892,6 @@
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
-</item>
-<item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
 <link>https://www.wired.com/story/petlibro-discount-code</link>
 <guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
@@ -1912,6 +1901,17 @@
 <description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
