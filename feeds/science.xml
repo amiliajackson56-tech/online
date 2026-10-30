@@ -4,6 +4,69 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Type 2 diabetes breakthrough as 54% achieve remission in just 6 months</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261029072129.htm</link>
+<guid isPermaLink="false">fe2b7ce798b141ea00dd883e4604e90fc54fc9eb16359a82590fe11bf3352acb</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
+<description>A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercise program achieved remission, compared with just 4% receiving usual care.</description>
+</item>
+<item>
+<title>Physicists created a tiny universe and watched time emerge without a clock</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261028234703.htm</link>
+<guid isPermaLink="false">d31d9b89f00e2b760633a514ea128750b0f7922cb227c804c320761968adc4e4</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 11:42:36 +0000</pubDate>
+<description>Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated quantum system that repeatedly expands and contracts, mimicking the Big Bang and a possible Big Crunch. Remarkably, the experiment showed that time could emerge from changes happening inside the system, without relying on an external clock.</description>
+</item>
+<item>
+<title>The asteroid killed the dinosaurs. Why did crocodiles survive?</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261030002922.htm</link>
+<guid isPermaLink="false">8cbc5e7f2766ed418664ef3f52e3d36ce0ec62f2c2183def80b3ff6ccd22fd8c</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 11:34:16 +0000</pubDate>
+<description>Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the catastrophic impact.</description>
+</item>
+<item>
+<title>A computer scientist breaks through a limit that stood since 1996</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261029072146.htm</link>
+<guid isPermaLink="false">3851ebd67dc2179d686bf7b038b8f9598201ec42e43ff1cf4fda3c42c77feb85</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 11:08:52 +0000</pubDate>
+<description>A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without sacrificing speed, overcoming a longstanding limitation of earlier methods. Its secret lies in a smarter way of sampling network connections at multiple scales.</description>
+</item>
+<item>
+<title>Hubble reveals a stunning twist in how the universe emerged from darkness</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261029072113.htm</link>
+<guid isPermaLink="false">808bb410a17849e34140fd593532c554a44ba12b3a70746b0cf2578f3491fd50</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 10:50:22 +0000</pubDate>
+<description>A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead.</description>
+</item>
+<item>
+<title>Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261029072117.htm</link>
+<guid isPermaLink="false">89869e161e870da2d8b86448c76f15f40331850e9e3e993e118c439ae30fbf6a</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 10:37:00 +0000</pubDate>
+<description>A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7 million people could suffer snake envenoming annually, while more than 800,000 survivors are left with long-term disabilities.</description>
+</item>
+<item>
+<title>Why some “lower-risk” childhood cancers turn deadly</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261028232717.htm</link>
+<guid isPermaLink="false">9707e632e32eeb1806d6f281e8110307f9a14fadc4d345c0e4830aea1e8a3517</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 10:15:28 +0000</pubDate>
+<description>Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlier and develop personalized treatments that improve survival while reducing unnecessary chemotherapy.</description>
+</item>
+<item>
 <title>November’s Night Sky Notes: Light-Day Away</title>
 <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away</link>
 <guid isPermaLink="false">de6d65e3030fdaab6c9c36b0e24eae79fb2aea87fb66cf71ef489ded3c07dd0a</guid>
@@ -13,6 +76,15 @@
 <description>Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]</description>
 <enclosure url="https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200" type="image/jpeg"/>
 <media:content url="https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200" medium="image"/>
+</item>
+<item>
+<title>Astronauts just gave the International Space Station a powerful upgrade</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261030002931.htm</link>
+<guid isPermaLink="false">1547ea0ab2a15d1cea2beb78510a0916f609e4a5b00ddcc2674da9f71597ce31</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 06:12:55 +0000</pubDate>
+<description>Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.</description>
 </item>
 <item>
 <title>APOD: 2026 October 30 – Haunting the Cepheus Flare</title>
@@ -35,6 +107,42 @@
 <description>The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg" medium="image"/>
+</item>
+<item>
+<title>Scientists confirm global warming is accelerating faster than ever recorded</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261027231200.htm</link>
+<guid isPermaLink="false">fa223b87357f334a1cdaa9ddea4619cd3a5e994b3952f9b44acac132fb9cc12e</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 03:50:51 +0000</pubDate>
+<description>Earth is warming faster than ever recorded, with scientists detecting a major acceleration in global temperatures since around 2015. A new study reveals that the warming rate has surged to approximately 0.35°C per decade, nearly double the average pace observed from 1970 to 2015. After removing natural climate fluctuations, researchers confirmed the acceleration with more than 98% statistical confidence.</description>
+</item>
+<item>
+<title>A mysterious star system just 16 light-years away may be hiding habitable planets</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261028232711.htm</link>
+<guid isPermaLink="false">38ac20632c986f180a622c8f610855ec1fd428a4800848783a05a31c9f3869ac</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 03:17:17 +0000</pubDate>
+<description>Astronomers have solved a 170-year-old planetary mystery in a nearby two-star system, discovering that a mysterious wobble was caused by stellar activity rather than a giant planet. Although Jupiter-sized worlds have been ruled out in key regions, smaller, potentially habitable planets could still be waiting to be discovered just 16 light-years from Earth.</description>
+</item>
+<item>
+<title>Scientists discover mysterious seahorse lookalikes that no one has ever seen alive</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261029072119.htm</link>
+<guid isPermaLink="false">ab0dbc25a36d955b6b0b18ed0bbc0fc69deae2fe11b4d2c08d9da180225323f9</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 02:07:19 +0000</pubDate>
+<description>Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed "sea muppets," these elusive creatures are known from just seven specimens, and no one has ever seen one alive.</description>
+</item>
+<item>
+<title>Scientists discover why chronic back pain feels so personal</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261028232706.htm</link>
+<guid isPermaLink="false">dab446e0cef40ce6d41051cc47c54807469a66b86fcbb831532703173495282f</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 00:26:37 +0000</pubDate>
+<description>A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited relief and why fear, anticipation, and past experiences can intensify chronic pain.</description>
 </item>
 <item>
 <title>Map Showing Potential Origins of Martian Meteorite Teghaza 001</title>
@@ -64,6 +172,15 @@
 <category>science</category>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03368-6 Pipe dreams.</description>
+</item>
+<item>
+<title>I built the UK government’s metascience unit — here’s what countries need to know</title>
+<link>https://www.nature.com/articles/d41586-026-03502-4</link>
+<guid isPermaLink="false">86bbee8926ea1c56041a02771df5e4e752f6a456a40d3f9fdd82a4047c2a2b2c</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4 To find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change.</description>
 </item>
 <item>
 <title>Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds</title>
@@ -1185,15 +1302,6 @@
 <description>Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03258-x Understanding the triggers of autoimmunity might lead to better therapies, with hair loss among the conditions for which underpinning factors have come to light.</description>
 </item>
 <item>
-<title>Women might have invented language — but not alone</title>
-<link>https://www.nature.com/articles/d41586-026-03392-6</link>
-<guid isPermaLink="false">1907b327dea6bd2910089aa1f3a0f7736a488b5c738e801e2f5eb9b4c7087afa</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 26 October 2026; doi:10.1038/d41586-026-03392-6 An eloquent analysis of the origins of human speech suggests that social cohesion, not conflict, drove our use of words.</description>
-</item>
-<item>
 <title>Scientists reveal the hidden danger of missing blood pressure medication</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261024222028.htm</link>
 <guid isPermaLink="false">0c549f53de1c8d23749a0cd81684d4afdda899695ee1f13186ad9506757cae8e</guid>
@@ -1212,33 +1320,6 @@
 <description>A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researchers also found no significant overall health benefits from alcohol, with risks rising as consumption increases.</description>
 </item>
 <item>
-<title>Three giant black holes discovered in a galaxy from the dawn of time</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261024222000.htm</link>
-<guid isPermaLink="false">95a7958d3a0a4c3e8258d865047420b51b0885d1d3e759cacbabe2278ccb9ecb</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 12:07:01 +0000</pubDate>
-<description>Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy. Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away. One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict.</description>
-</item>
-<item>
-<title>New evidence suggests spinosaurus spent most of its life underwater</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261024221956.htm</link>
-<guid isPermaLink="false">270f813b923d9e682c1174e5e45a0601c81a837892d5b2977f09482021613052</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 11:52:54 +0000</pubDate>
-<description>Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water. Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic. Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine reptiles previously thought to be fully aquatic actually spent considerable time on land.</description>
-</item>
-<item>
-<title>Scientists discover how pancreatic cancer rewrites its DNA to escape treatment</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261024221849.htm</link>
-<guid isPermaLink="false">73d0747c2bd0b3c68b22b8f500052a93ab828eacec401d30af38fe166686f80e</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 11:00:25 +0000</pubDate>
-<description>Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment. In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease.</description>
-</item>
-<item>
 <title>Low-dose aspirin linked to 70% lower dementia risk, but there's a catch</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261024222026.htm</link>
 <guid isPermaLink="false">7b388a64c95b0e7221cd5782e1813c662d5f9fd769f255292fe20d4f8e90e3fa</guid>
@@ -1246,86 +1327,5 @@
 <category>science</category>
 <pubDate>Sun, 25 Oct 2026 10:21:48 +0000</pubDate>
 <description>A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect. The discovery suggests that genetics could help explain why some people benefit while others do not.</description>
-</item>
-<item>
-<title>This mysterious mushroom makes people see hundreds of tiny humans</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261024222021.htm</link>
-<guid isPermaLink="false">c3b941caf62543aace2ca652401f619e60999d47557464d4f93b7c1e58d3efcb</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 06:36:10 +0000</pubDate>
-<description>For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world. Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines.</description>
-</item>
-<item>
-<title>Popular cannabis sleep gummies may have a hidden dark side</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261024221952.htm</link>
-<guid isPermaLink="false">dda7a4c8882aea5b25ba1e9bf7d99917f4e072d558712bd112791f8b6b044b4f</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 05:08:39 +0000</pubDate>
-<description>A cannabis-derived ingredient commonly found in sleep gummies may be more habit-forming than previously thought, with new research showing that repeated exposure caused tolerance and withdrawal symptoms in mice. Scientists warn that CBN may carry risks similar to THC, although its long-term effects in humans remain largely unknown.</description>
-</item>
-<item>
-<title>Astronomers may have discovered the first moon beyond our Solar System</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023736.htm</link>
-<guid isPermaLink="false">8b3a66dec3cc3753de710d3dfbc668882dac6ff5314549e0a45711d794c772f7</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 03:13:05 +0000</pubDate>
-<description>Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System. Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star. The unusual arrangement challenges traditional definitions of planets and moons, leaving scientists unsure what to call it.</description>
-</item>
-<item>
-<title>Scientists discover a hidden flaw that challenges 40 years of superconductor science</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023731.htm</link>
-<guid isPermaLink="false">8792a4f6e349b463bae097427b600bbf0b0930a1ef7518ef0ffb9c43c1559847</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sun, 25 Oct 2026 02:19:07 +0000</pubDate>
-<description>A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity. The discovery challenges decades of scientific assumptions and could explain why some superconductors outperform others.</description>
-</item>
-<item>
-<title>Could lowering high blood pressure be as simple as stimulating your ear?</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023732.htm</link>
-<guid isPermaLink="false">3cb80aed2ef41681c11689d4d6b43d59485d41b5b4a279ad8411d7e2f5c49b61</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 24 Oct 2026 13:15:00 +0000</pubDate>
-<description>A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure. In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated. Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood pressure.</description>
-</item>
-<item>
-<title>A hidden bias in human language challenges 70 years of science</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023738.htm</link>
-<guid isPermaLink="false">7ed1d07eadcb4b2aa7d57cc94bdf3366706e55d3d40b7b9069e51380dff93c03</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 24 Oct 2026 13:01:22 +0000</pubDate>
-<description>A groundbreaking study challenges 70 years of assumptions about how human language works. By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone. Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts.</description>
-</item>
-<item>
-<title>NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023734.htm</link>
-<guid isPermaLink="false">e57267176fcd62cf253bf365d4689121fe24c593399d554e1d8f3dfebb9d8702</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 24 Oct 2026 12:50:06 +0000</pubDate>
-<description>Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed. New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation.</description>
-</item>
-<item>
-<title>Astronomers uncover a mysterious magnetic web above the Sun</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023723.htm</link>
-<guid isPermaLink="false">5fe152911bcf2044b8da5e7e08aebb2201d13fafcbcdd04baa39a84892966bac</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 24 Oct 2026 12:23:38 +0000</pubDate>
-<description>The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world. Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface. They also mapped magnetic fields inside towering jets of solar material, revealing how those fields change with height.</description>
-</item>
-<item>
-<title>Scientists propose a way to detect dangerous “mirror life” before it exists</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261023023726.htm</link>
-<guid isPermaLink="false">9875520d7d6215b103d3deead0a66615e50d1e9e12357706dbd17b027b77f294</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Fri, 23 Oct 2026 06:37:26 +0000</pubDate>
-<description>Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created. Using special fluorescent molecules and a type of polarized light also used in 3D movie technology, researchers believe they could distinguish ordinary organisms from their mirror-image counterparts.</description>
 </item>
 </channel></rss>
