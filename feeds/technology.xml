@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
+<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
+<guid isPermaLink="false">b9ee8bb30716fa37b159432c17457de6c675d196a614236a5622c85e7238dfdd</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
+<description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Rare meteorite from Mars gives us a view into its ancient crust</title>
+<link>https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust</link>
+<guid isPermaLink="false">0b770eef39da304ff9f1098b106aba3f25c31f4451d0193254171074aaa2ce22</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:13:42 +0000</pubDate>
+<description>A meteorite found in the Sahara is a rare piece of Mars' ancient crust.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-3-1152x648.jpeg" medium="image"/>
+</item>
+<item>
 <title>Satlyt takes another step toward turning satellites into space data centers</title>
 <link>https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers</link>
 <guid isPermaLink="false">3beac12b12d70b0d0cb9589b50dd43bcfe64b960d2807b71390f22a18b054c1e</guid>
@@ -11,6 +33,17 @@
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 18:01:24 +0000</pubDate>
 <description>Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers.</description>
+</item>
+<item>
+<title>HomeKit Weekly: SwitchBot’s K11+ Pro packs strong suction and Apple Home support into a tiny robo vacuum</title>
+<link>https://9to5mac.com/2026/10/30/switchbot-k11-pro</link>
+<guid isPermaLink="false">094700a9a5e2a5fb5acae739b789e05af160c7752919cd346f86d8849718541b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 18:00:00 +0000</pubDate>
+<description>The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny vacuum, a small dock, and Matter support so it works with Apple Home. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/SwitchBot-K11-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/SwitchBot-K11-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Zest’s new AI agent finds restaurants and books reservations over text</title>
@@ -105,7 +138,18 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
-<description>The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.</description>
+<description>The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.</description>
+</item>
+<item>
+<title>Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</title>
+<link>https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html</link>
+<guid isPermaLink="false">4fa40013294f33ebe2ef52d52faa3d92a77d1ab7f076419c68c6641f2e680422</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 16:58:44 +0000</pubDate>
+<description>Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based "targeted intrusion adversary" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg" medium="image"/>
 </item>
 <item>
 <title>Thousands of “ghost students” use AI to steal millions in student loans, DOJ says</title>
@@ -433,17 +477,6 @@
 <description>LiveWire's warns that it may not survive its current financial difficulties.</description>
 <enclosure url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/harley-davidsons-electric-motorbike-brand-has-substantial-doubt-about-its-future/l-intro-1793365250.jpg" medium="image"/>
-</item>
-<item>
-<title>Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview</link>
-<guid isPermaLink="false">1c953c6f303dffb252a480a889db46f1c094b8286ebd259939b02c786fab2893</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:01:14 +0000</pubDate>
-<description>After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. "I think, on net, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Vrg_illo_Sam_Altman_stock_trial.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>CISA says max severity GitLab flaw now exploited in the wild</title>
@@ -1661,17 +1694,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>Reencle Essential Review: Same Scraps, Lower Price</title>
-<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
-<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
-<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>I Gave My Blood to the AI Death Clock</title>
 <link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
 <guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
@@ -1681,6 +1703,17 @@
 <description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
 <enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
+</item>
+<item>
+<title>Reencle Essential Review: Same Scraps, Lower Price</title>
+<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
+<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
+<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1782,17 +1815,6 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>Loop Earplugs Discount Codes: 40% Off</title>
-<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
-<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>NZXT Discount Codes: 50% Off in November 2026</title>
 <link>https://www.wired.com/story/nzxt-discount-code</link>
 <guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
@@ -1800,6 +1822,17 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
 <description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
+<title>Loop Earplugs Discount Codes: 40% Off</title>
+<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
+<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
@@ -1826,15 +1859,15 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
+<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
@@ -1848,15 +1881,15 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
-<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
-<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -1945,17 +1978,6 @@
 <description>In a report released today, TrendForce says that with strong demand for the iPhone Duo out of the gate, Apple is poised to capture nearly 30% of the global foldable smartphone market by 2027. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/Craig-Federighi-on-how-Apple-helps-developers-make-the-most-of-the-iPhone-Duo.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>As US ties fray, Europe plans first undersea cable link to Greenland</title>
-<link>https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland</link>
-<guid isPermaLink="false">52cf4d98c3bcf391c8d94c2924f26a86f2ecd2645732120e4976e366d433fb0f</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 22:35:50 +0000</pubDate>
-<description>Europe's Pan-Arctic Cable will bypass US to link Canada, Japan, and South Korea.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/EU-and-Greenland-meeting-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>New MacBook Pro, iPad mini, and more now available for pre-order on Amazon</title>
@@ -3045,27 +3067,5 @@
 <description>Today alongside iOS 27.2 , Apple has also released iOS 26.7.2, a security-focused update for iPhones still running iOS 26. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/iOS-26.7-hero.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Siri AI keeps getting better, here’s what’s new in iOS 27.2</title>
-<link>https://9to5mac.com/2026/10/26/siri-ai-keeps-getting-better-heres-whats-new-in-ios-27-2</link>
-<guid isPermaLink="false">cfc4fba26b7314686c51f3b9ab9036ea60d738b635e41f01ae4b5072ae74d164</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:36:02 +0000</pubDate>
-<description>Apple is rolling out its 27.2 software updates today, and among a variety of new features , they introduce several improvements for Siri AI. Here’s what’s new. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-27-dark.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento</title>
-<link>https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html</link>
-<guid isPermaLink="false">4764a547323cc60e09a947be683393ab6b2044139c1d655ed05398802e04247e</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 18:12:22 +0000</pubDate>
-<description>An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. "When you</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg" medium="image"/>
 </item>
 </channel></rss>
