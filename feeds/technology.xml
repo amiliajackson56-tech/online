@@ -4,6 +4,64 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Intel’s stock crashes, knocking $12B from government’s stake</title>
+<link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake</link>
+<guid isPermaLink="false">5ae1d67b9d2847639ce6a82ee143bd747d5c9f6e4785830aa9f320b6ac2456c0</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
+<description>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.</description>
+</item>
+<item>
+<title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, report says</title>
+<link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
+<guid isPermaLink="false">1abfdb6dc9802b6f4db000a2839732bf56245dad3fee97c879e906fb6b0d49b5</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
+<description>The new report says the AI lab will likely qualify for a high junk rating.</description>
+</item>
+<item>
+<title>Applebee’s exposed customers’ personal data after leaving database password in app</title>
+<link>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app</link>
+<guid isPermaLink="false">1693b7cddd623e111e43a685b8ae4d49bddc67bbc59676b5a8cf6b559d68154e</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:48:53 +0000</pubDate>
+<description>EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.</description>
+</item>
+<item>
+<title>‘Pluribus’ season 2 reportedly begins filming tomorrow</title>
+<link>https://9to5mac.com/2026/10/30/pluribus-season-2-reportedly-begins-filming-tomorrow</link>
+<guid isPermaLink="false">cabc2a811c4b88e8441dd48dca8c755dfdd412bcf031d451182d2724bd986997</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:44:44 +0000</pubDate>
+<description>According to a report published earlier this month, the second season of Apple TV’s acclaimed sci-fi drama ‘ Pluribus ’ is scheduled to begin filming tomorrow, October 31, in Albuquerque, New Mexico. Here’s what we know. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/pluribus-s1-rhea-seehorn-dark.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/pluribus-s1-rhea-seehorn-dark.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Last-minute Halloween costumes for tech nerds</title>
+<link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds</link>
+<guid isPermaLink="false">03ea0cb6a82382c62e3354aee2ff78c9842f644864c9dbb0676852bf3f44013f</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
+<description>No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.</description>
+</item>
+<item>
+<title>How a Contractor’s Claude Agent Got Into the Pentagon</title>
+<link>https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon</link>
+<guid isPermaLink="false">c063c2f3517d60612df95490e5ac7862a7ac5e5457cfc46be40545700944a180</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 21:19:26 +0000</pubDate>
+<description>This week on “Uncanny Valley,” we discuss the contractor who plugged their AI agent into a Pentagon system, Anthropic’s IPO filing, and the volunteers gearing up to counter ICE at the midterms.</description>
+<enclosure url="https://media.wired.com/photos/6ae29474af20331957eab922/master/pass/business-Uncanny-Valley-anthropic-ipo.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae29474af20331957eab922/master/pass/business-Uncanny-Valley-anthropic-ipo.jpg" medium="image"/>
+</item>
+<item>
 <title>Cracks are emerging in the AI spending boom</title>
 <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom</link>
 <guid isPermaLink="false">434071bc563a35a61d42cdec4059fec7d519540ef1bd10914bc19730b308f9b6</guid>
@@ -13,9 +71,9 @@
 <description>Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.</description>
 </item>
 <item>
-<title>Linux kernel exploit enables remote root attacks on MPTCP servers</title>
-<link>https://www.bleepingcomputer.com/news/security/linux-kernel-exploit-enables-remote-root-attacks-on-mptcp-servers</link>
-<guid isPermaLink="false">10e13d7126aacbdccdc0444c8c103062e854ab5b0851c5eb85d0d676ecc5b5ff</guid>
+<title>Critical Linux kernel flaw allows remote root attacks on MPTCP servers</title>
+<link>https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers</link>
+<guid isPermaLink="false">6617c8ee53373e8872f5f73d715a2d396aca4428a8baa567862aead04ad640f3</guid>
 <source>BleepingComputer</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 21:09:46 +0000</pubDate>
@@ -1136,15 +1194,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Elon Musk is ‘truly a genius,’ says Vladimir Putin</title>
-<link>https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin</link>
-<guid isPermaLink="false">11857d12c011fb4482426ca2c593c944627c88d1112c81bc9d35cf708a320cb8</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:51:29 +0000</pubDate>
-<description>Putin said that he and Musk are in "close contact" about Rassvet, Russia's Starlink-like satellite connectivity project.</description>
-</item>
-<item>
 <title>VRChat says it's not adding AI labels despite user survey showing people want that</title>
 <link>https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that</link>
 <guid isPermaLink="false">f74fe344a1fab0a03eb4bc4557b904c65d6929962639b3f5a73b5dd34e1319b7</guid>
@@ -1176,15 +1225,6 @@
 <description>Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]</description>
 </item>
 <item>
-<title>Amazon reported booming cloud revenue but otherwise missed expectations</title>
-<link>https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations</link>
-<guid isPermaLink="false">7f0753368b3a8b32d999f9dc7cf7e0604d4b3067e5dce8307a472648d4fcc502</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:20:47 +0000</pubDate>
-<description>The biggest ouch of the report was its negative free cash flow of $2.4 billion.</description>
-</item>
-<item>
 <title>Fan fiction website AO3 is down, and it could take weeks to recover</title>
 <link>https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks</link>
 <guid isPermaLink="false">d2785366febadb57ed69146c90170942cc286a99bb9921bccbfcca2ca1e4c364</guid>
@@ -1207,15 +1247,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>GM reaches $220M settlement over selling drivers’ private data</title>
-<link>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data</link>
-<guid isPermaLink="false">5edb26362daf4b2a7dab270b7bdb1662f5a925e5841a5331876646e5140d1176</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:01:04 +0000</pubDate>
-<description>As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.</description>
-</item>
-<item>
 <title>Reddit will soon require an account for most content</title>
 <link>https://9to5mac.com/2026/10/29/reddit-will-soon-require-an-account-for-most-content</link>
 <guid isPermaLink="false">37f8489d91560efd665959e794ab30b9898b6a3a40ae8f280265190b4f6ca8fa</guid>
@@ -1236,15 +1267,6 @@
 <description>This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.</description>
 <enclosure url="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" medium="image"/>
-</item>
-<item>
-<title>Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident</title>
-<link>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks</link>
-<guid isPermaLink="false">80872e49b54e34ac7991dd2febad08a80c9392a02e9a4860b426ae9ab2f79108</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 20:43:56 +0000</pubDate>
-<description>The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.</description>
 </item>
 <item>
 <title>Reddit will force users to log in as AI is killing search traffic</title>
@@ -1749,17 +1771,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>I Gave My Blood to the AI Death Clock</title>
-<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
-<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
-<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
-</item>
-<item>
 <title>Reencle Essential Review: Same Scraps, Lower Price</title>
 <link>https://www.wired.com/review/reencle-essential-electric-composter</link>
 <guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
@@ -1769,6 +1780,17 @@
 <description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
 <enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>I Gave My Blood to the AI Death Clock</title>
+<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
+<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
+<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1870,17 +1892,6 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Loop Earplugs Discount Codes: 40% Off</title>
 <link>https://www.wired.com/story/loop-earplugs-discount-code</link>
 <guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
@@ -1888,6 +1899,17 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
 <description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
@@ -1914,6 +1936,17 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
+<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
+<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+</item>
+<item>
 <title>Dermstore Coupons: 25% Off for November 2026</title>
 <link>https://www.wired.com/story/dermstore-promo-code</link>
 <guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
@@ -1934,17 +1967,6 @@
 <description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
-<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
-<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
-<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -2132,17 +2154,6 @@
 <description>Apple unveiled its MacBook Pro with PROLED XDR today, and the all-new model features the return of a beloved design feature: a glowing Apple logo on the lid. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-macbook-pro-proled-xdr-glow-logo-apple-glow.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The New M6 MacBook Pro Has a Serious Price Problem</title>
-<link>https://www.wired.com/story/m6-macbook-pro-price-problem</link>
-<guid isPermaLink="false">1c717b3d1d76420a8d26c750aeae5c387006527fdbe5e30c0c36d39b37a13248</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:57:22 +0000</pubDate>
-<description>For $1,999, you could own an M6 Mac Mini and an M5 MacBook Air instead, both of which are on sale right now.</description>
-<enclosure url="https://media.wired.com/photos/6ae217bc6d6203230c9f52b5/master/pass/macbook%20pro%20m6%20deals%20post%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae217bc6d6203230c9f52b5/master/pass/macbook%20pro%20m6%20deals%20post%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Download the new MacBook Pro with PROLED XDR Display wallpaper</title>
@@ -3056,16 +3067,5 @@
 <description>It’s been a busy fall for Apple. iOS and macOS 27 arrived in September, iPhone Duo went on sale just a few days ago, and more Mac announcements are expected later this week. Between the new software and hardware, there’s plenty for Apple users to explore. Of all these announcements, the iPhone Duo has arguably attracted the most attention. As the first iPhone with a fundamentally different form factor, it introduces new possibilities for how we use our phones. But new hardware is only part of the story. Just as important is how apps take advantage of it. For an app like Craft , which brings notes, tasks, and documents together in one place, the larger display and new multitasking capabilities open up interesting new ways to work. Craft is ready for iPhone Duo from day one, with an interface designed to take advantage of its new form factor. And while the Duo is getting much of the attention right now, Craft has also seen a steady stream of improvements across iPhone, iPad, and Mac over</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/craft.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/craft.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple raises trade-in values for iPads and Macs, with increases of up to $365</title>
-<link>https://9to5mac.com/2026/10/26/apple-raises-trade-in-values-for-ipads-and-macs-with-increases-of-up-to-365</link>
-<guid isPermaLink="false">c4b057601b3bb524fe492624666cc3c9ab16c00cf791f4e9e0aaf20f324043bc</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 19:32:18 +0000</pubDate>
-<description>Apple today updated its trade-in values for iPads and Macs, marking the second time in two months that the company has increased payouts for both product categories. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-ipad.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo-ipad.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
