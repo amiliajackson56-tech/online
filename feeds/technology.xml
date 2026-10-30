@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Rivian’s autonomy gamble faces its first real test</title>
+<link>https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026</link>
+<guid isPermaLink="false">256174e04f2a657aa0f8a469f133ed9d3e150bd030afd21b60129a141f3110d9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:16:09 +0000</pubDate>
+<description>During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a crucial test later this year, when it rolls out its point-to-point hands-free driving feature - first […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2277183149.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts</title>
+<link>https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale</link>
+<guid isPermaLink="false">56f001a8cf9734e5b9cb4947d1579f293a4499f60a67e9724aed499fdb6b624f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:01:07 +0000</pubDate>
+<description>Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to the HDMI ports. And right now, it’s discounted at Walmart, with the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268611_Vizio_Mini_LED_Quantum_TV_JHiggins_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google’s first data center satellite is online and writing poetry</title>
+<link>https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry</link>
+<guid isPermaLink="false">42474e919319ea83293b5e8b130d585f42bee6a5933f1c6c38025551e9817e97</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 17:00:00 +0000</pubDate>
+<description>The first TPU in space is a running a Google DeepMind Gemma 4 model and writing cheesy poetry.</description>
+</item>
+<item>
 <title>New tvOS 27.2 features to try for an upgraded Apple TV experience</title>
 <link>https://www.engadget.com/2302449/tvos-27-2-features-try-upgraded-apple-tv-experience</link>
 <guid isPermaLink="false">6c2c12375ebde64ecdbe054eedd09a66da4699a251ae6aafa15f9d55c305a101</guid>
@@ -86,6 +117,17 @@
 <description>As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/googlenestlearningthermostatthevergedealsoct29.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/googlenestlearningthermostatthevergedealsoct29.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them</title>
+<link>https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html</link>
+<guid isPermaLink="false">33f30c5083f66cd6f44c09a0b5bac1262f215f8aaa3ea3f9b0ee77ab33fd1eb6</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 15:17:28 +0000</pubDate>
+<description>TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg" medium="image"/>
 </item>
 <item>
 <title>Deals: Week 1 early Black Friday Doorbusters, AirTag 2 $17 ea, HomeView, Apple Watch Ultra 4, more</title>
@@ -185,6 +227,17 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours</title>
+<link>https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html</link>
+<guid isPermaLink="false">8fc971e55b17c65a2d3492eb5e2c0ae31dd7abaf787a00f62ba8ad49a9585c7b</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:08:14 +0000</pubDate>
+<description>Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg" medium="image"/>
+</item>
+<item>
 <title>North Korean hackers blamed for stealing record $6.3B in Binance breach</title>
 <link>https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach</link>
 <guid isPermaLink="false">6d139ee890291528fcaddb46998def2b95e19912ee00373059c4c792cf86ad78</guid>
@@ -238,7 +291,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 13:52:14 +0000</pubDate>
-<description>Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's […]</description>
+<description>Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's Takaoka plant in Toyota […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
@@ -402,17 +455,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>The touchscreen MacBook Pro is just a MacBook Pro with a touchscreen</title>
-<link>https://www.theverge.com/tech/1022628/apple-macbook-pro-proled-xdr-touchscreen-oled-impressions-totally-normal</link>
-<guid isPermaLink="false">98d19a5ea846ff44f902db2538c78c249845fd40a4c8626af70883672db0bfb2</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
-<description>Apple's long-awaited touchscreen MacBook Pro is finally here. I got to try this MacBook that, according to the last two Apple CEOs, shouldn't exist. The most surprising thing is how normal it is. The MacBook Pro with PROLED XDR Display (what a name) has one of the nicest screens I've seen on a laptop. The […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0043.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Lenovo Googlebook 15 review: Your Android phone's new best friend</title>
 <link>https://www.engadget.com/2301498/lenovo-googlebook-15-review</link>
 <guid isPermaLink="false">570dc12cb2fe46b82532753f5afd9d19e294acdcc9aca33838422c13f661372b</guid>
@@ -433,17 +475,6 @@
 <description>The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block legitimate traffic. A configuration change could interrupt a service. An endpoint policy could affect an application</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance hackers stole $6.3 billion in record-breaking crypto heist</title>
-<link>https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist</link>
-<guid isPermaLink="false">87d27a9f8a0972f50737729b865ab580f1bcb162d9885ea9fa08e86b75154f0a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 11:44:53 +0000</pubDate>
-<description>Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes</title>
@@ -1139,15 +1170,6 @@
 <description>A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]</description>
 </item>
 <item>
-<title>Where was my invite to the — wait, what? Airbnb had a gala?</title>
-<link>https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala</link>
-<guid isPermaLink="false">b7644ed749cef1853f33913f194e7aad07e26181151447a877a2de364342cbd3</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 19:17:49 +0000</pubDate>
-<description>Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?</description>
-</item>
-<item>
 <title>ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories</title>
 <link>https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html</link>
 <guid isPermaLink="false">7f056f665bfe428e129ca46d0ad2f3372b43502d041f393e9bd2d3b0dd8f6dfc</guid>
@@ -1595,17 +1617,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>Reencle Essential Review: Same Scraps, Lower Price</title>
-<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
-<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
-<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>I Gave My Blood to the AI Death Clock</title>
 <link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
 <guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
@@ -1615,6 +1626,17 @@
 <description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
 <enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
+</item>
+<item>
+<title>Reencle Essential Review: Same Scraps, Lower Price</title>
+<link>https://www.wired.com/review/reencle-essential-electric-composter</link>
+<guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
+<enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1716,17 +1738,6 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>Loop Earplugs Discount Codes: 40% Off</title>
-<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
-<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>NZXT Discount Codes: 50% Off in November 2026</title>
 <link>https://www.wired.com/story/nzxt-discount-code</link>
 <guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
@@ -1734,6 +1745,17 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
 <description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
+<title>Loop Earplugs Discount Codes: 40% Off</title>
+<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
+<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
@@ -1760,15 +1782,15 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
-<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
-<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
 </item>
 <item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
@@ -1782,15 +1804,15 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
+<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -3045,27 +3067,5 @@
 <description>An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. "When you</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdh3aURB79okzf_mo3sPzJy6vKRiWdPc4gyrE93xmMW-MRgYHrOuJ5yya0TpovJvi-2ol3GubNo5ir76ui-2jBo1jUvOd45Z8f98YeGVAECGcwgpRetuyxFxGWY8bBOB4a0G1H5YiYoYJ3Kd8YauFJGUIVTKYVHsLrvDElRe8sOuD4Y8CKMrAtCA6eJazr/s1600/m-code.jpg" medium="image"/>
-</item>
-<item>
-<title>PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw</title>
-<link>https://thehackernews.com/2026/10/php-issues-second-windows-security.html</link>
-<guid isPermaLink="false">c85198bbddef2ec11ea9bd7e48957ff3175a054e5f58fb8e067ecdf2918b369c</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:45:57 +0000</pubDate>
-<description>PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg" medium="image"/>
-</item>
-<item>
-<title>Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware</title>
-<link>https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html</link>
-<guid isPermaLink="false">4b8826d6a66e074543d42962242b43c47c115efa1a641d10702956c2bb749253</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 15:52:40 +0000</pubDate>
-<description>Cybersecurity researchers are calling attention to what they say is a "recurring social engineering pattern" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. "A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGj3R5UeJnb_pAG2XH5cEGUzKbzeRHLNAES48EgHC8ssOnuDbDOqJA9ydPHJqmxYONu2lCeu42YOv_e_XA2RtX5jVGsMkQY0QAGrzoqmY4qU6NnWrPTfX0V-U68B9Z80KHLJvZDtUeSm4dvkp06oJ9JmgJvr7CDYZ-48fwAOENt31Lrcpr4M6O_4x6ovLZ/s1600/support.jpg" medium="image"/>
 </item>
 </channel></rss>
