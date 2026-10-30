@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>November’s Night Sky Notes: Light-Day Away</title>
+<link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away</link>
+<guid isPermaLink="false">de6d65e3030fdaab6c9c36b0e24eae79fb2aea87fb66cf71ef489ded3c07dd0a</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
+<description>Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]</description>
+<enclosure url="https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200" type="image/jpeg"/>
+<media:content url="https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200" medium="image"/>
+</item>
+<item>
 <title>APOD: 2026 October 30 – Haunting the Cepheus Flare</title>
 <link>https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare</link>
 <guid isPermaLink="false">7cf97945aa6283b855de7e1872c35aa41404e23a4111738ea616b3d09e2010a0</guid>
@@ -101,17 +112,6 @@
 <description>Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048" medium="image"/>
-</item>
-<item>
-<title>Send Your Name to Titan Aboard NASA’s Dragonfly Mission</title>
-<link>https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission</link>
-<guid isPermaLink="false">f75e45971bfd7d45b3facb63789e5f209929153beff08ff2b844fbb8c5ca937b</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 15:10:18 +0000</pubDate>
-<description>You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first science mission to fly and explore the surface of another world. To have your […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>A single brain signal may explain schizophrenia's most puzzling symptoms</title>
