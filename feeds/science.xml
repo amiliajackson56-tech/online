@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s James Webb Space Telescope Captures Eerie Cat’s Head</title>
+<link>https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head</link>
+<guid isPermaLink="false">70e9b9b09a888a11e7a15a1ce0ee81800523a8ce1209de77ab967a1683ff91e9</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 15:56:26 +0000</pubDate>
+<description>Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048" medium="image"/>
+</item>
+<item>
+<title>NASA Explores Potential Commercial Servicing for Hubble Telescope</title>
+<link>https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope</link>
+<guid isPermaLink="false">c3931c28bbddbc00937f2da866df650b1311d478aabab8d028238dadfdc1ef68</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 30 Oct 2026 14:51:21 +0000</pubDate>
+<description>NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&amp;h=1020&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&amp;h=1020&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Type 2 diabetes breakthrough as 54% achieve remission in just 6 months</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261029072129.htm</link>
 <guid isPermaLink="false">fe2b7ce798b141ea00dd883e4604e90fc54fc9eb16359a82590fe11bf3352acb</guid>
@@ -243,28 +265,6 @@
 <description>NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California. Asher, a veteran test pilot and aerospace engineer with decades of experience in flight research and operations, has served as the center’s acting director since March. “Troy has spent his career pushing the boundaries of flight, […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638" medium="image"/>
-</item>
-<item>
-<title>NIH–NASA QuSAFE Challenge</title>
-<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge</link>
-<guid isPermaLink="false">9cdd9476a6011aa642728dbb6ec6c16b969058714413c0e0dc55dbdf5d3a7466</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 17:44:37 +0000</pubDate>
-<description>The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs, such as organoids and microphysiological systems (MPS), to improve drug safety while reducing animal use. In vitro NAMs, such as organoids and microphysiological systems (MPS), can […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000" medium="image"/>
-</item>
-<item>
-<title>Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA</title>
-<link>https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa</link>
-<guid isPermaLink="false">0ea7abfcbee7e1720d3cb56d3a080adc6dc8ca9ab360731afb8484013f34deab</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 15:21:23 +0000</pubDate>
-<description>Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a enviar su nombre a bordo de la aeronave de ala giratoria Dragonfly de la agencia […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>A single brain signal may explain schizophrenia's most puzzling symptoms</title>
