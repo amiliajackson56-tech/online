@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Waymo taps Toyota to supply robotaxis for Japan and the U.K.</title>
+<link>https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk</link>
+<guid isPermaLink="false">36df12894e2a129aef065bef54cfb0507a5d215852fd73181707d67a3f93b79d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 07:01:00 +0000</pubDate>
+<description>Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.</description>
+</item>
+<item>
 <title>Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen</title>
 <link>https://thehackernews.com/2026/10/binance-suffers-security-breach.html</link>
 <guid isPermaLink="false">d563e9e1aaec1f91d767e2b0969b8f0b1738657d75a69c29f605085a2106660c</guid>
@@ -74,10 +83,10 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 23:44:56 +0000</pubDate>
-<description>The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.</description>
+<description>The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.</description>
 </item>
 <item>
-<title>AWS will be a $1T business, Jassy says. But first, it will spend big.</title>
+<title>AWS will be a $1T business, Jassy says — but first, it will spend big</title>
 <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big</link>
 <guid isPermaLink="false">f3faa96e8f7b995be1f0ca7ac03256cc764441d250b4b7381e67380a5a00ce24</guid>
 <source>TechCrunch</source>
@@ -852,15 +861,6 @@
 <media:content url="https://www.engadget.com/img/gallery/fromsoftware-delays-the-duskbloods-until-2027/l-intro-1793286117.jpg" medium="image"/>
 </item>
 <item>
-<title>Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy</title>
-<link>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy</link>
-<guid isPermaLink="false">d954ad749005be547f5fe619182620993d8e1a040db9fa51ed202dfe004eff80</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-<description>Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.</description>
-</item>
-<item>
 <title>The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself</title>
 <link>https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis</link>
 <guid isPermaLink="false">7472c3c6cdd911f6bd88bdf974fdabd45064a925b43f31e9408688e9d5967544</guid>
@@ -1379,17 +1379,6 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
-<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
-<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
-</item>
-<item>
 <title>Dermstore Coupons: 25% Off for November 2026</title>
 <link>https://www.wired.com/story/dermstore-promo-code</link>
 <guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
@@ -1421,6 +1410,17 @@
 <description>Save on today’s top Skullcandy Promo Codes for Crusher Evo headphones, 36% off Crusher ANC 2 noise-canceling headphones, and more with amazing deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
+<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
+<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>Bluesky Is Blocking Links to a Major Leak of DHS Employee Records</title>
