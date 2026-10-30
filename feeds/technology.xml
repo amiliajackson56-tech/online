@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Binance hackers stole $6.3 billion in record-breaking crypto heist</title>
+<link>https://www.theverge.com/tech/1023021/binance-hack-billions-biggest-crypto-heist</link>
+<guid isPermaLink="false">87d27a9f8a0972f50737729b865ab580f1bcb162d9885ea9fa08e86b75154f0a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 11:44:53 +0000</pubDate>
+<description>Binance has disclosed that $6.3 billion worth of crypto funds have been stolen from the platform, in what's believed to be the biggest cryptocurrency hack on record. In a series of updates posted to X, the crypto exchange said that user funds are safe, and that around $3 billion of the impacted assets have been […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK428_CRYPTO_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes</title>
+<link>https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes</link>
+<guid isPermaLink="false">39434c94035494e36e6b60cd7292b748229b213de15af189cdffc8c6dbfdada6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 11:36:52 +0000</pubDate>
+<description>Multiple crypto-tracing firms say notorious North Korean hackers TraderTraitor may be behind the largest digital heist in history—with billions of crypto likely gone for good.</description>
+<enclosure url="https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/master/pass/102026-Binance%20Hacked.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft finally fixes VPN issues caused by September updates</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates</link>
+<guid isPermaLink="false">3871bb25ff93dffb222dbd4da4670bd063c245cd6cf061cb073175b3b81f0168</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 11:20:26 +0000</pubDate>
+<description>Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]</description>
+</item>
+<item>
 <title>Maine’s data center revolt will decide who controls the Senate</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers</link>
 <guid isPermaLink="false">7f7f16717282374033664eac7b9b49ec8bb46e24688edf6bd88ae3fa1cfc248c</guid>
@@ -101,17 +132,6 @@
 <media:content url="https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg" medium="image"/>
 </item>
 <item>
-<title>Samsung S95H OLED TV Review (2026)</title>
-<link>https://www.wired.com/review/samsung-s95h</link>
-<guid isPermaLink="false">ebbd1054fd8909fdfd6809e0b0235344037003538484dde4ffadaee811da044e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-<description>It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.</description>
-<enclosure url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
-</item>
-<item>
 <title>Crematoria Are Being Used to Heat Homes and Swimming Pools</title>
 <link>https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools</link>
 <guid isPermaLink="false">c486f311ad40d8b6020d63450d8b942b91ecbb9dabab1961d134901fc568834c</guid>
@@ -121,6 +141,17 @@
 <description>European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.</description>
 <enclosure url="https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg" medium="image"/>
+</item>
+<item>
+<title>Samsung S95H OLED TV Review (2026)</title>
+<link>https://www.wired.com/review/samsung-s95h</link>
+<guid isPermaLink="false">ebbd1054fd8909fdfd6809e0b0235344037003538484dde4ffadaee811da044e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
+<description>It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.</description>
+<enclosure url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
 </item>
 <item>
 <title>Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials</title>
@@ -794,17 +825,6 @@
 <media:content url="https://www.engadget.com/img/gallery/hacker-may-have-stolen-millions-in-a-malware-attack-against-online-poker-players/l-intro-1793300458.jpg" medium="image"/>
 </item>
 <item>
-<title>You can generate and edit Google Docs files directly in Gemini chats now</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs</link>
-<guid isPermaLink="false">4aa6b4f10322be2ed1301958d11c70f52364b4058fb08ac951fd66e716f253ce</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 18:45:31 +0000</pubDate>
-<description>Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while PDF previews/editing works on both the web and mobile, all other file formats are only in […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK255_Google_Gemini_B_474198.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Netflix is making a live-action PUBG show written and directed by Donald Glover</title>
 <link>https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover</link>
 <guid isPermaLink="false">2e86e393d7f055660f6aa792517cc356d1bf49bcba0b8b1b069814d5f27dbfff</guid>
@@ -1267,15 +1287,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVszv5076OudfiraNA4yh_XuzZZof-jYaklwUgiY700oPMvBHQfKHx-8yLNwhF9NVXahFRvWwU7c0mPCsIG-GUo45Fi_LT6ecZMsaRUfaLIL6eK16qeku1PO5aMTQRV0VKJh-pjKG4rC-RyajCGjL4R_A5W6YPsps4B4-GhEbstuAN7AnelVJPwIFK5W-/s1600/gite.jpg" medium="image"/>
 </item>
 <item>
-<title>New Cisco firewall zero-day exploited to crash SSL VPN devices</title>
-<link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices</link>
-<guid isPermaLink="false">645f7bdeecdfe91ea991c52d985ee91348221ba8d870f941d4a3bc6627e0d520</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:10:13 +0000</pubDate>
-<description>Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]</description>
-</item>
-<item>
 <title>The Kindle Accessories I Never Want to Read Without (2026)</title>
 <link>https://www.wired.com/story/best-kindle-accessories</link>
 <guid isPermaLink="false">39c3f6ddd60a28779b429a0e358a977a7167af99156a12ba29c0cd77da5593b9</guid>
@@ -1551,17 +1562,6 @@
 <media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
-<title>Petlibro Offers: 30% Off in November 2026</title>
-<link>https://www.wired.com/story/petlibro-discount-code</link>
-<guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>Dermstore Coupons: 25% Off for November 2026</title>
 <link>https://www.wired.com/story/dermstore-promo-code</link>
 <guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
@@ -1571,6 +1571,17 @@
 <description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
 <enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+</item>
+<item>
+<title>Petlibro Offers: 30% Off in November 2026</title>
+<link>https://www.wired.com/story/petlibro-discount-code</link>
+<guid isPermaLink="false">d81722ae190c55240add0a02034161ef04071b715ba05fe4d5075a974e7c5a27</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -2110,17 +2121,6 @@
 <description>I’ve tested every single Kindle, from Paperwhite and Colorsoft to the new aluminum models. Here’s how Amazon’s ebook readers stack up.</description>
 <enclosure url="https://media.wired.com/photos/6ae10eb928ee41eb8014df31/master/pass/Update%20Best%20Kindles%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae10eb928ee41eb8014df31/master/pass/Update%20Best%20Kindles%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
-<title>Amazon Kindle Paperwhite (2026) and Colorsoft (2026) Review: Best for Accessories</title>
-<link>https://www.wired.com/review/kindle-paperwhite-kindle-colorsoft-2026</link>
-<guid isPermaLink="false">5deb7cf61cefedd56eb307cb3cc6c4c94f6f50ba024f7a993a4a29025d5261dd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 13:01:00 +0000</pubDate>
-<description>The latest generation of Kindle’s 7-inch e-readers have a new look and new accessories. But are they worth the upgrade given Amazon’s new Kindle prices?</description>
-<enclosure url="https://media.wired.com/photos/6ae11ac795de04d71913da53/master/pass/Review%20Kindle%20Paperwhite%20and%20Colorsoft%202026%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae11ac795de04d71913da53/master/pass/Review%20Kindle%20Paperwhite%20and%20Colorsoft%202026%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>Amazon announced five new Alexa devices, including 16-inch Echo Show</title>
