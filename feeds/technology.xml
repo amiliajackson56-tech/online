@@ -4,6 +4,84 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Malicious Claude Code extension on Cursor planted SSH backdoors</title>
+<link>https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors</link>
+<guid isPermaLink="false">3b99573e7ab441bb3e38b605c147a1e878166dd8398d54d7e4d8f4b996f194bc</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:36:54 +0000</pubDate>
+<description>A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]</description>
+</item>
+<item>
+<title>This electric screwdriver uses a camera and AI to figure out what bit you need</title>
+<link>https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter</link>
+<guid isPermaLink="false">caa322de31cf06b75c5241f976f06736d37a210229f479ca2f558f2d980257d0</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:23:26 +0000</pubDate>
+<description>Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact type and size of bit you need. It's convenient, but also helpful, as […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/arrowspace1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>iOS 27.2 adds new Find My feature at just the right time</title>
+<link>https://9to5mac.com/2026/10/30/ios-27-2-adds-new-find-my-feature-at-just-the-right-time</link>
+<guid isPermaLink="false">a835f80fd392a488cd9b2935ba46936d8f9fed62e9ffc8fc15f634a5f57d39d5</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:20:48 +0000</pubDate>
+<description>iOS 27.2 is here, and alongside new features for Apple Photos , Messages , and Siri AI , the update also has a welcome addition for Find My: support for Apple TV 4K remotes. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/find-my-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>North Korean hackers blamed for stealing record $6.3B in Binance breach</title>
+<link>https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach</link>
+<guid isPermaLink="false">6d139ee890291528fcaddb46998def2b95e19912ee00373059c4c792cf86ad78</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:00:25 +0000</pubDate>
+<description>Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.</description>
+</item>
+<item>
+<title>SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone</title>
+<link>https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone</link>
+<guid isPermaLink="false">504569e0ffffdf59919edbb3dddfd95f3c5608d0cc1971aca6b6dee3e09fb299</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:00:10 +0000</pubDate>
+<description>Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]</description>
+</item>
+<item>
+<title>Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate</title>
+<link>https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate</link>
+<guid isPermaLink="false">2c05349924dfc396b121c2d58e0a6f44206bd1e1282b4cbcdaa21e21f84b0f18</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+<description>At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.</description>
+</item>
+<item>
+<title>DoorDash said it’s only received ‘several hundred’ orders from AI agents</title>
+<link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents</link>
+<guid isPermaLink="false">6e71e92aae50069aef3ab820c146d66000a3c6afcc8111ca167a25a559c4669f</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:54:25 +0000</pubDate>
+<description>DoorDash said that it is open to working with third-party agent makers</description>
+</item>
+<item>
+<title>GM to pay $220 million after selling customer Smart Driver data</title>
+<link>https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data</link>
+<guid isPermaLink="false">287221e43fae35256cab43a2eaa5cb08ca821e01b9c7f86a15c09a6990bcb343</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:53:20 +0000</pubDate>
+<description>Owners of GM cars found their driving data had been sold to insurance companies.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01-1152x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Waymo’s next robotaxi is a purpose-built Toyota bZ4X</title>
 <link>https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x</link>
 <guid isPermaLink="false">d67e2b82a2836f5d5b5c0bedc8f70a3b516dc6bf9347e050001505b1cb39d86f</guid>
@@ -13,6 +91,17 @@
 <description>Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in April 2025. The robotaxis will be built entirely under one roof at Toyota's […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/unnamed-1.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
+<link>https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist</link>
+<guid isPermaLink="false">34de106ce90dc24942c814f4c527e12d4016bf7080b6b16744fc5f3592040f9a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 13:46:39 +0000</pubDate>
+<description>Binance scrambles to freeze billions after record-breaking hack linked to North Korea.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Mattress Deals: Save Over $600 Before Black Friday 2026</title>
@@ -224,7 +313,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 11:30:01 +0000</pubDate>
-<description>Elizabeth Holmes has some people falling for her act all over again.</description>
+<description>Disgraced founder of Theranos has some people falling for her act all over again.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg" medium="image"/>
 </item>
@@ -244,7 +333,7 @@
 <source>Ars Technica</source>
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 11:00:35 +0000</pubDate>
-<description>It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.</description>
+<description>It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2302181665-1152x648-1793318298.jpg" medium="image"/>
 </item>
@@ -357,17 +446,6 @@
 <media:content url="https://www.engadget.com/img/gallery/senators-are-looking-into-serious-privacy-risks-with-metas-ai-glasses/l-intro-1793354694.jpg" medium="image"/>
 </item>
 <item>
-<title>Samsung S95H OLED TV Review (2026)</title>
-<link>https://www.wired.com/review/samsung-s95h</link>
-<guid isPermaLink="false">ebbd1054fd8909fdfd6809e0b0235344037003538484dde4ffadaee811da044e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-<description>It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.</description>
-<enclosure url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
-</item>
-<item>
 <title>Crematoria Are Being Used to Heat Homes and Swimming Pools</title>
 <link>https://www.wired.com/story/crematoria-heat-homes-and-swimming-pools</link>
 <guid isPermaLink="false">c486f311ad40d8b6020d63450d8b942b91ecbb9dabab1961d134901fc568834c</guid>
@@ -377,6 +455,17 @@
 <description>European countries are leading the way harvesting heat that would otherwise be wasted as green death practices become more common.</description>
 <enclosure url="https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae429d4d21d2596b6fe3ef9/master/pass/Crematoriams.jpg" medium="image"/>
+</item>
+<item>
+<title>Samsung S95H OLED TV Review (2026)</title>
+<link>https://www.wired.com/review/samsung-s95h</link>
+<guid isPermaLink="false">ebbd1054fd8909fdfd6809e0b0235344037003538484dde4ffadaee811da044e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
+<description>It performs great, with rich texture and high brightness, but faces new competition when it comes to color dominance.</description>
+<enclosure url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2b4055af838b7abd71f31/master/pass/Samsung%20S95H%20Review%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
 </item>
 <item>
 <title>Gift Ideas for Friends (2026): Wellness Tech, Kitchen Essentials</title>
@@ -547,17 +636,6 @@
 <description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The director of Obsession put a new horror short on YouTube</title>
-<link>https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear</link>
-<guid isPermaLink="false">e3dddaa642ef074e836f44aa0eb488215de040b274814fc781c02c6220230e56</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 23:57:18 +0000</pubDate>
-<description>Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled "Mama Bear," is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, but it's a fun one to watch if you're looking for something scary […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_44000.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/videoframe_44000.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’</title>
@@ -1081,15 +1159,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-duo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Granola crunches up a dictation feature to compete with Wispr</title>
-<link>https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr</link>
-<guid isPermaLink="false">3e7c26f588631c0faae71d63b60917a08a4f535d0cc76231c6bb587b83233dd5</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:54:38 +0000</pubDate>
-<description>Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.</description>
-</item>
-<item>
 <title>Go Minimal—the Ridge Wallet is 20 Percent Off Right Now</title>
 <link>https://www.wired.com/story/ridge-wallet-deal-october-2026</link>
 <guid isPermaLink="false">635ef8de5b93f5c7a2d88f6588360c7235819f343996470152ade0f9a7ba1f8a</guid>
@@ -1121,24 +1190,6 @@
 <description>Apple’s new MacBook Pro with PROLED XDR Display ( pre-order here ) includes a variety of software optimizations for touch input. But Apple says it’s “only getting started” making macOS more touch-friendly. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-touch-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity</title>
-<link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity</link>
-<guid isPermaLink="false">927698c982f0f5113cd1c8b517aa0c814194a3e8a8f41767eb515213321795a4</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
-<description>Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.</description>
-</item>
-<item>
-<title>US investigated Chinese spy plot aimed at Nvidia CEO</title>
-<link>https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo</link>
-<guid isPermaLink="false">990b533cbb64ab7a1489328bb61e8c67336645a0c1f2fb7eb6233b95f847231d</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 16:42:32 +0000</pubDate>
-<description>A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.</description>
 </item>
 <item>
 <title>Google admits AI search makes less money, but it's fixing that with more ads</title>
@@ -1236,15 +1287,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-shortcuts-app-ios-27-icon.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>3 Ways AI Agents Already Operate in Your Browser</title>
-<link>https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser</link>
-<guid isPermaLink="false">10a5460124084535066e99dc5c46a0d50e31f34581f5ea103c062b6a3028f94d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 14:00:10 +0000</pubDate>
-<description>AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]</description>
-</item>
-<item>
 <title>Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race</title>
 <link>https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity</link>
 <guid isPermaLink="false">7a2ff422d91cef5c48f97e9de17ba0c692f188cf495573d6e8ab02be6fb1f297</guid>
@@ -1254,15 +1296,6 @@
 <description>The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.</description>
 <enclosure url="https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg" medium="image"/>
-</item>
-<item>
-<title>CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks</title>
-<link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks</link>
-<guid isPermaLink="false">207ac6ae9c2086a201581bab805ea47e1045f4a268c9e3362acd0891e50b1a98</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:59:48 +0000</pubDate>
-<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]</description>
 </item>
 <item>
 <title>iOS 27.3 release date: Here’s when to expect new iPhone features</title>
@@ -1650,15 +1683,15 @@
 <media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
 </item>
 <item>
-<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
-<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
-<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
+<title>Dermstore Coupons: 25% Off for November 2026</title>
+<link>https://www.wired.com/story/dermstore-promo-code</link>
+<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
-<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
+<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
 </item>
 <item>
 <title>Petlibro Offers: 30% Off in November 2026</title>
@@ -1672,15 +1705,15 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>Dermstore Coupons: 25% Off for November 2026</title>
-<link>https://www.wired.com/story/dermstore-promo-code</link>
-<guid isPermaLink="false">1fa051a407f7bf9df380f381fa44a0f7f8876179c26a1ca0cc88cef477fa5a06</guid>
+<title>30% Off Tempur-Pedic Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/tempur-pedic-promo-code</link>
+<guid isPermaLink="false">8a57a6d16ab77789d727c925a6f63daff0da4274c7b429f4b76214d5f8565694</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+<description>Whether you’re looking to upgrade your mattress or swap out your bedding, browse our Tempur-Pedic coupons for up to $300 off and the best sleep of your life.</description>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>Skullcandy Discount Code: 30% Off | November 2026</title>
@@ -1936,17 +1969,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-wallpaper.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use</title>
-<link>https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use</link>
-<guid isPermaLink="false">490073e57670269a1c9c6bc86a154f29e61acbfafe5ffcca122d2375991b60f9</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:47:27 +0000</pubDate>
-<description>Gemini 4 Carbon is essentially a slightly better version of Argon.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet</title>
 <link>https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team</link>
 <guid isPermaLink="false">8965c562f4d21fcca2b0b57ad81d53ea2bc01e32e298a50bc183e9dc44e813a8</guid>
@@ -2000,17 +2022,6 @@
 <description>Apple unveiled its new MacBook Pro with PROLED XDR this week ( pre-order here ), which joins the lineup alongside the existing MacBook Pro using the same M5 Pro and Max chips. Here’s an in-depth comparison of the two models. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-vs-comparison-standard.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macbook-pro-proled-xdr-vs-comparison-standard.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Amazon turns its most capable smart speaker into a smart camera, too</title>
-<link>https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra</link>
-<guid isPermaLink="false">dd2432b415916b68835ffede1604a9a49330c8485daa0f6876e8b440d6ad3ca7</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 28 Oct 2026 18:05:22 +0000</pubDate>
-<description>The Echo Studio with Home Camera can "see and understand what's in front of the camera."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/download-1152x648.png" medium="image"/>
 </item>
 <item>
 <title>Apple reveals pricing for Mac Studio with 512GB of RAM</title>
@@ -3034,17 +3045,6 @@
 <description>In addition to releasing macOS 27.2 Golden Gate, Apple is now also rolling out macOS Sequoia 15.8.2 and macOS Tahoe 26.7.2. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-purple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>macOS 27.2 Golden Gate now available, here’s everything new [U]</title>
-<link>https://9to5mac.com/2026/10/26/macos-27-2-golden-gate-now-available-heres-everything-new</link>
-<guid isPermaLink="false">9895551c2b223e3e267602f060f46391f2f96fe5d02b75f3501b8743179230c8</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 26 Oct 2026 17:46:14 +0000</pubDate>
-<description>Mac users can now install macOS 27.2 Golden Gate, which expands the new Siri AI to five additional languages, making it available to millions more users. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-hero.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/macOS-27.2-hero.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw</title>
