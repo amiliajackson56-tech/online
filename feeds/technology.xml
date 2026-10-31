@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia</title>
+<link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia</link>
+<guid isPermaLink="false">778066fca87ac97904e51705070469ea5a6977c5d6b27968b20285ed2cd4a898</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 01:20:05 +0000</pubDate>
+<description>When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.</description>
+</item>
+<item>
 <title>Download all 20 Apple HomeView wallpapers in light and dark mode here</title>
 <link>https://9to5mac.com/2026/10/30/download-all-20-apple-homeview-wallpapers-in-light-and-dark-mode-here</link>
 <guid isPermaLink="false">fb76ad1f565dc04da8bd109e8c1fa4075c86a099767cb9812c3b085075fe3693</guid>
@@ -15,7 +24,7 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Think you can save the Hubble Space Telescope? NASA wants to know.</title>
+<title>Once again, NASA is asking for ideas to rescue Hubble from certain death</title>
 <link>https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know</link>
 <guid isPermaLink="false">42f3da87a2d5718e5b48a38070fe872a22e6fba1e043bb75d589ccffa975a6c7</guid>
 <source>Ars Technica</source>
@@ -1215,15 +1224,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’</title>
-<link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars</link>
-<guid isPermaLink="false">8bf3aa59b369b74005c12c6175dc9f203d7d36c36bf22e1ae1ab0c38e3f4557a</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 23:44:56 +0000</pubDate>
-<description>The success of blockbuster hits like "Project Hail Mary" and "Verity" is only part of the story, Amazon's CEO says.</description>
-</item>
-<item>
 <title>OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut</title>
 <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut</link>
 <guid isPermaLink="false">92f9a6802cbb503a27da56c1e7637bd427b225e6a77e9f76d633f76301093c95</guid>
@@ -1826,17 +1826,6 @@
 <media:content url="https://media.wired.com/photos/6ae21f8d86313c19910c81e0/master/pass/Snap%20Specs%20SOURCE%20Boone%20Ashworth.jpg" medium="image"/>
 </item>
 <item>
-<title>I Gave My Blood to the AI Death Clock</title>
-<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
-<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
-<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
-<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
-</item>
-<item>
 <title>Reencle Essential Review: Same Scraps, Lower Price</title>
 <link>https://www.wired.com/review/reencle-essential-electric-composter</link>
 <guid isPermaLink="false">50e7c6620ce69b892ea7090add776789bb3df6f00dcefb04b54a9ae8f5033f5d</guid>
@@ -1846,6 +1835,17 @@
 <description>Reencle has made your favorite kitchen composter cheaper—with a few compromises.</description>
 <enclosure url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae254611851ee1df8759d45/master/pass/Review%20Reencle%20Essential%20Electric%20Composter%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>I Gave My Blood to the AI Death Clock</title>
+<link>https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood</link>
+<guid isPermaLink="false">7bfdd9bb1af858e7dbfbda94ee6e6f17e6e7e6657b3fba2cde0047b0b2403ef6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 10:00:00 +0000</pubDate>
+<description>Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.</description>
+<enclosure url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg" medium="image"/>
 </item>
 <item>
 <title>Law Firm Linked to Elon Musk Started an ‘Election Integrity’ Organization</title>
@@ -1947,17 +1947,6 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Loop Earplugs Discount Codes: 40% Off</title>
 <link>https://www.wired.com/story/loop-earplugs-discount-code</link>
 <guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
@@ -1965,6 +1954,17 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
 <description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
