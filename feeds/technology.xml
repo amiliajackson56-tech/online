@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Why your Apple AirPods' battery drains so fast and how to make it last longer</title>
+<link>https://www.engadget.com/2300231/why-airpods-battery-drains-fast-how-to-fix</link>
+<guid isPermaLink="false">6f600df26c3227dbaf3fb513b3e8bf36b0ced4d4c0c2d06e42cf45164adfc1c3</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 23:30:00 +0000</pubDate>
+<description>It's annoying when your Apple AirPods run out of juice, but the culprit might not be what you think. Here's what's going on and what you can do about it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-apple-airpods-battery-drains-so-fast-and-how-to-make-it-last-longer/l-intro-1793108793.jpg" medium="image"/>
+</item>
+<item>
 <title>The Slate vs Ford Fathom debate might be settled by this one key tech feature</title>
 <link>https://www.engadget.com/2300238/slate-vs-ford-fathom-android-auto-carplay-support</link>
 <guid isPermaLink="false">972046c341da64a1a771d8ae2ca20ffdc8b2fd5f73d6ea90f3cbee04a6bfc4e0</guid>
@@ -384,17 +395,6 @@
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 15:35:11 +0000</pubDate>
 <description>A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]</description>
-</item>
-<item>
-<title>The Amazon Fire TV Stick setting you should try for better audio</title>
-<link>https://www.engadget.com/2299191/amazon-fire-tv-stick-setting-better-audio</link>
-<guid isPermaLink="false">a875c68d393a361e405b8d5127f3d170475235261ce94f2bd7ef9fe636ade03e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 15:30:00 +0000</pubDate>
-<description>Dialogue is an important part of any movie or TV show, but it isn't always as clear as we would like. Amazon's Fire TV Stick has a solution.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-amazon-fire-tv-stick-setting-you-should-try-for-better-audio/l-intro-1793163251.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple @ Work: Next to a growing token bill, Macs might start looking like a bargain</title>
@@ -1438,17 +1438,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg" medium="image"/>
 </item>
 <item>
-<title>Male Insecurity Over Penis Size Is a Booming Business</title>
-<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
-<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
-<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
-<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Handheld Translators for Work and Travel (2026)</title>
 <link>https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel</link>
 <guid isPermaLink="false">a12c716558bbdaab18f755c3bede31192066cbbdfbf3473d479f153b4d016597</guid>
@@ -1458,6 +1447,17 @@
 <description>Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.</description>
 <enclosure url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
+</item>
+<item>
+<title>Male Insecurity Over Penis Size Is a Booming Business</title>
+<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
+<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
+<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
+<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
 </item>
 <item>
 <title>Drupal warns of critical Commerce Core flaw exploited in attacks</title>
