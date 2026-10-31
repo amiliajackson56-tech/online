@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How long is too long for a USB cable?</title>
+<link>https://www.engadget.com/2301242/how-long-should-usb-cable-be-maximum-length</link>
+<guid isPermaLink="false">71234ceec4f08634c661d2060e8c11b90fd5a18ad479180a304fdc9e6121ae82</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 16:15:00 +0000</pubDate>
+<description>USB cables, much like their HDMI cousins, have limits on how long they can be. The thing is, those limits are probably much lower than you expected.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-long-is-too-long-for-a-usb-cable/l-intro-1793267592.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-long-is-too-long-for-a-usb-cable/l-intro-1793267592.jpg" medium="image"/>
+</item>
+<item>
+<title>OpenAI reportedly lowers funding target for new round</title>
+<link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round</link>
+<guid isPermaLink="false">c361ea6e6eba35fb9e53698dc084100a28498e2027b448eb9f1862b31ce8d8b6</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 16:12:55 +0000</pubDate>
+<description>OpenAI’s latest funding round doesn't seem to be living up to expectations.</description>
+</item>
+<item>
+<title>NASA's second year-long Mars simulation mission ends today</title>
+<link>https://www.engadget.com/2303277/nasa-second-year-long-mars-simulation-mission-ends-today</link>
+<guid isPermaLink="false">ff6a950abc322105e744003210979c5344826c1fe4f9aee9e8d3e59844d77387</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 16:07:17 +0000</pubDate>
+<description>The second crew that spent a year inside NASA's simulated Mars habitat is emerging today, and the agency will stream it live.</description>
+<enclosure url="https://www.engadget.com/img/gallery/nasas-second-year-long-mars-simulation-mission-ends-today/l-intro-1793462639.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/nasas-second-year-long-mars-simulation-mission-ends-today/l-intro-1793462639.jpg" medium="image"/>
+</item>
+<item>
+<title>I built an AI Tamagotchi before Meta could</title>
+<link>https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code</link>
+<guid isPermaLink="false">95235900cc342af4eb022ffa3c9a5e38d8db53a5c3793fc3bebd0a2e7b176dd5</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 16:05:00 +0000</pubDate>
+<description>Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;strip=all&amp;crop=4,0,96,94.899920311255" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;strip=all&amp;crop=4,0,96,94.899920311255" medium="image"/>
+</item>
+<item>
+<title>GNSS Vs GPS: What's the difference?</title>
+<link>https://www.engadget.com/2300262/gnss-vs-gps-differences</link>
+<guid isPermaLink="false">70feba209fcaaa8ae7cb400e78232cc3a816e7063fb7cd3812b1fad879c9044f</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 16:00:00 +0000</pubDate>
+<description>GNSS and GPS are common terms in the world of satellite navigation. They may be similar, but there are some key differences between the two technologies.</description>
+<enclosure url="https://www.engadget.com/img/gallery/gnss-vs-gps-whats-the-difference/l-intro-1793018949.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/gnss-vs-gps-whats-the-difference/l-intro-1793018949.jpg" medium="image"/>
+</item>
+<item>
 <title>Traveling with electronics? These 5 items could raise TSA red flags</title>
 <link>https://www.engadget.com/2301241/tsa-electronics-red-flags</link>
 <guid isPermaLink="false">36606af7024a69d081cfbb332731e534a4b88a7b8136a537ac2b37f25526f870</guid>
@@ -255,7 +308,7 @@
 <source>BleepingComputer</source>
 <category>technology</category>
 <pubDate>Sat, 31 Oct 2026 13:10:19 +0000</pubDate>
-<description>[...]</description>
+<description>AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]</description>
 </item>
 <item>
 <title>Why your games take up way more drive space than expected (even when uninstalled)</title>
@@ -408,17 +461,6 @@
 <description>The founders of Maison Lineti are, in a world first, making single malt whisky as if it were wine—and the spirit world is mighty impressed.</description>
 <enclosure url="https://media.wired.com/photos/6ae3636efade877474b75a13/master/pass/102926-Egg%20Whisky.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae3636efade877474b75a13/master/pass/102926-Egg%20Whisky.jpg" medium="image"/>
-</item>
-<item>
-<title>Google joins OpenAI and Anthropic in promising new scraping controls</title>
-<link>https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls</link>
-<guid isPermaLink="false">c3eb6b95239d693d63828a99a63329556e42629d5520e92045c512a7da54f7fb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 10:34:31 +0000</pubDate>
-<description>Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-joins-openai-and-anthropic-in-promising-new-scraping-controls/l-intro-1793442580.jpg" medium="image"/>
 </item>
 <item>
 <title>Backup by Biolite Review: A Cool Idea</title>
@@ -852,17 +894,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Meta settles another social media addiction case just before trial</title>
-<link>https://www.engadget.com/2302956/meta-settles-another-social-media-addiction-case-just-before-trial</link>
-<guid isPermaLink="false">a3d201069ae57d583283c1f5eebe70fde24134ea16219ccc7db2656b3962269e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 20:21:28 +0000</pubDate>
-<description>Snap is now the only defendant in the case.</description>
-<enclosure url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/meta-settles-another-social-media-addiction-case-just-before-trial/l-intro-1793391515.jpg" medium="image"/>
-</item>
-<item>
 <title>Over 25% of people lie to get antibiotics—and their lies aren't even good</title>
 <link>https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good</link>
 <guid isPermaLink="false">a3fc8c2e276a25828247cc4d664de56a583e7d7b8f291927f4844214727de424</guid>
@@ -872,17 +903,6 @@
 <description>Faked symptoms still point to infections that antibiotics don't treat.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1219036990-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Bluesky now has a dedicated 'moderation inbox'</title>
-<link>https://www.engadget.com/2302932/bluesky-now-has-a-dedicated-moderation-inbox</link>
-<guid isPermaLink="false">d7844361176bb09489e0a4af35d5c28c539fcccfe884fe8e97a028b7b36c6d71</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 20:07:00 +0000</pubDate>
-<description>The beta feature makes it easier to stay on top of reports and account strikes.</description>
-<enclosure url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/bluesky-now-has-a-dedicated-moderation-inbox/l-intro-1793390683.jpg" medium="image"/>
 </item>
 <item>
 <title>AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal</title>
@@ -925,17 +945,6 @@
 <description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . On Security Bite, it’s one of my favorite pastimes to explain why camera covers are virtually useless today. I’ve been called out plenty of times for it. So when Apple patches a bug that lets a malicious app get access to the camera without p</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Google&amp;#8217;s satellite AI server transmits its first response to Earth</title>
-<link>https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission</link>
-<guid isPermaLink="false">b9ee8bb30716fa37b159432c17457de6c675d196a614236a5622c85e7238dfdd</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 18:21:38 +0000</pubDate>
-<description>Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Rare meteorite from Mars gives us a view into its ancient crust</title>
@@ -1268,15 +1277,6 @@
 <description>Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
 </item>
 <item>
-<title>Can AI data centers be mass-produced like cars? This startup aims to find out</title>
-<link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out</link>
-<guid isPermaLink="false">3ff23f142c77481e11a60d6ca4af1fde951bb0ac2ffc5eea3affcbf204be5574</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:00:00 +0000</pubDate>
-<description>Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.</description>
-</item>
-<item>
 <title>Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis</title>
 <link>https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html</link>
 <guid isPermaLink="false">c67ce218705117aa60e3f9450cd63c5b9ee70883a8221ba77e07ee1c82624d99</guid>
@@ -1396,17 +1396,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg" medium="image"/>
 </item>
 <item>
-<title>The Best Handheld Translators for Work and Travel (2026)</title>
-<link>https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel</link>
-<guid isPermaLink="false">a12c716558bbdaab18f755c3bede31192066cbbdfbf3473d479f153b4d016597</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
-<description>Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.</description>
-<enclosure url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
-</item>
-<item>
 <title>Male Insecurity Over Penis Size Is a Booming Business</title>
 <link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
 <guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
@@ -1416,6 +1405,17 @@
 <description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
 <enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
+</item>
+<item>
+<title>The Best Handheld Translators for Work and Travel (2026)</title>
+<link>https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel</link>
+<guid isPermaLink="false">a12c716558bbdaab18f755c3bede31192066cbbdfbf3473d479f153b4d016597</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
+<description>Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.</description>
+<enclosure url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
 </item>
 <item>
 <title>Drupal warns of critical Commerce Core flaw exploited in attacks</title>
@@ -2167,13 +2167,13 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>Loop Earplugs Discount Codes: 40% Off</title>
-<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
-<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
