@@ -4,6 +4,70 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Chainalysis discloses data breach from "offensive agentic techniques"</title>
+<link>https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques</link>
+<guid isPermaLink="false">71d92d6a48c1cf9968f4a3ec72c05f430be00da5bb5e84bc0e5af7d46ef6040b</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 12:50:09 +0000</pubDate>
+<description>Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]</description>
+</item>
+<item>
+<title>How to improve audio quality on your Android phone with Bluetooth or wired headphones</title>
+<link>https://www.engadget.com/2298724/how-to-improve-android-phone-audio-quality-with-bluetooth-wired-headphones</link>
+<guid isPermaLink="false">4c11a72da774b4f97bddc486f8e90d50e698898b541d11d76ee74dab3b86db74</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 12:45:00 +0000</pubDate>
+<description>Maximizing your listening experience on Android can get very complicated, but we'll guide you through settings and headphone choices to get you there.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones/l-intro-1793124520.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-improve-audio-quality-on-your-android-phone-with-bluetooth-or-wired-headphones/l-intro-1793124520.jpg" medium="image"/>
+</item>
+<item>
+<title>What happens when AI starts self-replicating?</title>
+<link>https://www.engadget.com/2302896/what-happens-when-ai-starts-self-replicating</link>
+<guid isPermaLink="false">17d0e0067e9f2a722751f4a543624662c9b1596e7a579890f833954f22ba2b2b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 12:30:00 +0000</pubDate>
+<description>Anthropic warns that future is soon, but the threat is less novel than it seems.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-happens-when-ai-starts-self-replicating/l-intro-1793389611.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-happens-when-ai-starts-self-replicating/l-intro-1793389611.jpg" medium="image"/>
+</item>
+<item>
+<title>The pros and cons of using an all-in-one desktop computer</title>
+<link>https://www.engadget.com/2298592/pros-and-cons-using-all-in-one-desktop-computer</link>
+<guid isPermaLink="false">764a5a73a305b41a4016bb5e627895c1701da2997d6999636526e9719dbfcca1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 12:30:00 +0000</pubDate>
+<description>All-in-one (AIO) computers are more compact and easier to use than desktop setups, but they also trade simplicity for flexibility when it's time to upgrade.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-all-in-one-desktop-computer/l-intro-1793120330.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-an-all-in-one-desktop-computer/l-intro-1793120330.jpg" medium="image"/>
+</item>
+<item>
+<title>This Microsoft 365 Family plan cloud storage change may leave you frustrated</title>
+<link>https://www.engadget.com/2301048/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated</link>
+<guid isPermaLink="false">a94d50d0a254a4a244b9973327855428d98d9065f64aee8e6688b9011cf9294e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 12:15:00 +0000</pubDate>
+<description>Your Microsoft 365 Family plan will transition to a new (smaller) shared storage model when you renew it.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/l-intro-1793280260.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-microsoft-365-family-plan-cloud-storage-change-may-leave-you-frustrated/l-intro-1793280260.jpg" medium="image"/>
+</item>
+<item>
+<title>Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data</title>
+<link>https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html</link>
+<guid isPermaLink="false">b84dfe472134279a715b0b44d9dc7ae993ccbe7b1f1f135c68856e8c46b7251b</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 12:01:56 +0000</pubDate>
+<description>American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. "This month, Chainalysis detected an external actor using offensive agentic</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg" medium="image"/>
+</item>
+<item>
 <title>Touchscreens everywhere!</title>
 <link>https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer</link>
 <guid isPermaLink="false">ab8e381edc5f48728c05b72cf0ab3022980d751bf9be966dab951e4a086e0acf</guid>
@@ -1502,17 +1566,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>VRChat says it's not adding AI labels despite user survey showing people want that</title>
-<link>https://www.engadget.com/2301786/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that</link>
-<guid isPermaLink="false">f74fe344a1fab0a03eb4bc4557b904c65d6929962639b3f5a73b5dd34e1319b7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:48:05 +0000</pubDate>
-<description>Trying to make everyone happy could make no one happy.</description>
-<enclosure url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/vrchat-says-its-not-adding-ai-labels-despite-user-survey-showing-people-want-that/l-intro-1793310428.jpg" medium="image"/>
-</item>
-<item>
 <title>Reddit is moving to “a logged-in-only experience,” CEO says</title>
 <link>https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms</link>
 <guid isPermaLink="false">127c220681f02cbc871be3e959719bad790ce92e2e1a388bb4abe13107802aa7</guid>
@@ -1531,17 +1584,6 @@
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 21:47:25 +0000</pubDate>
 <description>Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]</description>
-</item>
-<item>
-<title>Fan fiction website AO3 is down, and it could take weeks to recover</title>
-<link>https://www.engadget.com/2301753/ao3-fanfiction-website-down-for-weeks</link>
-<guid isPermaLink="false">d2785366febadb57ed69146c90170942cc286a99bb9921bccbfcca2ca1e4c364</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:18:22 +0000</pubDate>
-<description>The site's data is reportedly intact, but the cause of the outage is still unknown.</description>
-<enclosure url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793388818.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/fan-fiction-website-ao3-is-down-and-it-could-take-weeks-to-recover/l-intro-1793388818.jpg" medium="image"/>
 </item>
 <item>
 <title>Strava adds Google Gemini integration with personalized workout insights</title>
@@ -1575,28 +1617,6 @@
 <description>This week, the Pentagon released a full-resolution image of the vehicle, the capabilities of which remain rather mysterious.</description>
 <enclosure url="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae3aab21b78b1068035e643/master/pass/PRC%20Space%20Plane_Vantor.jpg" medium="image"/>
-</item>
-<item>
-<title>Reddit will force users to log in as AI is killing search traffic</title>
-<link>https://www.engadget.com/2301687/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic</link>
-<guid isPermaLink="false">51a7cfa64f456c13e13b40776688989b50c4a74e8516bd5a1471748f9b6d83c0</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 20:32:49 +0000</pubDate>
-<description>The company is starting with tests outside of the US.</description>
-<enclosure url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/reddit-will-move-to-logged-in-only-as-ai-eats-search-traffic/l-intro-1793310425.jpg" medium="image"/>
-</item>
-<item>
-<title>Google fixes an annoying Photos bug that hid edited images from other apps</title>
-<link>https://www.engadget.com/2301675/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps</link>
-<guid isPermaLink="false">46d6d651b1f2ea721f0b569cdc3c2ef95977559f8d0338991c1d0b152d618239</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 20:26:24 +0000</pubDate>
-<description>Hey, that's not what Magic Eraser is supposed to do!</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-fixes-an-annoying-photos-bug-that-hid-edited-images-from-other-apps/l-intro-1793305492.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple cuts App Store commission in Taiwan following regulatory discussions [U]</title>
@@ -1672,15 +1692,6 @@
 <description>Sources tell WIRED that an Accenture employee’s personal Claude agent ran on a DOD network for two months before it was identified and the vulnerability could be patched.</description>
 <enclosure url="https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae113db6239096998a832f8/master/pass/102726-department-of-defense-ai-agent.gif" medium="image"/>
-</item>
-<item>
-<title>Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware</title>
-<link>https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware</link>
-<guid isPermaLink="false">dd4f161e6f5789f81e74d811e282ddc96e6528d4a24b9921bfd3e0239aec519d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 18:38:26 +0000</pubDate>
-<description>A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]</description>
 </item>
 <item>
 <title>iOS 27.2 adds new video feature that’s perfect for iPhone Duo</title>
@@ -2112,13 +2123,13 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<title>Loop Earplugs Discount Codes: 40% Off</title>
+<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
+<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
@@ -3023,17 +3034,6 @@
 <description>Apple @ Work is exclusively brought to you by Mosyle , the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage &amp; protect Apple devices at work. Over 45,000 organizations trust Mosyle to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . In this episode of Apple @ Work, Alan West joins the show to talk about his JNUC experience, macOS Golden Gate, and more. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-at-work-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers</title>
-<link>https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</link>
-<guid isPermaLink="false">eae2a3c7c621fbaa9377337e2a6174c936467e94d1f172c44c7b9931a768facd</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 09:33:06 +0000</pubDate>
-<description>A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. "The next steps that we took were to disconnect that Amadey controller from all those</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg" medium="image"/>
 </item>
 <item>
 <title>JAŸ-Z confirmed as headliner for Apple Music’s 2027 Super Bowl Halftime Show</title>
