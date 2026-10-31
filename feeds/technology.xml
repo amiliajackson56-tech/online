@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Northflank security breach leads to abuse of customers' AI API keys</title>
+<link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys</link>
+<guid isPermaLink="false">7a318fe996e6117e2975bb1353159fe31d0af94264c6abf43268289e4ffd930d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 18:01:12 +0000</pubDate>
+<description>Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]</description>
+</item>
+<item>
+<title>4 drawbacks you should know before buying a PlayStation 5</title>
+<link>https://www.engadget.com/2300257/drawbacks-you-should-know-before-buying-playstation-5</link>
+<guid isPermaLink="false">8d8eefa55ef9827c80c44779e9fd9a686e3a6cfc419e24057d0e8b7fedd5552d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 18:00:00 +0000</pubDate>
+<description>The PS5 isn't as good of a buy today as it was early in its life, so you should be aware of the drawbacks in this awkward console generation.</description>
+<enclosure url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/4-drawbacks-you-should-know-before-buying-a-playstation-5/l-intro-1793035591.jpg" medium="image"/>
+</item>
+<item>
+<title>PSA: Today’s the last day to purchase discounted cushion kits for Beats 360</title>
+<link>https://9to5mac.com/2026/10/31/last-day-to-purchase-discounted-beats-360-cushion-kits</link>
+<guid isPermaLink="false">b5858b8c1734c6d725656aad68d17ba9ffb7b176e5cfd1c100c3f99226b546ac</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 17:53:56 +0000</pubDate>
+<description>Apple introduced the new Beats 360 headphones about a month and a half ago. I reviewed them , and really appreciated their customizable design, the fact that they offer automatic device switching, as well as their comfort. At the time, Beats offered launch pricing on additional sets of cushions, bringing them down from $50 to just $10. After today, that steep discount will be ending. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Beats-360-cushions.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Beats-360-cushions.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Happy Pikmin Day Eve</title>
+<link>https://www.theverge.com/games/1024085/happy-pikmin-day-eve</link>
+<guid isPermaLink="false">74a96efb8296e74574c069b5287d668c9919eb1a91a0e80368154e8523f91b37</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 17:50:12 +0000</pubDate>
+<description>This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikmin Bloom, and announced the Hello! Pikmin series of shorts. Players […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/7-1lQh551UY-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Bolt Graphics powers on its first Zeus GPU</title>
 <link>https://www.engadget.com/2301962/bolt-graphics-powers-on-first-zeus-gpu</link>
 <guid isPermaLink="false">3c3bf5def99117d45a7d9b1297046ab87d5cd83e228d4e9066fef139ba7d5d7e</guid>
@@ -344,17 +386,6 @@
 <description>The iPhone Pro has changed plenty since it was released in 2019, but how do the 2026 iPhone Pro prices fare in comparison with its original price?</description>
 <enclosure url="https://www.engadget.com/img/gallery/heres-how-much-the-iphone-pro-cost-in-2019-vs-2026/l-intro-1793120601.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/heres-how-much-the-iphone-pro-cost-in-2019-vs-2026/l-intro-1793120601.jpg" medium="image"/>
-</item>
-<item>
-<title>Why you should never point a laser pointer at any aircraft</title>
-<link>https://www.engadget.com/2301206/why-you-should-never-point-a-laser-pointer-at-any-aircraft</link>
-<guid isPermaLink="false">6497b75297eeca122b86947dadb24f16a3f932eb7457f46888b3c60119bcc653</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 13:15:00 +0000</pubDate>
-<description>Unfortunately, some people need to hear this.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-any-aircraft/l-intro-1793289097.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-should-never-point-a-laser-pointer-at-any-aircraft/l-intro-1793289097.jpg" medium="image"/>
 </item>
 <item>
 <title>From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.</title>
@@ -881,17 +912,6 @@
 <description>Thanks to a lucky break, flawed code in a tainted Claude extension prevented the attacker from fully worming their way into some 5,000 developer machines.</description>
 <enclosure url="https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae4bfbc8b1b5cec21132f41/master/pass/103026-HACK_.jpg" medium="image"/>
-</item>
-<item>
-<title>The biggest names in AI are backing a new way to opt out of scraping</title>
-<link>https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out</link>
-<guid isPermaLink="false">7a24eca35f77e86d873fde1b3133eb6c2782f99772d9581abac82b6be52a155a</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 20:26:10 +0000</pubDate>
-<description>OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared "policy token" signal […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25330660/STK414_AI_CHATBOT_H.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Over 25% of people lie to get antibiotics—and their lies aren't even good</title>
@@ -1606,15 +1626,6 @@
 <description>A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own shipment prospects for 2027. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Hugging Face malware campaign returns to hijack GPUs for crypto mining</title>
-<link>https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining</link>
-<guid isPermaLink="false">97e1eb09d975c625903cb93681569f3b278b48d71b03175a2cff0bf424727898</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 22:09:24 +0000</pubDate>
-<description>A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]</description>
 </item>
 <item>
 <title>Touchscreen MacBook Pro with OLED, new iPad mini, and more</title>
@@ -3056,16 +3067,5 @@
 <description>The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple knows the iPad mini market, but internet unimpressed by 60Hz</title>
-<link>https://9to5mac.com/2026/10/27/apple-knows-the-ipad-mini-market-but-internet-unimpressed-by-60hz</link>
-<guid isPermaLink="false">838a1fa8cae4be58db2ceaeae5cb970257695200d86553155c6f2a9fa200a282</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:15:55 +0000</pubDate>
-<description>Apple yesterday officially launched what it describes as “ the biggest update ever ” to the iPad mini , featuring an OLED screen and a thinner, lighter design. However, while there are a significant number of upgrades, internet commentators were very focused on the one thing Apple didn’t upgrade: that 60Hz display … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/2026-iPad-mini.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/2026-iPad-mini.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
