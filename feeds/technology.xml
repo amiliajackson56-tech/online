@@ -4,6 +4,44 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’</title>
+<link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake</link>
+<guid isPermaLink="false">362d7951270f22867c3f2f0c81a6065862db177f13d67a20e4d3bb86002effe6</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 21:41:00 +0000</pubDate>
+<description>Apple's new CEO defended the company's current position in the AI landscape.</description>
+</item>
+<item>
+<title>4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale</title>
+<link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale</link>
+<guid isPermaLink="false">27056e580a9aee854f0cd4b99edfb305cd7b6d2afe546a1be9153b95aeb9783f</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 21:36:07 +0000</pubDate>
+<description>On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.</description>
+</item>
+<item>
+<title>Judge allows NAACP lawsuit over xAI data center pollution to move forward</title>
+<link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward</link>
+<guid isPermaLink="false">b57691e750415c605a04719d2ad2f8a71b7b3f8ba78f06cda5897389bcfdc6a7</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 21:17:03 +0000</pubDate>
+<description>An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.</description>
+</item>
+<item>
+<title>Get in the spirit with these horrors from YouTube</title>
+<link>https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror</link>
+<guid isPermaLink="false">d3f9477c8fd14c94cd16943ac6aa4f29c02ba22aba5bbf1210db4c227fc83395</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 21:06:58 +0000</pubDate>
+<description>Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for everyone here. Whether you're a fan of surreal art house shorts, cosmic horror, or […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Why your Apple AirPods won't connect to your iPhone and how can you fix it</title>
 <link>https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes</link>
 <guid isPermaLink="false">6cf1211d32ab12069e78e2de32f50929658cad56f15bcf764817d529842582f3</guid>
@@ -772,17 +810,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple Intelligence is finally coming to China with iOS 27.3</title>
-<link>https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3</link>
-<guid isPermaLink="false">8edfa603fa5ede8d9b0062870bce6e0f705b766443f91dae3439401eaab18bb8</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 22:32:53 +0000</pubDate>
-<description>Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25699392/DSC08596_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Oh captain, our captain: Ars staff remembers Patrick Stewart</title>
 <link>https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart</link>
 <guid isPermaLink="false">78a59c3a86f90f383e87485c1c39c6c2628aa73c3488d1ba70acfdc65927adc6</guid>
@@ -1230,15 +1257,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg" medium="image"/>
 </item>
 <item>
-<title>North Korean hackers blamed for stealing record $6.3B in Binance breach</title>
-<link>https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach</link>
-<guid isPermaLink="false">6d139ee890291528fcaddb46998def2b95e19912ee00373059c4c792cf86ad78</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 14:00:25 +0000</pubDate>
-<description>Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.</description>
-</item>
-<item>
 <title>SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone</title>
 <link>https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone</link>
 <guid isPermaLink="false">504569e0ffffdf59919edbb3dddfd95f3c5608d0cc1971aca6b6dee3e09fb299</guid>
@@ -1246,24 +1264,6 @@
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 14:00:10 +0000</pubDate>
 <description>Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]</description>
-</item>
-<item>
-<title>Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate</title>
-<link>https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate</link>
-<guid isPermaLink="false">2c05349924dfc396b121c2d58e0a6f44206bd1e1282b4cbcdaa21e21f84b0f18</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-<description>At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.</description>
-</item>
-<item>
-<title>DoorDash said it’s only received ‘several hundred’ orders from AI agents</title>
-<link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents</link>
-<guid isPermaLink="false">6e71e92aae50069aef3ab820c146d66000a3c6afcc8111ca167a25a559c4669f</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 13:54:25 +0000</pubDate>
-<description>DoorDash said that it is open to working with third-party agent makers.</description>
 </item>
 <item>
 <title>GM to pay $220 million after selling customer Smart Driver data</title>
@@ -1438,17 +1438,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg" medium="image"/>
 </item>
 <item>
-<title>Male Insecurity Over Penis Size Is a Booming Business</title>
-<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
-<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
-<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
-<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Handheld Translators for Work and Travel (2026)</title>
 <link>https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel</link>
 <guid isPermaLink="false">a12c716558bbdaab18f755c3bede31192066cbbdfbf3473d479f153b4d016597</guid>
@@ -1458,6 +1447,17 @@
 <description>Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.</description>
 <enclosure url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
+</item>
+<item>
+<title>Male Insecurity Over Penis Size Is a Booming Business</title>
+<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
+<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
+<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
+<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
 </item>
 <item>
 <title>Drupal warns of critical Commerce Core flaw exploited in attacks</title>
@@ -2200,13 +2200,13 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>NZXT Discount Codes: 50% Off in November 2026</title>
-<link>https://www.wired.com/story/nzxt-discount-code</link>
-<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
+<title>Loop Earplugs Discount Codes: 40% Off</title>
+<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
+<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
+<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
