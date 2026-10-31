@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Here’s how the new MacBook Pro and macOS 27 are optimized for touch</title>
+<link>https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate</link>
+<guid isPermaLink="false">bdc9496305d1d597459f52fe26ae324c519ad33e39c47a59c3d5d5485f0441cc</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 19:49:44 +0000</pubDate>
+<description>Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Keyboards of The Verge</title>
+<link>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</link>
+<guid isPermaLink="false">a90304fc83cb91dc2c9533f27ee1b6b5c10794a3bd7154ee561f4284e4330ce4</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 19:30:00 +0000</pubDate>
+<description>What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar</title>
+<link>https://9to5mac.com/2026/10/31/pumpkin-lights-adds-a-fun-jack-o-lantern-to-your-macs-menu-bar</link>
+<guid isPermaLink="false">1ee0ca049c914573ae0afe71d79f4ac254e9aa5c16965e14e53322678756372b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 31 Oct 2026 19:30:00 +0000</pubDate>
+<description>Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Pumpkin Lights is a nifty little menu bar app for Mac that lets you quickly toggle between light mode and dark mode with a ray-traced jack-o-lantern that drops down from the top of your screen. It’s completely free, and very fun to utilize. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600" medium="image"/>
+</item>
+<item>
 <title>The best Roku Streaming Stick depends on your picture quality needs</title>
 <link>https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs</link>
 <guid isPermaLink="false">c68a53d98f2c28b6dc7f2745e0b492ed7493698b132909f24be29e8909da79cc</guid>
@@ -868,17 +901,6 @@
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 21:09:46 +0000</pubDate>
 <description>Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]</description>
-</item>
-<item>
-<title>Exclusive details about Akai’s MPC Sample Key</title>
-<link>https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive</link>
-<guid isPermaLink="false">dc3df6c4fc2a74b6715af3152d5bb2b00b0ea48c552c2f6ec200abd5674c021c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 21:01:32 +0000</pubDate>
-<description>Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it will cost, The Verge has received exclusive images of […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Akai_Sample_Key_DSC01934_WEB.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>‘Knives Out’ director launches iPhone camera app that shoots like his movies</title>
@@ -3003,17 +3025,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/opera-webai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>US government acting illegally over electronic surveillance of its own citizens, say senators</title>
-<link>https://9to5mac.com/2026/10/27/us-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators</link>
-<guid isPermaLink="false">d516e7cd43ed6e87d7e7bad8631dbf22afe500f8fe66824944d88f6271677531</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 12:29:01 +0000</pubDate>
-<description>Two senators with notable expertise in intelligence matters say that the US government is acting illegally over electronic surveillance of its own citizens. They say the Foreign Intelligence Surveillance Court (FISC) has permitted intelligence agencies to continue warrantless interception of messages by US citizens despite failing to comply with the administration’s own privacy promise to allow public review of such rulings … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/US-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/US-government-acting-illegally-over-electronic-surveillance-of-its-own-citizens-say-senators.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens</title>
 <link>https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html</link>
 <guid isPermaLink="false">b7d7e51c85e3c557c1699527a018e84ea617c68385c5bef58ae41c7332d4f7e6</guid>
@@ -3034,17 +3045,6 @@
 <description>An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg" medium="image"/>
-</item>
-<item>
-<title>This super cute app turns your iPhone Duo into tiny vintage Macs</title>
-<link>https://9to5mac.com/2026/10/27/this-super-cute-app-turns-your-iphone-duo-into-tiny-vintage-macs</link>
-<guid isPermaLink="false">e057a8b802afed583383ca8ede474d0f9adb5cd25f56cace99917ac4dcb4440b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 11:37:56 +0000</pubDate>
-<description>It’s kind of ironic that the most fun apps we’ve seen for a brand new iPhone turn it into a decidedly old device. We’ve already seen a 1980s Sony Walkman emulator , and now Tiny Computers turns the Duo into a whole series of vintage Macs and more. You can choose between four vintage Macs and a range of non-Apple machines from a similar era, including the Commodore 64 … more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/This-super-cute-app-turns-your-iPhone-Duo-into-tiny-vintage-Macs.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/This-super-cute-app-turns-your-iPhone-Duo-into-tiny-vintage-Macs.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>AI-Generated Fake Login Pages Are Making Account Takeovers Easier</title>
