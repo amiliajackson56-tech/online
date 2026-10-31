@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 October 31 – Night on a Spooky Planet</title>
+<link>https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet</link>
+<guid isPermaLink="false">e6da576f1b1a6c97a0c0e365f638f79204bd8f1de959b89b599aa7edf082d379</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sat, 31 Oct 2026 04:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&amp;h=867&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&amp;h=867&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA Releases MAX POWER Key Events for Media, Participants</title>
 <link>https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants</link>
 <guid isPermaLink="false">a27813720169b81297077581a444ce373315fabf930592fe8b93bad77640c346</guid>
@@ -272,17 +283,6 @@
 <description>Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024" medium="image"/>
-</item>
-<item>
-<title>NASA-funded Study Details One of Oldest Mars Meteorites Ever Found</title>
-<link>https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found</link>
-<guid isPermaLink="false">5c3380370cf61ae7bb7a4cbe85131ee4a01ae507b013f8331237fe09ea05de5c</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 18:18:09 +0000</pubDate>
-<description>When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound (800-gram) rock was a piece of Mars that formed more than 4.1 billion years ago, making it one […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>A single brain signal may explain schizophrenia's most puzzling symptoms</title>
