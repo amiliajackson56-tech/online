@@ -4,6 +4,44 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Scientists say a forgotten particle may explain why the universe exists</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261031221201.htm</link>
+<guid isPermaLink="false">dd303facb7c61db2d289e92e8f5173a9936ab7c624dbb1da52d3b8c2471040e1</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Sun, 01 Nov 2026 04:33:36 +0000</pubDate>
+<description>A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and may have left detectable gravitational wave signals that could help unlock the cosmos’s deepest mysteries.</description>
+</item>
+<item>
+<title>APOD: 2026 November 1 – Colors of the Moon</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon</link>
+<guid isPermaLink="false">7b620b8ee23e792e1f6a889fc74922fe2d9e9c2db4d8e35c1744ffa574d399a5</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sun, 01 Nov 2026 04:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&amp;h=991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&amp;h=991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Scientists discover the hidden “muscles” trees use to straighten themselves</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261030003006.htm</link>
+<guid isPermaLink="false">bd167004b89c953e7a8ad125c729b6d26323fbd0ce1f9dc18f9508497d8e5edc</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Sun, 01 Nov 2026 02:44:28 +0000</pubDate>
+<description>Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lead to stronger forests, better timber, and more resilient crops.</description>
+</item>
+<item>
+<title>Scientists discover a hidden driver of high cholesterol and a way to stop it</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261030003003.htm</link>
+<guid isPermaLink="false">037a50dd191d4b220dc922d9c6454373681091452fdf4725140b9970eb3cad1c</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Sun, 01 Nov 2026 01:57:50 +0000</pubDate>
+<description>Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body's natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more promising, an experimental drug targeting this pathway has already passed an early human safety trial, potentially speeding the development of a new treatment for high cholesterol.</description>
+</item>
+<item>
 <title>Scientists finally discover how a common gut bacterium can trigger colon cancer</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261031012912.htm</link>
 <guid isPermaLink="false">011ccd50ec473ecbdc5fc1899d238a9bcc2bba7c9305cb1be130383713a8dc26</guid>
@@ -344,17 +382,6 @@
 <description>Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg?w=1536&amp;h=1186&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg?w=1536&amp;h=1186&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>Halloween Aboard the International Space Station</title>
-<link>https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station</link>
-<guid isPermaLink="false">f3e9ae8c2f1a5665b5827adf56ea86e88d73bb4997482250145e4e88e3a9c3f2</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 21:44:23 +0000</pubDate>
-<description>Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit. Whether individually or as an entire crew, they dress up in sometimes spooky, sometimes scary, but always creative costumes, often designed from materials available aboard the […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024" medium="image"/>
 </item>
 <item>
 <title>A single brain signal may explain schizophrenia's most puzzling symptoms</title>
@@ -1095,15 +1122,6 @@
 <description>Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreaking simulation recreates the universe’s first 2 billion years, showing how dark matter, gas, and radiation interacted to give rise to the earliest stars, galaxies, and black holes.</description>
 </item>
 <item>
-<title>A tiny laser beam could make computer memory 1,000 times faster</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261025073046.htm</link>
-<guid isPermaLink="false">8adce847c5e7e41b70374649ced42d8710810f2fe791fd68e15ca0c183145a88</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 09:22:06 +0000</pubDate>
-<description>Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient memory devices. By precisely shaping and shrinking an ultrafast laser beam, researchers demonstrated that they could switch magnetic states in a material, the basic process used to write digital data. The technique could potentially operate more than 1,000 times faster than conventional magnetic switching methods.</description>
-</item>
-<item>
 <title>Do spiders dream? Scientists just found a surprising clue</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261026225555.htm</link>
 <guid isPermaLink="false">a8e5e99aac29e49c3733d011c6e7be47aa08f1a3a8049db1048693b5060cbfff</guid>
@@ -1129,24 +1147,6 @@
 <category>science</category>
 <pubDate>Tue, 27 Oct 2026 02:32:38 +0000</pubDate>
 <description>Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease. Seven studies reveal why these cells are harmful and identify new strategies for targeting them, including a natural compound found in tomatoes. In aging mice, experimental treatments reduced inflammation and improved physical and brain health. The findings could open the door to therapies that combat some of the biological processes behind aging.</description>
-</item>
-<item>
-<title>1.9-million-year-old discovery rewrites the story of human evolution</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261025073042.htm</link>
-<guid isPermaLink="false">a361e319dfad81ce0e38d7aeca3518659e72e18a30948e8db6f3f97700871b05</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 01:35:08 +0000</pubDate>
-<description>New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought. Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famous Dmanisi site in Georgia, placing both among the earliest known human settlements outside Africa.</description>
-</item>
-<item>
-<title>The surprisingly simple exercise that could lower your blood pressure</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261025073045.htm</link>
-<guid isPermaLink="false">e72c08df1c9e4bfc2c6f517bb3fc06d40df55a8320910fefad1e7905051b9cff</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 00:57:45 +0000</pubDate>
-<description>A surprisingly simple exercise routine could help lower blood pressure without requiring daily workouts or expensive equipment. In a study of 100 adults, researchers found that wall squats performed just once or twice a week helped maintain significant reductions in systolic blood pressure over the short term.</description>
 </item>
 <item>
 <title>The Nobel prize in economic science has a serious gender problem</title>
