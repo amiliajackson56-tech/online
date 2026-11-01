@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI might rebrand its data centers as ‘AI compute campuses’</title>
+<link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses</link>
+<guid isPermaLink="false">e621a5b384ce839c8a49b11e63210372b6d05d273261e5832ed5fc786819dd16</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 21:55:23 +0000</pubDate>
+<description>Data centers are deeply unpopular. But what if we called them something else?</description>
+</item>
+<item>
 <title>NASA hopes the commercial space industry can help save Hubble</title>
 <link>https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble</link>
 <guid isPermaLink="false">dd8ec44c2a87c5d04685d37e797f216831b0c5b64779b305e3da3dceaccfb5b4</guid>
@@ -1147,15 +1156,6 @@
 <description>Boom’s airliner may be delayed, and its data center power business lost a customer.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Last-minute Halloween costumes for tech nerds</title>
-<link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds</link>
-<guid isPermaLink="false">03ea0cb6a82382c62e3354aee2ff78c9842f644864c9dbb0676852bf3f44013f</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 21:26:59 +0000</pubDate>
-<description>No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.</description>
 </item>
 <item>
 <title>How a Contractor’s Claude Agent Got Into the Pentagon</title>
