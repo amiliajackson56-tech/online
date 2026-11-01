@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Watch Saturday's Sportscene highlights on iPlayer</title>
+<link>https://www.bbc.co.uk/iplayer/episodes/m002jryr/sportscene-premiership-highlights?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d633ba22d59478bf9588a035c845755f31a89c8df46b558795a682a505cd5708</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 01 Nov 2026 13:00:00 +0000</pubDate>
+<description>With action from Kilmarnock v St Johnstone and Motherwell v St Mirren</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg" medium="image"/>
+</item>
+<item>
 <title>Wednesday appoint former Stockport boss Challinor</title>
 <link>https://www.bbc.co.uk/sport/football/articles/ckzd6er2025qo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">e133ce28bf7efa7033c167aebbf95504827298b798809222fc90cf27d12b526d</guid>
@@ -288,17 +299,6 @@
 <description>Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
-<title>Watch Saturday's Sportscene highlights on iPlayer</title>
-<link>https://www.bbc.co.uk/iplayer/episodes/m002jryr/sportscene-premiership-highlights?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">d633ba22d59478bf9588a035c845755f31a89c8df46b558795a682a505cd5708</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:51:42 +0000</pubDate>
-<description>Highlights from Kilmarnock v St Johnstone and Motherwell v St Mirren.</description>
-<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkn7fv.jpg" medium="image"/>
 </item>
 <item>
 <title>Verbruggen spreads belief as impressive Brighton beat Man City</title>
