@@ -4,15 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Watch: Falkirk v Celtic highlights on Sportscene</title>
-<link>https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">c5f4d13a1f0856fe0ed0eba25d4b59b3696b56e001b6e75188f5d03cc83ebe74</guid>
+<title>'Everyone saw it' - Iraola confused by Isak penalty decision</title>
+<link>https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">a27a16500fe2e4f268bc8a11965874e92f907393026ca0bbea05d3d7f944c396</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Sun, 01 Nov 2026 19:45:14 +0000</pubDate>
-<description>Extended highlights of Falkirk v Celtic, and a look back at Saturday's action.</description>
-<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg" medium="image"/>
+<pubDate>Sun, 01 Nov 2026 19:37:44 +0000</pubDate>
+<description>Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal, saying he "doesn't understand" why Alexander Isak was not awarded a penalty.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f434/live/50cc1ac0-d62a-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f434/live/50cc1ac0-d62a-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
 <title>Arteta credits Fleetwood loss for spirited win at Anfield</title>
@@ -21,7 +21,7 @@
 <source>BBC Football</source>
 <category>sports</category>
 <pubDate>Sun, 01 Nov 2026 19:21:49 +0000</pubDate>
-<description>Arsenal manager Mikel Arteta believes their loss in the League Cup to Fleetwood spurred his side on to their first victory at Anfield in 14 years.</description>
+<description>Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his side on to their first victory at Anfield in 14 years.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/469c/live/6fee0580-d625-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/469c/live/6fee0580-d625-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
@@ -81,13 +81,24 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0da7/live/982d8900-d61e-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
+<title>Watch: Falkirk v Celtic highlights on BBC iPlayer</title>
+<link>https://www.bbc.co.uk/iplayer/episode/m0034315?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">7a370d1c1459e9dc000858b150349a01b9971151466bc83020bc62a9944ea3f1</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 01 Nov 2026 17:30:00 +0000</pubDate>
+<description>Highlights of the 2026/27 Scottish Premiership match between Falkirk v Celtic.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkrdsf.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pkrdsf.jpg" medium="image"/>
+</item>
+<item>
 <title>Scottish roundup: Falkirk shock Celtic; Hibernian beat Hearts in semi-final</title>
 <link>https://www.theguardian.com/football/2026/oct/31/rangers-aberdeen-scottish-league-cup-semi-final-match-report</link>
 <guid isPermaLink="false">aac89f834385efba5deeb18cd4fdc424b8fadbf6b46a421e1384578c50bc6263</guid>
 <source>The Guardian Football</source>
 <category>sports</category>
 <pubDate>Sun, 01 Nov 2026 17:28:54 +0000</pubDate>
-<description>Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a run of three wins in 10 games. The Scottish champions had the chance to extend their lead at the top of the table to seven points, but never recovered from conceding a third-minute opener to Ethan Ross. Scott Tanser scored a second before half-time and the Bairns even had a third goal ruled out by a VAR review for handball against Jacob Murrell. The majority of Celtic’s struggles this season have come in European competition as they crashed out of the Champions League qualifiers and have lost all three Europa League group matches. Continue reading...</description>
+<description>Pressure on Martin O’Neill after 2-0 defeat by Falkirk Hibs will face Rangers in Premier Sports Cup final Celtic slumped to a 2-0 defeat at Falkirk on Sunday to ramp up the scrutiny on manager Martin O’Neill after a run of three wins in 10 games. The Scottish champions had the chance to extend their lead at the top of the table to seven points, but never recovered from conceding a third-minute opener to Ethan Ross. Scott Tanser scored a second before half-time and the Bairns even had a third goal ruled out by a video assistant referee review for handball against Jacob Murrell. The majority of Celtic’s struggles this season have come in European competition as they crashed out of the Champions League qualifiers and have lost all three Europa League group matches. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/c68d714bafae82c6ae085e9203aeffa9d8bc7459/1079_0_6473_5178/master/6473.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b24ab69308cdec5a73934a285c3e6ea" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/c68d714bafae82c6ae085e9203aeffa9d8bc7459/1079_0_6473_5178/master/6473.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4b24ab69308cdec5a73934a285c3e6ea" medium="image"/>
 </item>
@@ -488,17 +499,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9843/live/a24ea490-d557-11f1-b937-61b94454a4cf.jpg" medium="image"/>
 </item>
 <item>
-<title>18-year-old Mfuni 'will go a long way' - Lampard</title>
-<link>https://www.bbc.co.uk/sport/football/videos/c60qkyzeqz44o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">4bbe6f609db78719143036827adef94642ed957db3defc89840bb9e79b8f8acb</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 18:00:05 +0000</pubDate>
-<description>Coventry manager Frank Lampard gives his reaction to his side 3-1 victory over Sunderland as they move out of the relegation zone.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef87/live/7ca6bce0-d553-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef87/live/7ca6bce0-d553-11f1-a701-fddedf244c16.jpg" medium="image"/>
-</item>
-<item>
 <title>'Best thing is keep your mouth shut' - Mourinho on Mbappe-Mao row</title>
 <link>https://www.bbc.co.uk/sport/football/articles/ck9dz2yned67o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">3d9984cfbe6e6cec56331b87624854a6de2a9b21ad97f5cf458251677f62da23</guid>
@@ -574,17 +574,6 @@
 <description>Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg" medium="image"/>
-</item>
-<item>
-<title>Alonso praises Estevao response to lack of gametime</title>
-<link>https://www.bbc.co.uk/sport/football/videos/cr5ynzdpjnn9o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">5723df6090d25716080dfa87c9a05006582d1a1680994e948092fce66ab2bbe4</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 15:20:53 +0000</pubDate>
-<description>Chelsea manager Xabi Alonso praises the performance and response of winger Estevao in his side's 2-0 win over struggling Manchester United in the Premier League.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afab/live/1ade2210-d53e-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afab/live/1ade2210-d53e-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
 <title>Carrick bemoans Man Utd defending in loss to Chelsea</title>
@@ -1247,24 +1236,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c9/live/a9e3bb30-c965-11f1-9a39-31b474234113.jpg" medium="image"/>
 </item>
 <item>
-<title>- The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMickFVX3lxTE9qclpmZ3VtWnpRNHFLRXRZZ1IzY3JfYng3MkxVQ1BWQnlvU1k4UFpFZURIV0c5aXYzZ1RkUUs2dU9qTFR2dHhMXzU1eF9JcUhJdUNra19Ud1lUTmw0V2dwTWtBeGM1RDV2dHl6czhRQVFIdw?oc=5</link>
-<guid isPermaLink="false">b324a5fe1566d232aacfe95c732a954204180a6e07525ec5f5c46484feb54662</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Thu, 25 Jun 2026 19:55:20 +0000</pubDate>
-<description>The New York Times</description>
-</item>
-<item>
-<title>Fantasy Premier League - The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMirAJBVV95cUxQTjI0dGlJSVBtbWlqa0RTcDJFZDVrbUZIRWFDbVByd0dxbkVRZHUzUGlIQ3J3eGE1SkdxN3dJZkpFSm1wVWJvbEtBQkd5Tk9iaEQzbnRKcVJ5U3JLMElhQWliMW0tR3Fmel9BOThfLXZnQlk2RDQxVWZ5eXJKV3Y3c1Y0bmVtSHJWSTFIekVZenpRcHpuUmxWbDZaUzRoLUVRUHFRWjY2NjBCYWRXV29KbWRtNThvMkY3Nm9QM1l3b2Vhd2VHdlpjWlVqTzg5TmRJa2g3Vm5GSU85WDctNXhTUlZDT2ducnlpQmNCRWI4QlZmaWdxVm10VDdrY2MwT0F5SFNFWHQwQXhlVkQtbTFtRWdrZHdUX0xOWU5mSzFUZjVvT3huVnJaanhJTVI?oc=5</link>
-<guid isPermaLink="false">e57c149562d93c69e9a69b597d37118d9f2201117ce269269eb8b85c78dc1b5b</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Thu, 25 Jun 2026 15:27:18 +0000</pubDate>
-<description>Fantasy Premier League - The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
-</item>
-<item>
 <title>Ousmane Dembélé quietly becomes the main man after long journey to the top</title>
 <link>https://www.theguardian.com/football/2025/dec/20/ousmane-dembele-quietly-becomes-the-main-man-after-long-journey-to-the-top</link>
 <guid isPermaLink="false">f904505f9501e5a7b56e943d4ba693862eef067e8fd47d41cc76106d6474c233</guid>
@@ -1320,15 +1291,6 @@
 <media:content url="https://i.guim.co.uk/img/media/b7a46323e34ae0f276ea93357ff4360b054e7ca4/188_0_1260_1008/master/1260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0c3608d3f3b828766de547a76ad04c8" medium="image"/>
 </item>
 <item>
-<title>The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWmNtZEprZnlZTWxrV1NlS1FUdmJRRkFaSnFpNnpUdzluaVQ1M3ptSmNPWFVaMjVuR3JVcERvWjJXbl9yZ18tSGZnTm9CcWlpbVcyWkRnZ0ZvYVlkUllZc0VrZVV0NG1FVlhhQ0dlc0tSWmpOeFZMUFQxaS0xZDh1dk9fbkk5TDhpZTNFRnE4YmNpbmZjRWFoT0kwQmhzX2NGNWVISF9oZjdTNGx1YngxWUVZTFpERDFBSmF5QXNCVDBsWEJtVUV6UFJDNXBwWjl0NnpMMXVRWVYyRWFVaHpvb3V4clZTWGNPN1Bv?oc=5</link>
-<guid isPermaLink="false">0a2ea7fa1091a32c528ca7b1b8325bb3c49e7becf19f5318a3d2c5f509417843</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Fri, 20 Oct 2023 14:04:49 +0000</pubDate>
-<description>The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
-</item>
-<item>
 <title>Sign up for the Football Daily newsletter: our free football email</title>
 <link>https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up</link>
 <guid isPermaLink="false">460ad2f2fec001d72308532cafa675e4fb9df12acfe709b09709f25433b4b89f</guid>
@@ -1349,15 +1311,6 @@
 <description>Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainly by Júlia Belas Trindade and Sophie Downey , expect guest appearances from stars such as Anita Asante, Ada Hegerberg and many more. Try our other sports emails: as well as the occasionally funny football email The Fiver from Monday to Friday, there are weekly catch-ups for cricket in The Spin and rugby union in The Breakdown , and our seven-day roundup of the best of our sports journalism in The Recap . Living in Australia? Try the Guardian Australia’s daily sports newsletter Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" medium="image"/>
-</item>
-<item>
-<title>Apple Web Login - The New York Times</title>
-<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PbkNQeHhzZlNYekFuRGxJNlI3aWgxcl9OSmNtZnRnc1pUY1pDeF9kaWF0b1NZYjk3QlJBRU1wdTh3bFFLY3habGpsVHBCYjZBRHc?oc=5</link>
-<guid isPermaLink="false">a8129c35e94eb771da2bab7eeb2aaebd4eb3066539492647fccc47bbbc19279d</guid>
-<source>The Athletic Soccer via Google News</source>
-<category>sports</category>
-<pubDate>Wed, 10 Feb 2021 16:12:43 +0000</pubDate>
-<description>Apple Web Login The New York Times</description>
 </item>
 <item>
 <title>Sign up for the Recap newsletter: our free sport highlights email</title>
