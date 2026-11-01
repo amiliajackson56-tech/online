@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What is AssistiveTouch on your Apple Watch and when should you use it?</title>
+<link>https://www.engadget.com/2302464/what-is-assistivetouch-apple-watch-when-use-it</link>
+<guid isPermaLink="false">523431cdf7f9207250140ad33113cf0beecfa1c943821d0b9a1511cf26aa0a3a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 16:00:00 +0000</pubDate>
+<description>Your Apple Watch can respond to simple hand and finger gestures with AssistiveTouch. Learn how to set it up, toggle it off and when it's actually helps.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-assistivetouch-on-your-apple-watch-and-when-should-you-use-it/l-intro-1793294003.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-assistivetouch-on-your-apple-watch-and-when-should-you-use-it/l-intro-1793294003.jpg" medium="image"/>
+</item>
+<item>
+<title>Your old iPod could get Spotify and USB-C support — here's how</title>
+<link>https://www.engadget.com/2300286/how-old-ipod-get-spotify-usb-c-upgrade-sprout-mod</link>
+<guid isPermaLink="false">bcf4d6acc87c08672a97eccd996f24858d830ee786d41e276b98994e9c6fcdc7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 15:45:00 +0000</pubDate>
+<description>The iPod hasn't been sold for some time, but dedicated fans are keeping it alive with mods and complete refreshes.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-old-ipod-could-get-spotify-and-usb-c-support-heres-how/l-intro-1793116115.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-old-ipod-could-get-spotify-and-usb-c-support-heres-how/l-intro-1793116115.jpg" medium="image"/>
+</item>
+<item>
+<title>AI software clones are coming for big-name companies like Adobe</title>
+<link>https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe</link>
+<guid isPermaLink="false">995c7971a2e05dc67399ee8c53bf58020b340072ee01cb79401095afc1cbf576</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 15:30:00 +0000</pubDate>
+<description>Vibe-coded clones of Adobe software are shaking things up.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg" medium="image"/>
+</item>
+<item>
+<title>The simple reason hardware accelerated GPU scheduling isn't the best fit for cheap GPUs</title>
+<link>https://www.engadget.com/2300281/hardware-accelerated-gpu-scheduling-not-best-fit-cheap-gpu-reason</link>
+<guid isPermaLink="false">66aca35d8fd7f4ca37c7d124368c0b009c551dab36735ded48f9c9ef2001a212</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 15:15:00 +0000</pubDate>
+<description>Hardware accelerated GPU scheduling is one of those features many of us don't really think about, but it could cause problems for your old GPU.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-simple-reason-hardware-accelerated-gpu-scheduling-isnt-the-best-fit-for-cheap-gpus/l-intro-1793082690.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-simple-reason-hardware-accelerated-gpu-scheduling-isnt-the-best-fit-for-cheap-gpus/l-intro-1793082690.jpg" medium="image"/>
+</item>
+<item>
 <title>Alpine Linux rebuilds GitLab after attempted RCE attack</title>
 <link>https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack</link>
 <guid isPermaLink="false">99e717f0ebbb40f1c39b1a5e09c3208aa87eb1979784d7868c381e50ab076bc5</guid>
@@ -13,7 +57,7 @@
 <description>Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]</description>
 </item>
 <item>
-<title>Pixel 11 Pro Fold: Sturdy rectengale in a wide wide world</title>
+<title>Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world</title>
 <link>https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world</link>
 <guid isPermaLink="false">abb7567267d0247f7c90bbc34b0984b59251637296e98fabf73a15e52fd33092</guid>
 <source>TechCrunch</source>
@@ -472,28 +516,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/bloody-youtube-logo.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Why your Apple AirPods won't connect to your iPhone and how can you fix it</title>
-<link>https://www.engadget.com/2302450/why-apple-airpods-wont-connect-to-iphone-fixes</link>
-<guid isPermaLink="false">6cf1211d32ab12069e78e2de32f50929658cad56f15bcf764817d529842582f3</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 21:00:00 +0000</pubDate>
-<description>When your AirPods refuse to show up on your iPhone, the cause is usually simpler than you'd think. Here's where to look first and what to try next.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-apple-airpods-wont-connect-to-your-iphone-and-how-can-you-fix-it/l-intro-1793293868.jpg" medium="image"/>
-</item>
-<item>
-<title>Xbox manager says AI is already being used in game development</title>
-<link>https://www.engadget.com/2302431/brandon-stirrup-xbox-manager-says-ai-used-game-development</link>
-<guid isPermaLink="false">b526aaf55cc198ba531196cb3c7d50c0618dc62aaf0c13f0fac5d5f0aecf6b77</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 20:00:00 +0000</pubDate>
-<description>Brandon Stirrup deleted his comments from X a day after saying that AI usage is widespread in the gaming industry.</description>
-<enclosure url="https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/xbox-manager-says-ai-is-already-being-used-in-game-development/l-intro-1793296757.jpg" medium="image"/>
-</item>
-<item>
 <title>Here’s how the new MacBook Pro and macOS 27 are optimized for touch</title>
 <link>https://9to5mac.com/2026/10/31/macbook-pro-touch-optimizations-macos-27-golden-gate</link>
 <guid isPermaLink="false">bdc9496305d1d597459f52fe26ae324c519ad33e39c47a59c3d5d5485f0441cc</guid>
@@ -525,28 +547,6 @@
 <description>Welcome to Indie App Spotlight . This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like your app featured, get in contact . Pumpkin Lights is a nifty little menu bar app for Mac that lets you quickly toggle between light mode and dark mode with a ray-traced jack-o-lantern that drops down from the top of your screen. It’s completely free, and very fun to utilize. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/halloween.png?w=1600" medium="image"/>
-</item>
-<item>
-<title>The best Roku Streaming Stick depends on your picture quality needs</title>
-<link>https://www.engadget.com/2302428/best-roku-streaming-stick-depends-on-picture-quality-needs</link>
-<guid isPermaLink="false">c68a53d98f2c28b6dc7f2745e0b492ed7493698b132909f24be29e8909da79cc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 19:00:00 +0000</pubDate>
-<description>Roku only sells one streaming device that doesn't support 4K output.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-best-roku-streaming-stick-depends-on-your-picture-quality-needs/l-intro-1793294370.jpg" medium="image"/>
-</item>
-<item>
-<title>Why your AirPods keep disconnecting without warning: These settings can fix it</title>
-<link>https://www.engadget.com/2298547/why-mac-keeps-disconnecting-airpods</link>
-<guid isPermaLink="false">fc9284d73c46f442883b7dec4b2868a70862a7be562fbbf1766bd6a3990a902d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 18:45:00 +0000</pubDate>
-<description>Handy features of your AirPods can be overzealous, leading to disconnections and unwanted device swapping.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-your-airpods-keep-disconnecting-without-warning-these-settings-can-fix-it/l-intro-1793121072.jpg" medium="image"/>
 </item>
 <item>
 <title>Binance CEO says 90 percent of stolen assets have been ‘replenished’</title>
