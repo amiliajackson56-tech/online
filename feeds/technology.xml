@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to know if a USB-C cable is waterproof</title>
+<link>https://www.engadget.com/2300388/how-to-know-usb-c-cable-waterproof</link>
+<guid isPermaLink="false">4a99cf1d3abdfdbfea92c7b68206b7531cbbf2887a3ea4f1b1d4b0609effcfea</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 20:00:00 +0000</pubDate>
+<description>If you need extra protection for your USB cables, knowing how to tell if they're waterproof beforehand is important. Here's how to check a cable's rating.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-know-if-a-usb-c-cable-is-waterproof-or-not/l-intro-1793116949.jpg" medium="image"/>
+</item>
+<item>
 <title>Flock keeps ignoring requests to cancel its contracts</title>
 <link>https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts</link>
 <guid isPermaLink="false">4c7805da92c2787a7faa415ad27d3395071ff6e754fd24921002fc95d95dc11b</guid>
@@ -293,17 +304,6 @@
 <description>The iPod hasn't been sold for some time, but dedicated fans are keeping it alive with mods and complete refreshes.</description>
 <enclosure url="https://www.engadget.com/img/gallery/your-old-ipod-could-get-spotify-and-usb-c-support-heres-how/l-intro-1793116115.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/your-old-ipod-could-get-spotify-and-usb-c-support-heres-how/l-intro-1793116115.jpg" medium="image"/>
-</item>
-<item>
-<title>AI software clones are coming for big-name companies like Adobe</title>
-<link>https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe</link>
-<guid isPermaLink="false">995c7971a2e05dc67399ee8c53bf58020b340072ee01cb79401095afc1cbf576</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 15:30:00 +0000</pubDate>
-<description>Vibe-coded clones of Adobe software are shaking things up.</description>
-<enclosure url="https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/ai-software-clones-are-coming-for-big-name-companies-like-adobe/l-intro-1793354854.jpg" medium="image"/>
 </item>
 <item>
 <title>Alpine Linux rebuilds GitLab after attempted RCE attack</title>
