@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>What Democrats Can Learn From New York’s Data Center Moratorium</title>
+<link>https://www.wired.com/story/what-democrats-can-learn-new-york-data-center-moratorium</link>
+<guid isPermaLink="false">6fbccef548743a779f25397d82051f97e3204e102aea2a716882d898701f5553</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 11:00:00 +0000</pubDate>
+<description>With a number of anti-data-center candidates poised to win on Tuesday, New York provides a glimpse at the tensions around actually having to do something about the digital infrastructure.</description>
+<enclosure url="https://media.wired.com/photos/6ae4fee12ed4c5e1df28fc74/master/pass/103126-Power%20Play-v1jpg.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae4fee12ed4c5e1df28fc74/master/pass/103126-Power%20Play-v1jpg.jpg" medium="image"/>
+</item>
+<item>
 <title>7 Best Travel Mugs (2026): Insulated, Leakproof, and Self-Heating</title>
 <link>https://www.wired.com/story/the-best-travel-mugs</link>
 <guid isPermaLink="false">e33c2b5bb31b9653fd91b7996c18b5ad721895bf857916f83c38b2ad52d12048</guid>
@@ -2198,17 +2209,6 @@
 <description>The firm that helped set up Elon Musk’s America PAC is behind the new group, which will work with election officials to pursue policies aligned with Donald Trump’s false election fraud claims.</description>
 <enclosure url="https://media.wired.com/photos/6adf9665ae47ffa8435ebbf6/master/pass/GettyImages-2207247570.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6adf9665ae47ffa8435ebbf6/master/pass/GettyImages-2207247570.jpg" medium="image"/>
-</item>
-<item>
-<title>Liquid Glass Finally Makes Sense on the iPhone Duo</title>
-<link>https://www.wired.com/story/liquid-glass-finally-makes-sense-on-the-iphone-duo</link>
-<guid isPermaLink="false">a3d7caf1a50e50f208ecd57b56350aef661a0f594d7f691a32d14b0213ebee9a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 09:30:00 +0000</pubDate>
-<description>Liquid Glass was a divisive redesign. But with a radically different iPhone, the pieces are finally falling into place.</description>
-<enclosure url="https://media.wired.com/photos/6ad79403fc73d5bd28140aac/master/pass/DSC_9897.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ad79403fc73d5bd28140aac/master/pass/DSC_9897.jpg" medium="image"/>
 </item>
 <item>
 <title>Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open</title>
