@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Data centers are now a midterm issue, even in Brooklyn</title>
+<link>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn</link>
+<guid isPermaLink="false">890f114888d2b8607277443bdc7660270cd878e9405c81a7e28d93fe068b38b3</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 01 Nov 2026 02:22:10 +0000</pubDate>
+<description>At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.</description>
+</item>
+<item>
 <title>5 expensive hobbies where owning a 3D printer actually saves you money</title>
 <link>https://www.engadget.com/2300213/3d-printer-expensive-hobbies-where-it-saves-money</link>
 <guid isPermaLink="false">cfea1c22bf88d678ab8d925d610b067e5f80c64aa4917d94fe0f915fbf9599de</guid>
@@ -1131,15 +1140,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9-1152x648.jpeg" medium="image"/>
 </item>
 <item>
-<title>Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’</title>
-<link>https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people</link>
-<guid isPermaLink="false">9d1f246a30c48eae12f80afaabefe7ce66e6eb922937b8868cbc4f739c337aa6</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 16:03:45 +0000</pubDate>
-<description>The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.</description>
-</item>
-<item>
 <title>Hands-on time with the iPhone Duo still leaves me wowed</title>
 <link>https://9to5mac.com/2026/10/30/hands-on-time-with-the-iphone-duo-still-leaves-me-wowed</link>
 <guid isPermaLink="false">9762886844037376f6b24f46dafe3b1dbc54a973e8303546329c8f40c1b9a6cf</guid>
@@ -1438,17 +1438,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxhyw9NKYcR8Nkb28O8I-MA0sr3NhXC_Xr7gjpFqZKFd-29F8pGa5TCuIL2GTBPLAPzQ9iW5DsU_2zK-pUWIar_TdJdKiQMsptNjA-XxvVwMACBSQR9tW_qAC8d7I21YdqraYoY5LdWCRE8vKXjrxYCEW8X7ZbPulwCzdTdxODqnMuJbqQUZStRMRiKHc/s1600/tweets.jpg" medium="image"/>
 </item>
 <item>
-<title>Male Insecurity Over Penis Size Is a Booming Business</title>
-<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
-<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
-<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
-<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
-</item>
-<item>
 <title>The Best Handheld Translators for Work and Travel (2026)</title>
 <link>https://www.wired.com/story/why-you-need-a-handheld-translator-for-travel</link>
 <guid isPermaLink="false">a12c716558bbdaab18f755c3bede31192066cbbdfbf3473d479f153b4d016597</guid>
@@ -1458,6 +1447,17 @@
 <description>Your cell phone can handle basic language translation, but dedicated translator devices can offer a much more immersive, versatile experience.</description>
 <enclosure url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
+</item>
+<item>
+<title>Male Insecurity Over Penis Size Is a Booming Business</title>
+<link>https://www.wired.com/story/male-insecurity-over-penis-size-is-a-booming-business</link>
+<guid isPermaLink="false">2e42b2587ce663c1e81428f5f41016ccef6e1559b9bfee39dbb18e2b2f0b674b</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 30 Oct 2026 10:30:00 +0000</pubDate>
+<description>Manhood, a new documentary about “girth enhancement,” explores how wellness professionals are encouraging men to undergo increasingly extreme procedures to be sexually desirable.</description>
+<enclosure url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2718a4c18bfda39de27c9/master/pass/MANHOOD_STILL_1.jpg" medium="image"/>
 </item>
 <item>
 <title>Drupal warns of critical Commerce Core flaw exploited in attacks</title>
@@ -2200,13 +2200,13 @@
 <media:content url="https://media.wired.com/photos/67b63b972c751893c256c1e6/master/pass/WIRED-Coupons-R2_16.png" medium="image"/>
 </item>
 <item>
-<title>Loop Earplugs Discount Codes: 40% Off</title>
-<link>https://www.wired.com/story/loop-earplugs-discount-code</link>
-<guid isPermaLink="false">172cc4b1f71ff1ca2f8e4744390e9c49bef20b17ecb6a8b83c5f9f85efd42949</guid>
+<title>NZXT Discount Codes: 50% Off in November 2026</title>
+<link>https://www.wired.com/story/nzxt-discount-code</link>
+<guid isPermaLink="false">f0a94366aa8ab77c2d7153a3bd77c8f0d4368f4d371a439d635e0aff6604b875</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 29 Oct 2026 05:00:00 +0000</pubDate>
-<description>Save on Loop Earplugs, including Quiet 2 and popular gift sets for improved sleep, focus, and comfort.</description>
+<description>Save 50%, plus up to $250 with NZXT promo codes and discounts.</description>
 <enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
