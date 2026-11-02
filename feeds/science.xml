@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Happy 65 Years: NASA’s Johnson Space Center Then and Now</title>
+<link>https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now</link>
+<guid isPermaLink="false">94e58e2186eada314cd9772988e7efad6ccde52928d997c0a9ae0c54d5affebb</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 21:35:59 +0000</pubDate>
+<description>Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis. Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg?w=1536" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/s63-11625.jpg?w=1536" medium="image"/>
+</item>
+<item>
 <title>TB 26-09 Measured Hammer-Tap Inputs</title>
 <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs</link>
 <guid isPermaLink="false">a20db8c134bc2054f83f74198dcb35ee29920a818ad6497dafb9cced0aa494a0</guid>
@@ -128,7 +139,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]</description>
+<description>APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long Cloud on Mars Explanation: What’s causing this unusually long cloud on Mars? Known as the […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -330,7 +341,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Sun, 01 Nov 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the […]</description>
+<description>APODScienceAPODAPOD: 2026 November 1 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Colors of the Moon Explanation: What color is the Moon? It depends on the night — and […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&amp;h=991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MoonColors_Pace_960.jpg?w=960&amp;h=991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -413,7 +424,7 @@
 <source>NASA Breaking News</source>
 <category>science</category>
 <pubDate>Sat, 31 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 31 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a […]</description>
+<description>APODScienceAPODAPOD: 2026 October 31 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night on a Spooky Planet Explanation: What spooky planet is this? Planet Earth on a dark and […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&amp;h=867&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/Hverir_Vetter_1300.jpg?w=1300&amp;h=867&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
@@ -434,17 +445,6 @@
 <category>science</category>
 <pubDate>Sat, 31 Oct 2026 00:59:52 +0000</pubDate>
 <description>A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.</description>
-</item>
-<item>
-<title>NASA Releases MAX POWER Key Events for Media, Participants</title>
-<link>https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants</link>
-<guid isPermaLink="false">a27813720169b81297077581a444ce373315fabf930592fe8b93bad77640c346</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 19:31:02 +0000</pubDate>
-<description>America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920" medium="image"/>
 </item>
 <item>
 <title>Type 2 diabetes breakthrough as 54% achieve remission in just 6 months</title>
