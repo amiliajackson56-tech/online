@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Borrowed reading: stories from our extended colleagues</title>
+<link>https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues</link>
+<guid isPermaLink="false">6689171f577eeb946c807c7c25dfa8355be4ba2bd1e513f49223ec00bdf444c4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 04:23:48 +0000</pubDate>
+<description>Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.</description>
+</item>
+<item>
+<title>Hands-on: ESR’s 45W Xtend charger is an excellent iPhone fast charger on the go</title>
+<link>https://9to5mac.com/2026/11/01/esr-45w-fast-charger-with-retractable-cable-for-iphone-hands-on</link>
+<guid isPermaLink="false">d067e3104286c929ce1bef7cf823d65bbd43a7e5b3c8558df57b001b772415b4</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 03:32:37 +0000</pubDate>
+<description>Last month, ESR released a new set of chargers under the xtend branding – all of which offer built-in retractable cables. They have a 45W wall charger that supports up to 60W with AVS, as well as a 100W car charger with two cables. I’ll largely be touching on the 45W charger here, as that’s the one I’ve been utilizing the most. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04217-2048x1024.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04217-2048x1024.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>Three new iPad models are reportedly launching early next year, here’s what’s coming</title>
 <link>https://9to5mac.com/2026/11/01/three-new-ipad-models-are-reportedly-launching-early-next-year-heres-whats-coming</link>
 <guid isPermaLink="false">22d63628fe0f4da8d022bf6ca9a9a34385ea65aaa016a664aea924a53f2a18b2</guid>
@@ -1136,15 +1156,6 @@
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
 <description>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</description>
-</item>
-<item>
-<title>Applebee’s exposed customers’ personal data after leaving database password in app</title>
-<link>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app</link>
-<guid isPermaLink="false">1693b7cddd623e111e43a685b8ae4d49bddc67bbc59676b5a8cf6b559d68154e</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 21:48:53 +0000</pubDate>
-<description>EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.</description>
 </item>
 <item>
 <title>‘Pluribus’ season 2 reportedly begins filming tomorrow</title>
@@ -3056,16 +3067,5 @@
 <description>Today Apple unveiled a new 14-inch MacBook Pro with M6 chip. It has the same design as before and many of the same features, so what’s actually changed? Here’s what’s new. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Watch the ad for Apple’s new 14-inch MacBook Pro powered by M6</title>
-<link>https://9to5mac.com/2026/10/27/watch-the-ad-for-apples-new-14-inch-macbook-pro-powered-by-m6</link>
-<guid isPermaLink="false">c2956f46be1a322624fd3ad6b2136bb976022a52fc395f0904f1edd11238ad7e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:37:44 +0000</pubDate>
-<description>Apple’s YouTube channel has published the ad for the new 14-inch MacBook Pro, powered by the M6 chip, which was just announced. Watch it below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/m6-mbp-ad.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/m6-mbp-ad.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
