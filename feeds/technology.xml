@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>These are the best MacBook deals right now: November 2026 Buyer’s Guide</title>
+<link>https://9to5mac.com/2026/11/01/best-macbook-discounts-november-2026-edition</link>
+<guid isPermaLink="false">ceb3e92c9bb4ee7c76fc068247c1488a5340454803232ac7870ab2708c949fae</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 05:01:57 +0000</pubDate>
+<description>In recent years, Macs had been getting more and more affordable. Cheaper starting points, more memory and storage per dollar, and the introduction of MacBook Neo. For the first time, Apple had started to become one of the best values on the market. While Apple did drastically increase its prices earlier this year as a result of the ongoing memory shortage, we’re starting to finally see some pricing improvements, down from the initial sting. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/macos-27-macbook-generic-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Jackery made its portable power stations even smaller</title>
+<link>https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate</link>
+<guid isPermaLink="false">97ee6362932be90d64aa328c4934f8a2dc271962332972347c1bae6971bb080d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 05:00:00 +0000</pubDate>
+<description>Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power station to date, measuring only 4.6 by 3.4 by 3.4 inches and weighing just 1.87 pounds. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/jackery1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Borrowed reading: stories from our extended colleagues</title>
 <link>https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues</link>
 <guid isPermaLink="false">6689171f577eeb946c807c7c25dfa8355be4ba2bd1e513f49223ec00bdf444c4</guid>
@@ -667,17 +689,6 @@
 <description>Apple just unveiled the new MacBook Pro with PROLED XDR , its first MacBook with a touch display. While Apple already added a handful of touch optimizations to macOS 27 Golden Gate earlier this year, there’s also a number of new optimizations that were unveiled alongside the new MacBook Pro. Here’s what Apple worked on. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-touch-hand.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Keyboards of The Verge</title>
-<link>https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks</link>
-<guid isPermaLink="false">a90304fc83cb91dc2c9533f27ee1b6b5c10794a3bd7154ee561f4284e4330ce4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 19:30:00 +0000</pubDate>
-<description>What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using a keyboard. We've written about many keyboards over the years, from […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268834_Keyboards_of_the_Verge_CVirginia4.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Indie App Spotlight: ‘Pumpkin Lights’ adds a fun jack-o-lantern to your Mac’s menu bar</title>
@@ -3056,16 +3067,5 @@
 <description>Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw were released last month by Apple in</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg" medium="image"/>
-</item>
-<item>
-<title>M6 MacBook Pro vs M5 MacBook Pro: What’s actually changed?</title>
-<link>https://9to5mac.com/2026/10/27/m6-macbook-pro-vs-m5-macbook-pro-whats-actually-changed</link>
-<guid isPermaLink="false">63f0fa805f05d466aeb78454abf051e349f5551a89a4fb9d9163ee914ad54d72</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:43:02 +0000</pubDate>
-<description>Today Apple unveiled a new 14-inch MacBook Pro with M6 chip. It has the same design as before and many of the same features, so what’s actually changed? Here’s what’s new. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/m6-macbook-pro-angle.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 </channel></rss>
