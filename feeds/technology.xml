@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>4 Best Alexa Speakers I’ve Tested (2026)</title>
+<link>https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers</link>
+<guid isPermaLink="false">c1728bddee53792f33598a7fb439380fba8fb0f09ccbf57893b5cae83306d100</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 10:07:00 +0000</pubDate>
+<description>I’ve rounded up the best smart speakers that let you talk to Alexa, from the popular Echo Dot to the newest Echo Studio.</description>
+<enclosure url="https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6a1a30541b85497e249c551b/master/pass/The%20Best%20Alexa%20Speakers%20top%20art%20052026%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features</title>
+<link>https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features</link>
+<guid isPermaLink="false">6305e141035d81c821671a1ca7e0fba0e07695a10836fee8555f0d2ea0518586</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
+<description>WIRED uncovered some 400 apps and websites linked to Chinese-language developers that look like regular AI tools but had secret features that let users create violent AI-generated images and video.</description>
+<enclosure url="https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6adfc11328ba980ed3d0219a/master/pass/Security_ChinaAppsBehindDeepFakes_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>Ivanti patches two more Connect Secure zero-days chained in attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks</link>
+<guid isPermaLink="false">bcfce8074fe98f42a51de39f8a056f4c6561128c87d6fb018967cab7344d47b2</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 09:33:26 +0000</pubDate>
+<description>Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]</description>
+</item>
+<item>
 <title>New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value</title>
 <link>https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html</link>
 <guid isPermaLink="false">b1c1d30dd8ee58aa9f8dbc651913efd0cf6fc81939572fda2754a1c9596d8363</guid>
@@ -1718,15 +1749,6 @@
 <media:content url="https://media.wired.com/photos/69fe53b7692a9d3fda8bda4c/master/pass/AFK%20Portable%20Translators%20Can%20Help%20You%20Speak%20Like%20a%20Local%20When%20Traveling%20Abroad%20top%20art%20052026%20SOURCE%20Amazon-iFlyTek.jpg" medium="image"/>
 </item>
 <item>
-<title>Drupal warns of critical Commerce Core flaw exploited in attacks</title>
-<link>https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks</link>
-<guid isPermaLink="false">642f147345e48ec870d02954865d12004d6c2caba6e50f5b6674d978b80ecdfd</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 10:16:07 +0000</pubDate>
-<description>Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]</description>
-</item>
-<item>
 <title>It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme</title>
 <link>https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme</link>
 <guid isPermaLink="false">e6ce1dcdd2859675556cb0e76cbdd03f7f1e38c9d188634f8b076aa853226704</guid>
@@ -2244,17 +2266,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/You-can-now-spend-between-1999-and-14549-on-a-MacBook-Pro.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’</title>
-<link>https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant</link>
-<guid isPermaLink="false">ee7bc266ca0de39106bd8195a4d917b741443b7755fb1683950aae2ae06763bb</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:45:00 +0000</pubDate>
-<description>Anthropic and OpenAI say they’ve disproved a key tenet of computer science. Researchers are struggling with the fall but also feel like “overexcited bunnies” as they look at new questions to explore.</description>
-<enclosure url="https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae293587359ba945850d8f8/master/pass/science_math_ai_breakthrough_research.jpg" medium="image"/>
-</item>
-<item>
 <title>Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls</title>
 <link>https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html</link>
 <guid isPermaLink="false">7d482c1bcf9fa313acb9e633e6f24c3333f3e150c7ee16dd31aae22a564e553b</guid>
@@ -2264,17 +2275,6 @@
 <description>Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKqTkl_DfXdrvaLinBOu5OU0NISVo_mPJfqRmnHL-m8efFXEijbxOVsFgrSPparCspKfoUtxDtfA7gu8myFTfvWCFJfse3BQakKGOZCA54pWh371KyXdluHyqjckIBFjZ36Ogv1EI42yDCO2dt02noigEyL2RKJ8lEivH3PCWJURryc1JtNO9djpeW88tJ/s1600/cisco-flaws.jpg" medium="image"/>
-</item>
-<item>
-<title>Hisense UR8 RGB MiniLED TV: Midrange Quality, Upscale Color Accuracy</title>
-<link>https://www.wired.com/review/review-hisense-ur8</link>
-<guid isPermaLink="false">610495ce8918bf87e198aa737145abac6be487825a52fac0d602f01961c9800a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 10:30:00 +0000</pubDate>
-<description>The Hisense UR8 RGB MiniLED is more affordable than competitors and offers exceptional color accuracy, but is otherwise just OK.</description>
-<enclosure url="https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae24c8e168dfe749932c9c5/master/pass/Review%20Hisense%20UR8%20RGB%20MiniLED%20TV%20102026%20top%20art%20SOURCE%20Best%20Buy.jpg" medium="image"/>
 </item>
 <item>
 <title>GitHub Launches npm Firewall to Block Malicious Packages Before Installation</title>

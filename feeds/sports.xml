@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Which Premier League players are set for yellow card suspensions?</title>
+<link>https://www.bbc.co.uk/sport/articles/cr3wj7wg35pxo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">cfa2f11bc528c0ee467a0eb4b2570921befd9a06e83c60f9b61d8462448f02ae</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Mon, 02 Nov 2026 09:58:42 +0000</pubDate>
+<description>Hull City's Matt Crooks and Aston Villa's Matty Cash are the first players to receive a one-match ban for accumulating five yellow cards in the 2025-26 Premier League season.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b177/live/1aa00750-d6a1-11f1-b441-2b33b063138f.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b177/live/1aa00750-d6a1-11f1-b441-2b33b063138f.png" medium="image"/>
+</item>
+<item>
 <title>Falkirk brick wall Bain boosts Scotland chances</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c65ynz5ve125o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">d706302bb4b7639ad884124790ecc4d860368c0b8dfe0088d52c56d2555a65ca</guid>
@@ -48,7 +59,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b579/live/c06da850-d691-11f1-93e1-3b657b665bcf.png" medium="image"/>
 </item>
 <item>
-<title>No Grealish, no cry - the rise of Everton's youngsters</title>
+<title>No Grealish, no problem - the rise of Everton's youngsters</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cm70pv70jwrjo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">fbe48dae90840ee828d8b7241f8781c1ef5448108e1fbdb4ce5c7c13df930ac3</guid>
 <source>BBC Football</source>
@@ -68,17 +79,6 @@
 <description>Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png" medium="image"/>
-</item>
-<item>
-<title>The pathway promise: Why Scottish football is struggling to produce young talent</title>
-<link>https://www.bbc.co.uk/news/articles/crx23ejgz7j8o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">84096b647dc4d632af2830e287f03fccf665cee297def805cd9b64cf3b00c7ba</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Mon, 02 Nov 2026 06:05:57 +0000</pubDate>
-<description>Scottish football is wrestling with a growing concern over the number of homegrown players who are making to the top of the game.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/5f6d3a80-d442-11f1-97f9-27ebf08d99fe.jpg" medium="image"/>
 </item>
 <item>
 <title>Football Daily</title>
@@ -1104,17 +1104,6 @@
 <media:content url="https://ichef.bbci.co.uk/images/ic/480xn/p0pc16gm.png" medium="image"/>
 </item>
 <item>
-<title>Who has scored against the most Premier League teams?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmwyzk1jq35go?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">0842d81c558894bf1f124e3c266dff9c659fc2b5cbbc3ddc6109583e17b3b2fb</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Tue, 22 Sep 2026 09:30:39 +0000</pubDate>
-<description>BBC Sport's Ask Me Anything team looks at which players have scored against the most teams in Premier League history</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg" medium="image"/>
-</item>
-<item>
 <title>Women’s transfer window summer 2026: all deals from world’s top six leagues</title>
 <link>https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues</link>
 <guid isPermaLink="false">ff973d01a0067327d44b427121f94cee5400b5d58541d23df13acad23a189472</guid>
@@ -1247,6 +1236,24 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c9/live/a9e3bb30-c965-11f1-9a39-31b474234113.jpg" medium="image"/>
 </item>
 <item>
+<title>- The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMickFVX3lxTE9qclpmZ3VtWnpRNHFLRXRZZ1IzY3JfYng3MkxVQ1BWQnlvU1k4UFpFZURIV0c5aXYzZ1RkUUs2dU9qTFR2dHhMXzU1eF9JcUhJdUNra19Ud1lUTmw0V2dwTWtBeGM1RDV2dHl6czhRQVFIdw?oc=5</link>
+<guid isPermaLink="false">b324a5fe1566d232aacfe95c732a954204180a6e07525ec5f5c46484feb54662</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Thu, 25 Jun 2026 19:55:20 +0000</pubDate>
+<description>The New York Times</description>
+</item>
+<item>
+<title>Fantasy Premier League - The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMirAJBVV95cUxQTjI0dGlJSVBtbWlqa0RTcDJFZDVrbUZIRWFDbVByd0dxbkVRZHUzUGlIQ3J3eGE1SkdxN3dJZkpFSm1wVWJvbEtBQkd5Tk9iaEQzbnRKcVJ5U3JLMElhQWliMW0tR3Fmel9BOThfLXZnQlk2RDQxVWZ5eXJKV3Y3c1Y0bmVtSHJWSTFIekVZenpRcHpuUmxWbDZaUzRoLUVRUHFRWjY2NjBCYWRXV29KbWRtNThvMkY3Nm9QM1l3b2Vhd2VHdlpjWlVqTzg5TmRJa2g3Vm5GSU85WDctNXhTUlZDT2ducnlpQmNCRWI4QlZmaWdxVm10VDdrY2MwT0F5SFNFWHQwQXhlVkQtbTFtRWdrZHdUX0xOWU5mSzFUZjVvT3huVnJaanhJTVI?oc=5</link>
+<guid isPermaLink="false">e57c149562d93c69e9a69b597d37118d9f2201117ce269269eb8b85c78dc1b5b</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Thu, 25 Jun 2026 15:27:18 +0000</pubDate>
+<description>Fantasy Premier League - The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
+</item>
+<item>
 <title>Ousmane Dembélé quietly becomes the main man after long journey to the top</title>
 <link>https://www.theguardian.com/football/2025/dec/20/ousmane-dembele-quietly-becomes-the-main-man-after-long-journey-to-the-top</link>
 <guid isPermaLink="false">f904505f9501e5a7b56e943d4ba693862eef067e8fd47d41cc76106d6474c233</guid>
@@ -1302,6 +1309,15 @@
 <media:content url="https://i.guim.co.uk/img/media/b7a46323e34ae0f276ea93357ff4360b054e7ca4/188_0_1260_1008/master/1260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0c3608d3f3b828766de547a76ad04c8" medium="image"/>
 </item>
 <item>
+<title>The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWmNtZEprZnlZTWxrV1NlS1FUdmJRRkFaSnFpNnpUdzluaVQ1M3ptSmNPWFVaMjVuR3JVcERvWjJXbl9yZ18tSGZnTm9CcWlpbVcyWkRnZ0ZvYVlkUllZc0VrZVV0NG1FVlhhQ0dlc0tSWmpOeFZMUFQxaS0xZDh1dk9fbkk5TDhpZTNFRnE4YmNpbmZjRWFoT0kwQmhzX2NGNWVISF9oZjdTNGx1YngxWUVZTFpERDFBSmF5QXNCVDBsWEJtVUV6UFJDNXBwWjl0NnpMMXVRWVYyRWFVaHpvb3V4clZTWGNPN1Bv?oc=5</link>
+<guid isPermaLink="false">0a2ea7fa1091a32c528ca7b1b8325bb3c49e7becf19f5318a3d2c5f509417843</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Fri, 20 Oct 2023 14:04:49 +0000</pubDate>
+<description>The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
+</item>
+<item>
 <title>Sign up for the Football Daily newsletter: our free football email</title>
 <link>https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up</link>
 <guid isPermaLink="false">460ad2f2fec001d72308532cafa675e4fb9df12acfe709b09709f25433b4b89f</guid>
@@ -1322,6 +1338,15 @@
 <description>Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainly by Júlia Belas Trindade and Sophie Downey , expect guest appearances from stars such as Anita Asante, Ada Hegerberg and many more. Try our other sports emails: as well as the occasionally funny football email The Fiver from Monday to Friday, there are weekly catch-ups for cricket in The Spin and rugby union in The Breakdown , and our seven-day roundup of the best of our sports journalism in The Recap . Living in Australia? Try the Guardian Australia’s daily sports newsletter Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" medium="image"/>
+</item>
+<item>
+<title>Apple Web Login - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PbkNQeHhzZlNYekFuRGxJNlI3aWgxcl9OSmNtZnRnc1pUY1pDeF9kaWF0b1NZYjk3QlJBRU1wdTh3bFFLY3habGpsVHBCYjZBRHc?oc=5</link>
+<guid isPermaLink="false">a8129c35e94eb771da2bab7eeb2aaebd4eb3066539492647fccc47bbbc19279d</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Wed, 10 Feb 2021 16:12:43 +0000</pubDate>
+<description>Apple Web Login The New York Times</description>
 </item>
 <item>
 <title>Sign up for the Recap newsletter: our free sport highlights email</title>
