@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 November 2 – A Long Cloud on Mars</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars</link>
+<guid isPermaLink="false">97484297c8c94a4b95c9ae9cffbfafa6bb065897e22a83f6a964b3aeb0c2202b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Pennsylvania’s Grand Canyon</title>
+<link>https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon</link>
+<guid isPermaLink="false">38e51c7c1f616371f2a26bd343b6d84cb365353f6e552d79803b686c1a10668d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 05:01:00 +0000</pubDate>
+<description>Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&amp;h=1991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&amp;h=1991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Measles made a stealthy return as another virus took the spotlight</title>
 <link>https://www.nature.com/articles/d41586-026-03387-3</link>
 <guid isPermaLink="false">78da04a9ba1ebd7eeb92b1cca48dd2e113a90a7fe1dde6e1355b3f62760c7fd5</guid>
@@ -371,17 +393,6 @@
 <description>A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain's sense of personal identity. Researchers found that movement-triggered pain activates a brain network associated with self-awareness and memories, even though ordinary acute pain typically shuts this network down. This unexpected difference could explain why conventional pain medications often provide limited relief and why fear, anticipation, and past experiences can intensify chronic pain.</description>
 </item>
 <item>
-<title>Map Showing Potential Origins of Martian Meteorite Teghaza 001</title>
-<link>https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001</link>
-<guid isPermaLink="false">c546feec3ff82ee7e2c8a34734ecd2180a36d7785192c6947424f012028a61d3</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:07:39 +0000</pubDate>
-<description>Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth. While scientists can never know for sure where a Martian meteorite originated, Teghaza 001 includes clues that link it to highlands in the southern hemisphere of […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg?w=1536&amp;h=770&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg?w=1536&amp;h=770&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Briefing Chat: &lt;b&gt;Dog years: could longevity science extend your pets' lives?&lt;/b&gt;</title>
 <link>https://www.nature.com/articles/d41586-026-03553-7</link>
 <guid isPermaLink="false">3867474a6970ee5504648c48fd048037329b2d0661da662d3552b6440811b29b</guid>
@@ -443,17 +454,6 @@
 <category>science</category>
 <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2 Fossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers.</description>
-</item>
-<item>
-<title>Slice of Martian Meteorite Teghaza 001</title>
-<link>https://science.nasa.gov/photojournal/slice-of-martian-meteorite-teghaza-001</link>
-<guid isPermaLink="false">492332e2065372ee0288eb5b77f632beb161cb89f4b49f8987420bb01df4f4e4</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 23:32:35 +0000</pubDate>
-<description>Description This slice of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth, was used to determine the age of the rock. Reflected light images like these serve as a scientist’s road map, helping them find minerals of interest to analyze by different instruments. Figure A is the same image with […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg?w=1536&amp;h=1186&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26801/PIA26801.jpg?w=1536&amp;h=1186&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>A single brain signal may explain schizophrenia's most puzzling symptoms</title>
