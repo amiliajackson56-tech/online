@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s CHAPEA Crew “Returns” to Earth</title>
+<link>https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth</link>
+<guid isPermaLink="false">b6e6022f064e27b84045a03384e43ebe2d38f339e5b616ca5fa3de8fa816bcc1</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 18:50:42 +0000</pubDate>
+<description>The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>What’s Up: November 2026 Skywatching Tips from NASA</title>
+<link>https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa</link>
+<guid isPermaLink="false">ba964a97582490024f4be571bf299dfb624a3f9b786442a7ede4e26f5cc42205</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 18:19:58 +0000</pubDate>
+<description>Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon. Skywatching Highlights Transcript A month of meteor showers … a close pairing of Mars and Jupiter … and a supermoon! That’s What’s Up for November. November offers a buffet […]</description>
+<enclosure url="https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch</title>
 <link>https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch</link>
 <guid isPermaLink="false">127f8e3326e95eafdc20089446bf54734ceafe92fc43c4503a9c6dc69f4b1c1c</guid>
@@ -163,6 +185,15 @@
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03506-0 Two books explore the damage caused by our unsustainable extraction of raw materials.</description>
+</item>
+<item>
+<title>What tech entrepreneurs can teach scientists about failure</title>
+<link>https://www.nature.com/articles/d41586-026-03485-2</link>
+<guid isPermaLink="false">9092d948dd8c7a21b5c45273b64a71e0011ac4286a521a9e3f0594e6b1fb7608</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03485-2 Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan.</description>
 </item>
 <item>
 <title>Iranian scientists in the United States face major upheaval</title>
@@ -416,17 +447,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048" medium="image"/>
 </item>
 <item>
-<title>NASA Explores Potential Commercial Servicing for Hubble Telescope</title>
-<link>https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope</link>
-<guid isPermaLink="false">c3931c28bbddbc00937f2da866df650b1311d478aabab8d028238dadfdc1ef68</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 14:51:21 +0000</pubDate>
-<description>NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&amp;h=1020&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&amp;h=1020&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Type 2 diabetes breakthrough as 54% achieve remission in just 6 months</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261029072129.htm</link>
 <guid isPermaLink="false">fe2b7ce798b141ea00dd883e4604e90fc54fc9eb16359a82590fe11bf3352acb</guid>
@@ -488,17 +508,6 @@
 <category>science</category>
 <pubDate>Fri, 30 Oct 2026 10:15:28 +0000</pubDate>
 <description>Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help doctors identify dangerous tumors earlier and develop personalized treatments that improve survival while reducing unnecessary chemotherapy.</description>
-</item>
-<item>
-<title>November’s Night Sky Notes: Light-Day Away</title>
-<link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away</link>
-<guid isPermaLink="false">de6d65e3030fdaab6c9c36b0e24eae79fb2aea87fb66cf71ef489ded3c07dd0a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-<description>Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, this Grand Tour gave us up-close views of the gas and ice giants, including several moons. […]</description>
-<enclosure url="https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200" type="image/jpeg"/>
-<media:content url="https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200" medium="image"/>
 </item>
 <item>
 <title>Astronauts just gave the International Space Station a powerful upgrade</title>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 27 October 2026; doi:10.1038/s41586-026-11302-z Author Correction: A chemical defence against phage infection</description>
-</item>
-<item>
-<title>AI watermarking efforts must encourage independent public scrutiny</title>
-<link>https://www.nature.com/articles/d41586-026-03406-3</link>
-<guid isPermaLink="false">13705e636b5eaf08d796467c91fbfc77b1fd0653e66ea7414d74c1e284f054f2</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03406-3 AI watermarking efforts must encourage independent public scrutiny</description>
 </item>
 </channel></rss>
