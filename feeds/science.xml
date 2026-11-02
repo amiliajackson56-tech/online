@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies</title>
+<link>https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies</link>
+<guid isPermaLink="false">f113bba9575e5016606ba2781b6e2064460497b4a8a7bd7847b429f91550e274</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 15:00:39 +0000</pubDate>
+<description>NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&amp;h=990&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&amp;h=990&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>IceCube detects ghost particles with 10 billion times the energy of solar neutrinos</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261101010533.htm</link>
 <guid isPermaLink="false">5e65b3835e1ebe8a810a35dc23a1b1c9771a9fefb1630dd5e5d622080283943e</guid>
@@ -497,17 +508,6 @@
 <description>APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&amp;h=1391&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&amp;h=1391&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>Vega Island Frozen in Fright</title>
-<link>https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright</link>
-<guid isPermaLink="false">7639b081a722e4aeeb1385f10d05d78f412b32c0a203d57d79cecbed5fb19de9</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 04:01:00 +0000</pubDate>
-<description>The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/vega-island-frozen-in-fright/vegaislandzm_oli2_20250322.jpg" medium="image"/>
 </item>
 <item>
 <title>Scientists confirm global warming is accelerating faster than ever recorded</title>
