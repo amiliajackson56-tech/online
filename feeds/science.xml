@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>TB 26-09 Measured Hammer-Tap Inputs</title>
+<link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs</link>
+<guid isPermaLink="false">a20db8c134bc2054f83f74198dcb35ee29920a818ad6497dafb9cced0aa494a0</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 20:47:41 +0000</pubDate>
+<description>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download the PDF version An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-09-1-illustrative-hammer-force-time-histories.png?w=1366" medium="image"/>
+</item>
+<item>
 <title>NASA’s CHAPEA Crew “Returns” to Earth</title>
 <link>https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth</link>
 <guid isPermaLink="false">b6e6022f064e27b84045a03384e43ebe2d38f339e5b616ca5fa3de8fa816bcc1</guid>
@@ -434,17 +445,6 @@
 <description>America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida. Through multiple park experiences at MAX POWER, NASA and a variety of external collaborators […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920" medium="image"/>
-</item>
-<item>
-<title>NASA’s James Webb Space Telescope Captures Eerie Cat’s Head</title>
-<link>https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head</link>
-<guid isPermaLink="false">70e9b9b09a888a11e7a15a1ce0ee81800523a8ce1209de77ab967a1683ff91e9</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 15:56:26 +0000</pubDate>
-<description>Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048" medium="image"/>
 </item>
 <item>
 <title>Type 2 diabetes breakthrough as 54% achieve remission in just 6 months</title>
