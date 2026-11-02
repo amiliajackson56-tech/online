@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch</title>
+<link>https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch</link>
+<guid isPermaLink="false">127f8e3326e95eafdc20089446bf54734ceafe92fc43c4503a9c6dc69f4b1c1c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 17:33:22 +0000</pubDate>
+<description>Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA. The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, […]</description>
+<enclosure url="https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg?w=1920&amp;h=1078&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://images-assets.nasa.gov/image/iss075e0189493/iss075e0189493~large.jpg?w=1920&amp;h=1078&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies</title>
 <link>https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies</link>
 <guid isPermaLink="false">f113bba9575e5016606ba2781b6e2064460497b4a8a7bd7847b429f91550e274</guid>
@@ -497,17 +508,6 @@
 <category>science</category>
 <pubDate>Fri, 30 Oct 2026 06:12:55 +0000</pubDate>
 <description>Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.</description>
-</item>
-<item>
-<title>APOD: 2026 October 30 – Haunting the Cepheus Flare</title>
-<link>https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare</link>
-<guid isPermaLink="false">7cf97945aa6283b855de7e1872c35aa41404e23a4111738ea616b3d09e2010a0</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 04:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Haunting the Cepheus […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&amp;h=1391&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&amp;h=1391&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists confirm global warming is accelerating faster than ever recorded</title>
