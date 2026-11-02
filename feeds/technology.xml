@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>When You Should—and Shouldn’t—Use AI to Search the Web</title>
+<link>https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web</link>
+<guid isPermaLink="false">59a736295c16d3a8c00a7de68cb355878965caf8ddf369f925a999d996db2e50</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+<description>Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.</description>
+<enclosure url="https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg" medium="image"/>
+</item>
+<item>
+<title>18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors</title>
+<link>https://www.wired.com/gallery/gift-ideas-for-pc-gamers</link>
+<guid isPermaLink="false">5346bfb0687645e4f4a505312097e486365356528b734156f630c8c110ab025a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+<description>Shopping for a PC gamer? This is the gear we use ourselves, starting at prices as low as $12.</description>
+<enclosure url="https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>HomeView could double as a HomeKit security camera, shows code</title>
+<link>https://9to5mac.com/2026/11/02/homeview-could-double-as-a-homekit-security-camera-shows-code</link>
+<guid isPermaLink="false">6488a187a8536cc347272fe7a6d91f43f8c96f29ec33e00961508148cd532168</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:54:42 +0000</pubDate>
+<description>Apple code sleuther pdfu has discovered evidence that HomeView will be able to serve as a HomeKit security camera. They found multiple options for the security camera feature, with Apple taking significant steps to protect the privacy of household members … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Want to Sign With a Hollywood Agent? Start Making Fun of AI</title>
+<link>https://www.wired.com/story/comedians-making-fun-of-ai</link>
+<guid isPermaLink="false">469e48328fb9b61d6920da252140b6a698c976105788dde9c306234c71e499ef</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
+<description>Even as studios incorporate generative tech into film and TV production, comedy content creators have broken through by roasting chatbots.</description>
+<enclosure url="https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6abd93babaed9055bd40abc5/master/pass/culture_comedian_trolling_ai_interviewers.jpg" medium="image"/>
+</item>
+<item>
+<title>Synology warns of C3RB3R ransomware attacks targeting NAS devices</title>
+<link>https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks</link>
+<guid isPermaLink="false">4981cab7fa7fafcbc1a9103db71d7e7d074a27e7e0132c27e0cf9cb752ffd0d2</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:28:42 +0000</pubDate>
+<description>Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]</description>
+</item>
+<item>
 <title>Apple is reportedly launching three new iPads early next year</title>
 <link>https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year</link>
 <guid isPermaLink="false">9d2a199db0e654f570f1409f63b4eef12767368b4b23b84424d19dafa5080f29</guid>
@@ -13,6 +66,17 @@
 <description>Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.</description>
 <enclosure url="https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg" medium="image"/>
+</item>
+<item>
+<title>Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data</title>
+<link>https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html</link>
+<guid isPermaLink="false">f801cd5ccac777b3305e9e61d349a5b7e53d0a81e77d39e5dd238b86b8a17627</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:08:45 +0000</pubDate>
+<description>Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said in a report that it investigated two such intrusions, one of which resulted in company</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv88EM1ZSjaeI7bH9DVpg2mGdkwXWUuir0S_p9IfiWG49_TgRalFdK4oQ6e7UE_JYOnNH70Z6wcftnjhcYHRY-Xc0o8GYp9r1uNzxdC_1bnXZgvon74cXkWgKpHZtwJg3IKLsqGC2HS2tcMfQS8BZu7kfrW1vAaaIA316LRzgCOn8zeGZ1WvALgJmyM4/s1600/ms-ad.jpg" medium="image"/>
 </item>
 <item>
 <title>Ford launches a ‘privacy promise’ and explains how and why it uses customer data</title>
@@ -33,6 +97,17 @@
 <description>I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else. I tried to find out why—and uncovered a labyrinth of politicians, data brokers, and shady tactics.</description>
 <enclosure url="https://media.wired.com/photos/6ae766c35f52202fa32c5fb1/master/pass/Final_SamIsland.gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae766c35f52202fa32c5fb1/master/pass/Final_SamIsland.gif" medium="image"/>
+</item>
+<item>
+<title>Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts</title>
+<link>https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html</link>
+<guid isPermaLink="false">6aca75eb89cc0e00ecd83e9713afd347fcb2facba530068d023e3188aa0e5b8d</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 10:49:59 +0000</pubDate>
+<description>Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where "CL" refers to cluster and "UNK" stands for unknown</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYHKbP_7yOsvpwAldBMCL3QkCJ9SbUVrJz1Tr_RB6m3O99Gj73H0fX20hIbzKujRWB-1qkBCWv1UEJEbrTe1NFYpPkTm0OoNqJe7OdJoZa1HcZDT2On3mUT0igQeCOsMnWw_ZfT-HsLx6B8R84XYHHg4mUI2hPzM15ggddQCFAAmzChzC5Of90LInW8RB8/s1600/artex.jpg" medium="image"/>
 </item>
 <item>
 <title>4 Best Alexa Speakers I’ve Tested (2026)</title>
@@ -309,8 +384,8 @@
 <category>technology</category>
 <pubDate>Sun, 01 Nov 2026 19:58:02 +0000</pubDate>
 <description>While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to respond to the city's request. For over a month, the cameras remained up, and the city […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268713_Americans_seem_to_agree_that_destroy_Flock_cameras_is_good_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2265184860.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
@@ -1685,15 +1760,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/holmes1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft finally fixes VPN issues caused by September updates</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates</link>
-<guid isPermaLink="false">3871bb25ff93dffb222dbd4da4670bd063c245cd6cf061cb073175b3b81f0168</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 11:20:26 +0000</pubDate>
-<description>Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]</description>
-</item>
-<item>
 <title>Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire</title>
 <link>https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire</link>
 <guid isPermaLink="false">a195c114d9a76b5ff4027e6458ee1a54cbfb2da6ea550d09270a29ec1687c8b1</guid>
@@ -2112,17 +2178,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/nocturne-stephen-graham-cell.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself</title>
-<link>https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis</link>
-<guid isPermaLink="false">7472c3c6cdd911f6bd88bdf974fdabd45064a925b43f31e9408688e9d5967544</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-<description>A new startup called &amp;Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.</description>
-<enclosure url="https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif" medium="image"/>
-</item>
-<item>
 <title>iOS 27.2 gives Shortcuts app these new and improved features</title>
 <link>https://9to5mac.com/2026/10/29/ios-27-2-gives-shortcuts-app-these-new-and-improved-features</link>
 <guid isPermaLink="false">b5ead6fbc476d1451abe258ddef70a1c95fe3455c357f7cc6ef89d30bc6a429d</guid>
@@ -2132,17 +2187,6 @@
 <description>iOS 27.2 launched this week with a variety of new features for Siri AI , FaceTime , Messages , and more, plus a handful of improvements for the Shortcuts app. Here’s everything new in Shortcuts. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-shortcuts-app-ios-27-icon.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-shortcuts-app-ios-27-icon.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race</title>
-<link>https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity</link>
-<guid isPermaLink="false">7a2ff422d91cef5c48f97e9de17ba0c692f188cf495573d6e8ab02be6fb1f297</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 14:00:00 +0000</pubDate>
-<description>The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.</description>
-<enclosure url="https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg" medium="image"/>
 </item>
 <item>
 <title>iOS 27.3 release date: Here’s when to expect new iPhone features</title>
@@ -2165,17 +2209,6 @@
 <description>Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. "It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg" medium="image"/>
-</item>
-<item>
-<title>Petkit Automatic Cat Litter Box Sale (2026)</title>
-<link>https://www.wired.com/story/petkit-sale-october-2026</link>
-<guid isPermaLink="false">18707ddeab9e6b7aee34bac593806e271ec9da3eed2e1d3002a981e570df1db1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:41:26 +0000</pubDate>
-<description>As WIRED’s resident pet tech tester, I have lots of opinions on what’s worth your money. Petkit’s automatic litter boxes are my top picks—and my favorite models are $100 off right now.</description>
-<enclosure url="https://media.wired.com/photos/6ae2af53aad2e56b125912cc/master/pass/Petkit%20Deals%20102026%20top%20art%20SOURCE%20Shop.com.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2af53aad2e56b125912cc/master/pass/Petkit%20Deals%20102026%20top%20art%20SOURCE%20Shop.com.jpg" medium="image"/>
 </item>
 <item>
 <title>Reddit now lets you choose between For You and Following feeds</title>
@@ -2948,17 +2981,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/astropad-workbench-update-duo.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets</title>
-<link>https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html</link>
-<guid isPermaLink="false">3f1af19eb7d09511a7e39525299058e4dd2bc40b4cd24ac59d6a7b55949b33ad</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 18:26:46 +0000</pubDate>
-<description>Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg" medium="image"/>
-</item>
-<item>
 <title>iOS 27.2 has two CarPlay improvements, here’s what’s new</title>
 <link>https://9to5mac.com/2026/10/27/ios-27-2-has-two-carplay-improvements-heres-whats-new</link>
 <guid isPermaLink="false">70064667f8148bdc4f224bcd061d221c830af62420e5ff730375f1aa425b0d2b</guid>
@@ -3045,27 +3067,5 @@
 <description>iOS 27.2 and its corresponding updates for the HomePod lineup bring several key new features to Apple’s smart speakers. The most exciting update? The ability to finally use your HomePod as the default sound output for your Mac. This means that the 2nd-generation HomePod and HomePod mini 2 can now function as low-latency wireless speakers for your Mac! Watch our hands-on video for an in-depth look at how the new wireless speaker functionality works, along with other new features like Sound Glow, Lock Controls, and home theater surround sound support. Be sure to subscribe to our YouTube channel for more in-depth videos. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HomePod.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/HomePod.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>New MacBook Pro redesign details revealed ahead of launch</title>
-<link>https://9to5mac.com/2026/10/27/new-macbook-pro-redesign-details-revealed-ahead-of-launch</link>
-<guid isPermaLink="false">52e07fa69e5068bcf4b15498760ab9559302bfa41e22f717cf515f3304620883</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 14:31:03 +0000</pubDate>
-<description>Apple debuted a new M6 MacBook Pro today, but a high-end MacBook Pro redesign is coming tomorrow, and Mark Gurman has shared some new details to expect. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/macbook-pro-touch-bar-gold.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption</title>
-<link>https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html</link>
-<guid isPermaLink="false">dc1f78b83e65b690208f66dbcc5b727fac2d190ddfb1b343ecf12bf9c7950df2</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 27 Oct 2026 13:59:48 +0000</pubDate>
-<description>The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s1600/goahead.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ae8TupuVJ4B0uHZJxwQnaqstuuA42Jwt_Zh7m9RwCBp_IrCYuChUaac6fUphOhpalVEC8tfhGsYGxt1lmswBobM-r-ds6t0uEMSV9HZKT_dYcigHPxGJQo7dcJte96ymjxwSREmiGulG6xPIX4Hx3visDSuyaX2DJ3HRcctAz0Jw1T9ALkCEwZUlMsQ/s1600/goahead.jpg" medium="image"/>
 </item>
 </channel></rss>
