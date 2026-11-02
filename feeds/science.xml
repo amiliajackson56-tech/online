@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Measles made a stealthy return as another virus took the spotlight</title>
+<link>https://www.nature.com/articles/d41586-026-03387-3</link>
+<guid isPermaLink="false">78da04a9ba1ebd7eeb92b1cca48dd2e113a90a7fe1dde6e1355b3f62760c7fd5</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.</description>
+</item>
+<item>
 <title>Scientists discover a surprising brain benefit of eating peanuts every day</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261030003001.htm</link>
 <guid isPermaLink="false">f84c78a8456421a23041f4650a16846e066c8f0a478f5bc807b72d655ad8840e</guid>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03396-2 Finding practical ways to analyse the state of a person’s immune system could guide treatment decisions and create opportunities for disease prevention.</description>
-</item>
-<item>
-<title>Mysterious flickering brain signals could help to unlock secrets of consciousness</title>
-<link>https://www.nature.com/articles/d41586-026-03384-6</link>
-<guid isPermaLink="false">ab4f79dcb141c59abd41bb80d5224b797392bc2ded4f017f7255b6f527131c4b</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 27 October 2026; doi:10.1038/d41586-026-03384-6 Monkeys’ brain activity flips 15 times per second between patterns linked to objects of which the monkeys are aware and patterns for objects outside their awareness.</description>
 </item>
 </channel></rss>
