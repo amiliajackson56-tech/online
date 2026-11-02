@@ -4,6 +4,37 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple is reportedly launching three new iPads early next year</title>
+<link>https://www.engadget.com/2303590/apple-is-reportedly-launching-three-new-ipads-early-next-year</link>
+<guid isPermaLink="false">9d2a199db0e654f570f1409f63b4eef12767368b4b23b84424d19dafa5080f29</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:12:11 +0000</pubDate>
+<description>Follow its iPad mini launch last week, Apple may unveil three new iPad models early next year.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apple-is-reportedly-launching-three-new-ipads-early-next-year/l-intro-1793617622.jpg" medium="image"/>
+</item>
+<item>
+<title>Ford launches a ‘privacy promise’ and explains how and why it uses customer data</title>
+<link>https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data</link>
+<guid isPermaLink="false">d9dd499d127e5d07ab5bc2085dbb2f3e41aa9caa14adaf1b5e57fb11b30388fc</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:00:00 +0000</pubDate>
+<description>Ford said it's making an "explicit commitment" to its customers that "their vehicle data is safe" with the company.</description>
+</item>
+<item>
+<title>My Journey to the Center of America’s Political Spam Text Hell</title>
+<link>https://www.wired.com/story/my-journey-to-the-center-of-americas-political-spam-text-hell</link>
+<guid isPermaLink="false">2e8118dc25710fda40002fe5d0bc16453ba7d1fb8555a3e31d1136c45d60fc06</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 11:00:00 +0000</pubDate>
+<description>I’ve gotten nearly 2,000 campaign fundraising texts that were meant for someone else. I tried to find out why—and uncovered a labyrinth of politicians, data brokers, and shady tactics.</description>
+<enclosure url="https://media.wired.com/photos/6ae766c35f52202fa32c5fb1/master/pass/Final_SamIsland.gif" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae766c35f52202fa32c5fb1/master/pass/Final_SamIsland.gif" medium="image"/>
+</item>
+<item>
 <title>4 Best Alexa Speakers I’ve Tested (2026)</title>
 <link>https://www.wired.com/gallery/best-alexa-and-amazon-echo-speakers</link>
 <guid isPermaLink="false">c1728bddee53792f33598a7fb439380fba8fb0f09ccbf57893b5cae83306d100</guid>
@@ -355,17 +386,6 @@
 <description>The Xbox Series S offers a solid entry-level experience for those interested in console gaming. Here's what an equivalent gaming PC would cost you.</description>
 <enclosure url="https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/xbox-series-s-pc-similar-how-much-to-build/l-intro-1793244150.jpg" medium="image"/>
-</item>
-<item>
-<title>5 safety practices to know before vibe coding</title>
-<link>https://www.engadget.com/2302658/vibe-coding-safety-practices</link>
-<guid isPermaLink="false">4f542121304cb3c69531da41bc4a6552c0a25aab8e1042d425b3d6743ad31b3d</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 18:00:00 +0000</pubDate>
-<description>Here's what beginners need to know to vibe code securely.</description>
-<enclosure url="https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/vibe-coding-safety-practices/l-intro-1793383938.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple’s HomeView could add security camera features</title>
@@ -1200,15 +1220,6 @@
 <category>technology</category>
 <pubDate>Fri, 30 Oct 2026 21:54:34 +0000</pubDate>
 <description>Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.</description>
-</item>
-<item>
-<title>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</title>
-<link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says</link>
-<guid isPermaLink="false">1abfdb6dc9802b6f4db000a2839732bf56245dad3fee97c879e906fb6b0d49b5</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 21:52:03 +0000</pubDate>
-<description>Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.</description>
 </item>
 <item>
 <title>‘Pluribus’ season 2 reportedly begins filming tomorrow</title>
@@ -2242,17 +2253,6 @@
 <description>26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the results on October 28. Most were keys for cloud and AI services, led by</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVszv5076OudfiraNA4yh_XuzZZof-jYaklwUgiY700oPMvBHQfKHx-8yLNwhF9NVXahFRvWwU7c0mPCsIG-GUo45Fi_LT6ecZMsaRUfaLIL6eK16qeku1PO5aMTQRV0VKJh-pjKG4rC-RyajCGjL4R_A5W6YPsps4B4-GhEbstuAN7AnelVJPwIFK5W-/s1600/gite.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwVszv5076OudfiraNA4yh_XuzZZof-jYaklwUgiY700oPMvBHQfKHx-8yLNwhF9NVXahFRvWwU7c0mPCsIG-GUo45Fi_LT6ecZMsaRUfaLIL6eK16qeku1PO5aMTQRV0VKJh-pjKG4rC-RyajCGjL4R_A5W6YPsps4B4-GhEbstuAN7AnelVJPwIFK5W-/s1600/gite.jpg" medium="image"/>
-</item>
-<item>
-<title>The Kindle Accessories I Never Want to Read Without (2026)</title>
-<link>https://www.wired.com/story/best-kindle-accessories</link>
-<guid isPermaLink="false">39c3f6ddd60a28779b429a0e358a977a7167af99156a12ba29c0cd77da5593b9</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:03:00 +0000</pubDate>
-<description>Looking to better protect your Kindle or add a little personality to your favorite e-reader? From cases and covers to page-turners and stickers, this is the guide for you.</description>
-<enclosure url="https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae246c98025c0ad4677ba62/master/pass/Update%20Best%20Kindle%20Accessories%20102026%20top%20art%20SOURCE%20Amazon-Bondi.jpg" medium="image"/>
 </item>
 <item>
 <title>You can now spend between $1,999 and $14,549 on a MacBook Pro</title>
