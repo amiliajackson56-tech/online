@@ -4,6 +4,42 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261102075806.htm</link>
+<guid isPermaLink="false">9f2b444857f675074925bc60abf00ebbb00a770074d9734f7a4db3af725b37e7</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 04:11:58 +0000</pubDate>
+<description>Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that target the disease at its roots.</description>
+</item>
+<item>
+<title>Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261031221211.htm</link>
+<guid isPermaLink="false">5445fa5fb31a87f0ebb9a8f7e7c241b163b4f515507dba1ae6abe5ae1243c2a7</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 02:39:04 +0000</pubDate>
+<description>Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang. Known as quark-gluon plasma, this exotic substance forms at temperatures more than 100,000 times hotter than the center of the Sun, causing ordinary particles to break apart into their fundamental building blocks.</description>
+</item>
+<item>
+<title>Scientists just found a loophole that could let black holes split in two</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261101010525.htm</link>
+<guid isPermaLink="false">3bab1d69eb4aa5fb363a6cfc57c349ea9dd020b25301bf1d2d344f7818112fe4</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 01:27:49 +0000</pubDate>
+<description>Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two. The surprising finding raises the possibility of an entirely new black hole phenomenon that future telescopes could potentially detect.</description>
+</item>
+<item>
+<title>Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half</title>
+<link>https://www.sciencedaily.com/releases/2026/10/261031221155.htm</link>
+<guid isPermaLink="false">6de37cde9637761908b280d7f0b04a9c13f55dd4a551e0db6556337e6233405e</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 00:34:59 +0000</pubDate>
+<description>A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease. USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down to youthful levels. The treatment also revived a previously unknown communication system that helps liver cells remove harmful substances from the bloodstream.</description>
+</item>
+<item>
 <title>Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow</title>
 <link>https://www.nature.com/articles/d41586-026-03480-7</link>
 <guid isPermaLink="false">96cb8a5820f180ec1275dae2d8ccda6f09b4353cab8fccbed45ef695a4d0fac7</guid>
@@ -77,6 +113,15 @@
 <description>NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&amp;h=990&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&amp;h=990&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Extra weight may be aging your brain faster than you think</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261101010559.htm</link>
+<guid isPermaLink="false">f4ca31784b128ac7937eae64300ac229b813f7ab14bbae2b163de5a775d8568b</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Mon, 02 Nov 2026 13:55:28 +0000</pubDate>
+<description>A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was particularly strong among people over 65, raising concerns about the long-term effects of obesity on brain health.</description>
 </item>
 <item>
 <title>IceCube detects ghost particles with 10 billion times the energy of solar neutrinos</title>
@@ -735,15 +780,6 @@
 <description>Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate. The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere.</description>
 </item>
 <item>
-<title>Scientists discover a hidden oxygen reservoir deep inside Earth</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261027063702.htm</link>
-<guid isPermaLink="false">48d8bd4964c94406304ea695bfd2f9eebb4b438141ac3a2b5ef58d52756092a6</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 01:13:05 +0000</pubDate>
-<description>Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere. The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of years ago, with implications for understanding life on other planets.</description>
-</item>
-<item>
 <title>Even stupendous black holes can’t explain dark matter</title>
 <link>https://www.nature.com/articles/d41586-026-03386-4</link>
 <guid isPermaLink="false">b95573bbef06f452d5ac9a8405d1fc059d24661395182a4c36042c3a87d73249</guid>
@@ -771,15 +807,6 @@
 <description>Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03479-0 A Democratic victory in Congress could halt the Trump administration’s controversial grant-review plan and curb some of its funding actions.</description>
 </item>
 <item>
-<title>Scientists discover a hidden reason why muscles weaken with age</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261027063704.htm</link>
-<guid isPermaLink="false">9844e4ec9e89e1e70555d05570395356f687d81478f9ba2e16884ec1cff3f93b</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 13:04:55 +0000</pubDate>
-<description>Scientists have uncovered a hidden defense mechanism in aging muscles that sacrifices strength to protect cells from damage. In mice, partially restoring a crucial molecule reversed signs of muscle wasting and prevented premature death, raising hopes for new treatments for age-related muscle decline.</description>
-</item>
-<item>
 <title>A single sauna session sends immune cells surging through your body</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261027231021.htm</link>
 <guid isPermaLink="false">405dafb026b7860b3ee7325b01c96b3f17b9f4d6dcc5917b0aec6d1c7707e1b1</guid>
@@ -796,33 +823,6 @@
 <category>science</category>
 <pubDate>Wed, 28 Oct 2026 12:25:43 +0000</pubDate>
 <description>Scientists have developed a new technology that could make electric vehicle batteries smaller, lighter, and longer-lasting, potentially allowing cars to travel farther on a single charge. By borrowing precision manufacturing techniques from computer chip production, they found a way to prevent damaging lithium buildup that has held back next-generation batteries.</description>
-</item>
-<item>
-<title>Scientists discover a secret glow in toxic fire salamanders</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261027063707.htm</link>
-<guid isPermaLink="false">9c3c4ac7e69b929fd1bb360f46f7af71ce16edaf34d9edde9ee302c50ca1e0b9</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 12:11:52 +0000</pubDate>
-<description>Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light. The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being released.</description>
-</item>
-<item>
-<title>NASA’s Artemis I mission reveals surprising radiation levels near the Moon</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261027063659.htm</link>
-<guid isPermaLink="false">49587c34002be669a32440ce90d152f0964aeaa223cd2fb1f1731f4b577700c1</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 10:29:36 +0000</pubDate>
-<description>NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect. Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration.</description>
-</item>
-<item>
-<title>Antarctica’s “Doomsday Glacier” could raise sea levels twice as much as predicted</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261027063701.htm</link>
-<guid isPermaLink="false">1dd94c136b512578e4137b66e81740248c8c9e724aea2c892f79d5355ea4fa94</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 09:22:09 +0000</pubDate>
-<description>Antarctica’s Thwaites Glacier may be melting twice as much as previously predicted, even without additional global warming. Scientists discovered that warm ocean water is penetrating miles beneath the ice, weakening its foundations and accelerating its retreat. A new model predicts that the glacier could add up to 30 millimeters to global sea levels by 2100, with a 60% chance of losing a crucial stabilizing ridge.</description>
 </item>
 <item>
 <title>A simple daily fiber supplement reduced arthritis pain and improved strength</title>

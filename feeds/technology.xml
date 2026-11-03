@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses</title>
+<link>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses</link>
+<guid isPermaLink="false">11a3e4cb137f52664836d1e39d6b9e1bc691ed995443b82ed307d91f14e7cecb</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 03:30:00 +0000</pubDate>
+<description>Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.</description>
+</item>
+<item>
 <title>SCOTUS sets hearing date for Apple’s appeal in Epic Games case</title>
 <link>https://9to5mac.com/2026/11/02/scotus-sets-hearing-date-for-apples-appeal-in-epic-games-case</link>
 <guid isPermaLink="false">d8e8f7a078b3b3ff538970f963c48e2aeffb723ee389c47795d50b2df66c4dac</guid>
@@ -1043,15 +1052,6 @@
 <description>A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]</description>
 </item>
 <item>
-<title>Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth</title>
-<link>https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth</link>
-<guid isPermaLink="false">ccd3ce2a22b91d8b3df37b1efdc3414d9af279b240d9e36475bc91844859d809</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 14:22:35 +0000</pubDate>
-<description>Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.</description>
-</item>
-<item>
 <title>Get 25 Percent Off My Favorite Renter-Friendly Storage Lockers</title>
 <link>https://www.wired.com/story/mustard-made-sale-october-2026</link>
 <guid isPermaLink="false">f4ea59bf50865af611e29a6b2a21fe64080007cf56e0285414bb191924b2ff57</guid>
@@ -1147,17 +1147,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/TRMNL_Seeed_Kit_Ferengi_Rules-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors</title>
-<link>https://www.wired.com/gallery/gift-ideas-for-pc-gamers</link>
-<guid isPermaLink="false">5346bfb0687645e4f4a505312097e486365356528b734156f630c8c110ab025a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
-<description>Shopping for a PC gamer? This is the gear we use ourselves, starting at prices as low as $12.</description>
-<enclosure url="https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>When You Should—and Shouldn’t—Use AI to Search the Web</title>
 <link>https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web</link>
 <guid isPermaLink="false">59a736295c16d3a8c00a7de68cb355878965caf8ddf369f925a999d996db2e50</guid>
@@ -1167,6 +1156,17 @@
 <description>Chatbots are often quite good at retrieving the information you want from the web. But sometimes you’ll get better results by typing your query into a good old search engine.</description>
 <enclosure url="https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae34e2b3b99c3ad51af9ec6/master/pass/102926-AI%20Web_.jpg" medium="image"/>
+</item>
+<item>
+<title>18 Best Gifts for PC Gamers (2026): Headsets, Desks, Monitors</title>
+<link>https://www.wired.com/gallery/gift-ideas-for-pc-gamers</link>
+<guid isPermaLink="false">5346bfb0687645e4f4a505312097e486365356528b734156f630c8c110ab025a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 02 Nov 2026 12:00:00 +0000</pubDate>
+<description>Shopping for a PC gamer? This is the gear we use ourselves, starting at prices as low as $12.</description>
+<enclosure url="https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae2dc2055ec48169ba25e52/master/pass/Update%20Best%20Gifts%20for%20PC%20Gamers%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
 <title>HomeView could double as a HomeKit security camera, shows code</title>
