@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Astronaut, STEM Creator Connect with Students for STEM Day</title>
+<link>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day</link>
+<guid isPermaLink="false">55920a21abfa36e8a9ef827ad284da2a7bfed6cbdef076e966567bd3f24ed431</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 15:15:50 +0000</pubDate>
+<description>Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280" medium="image"/>
+</item>
+<item>
 <title>The brain’s hidden fear mechanism may explain anxiety and PTSD</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261102202833.htm</link>
 <guid isPermaLink="false">51003e8f2391b4d9e191e2a37bcd1eb6fbdf38587d5f0a4b20044f67191a8fa0</guid>
@@ -242,6 +253,15 @@
 <description>Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03397-1 The scale of today’s challenges demands a fresh approach — across all disciplines. Here’s how we’re making space for researchers to generate new ideas.</description>
 </item>
 <item>
+<title>US social sciences face existential crisis after NSF cuts</title>
+<link>https://www.nature.com/articles/d41586-026-03540-y</link>
+<guid isPermaLink="false">f6cca0218a1014ecd1bc2fff6b8f239059c47c03b1c0102e6726193ccb469800</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03540-y The US National Science Foundation is a major funder of economics and archaeology research but in 2026 awarded no new grants in those disciplines.</description>
+</item>
+<item>
 <title>Happy 65 Years: NASA’s Johnson Space Center Then and Now</title>
 <link>https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now</link>
 <guid isPermaLink="false">94e58e2186eada314cd9772988e7efad6ccde52928d997c0a9ae0c54d5affebb</guid>
@@ -389,17 +409,6 @@
 <description>APODScienceAPODAPOD: 2026 November 2 – A…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Long Cloud on Mars Explanation: What’s causing this unusually long cloud on Mars? Known as the […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>Pennsylvania’s Grand Canyon</title>
-<link>https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon</link>
-<guid isPermaLink="false">38e51c7c1f616371f2a26bd343b6d84cb365353f6e552d79803b686c1a10668d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 05:01:00 +0000</pubDate>
-<description>Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&amp;h=1991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/pennsylvania’s-grand-canyon/pinecreekgorge_oli_20261025.jpg?w=2048&amp;h=1991&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Even moderate drinking linked to cancer and early death, major study finds</title>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11182-3 In mouse myocardium, glucose oxidation persists in the absence of the mitochondrial pyruvate carrier, with mitochondrial MCT1 importing lactate into mitochondria and LDHB oxidizing it to pyruvate and NADH, sustaining cardiac energetics and preventing stress-induced heart failure.</description>
-</item>
-<item>
-<title>Eukaryotes’ closest relatives are internally simple syntrophic peptidotrophic archaea</title>
-<link>https://www.nature.com/articles/s41586-026-11170-7</link>
-<guid isPermaLink="false">7f2cc8c79fd1d9b3e779db66465aea24811d5201945c353c4f9f0265599d64cf</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11170-7 Cultures reveal conservation of cell structure, physical symbioses and anaerobiosis across Heimdallarchaeia (the archaeal lineage that branches closest to eukaryotes) and other Promethearchaeota.</description>
 </item>
 </channel></rss>
