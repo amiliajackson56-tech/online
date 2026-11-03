@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Who am I? Plus today's other quizzes</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cqx286dvr4jgo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">2a136d7dd3fc05dff3afb5e3516df72d7988a72ce670501f9fec25f48b012c18</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Tue, 03 Nov 2026 06:12:20 +0000</pubDate>
+<description>Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png" medium="image"/>
+</item>
+<item>
 <title>Jaissle unhappy with 'clear foul' before Barry goal</title>
 <link>https://www.bbc.co.uk/sport/football/videos/c680zn5y19lgo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">9f6719d1105f41e85fb5de42bbf82b6262960781a88e578970ce9b071647ec3e</guid>
@@ -719,15 +730,15 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg" medium="image"/>
 </item>
 <item>
-<title>More goals for Lankshear, home woes for Hammers - Aaron McLean's EFL Takeaways</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cv369yp2451lo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">6788304b494df91f4bd0c85155c0243ad1a10a771b120b38927284eb4461a12e</guid>
+<title>Are De Zerbi's Spurs finding elusive consistency?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c6n04v897qe4o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d6f9f0ef0b84e659ee3aff20c7801fe5c9fe82214044b6d740b93db41c3014dc</guid>
 <source>BBC Football</source>
 <category>sports</category>
-<pubDate>Sat, 31 Oct 2026 20:24:50 +0000</pubDate>
-<description>BBC Final Score pundit Aaron McLean looks at the weekend's talking points in the EFL, including Middlesbrough and West Ham United.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5df/live/6baa95e0-d569-11f1-a701-fddedf244c16.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5df/live/6baa95e0-d569-11f1-a701-fddedf244c16.png" medium="image"/>
+<pubDate>Sat, 31 Oct 2026 21:16:11 +0000</pubDate>
+<description>Are Spurs finally finding elusive consistency under Roberto de Zerbi after a third successive Premier League win, asks chief football writer Phil McNulty?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
 <title>Kane beat Mbappe to Ballon d'Or by just 28 points</title>
@@ -750,17 +761,6 @@
 <description>BBC Sport explores the plans for AC Milan and Inter's new stadium, and how powerful naming rights for new arenas can be</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg" medium="image"/>
-</item>
-<item>
-<title>Sutton's predictions v Bad Day At The Office star John Hannah</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cq1m4j79x50jo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">aaab505d13715813c29b48c58587b293c9795e67cf2a00838ea75564ff0099e9</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 29 Oct 2026 19:55:24 +0000</pubDate>
-<description>BBC Sport football expert Chris Sutton takes on Bad Day At The Office star John Hannah, plus the BBC readers and AI with his predictions for this weekend's Premier League fixtures.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png" medium="image"/>
 </item>
 <item>
 <title>A phone-free Yellow Wall: are Dortmund urging fans to be present or policing them?</title>
@@ -1313,6 +1313,15 @@
 <media:content url="https://i.guim.co.uk/img/media/b7a46323e34ae0f276ea93357ff4360b054e7ca4/188_0_1260_1008/master/1260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a0c3608d3f3b828766de547a76ad04c8" medium="image"/>
 </item>
 <item>
+<title>The Athletic - Sports news, stories, scores, schedules, podcasts, and more - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWmNtZEprZnlZTWxrV1NlS1FUdmJRRkFaSnFpNnpUdzluaVQ1M3ptSmNPWFVaMjVuR3JVcERvWjJXbl9yZ18tSGZnTm9CcWlpbVcyWkRnZ0ZvYVlkUllZc0VrZVV0NG1FVlhhQ0dlc0tSWmpOeFZMUFQxaS0xZDh1dk9fbkk5TDhpZTNFRnE4YmNpbmZjRWFoT0kwQmhzX2NGNWVISF9oZjdTNGx1YngxWUVZTFpERDFBSmF5QXNCVDBsWEJtVUV6UFJDNXBwWjl0NnpMMXVRWVYyRWFVaHpvb3V4clZTWGNPN1Bv?oc=5</link>
+<guid isPermaLink="false">0a2ea7fa1091a32c528ca7b1b8325bb3c49e7becf19f5318a3d2c5f509417843</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Fri, 20 Oct 2023 14:04:49 +0000</pubDate>
+<description>The Athletic - Sports news, stories, scores, schedules, podcasts, and more The New York Times</description>
+</item>
+<item>
 <title>Sign up for the Football Daily newsletter: our free football email</title>
 <link>https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up</link>
 <guid isPermaLink="false">460ad2f2fec001d72308532cafa675e4fb9df12acfe709b09709f25433b4b89f</guid>
@@ -1333,6 +1342,24 @@
 <description>Get our roundup of women’s football for free twice a week, featuring the insights of experts such as Ada Hegerberg and Magdalena Eriksson Join us as we delve deeper into the wonderful world of women’s football in our weekly newsletter. It is informative, entertaining, global, critical – when needed – and, above all, passionate. Written mainly by Júlia Belas Trindade and Sophie Downey , expect guest appearances from stars such as Anita Asante, Ada Hegerberg and many more. Try our other sports emails: as well as the occasionally funny football email The Fiver from Monday to Friday, there are weekly catch-ups for cricket in The Spin and rugby union in The Breakdown , and our seven-day roundup of the best of our sports journalism in The Recap . Living in Australia? Try the Guardian Australia’s daily sports newsletter Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/f05addc1c6b98dc15f73f332ba340b8f5b5afb9f/0_0_5000_3000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e304ab3a2bd98487919a4fcfa0e5eaf" medium="image"/>
+</item>
+<item>
+<title>Apple Web Login - The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PbkNQeHhzZlNYekFuRGxJNlI3aWgxcl9OSmNtZnRnc1pUY1pDeF9kaWF0b1NZYjk3QlJBRU1wdTh3bFFLY3habGpsVHBCYjZBRHc?oc=5</link>
+<guid isPermaLink="false">a8129c35e94eb771da2bab7eeb2aaebd4eb3066539492647fccc47bbbc19279d</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Wed, 10 Feb 2021 16:12:43 +0000</pubDate>
+<description>Apple Web Login The New York Times</description>
+</item>
+<item>
+<title>- The New York Times</title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1WDA1N1ZYalA1aTludkgxWDFtM2RMaGpndzJwb2Q4Nk9vTW9rNEJpZE1oSHFIZ1kxUFY1em1NcE9MaFlyLU0tN25oUjV4NnNnNDNnb21wVXBha0lMX0E?oc=5</link>
+<guid isPermaLink="false">b863ad530486c0dfce1ff416382100a32b9cfad5fd6308c22aeb58932085eb70</guid>
+<source>The Athletic Soccer via Google News</source>
+<category>sports</category>
+<pubDate>Fri, 14 Sep 2018 23:59:35 +0000</pubDate>
+<description>The New York Times</description>
 </item>
 <item>
 <title>Sign up for the Recap newsletter: our free sport highlights email</title>
