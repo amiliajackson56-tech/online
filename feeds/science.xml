@@ -48,17 +48,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=2048" medium="image"/>
 </item>
 <item>
-<title>NASA, NOAA Track 2026 Antarctic Ozone Hole</title>
-<link>https://science.nasa.gov/earth/2026-ozone-hole</link>
-<guid isPermaLink="false">50fbcf8bc9bfcec17626f16e1f632bfeac729a71d6f38820bc2081441d610788</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 15:00:14 +0000</pubDate>
-<description>Weather provided ideal conditions for enhanced ozone depletion</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg?w=1440&amp;h=1480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2026/ozone_geos5_20260918_hires.jpg?w=1440&amp;h=1480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>A surprising discovery could help aging muscles repair themselves</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261104005226.htm</link>
 <guid isPermaLink="false">417ecc9a04adf838f6daf7e218b53036f5f9dff5b6bf8402b65847813aa62f76</guid>
@@ -205,6 +194,15 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03539-5 Simulation shows that hesitating can be the difference between making it to safety and not.</description>
+</item>
+<item>
+<title>Toothbrush zaps bacteria with electricity made when bristles move</title>
+<link>https://www.nature.com/articles/d41586-026-03586-y</link>
+<guid isPermaLink="false">bd7c9d4009a5c8e917f0832006cb1d943be41feef82d81f31184d12f6dbc7958</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03586-y Innovative polymer could give the manual toothbrush its first radical redesign in more than 1,000 years.</description>
 </item>
 <item>
 <title>A guide to Nature Index tables</title>
@@ -816,6 +814,17 @@
 <description>NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications blackout recently gave NASA a scare. On November 18, Voyager 1 will reach a distance of one light-day from Earth, making even the simplest round-trip communication take 48 hours.</description>
 </item>
 <item>
+<title>APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor</link>
+<guid isPermaLink="false">90c08f78aa09ed892a0ebc5509464df530ca9e45705b5045ce6e3ed203f261a5</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 03 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261102075806.htm</link>
 <guid isPermaLink="false">9f2b444857f675074925bc60abf00ebbb00a770074d9734f7a4db3af725b37e7</guid>
@@ -1093,15 +1102,6 @@
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 01:46:26 +0000</pubDate>
 <description>A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers caution that this doesn't mean cannabis is ineffective, only that existing studies are too weak to establish whether it works.</description>
-</item>
-<item>
-<title>Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis</title>
-<link>https://www.nature.com/articles/s41586-026-11350-5</link>
-<guid isPermaLink="false">6349a9f1f164839e7f1bd8339ac25444b9d5b91b2030f0a447ada2411978a1b7</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/s41586-026-11350-5 Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis</description>
 </item>
 <item>
 <title>Scientists discover a surprising brain benefit of eating peanuts every day</title>
