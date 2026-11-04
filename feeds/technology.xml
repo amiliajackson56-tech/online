@@ -4,6 +4,101 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CISA flags WordPress RCE flaw as actively exploited in attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks</link>
+<guid isPermaLink="false">74f7e0f5736588da374e453a339af706bfd662eb81ecba7390ba7e15d70b470b</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 12:11:05 +0000</pubDate>
+<description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]</description>
+</item>
+<item>
+<title>Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</title>
+<link>https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html</link>
+<guid isPermaLink="false">eeeb8b0c17d40904542056018dd25d547186eacdabf3d70973c067d56f264505</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 12:07:04 +0000</pubDate>
+<description>A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaJWnScdkMx0R5_Zt00NtYVNjNavBR7IMrLzJM_tZGMTpZtAvV7uNWt6BQbBrlUzH-aBoj_ZmMEOG__aTA8VmfTeiHUR9gfqNe2eYf9fSM-sYQkmCOg10qZ3ZaKyM_RS1QUQhm8s5NMw-xnYaWMDgDakmFyp9tbJgQ4hOZTf0cxe9E6x7uWt3JeN6bS3k/s1600/ruby-rails.jpg" medium="image"/>
+</item>
+<item>
+<title>How to get access to Sonos AI features, as company aims to avoid another app disaster</title>
+<link>https://9to5mac.com/2026/11/04/how-to-get-access-to-sonos-ai-features-as-company-aims-to-avoid-another-app-disaster</link>
+<guid isPermaLink="false">5d88f7f71c2b70b72b67ca0603fbcdc7acbce85ee76aea321034a4cfa92ccc29</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 12:04:22 +0000</pubDate>
+<description>When Sonos tried a major app update two years ago, things did not go well. Much-loved features disappeared, older speakers experienced connection problems, and accessibility features were broken. That debacle saw the company’s CEO fired. The company is taking a much more cautious approach as it moves into the AI era with a Sonos 27voice update, enabling natural-language voice control via Hey Sonos requests … more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Hey-Sonos-coming-in-controlled-beta-as-company-aims-to-avoid-another-app-disaster.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Hey-Sonos-coming-in-controlled-beta-as-company-aims-to-avoid-another-app-disaster.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Google hasn&amp;#8217;t figured out how to make AI pay like its search engine</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3</link>
+<guid isPermaLink="false">9a66a9476221031c0ee3e3c0c202cbfbc16a478dc2b42b775e035b1eacfdf5cc</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+<description>Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over year in the third quarter, down from roughly 17 percent in the previous quarter. Meanwhile, growth in paid clicks - clicks on ads […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-106058340.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Canva lays off over 1,200 people amid slowing growth</title>
+<link>https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth</link>
+<guid isPermaLink="false">bb33032b7bb69e01c34c130821cf3f50d9d6634a4eadf3fd5f53d2dac9ec442a</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 11:59:00 +0000</pubDate>
+<description>Canva is cutting 22% of its staff as it faces its 'hardest year' yet.</description>
+</item>
+<item>
+<title>Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory</title>
+<link>https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html</link>
+<guid isPermaLink="false">a60c29c498ad06a8e5ba45bd928d3edee22489e728f52dd05496a46e8d98fb8f</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 11:46:27 +0000</pubDate>
+<description>Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3. All Xen versions from 4.6 onward are vulnerable,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAVPXiuTBfhBnpwaZHMfSDWymKJrXbS88kOEO1Xuh5t11qAnwSKeFTHGQy6ZG9Sr2N-wRYrJg58x3lKFbybvU9p1a85lxaCHfBa61vO1DfjEhUi5Yzf6bQS1eN7Mu-s_sUwkE-JGc-UznJ1p0qfmwMDusXFzWawXKXMt6jj-vENxyQG12uAUDUe0p0gtg/s1600/xen.jpg" medium="image"/>
+</item>
+<item>
+<title>I Tried Amazon’s New Kindles. Buy This Accessory Instead (2026)</title>
+<link>https://www.wired.com/story/finally-a-kindle-page-turner</link>
+<guid isPermaLink="false">8d40bddb26b06a7634c04f6fa5bfaf116b755d3733219f131d66b146c7ce2c1f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 11:36:00 +0000</pubDate>
+<description>If you already have a compatible e-reader, the $35 Kindle Click could be all the upgrade you need.</description>
+<enclosure url="https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aea06f2bd6c21c6b16c255d/master/pass/Kindle%20Klick%20112026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It</title>
+<link>https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html</link>
+<guid isPermaLink="false">6cb0374f8d770396a4dc38d23b8e714655519285038a740c8458b51638a425e4</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 11:34:20 +0000</pubDate>
+<description>Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqFIm3V3DsL6rHtjhkN8qVT2sU-caHUEuPgeepdZ6lLsIJ-09GFg_HVVBgeHP36W0abqUeCuaNuAOIheSGYB9hxmHbQGcgREBBxStEFLijgx-Cd8C8Z8wLuxgFFu75O8hAAOcdjAxgCZ-iYoBvYS09AcITdqMnmLZOn2JdGaEp04SPrgYkgQ14dl1S0JS/s1600/reco.gif" medium="image"/>
+</item>
+<item>
+<title>China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor</title>
+<link>https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html</link>
+<guid isPermaLink="false">73251ea6fbbb96512bbb93a493ffec4b1d9076cc5b55d265b1e05d6abb1cc81d</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 11:24:31 +0000</pubDate>
+<description>A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMawvNNOvRYRm-k7ii9yDdw214v4kwQ7h5fAfOaUVkvMetNwArral8qumlObtaftjOcBsibL9vkqM1UT0-9l9jYPjj3M3C9NcPfg5pdIuENUfdKlK7lyseCS30AVhgLLs6a-2fdXlSDymSVeyIziO7IC13HFCaOf1v4sjbgmkeKfewWNsbTJCJ0WR2zLBZ/s1600/key.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple Music's upcoming feature will let you record yourself doing karaoke</title>
 <link>https://www.engadget.com/2306269/apple-music-selfie-sing-karaoke-video</link>
 <guid isPermaLink="false">a4c34342cb589b9334c16841dbc016e379fb455eeca6cbc635b6c30d983be6e7</guid>
@@ -211,6 +306,17 @@
 <media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
 </item>
 <item>
+<title>Alo Discount Code: 20% Off November 2026</title>
+<link>https://www.wired.com/story/alo-yoga-discount-code</link>
+<guid isPermaLink="false">99a7bb0ffd774b71e7bc83a26ae9f3c4251cd371f5bd562395fdf0304d958361</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
 <title>Hulu Promo Codes &amp; Discounts: 20% Off in November 2026</title>
 <link>https://www.wired.com/story/hulu-promo-code</link>
 <guid isPermaLink="false">4b5eb3e88e17738dc1e5a4e2b04d8c1233eab08c7e073da9404a478169736cc6</guid>
@@ -253,17 +359,6 @@
 <description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Alo Discount Code: 20% Off November 2026</title>
-<link>https://www.wired.com/story/alo-yoga-discount-code</link>
-<guid isPermaLink="false">99a7bb0ffd774b71e7bc83a26ae9f3c4251cd371f5bd562395fdf0304d958361</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</title>
@@ -648,17 +743,6 @@
 <description>T-Mobile, AT&amp;T, and Verizon are offering incentives of up to $1,200 off the iPhone Duo, but you will need to commit to a 36-month plan, which can be expensive.</description>
 <enclosure url="https://media.wired.com/photos/6aea4b96e416db7de4d0d053/master/pass/iPhone%20Duo%20Deal%20112026%20top%20art%20SOURCE%20Apple.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aea4b96e416db7de4d0d053/master/pass/iPhone%20Duo%20Deal%20112026%20top%20art%20SOURCE%20Apple.jpg" medium="image"/>
-</item>
-<item>
-<title>Here’s what it’s like to use Audio Intelligence on the Apple Watch</title>
-<link>https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch</link>
-<guid isPermaLink="false">6d687a1c0bed37bc4c400020e596c48d5ac8c01804e97b57ccbfc71cdc7baefa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 21:21:04 +0000</pubDate>
-<description>It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-to-day life. We're definitely going to do that over the next […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/liverewind.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>The Internet’s Conspiracy Theorists Are Desperate for Voter Fraud</title>
@@ -1437,15 +1521,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase</title>
-<link>https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase</link>
-<guid isPermaLink="false">b083ef31ba06d70731dd9bc9bee0e57269b9e8ce76643f167f9cad721bb34ea3</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-<description>Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.</description>
-</item>
-<item>
 <title>Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?</title>
 <link>https://www.wired.com/review/ipad-mini-2026</link>
 <guid isPermaLink="false">342c39732651e53a66a2f6f26a79d05954f9c46cd01d93d8ce00b6320bd7be84</guid>
@@ -1768,17 +1843,6 @@
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
 </item>
 <item>
-<title>KitchenAid Promo Codes: Save Up to 20%</title>
-<link>https://www.wired.com/story/exclusive-kitchenaid-promo-code</link>
-<guid isPermaLink="false">a0d7bf08f4663cb4831e39062e36d83925dbfd6fee4ea574cc570ea82e7496c8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
-</item>
-<item>
 <title>AT&amp;T Promo Codes: $50 Off This November 2026</title>
 <link>https://www.wired.com/story/att-promo-code</link>
 <guid isPermaLink="false">266d4e9f0ef7603ebeeca89b58bbd37bcc8c07aac0f65fd8223b10667626adff</guid>
@@ -1788,6 +1852,17 @@
 <description>Whether you’re looking to upgrade your internet or get the latest phone, we’ve got you covered with our selection of AT&amp;T coupons and deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
+<title>KitchenAid Promo Codes: Save Up to 20%</title>
+<link>https://www.wired.com/story/exclusive-kitchenaid-promo-code</link>
+<guid isPermaLink="false">a0d7bf08f4663cb4831e39062e36d83925dbfd6fee4ea574cc570ea82e7496c8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.</description>
+<enclosure url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
 </item>
 <item>
 <title>Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors</title>
@@ -2191,17 +2266,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg" medium="image"/>
 </item>
 <item>
-<title>Asus ROG Rapture GT-BN98 Pro Review: Welcome to Wi-Fi 8</title>
-<link>https://www.wired.com/review/asus-rog-rapture-gt-bn98-pro</link>
-<guid isPermaLink="false">2748c700a6e72a920d7d0a7072e46c5b4315ba7c5aff7fd5c36dc08454baeb9e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 16:44:20 +0000</pubDate>
-<description>The first Wi-Fi 8 router has arrived. This quad-band gaming beast from Asus is fabulously fast and feature-packed.</description>
-<enclosure url="https://media.wired.com/photos/6ae4fef2f23583b9520fe64b/master/pass/Asus%20ROG%20Rapture%20GT-BN98%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae4fef2f23583b9520fe64b/master/pass/Asus%20ROG%20Rapture%20GT-BN98%20Pro%20Review%20102026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
-</item>
-<item>
 <title>iOS 27.2.1 could launch soon as next iPhone update</title>
 <link>https://9to5mac.com/2026/11/02/ios-27-2-1-could-launch-soon-as-next-iphone-update</link>
 <guid isPermaLink="false">e095a7853803e927132bb8f9282926e093c24d7fb4bc3cf590181c4615ddd294</guid>
@@ -2266,15 +2330,6 @@
 <description>iPadOS 27.2 launched last week with a variety of new features for iPad, including a convenient change for multitasking. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ipados-27-ipad-keyboard-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>BTCPay Server warns of hot wallet crypto thefts on outdated instances</title>
-<link>https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances</link>
-<guid isPermaLink="false">406768394f36ebd64c7854a2ca628c56c348a9ebf06a1e099d5d2a583f7828b4</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 15:03:07 +0000</pubDate>
-<description>The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining "hot wallets" on instances running older versions. [...]</description>
 </item>
 <item>
 <title>DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment</title>
@@ -2981,17 +3036,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Report: Apple expected to ship up to 1.5 million OLED touchscreen MacBook Pros in 2027</title>
-<link>https://9to5mac.com/2026/10/29/report-apple-expected-to-ship-up-to-1-5-million-oled-touchscreen-macbook-pros-in-2027</link>
-<guid isPermaLink="false">be46f0e84ff457fc0127a3447185f309d9815492c34c2e7fc505c7c481285393</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 22:37:53 +0000</pubDate>
-<description>A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own shipment prospects for 2027. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories</title>
 <link>https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html</link>
 <guid isPermaLink="false">7f056f665bfe428e129ca46d0ad2f3372b43502d041f393e9bd2d3b0dd8f6dfc</guid>
@@ -3023,49 +3067,5 @@
 <description>Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg" medium="image"/>
-</item>
-<item>
-<title>Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities</title>
-<link>https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html</link>
-<guid isPermaLink="false">17b1ed18b9db9df1dd4b4d47338a47c3092da53302d72c1b3e5c984c73d6af97</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 13:42:40 +0000</pubDate>
-<description>Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. "It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg" medium="image"/>
-</item>
-<item>
-<title>Webinar: How to Build AI Threat Readiness Into Your Security Operations</title>
-<link>https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html</link>
-<guid isPermaLink="false">89ba8a41a1ee0be07879dd6b06ecae43cee5c3370fad66c88f0b09cc1e218801</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:39:41 +0000</pubDate>
-<description>Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRqwLeHISYWaiVNUxkANuqw6ob8Exu7_9CIEt6uHbsNa7mcNUkSWZqNZHEL3_kqPPHXVq4RGTxqZZhMdybwcVVT28qCihLUi0I5ghW9Xk5sVDB2u2kJqULx-_FEcsEHuTCU5vIwReQZghbj8HjQD4zq8H1yiGSYNlmNC25YkViZxlqndOhIp1CD2s_sLlc/s1600/wiz-webinar.jpg" medium="image"/>
-</item>
-<item>
-<title>Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls</title>
-<link>https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html</link>
-<guid isPermaLink="false">b35772fb4a04069806c0762a4611bed0de7f7bf248de2b5d42cf67d351d1402b</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:39:18 +0000</pubDate>
-<description>A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29. Combined with an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguzUg6G-A4KdRvBuhj9LZ93cFfXfvMNkg3dJO0H9sfNJ3MTlecsgLEMIk5TnIrdl2N6UGB8D9rlqLduGEZVm7X-XrWZr6Xh5ZrVp38x5uTd1vHyHGcjRR2N3gctNen-CBSz8JihnNL57galBoeOVKwG5w3qsOZnqmGYdkxzjurrI3QWolmS1Qfz_E_Wog/s1600/telegram.jpg" medium="image"/>
-</item>
-<item>
-<title>The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers</title>
-<link>https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html</link>
-<guid isPermaLink="false">ff04f1caf15467beeb1ba2299f5399ebf70dafef34b41136af0ea3f6099c166f</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 11:33:41 +0000</pubDate>
-<description>AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security operations centers (SOCs) will see major changes in how work is organized, how</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDZvKBLpFrPhWNRvVvRjmTtgwdpGykJjCmzNWNaytIUO2C9VadEDZjeY35hq6H33jHDxV7kAOMTyOV7RO_YUG2caQ75nA_NstH_GxfRJo57n970u4ACXwZXoKl8mizESwgP9wulusqUmSnZwjFNHIJZ2hk_VzrlCJ5HBD9_8zs8Fj1WZULiZoZMD9G9D8/s1600/conf.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDZvKBLpFrPhWNRvVvRjmTtgwdpGykJjCmzNWNaytIUO2C9VadEDZjeY35hq6H33jHDxV7kAOMTyOV7RO_YUG2caQ75nA_NstH_GxfRJo57n970u4ACXwZXoKl8mizESwgP9wulusqUmSnZwjFNHIJZ2hk_VzrlCJ5HBD9_8zs8Fj1WZULiZoZMD9G9D8/s1600/conf.jpg" medium="image"/>
 </item>
 </channel></rss>
