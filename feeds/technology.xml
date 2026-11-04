@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>macOS 27.3 includes cool-looking ‘Pro’ screensaver from new touchscreen MacBook Pro</title>
+<link>https://9to5mac.com/2026/11/03/macos-27-3-includes-cool-looking-pro-screensaver-from-new-touchscreen-macbook-pro</link>
+<guid isPermaLink="false">e8345b768c05b53a7c988719d8c6505f344c08b260011de8100c728b48765438</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 02:43:07 +0000</pubDate>
+<description>Included in today’s macOS 27.3 beta 1 is a great-looking screensaver featuring an animated version of the new MacBook Pro with PROLED XDR Displa y wallpaper. Watch it below. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-touch.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-pro-touch.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>‘Stick’ season 2 premieres on Apple TV</title>
+<link>https://9to5mac.com/2026/11/03/stick-season-2-premieres-on-apple-tv</link>
+<guid isPermaLink="false">2ccc885a99c6da0babc95689868b792cf76c52c7b2a30713d882ac09b6faaee3</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 02:01:01 +0000</pubDate>
+<description>Apple TV subscribers can now watch the first two episodes of the new season of “ Stick ,” starring Owen Wilson ( Midnight In Paris ), Rhea Seehorn ( Pluribus ), and Timothy Olyphant ( Justified ), among others. Watch the trailer below. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/stick-s2-rhea-seehorn-wilson.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>AMD rides data center riches to &amp;#8216;largest and most profitable&amp;#8217; quarter in history</title>
 <link>https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc</link>
 <guid isPermaLink="false">f7f87a71fb4a7970c769d061798fba21dbeaf9aadfc18c68517c01c054cca2fc</guid>
@@ -2935,28 +2957,6 @@
 <description>A new report from TrendForce explores Apple’s impact on the OLED notebook market following the launch of its first touchscreen MacBook Pro, and the company’s own shipment prospects for 2027. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mbp-oled.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Touchscreen MacBook Pro with OLED, new iPad mini, and more</title>
-<link>https://9to5mac.com/2026/10/29/happy-hour-614</link>
-<guid isPermaLink="false">a9bd49c263ef36dcf55bc7d68f085b4eb821263499b5c7527f102bc3d0bcf71b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:55:40 +0000</pubDate>
-<description>Benjamin and Chance break down all the announcements from Apple’s ‘Pro and tell’ event, featuring the new OLED MacBook Pro with touchscreen, M6 iMac, and the updated iPad Mini. And in Happy Hour Plus , how well has Apple handled this flurry of fall product announcements? Subscribe at 9to5mac.com/join . Sponsored by Framer : The only free design tool that brings your ideas to the web. Visit framer.com/happyhour for 30% off a Framer Pro annual plan. Sponsored by Shopify : If you’re ready to launch your business before Black Friday, start your free trial at shopify.com/happyhour . Sponsored by Notion : Learn more about how Notion can support your business, at notion.com/happyhour . Sponsored by Helix : Helix custom builds your mattress based on your sleep needs. Get 20% off site wide at helixsleep.com/MACHAPPYHOUR . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5mac-happy-hour-lead1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Strava adds Google Gemini integration with personalized workout insights</title>
-<link>https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights</link>
-<guid isPermaLink="false">98a02608adcd6da20f31b97936ae197078ccbd1e96a9c26a649b4d4b19e02236</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 29 Oct 2026 21:06:35 +0000</pubDate>
-<description>Strava expanded its AI integrations with Google Gemini this week, allowing subscribers to get personalized insights based on their workout history. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/strava-gemini.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories</title>
