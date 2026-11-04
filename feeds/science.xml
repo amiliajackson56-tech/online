@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Navigation Experiment Shows Promise for Planetary Landings</title>
+<link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings</link>
+<guid isPermaLink="false">e4e032431b184aa8db119864a38fb94e4f794ec914523626135664980c6da35e</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 16:52:43 +0000</pubDate>
+<description>NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]</description>
+<enclosure url="https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA Space Grant Students Fuel Agency’s Inspiration Tour</title>
 <link>https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour</link>
 <guid isPermaLink="false">25c6bc8d2672898f1212fcb6a9a2edeec3f552a56cfcbfe6d2b8c1a4101b6fe2</guid>
@@ -167,6 +178,15 @@
 <description>A new study suggests that ultra-processed foods may influence children's developing brains in ways that encourage weight gain. Researchers from USC studied 46 children ages 7 to 10 and found that those who ate more ultra-processed foods showed stronger activity in the brain's reward system when viewing tempting foods like cookies and French fries. These heightened brain responses were linked to greater increases in body fat and body mass index (BMI) one year later, suggesting that the brain's sensitivity to food cues may help explain why ultra-processed diets are associated with obesity.</description>
 </item>
 <item>
+<title>Spider snooze stages</title>
+<link>https://www.nature.com/articles/d41586-026-03487-0</link>
+<guid isPermaLink="false">5291820b5979d7a334fe6c7e47c2ae05d9ed392845e6c02542e1573c3e334248</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03487-0 How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.</description>
+</item>
+<item>
 <title>A guide to Nature Index tables</title>
 <link>https://www.nature.com/articles/d41586-026-03344-0</link>
 <guid isPermaLink="false">bd1d3b726388ec5e0c4278b3dea468bdc433b2afaef66cc3dd85d62aabe67106</guid>
@@ -174,6 +194,24 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03344-0 Information on the methodology used in the ranking for the 2026 Nature Spotlight: Neuroscience.</description>
+</item>
+<item>
+<title>&lt;b&gt;Ancient DNA charts spread of Celtic and Germanic languages&lt;/b&gt;</title>
+<link>https://www.nature.com/articles/d41586-026-03582-2</link>
+<guid isPermaLink="false">df4acaf069b2822ce0f268bd646a6f10cef51ff6fe83dde63cf19bd00e1ae2d1</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03582-2 Genomes from thousands of ancient individuals show how migrations helped shape Celtic and Germanic languages — plus, how the brain may regulate emotions differently than we thought.</description>
+</item>
+<item>
+<title>Carbon radical generation by irreversible metal-to-ligand charge transfer</title>
+<link>https://www.nature.com/articles/s41586-026-11368-9</link>
+<guid isPermaLink="false">593d97753f7bd99d83c14737bc57b1b976262aadd1bf4c9b8b17a36f1d7d7596</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11368-9 Carbon radical generation by irreversible metal-to-ligand charge transfer</description>
 </item>
 <item>
 <title>Parkinson’s: beyond the brain</title>
@@ -185,6 +223,15 @@
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03173-1 Parkinson’s disease might develop in the gut before reaching the brain, and the environment could have a crucial role in triggering the disease.</description>
 </item>
 <item>
+<title>AI agents run this automated biology lab that sequences DNA and more</title>
+<link>https://www.nature.com/articles/d41586-026-03552-8</link>
+<guid isPermaLink="false">70e39eeaf477d3272867ba46c65b8de35c2c8070b2377e14a02774e85c5426b5</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03552-8 Self-driving lab in China requires only a simple prompt to encode messages in DNA and read them out.</description>
+</item>
+<item>
 <title>The oracle of the second quadrant</title>
 <link>https://www.nature.com/articles/d41586-026-03369-5</link>
 <guid isPermaLink="false">7e51d72ad2c283c37b84645b96c6cc2925077df218340ac08d1ae2e7c45e6252</guid>
@@ -192,6 +239,15 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03369-5 It all adds up.</description>
+</item>
+<item>
+<title>X-ray stopwatch can measure durations of just attoseconds</title>
+<link>https://www.nature.com/articles/d41586-026-03423-2</link>
+<guid isPermaLink="false">b9d234efaca7c917695959c0f63fe4fc7955569308834db9c6ae19f93f0b490d</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03423-2 The duration of short ångström-wavelength X-ray pulses, which lasted merely 170 attoseconds, has finally been measured accurately. The optical system designed for precision pulse duration metrology can be used as a ‘stopwatch’ to measure the rapid motion of electrons inside atoms and molecules, too.</description>
 </item>
 <item>
 <title>Is social media changing children’s brains? Here’s what the science says</title>
@@ -210,6 +266,15 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03169-x The disease is thought to be divided into two subtypes, depending on where it originates in the body — the gut or the brain.</description>
+</item>
+<item>
+<title>AI agents enter the ‘wet lab’</title>
+<link>https://www.nature.com/articles/d41586-026-03270-1</link>
+<guid isPermaLink="false">4523d9d2a6487768d785c7823d3007ebf40a676b4dae609814ca987494b81310</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03270-1 An AI system coordinates laboratory instruments to conduct multi-step molecular-biology experiments with limited human intervention.</description>
 </item>
 <item>
 <title>How the brain protects itself from Parkinson’s disease</title>
@@ -257,6 +322,15 @@
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03563-5 The month’s sharpest science shots, selected by Nature’s photo team.</description>
 </item>
 <item>
+<title>Fruit, flies and getting frisky: how food odours trigger sexual arousal</title>
+<link>https://www.nature.com/articles/d41586-026-03271-0</link>
+<guid isPermaLink="false">1033e2f9acc725975685f99b28687c9352e787621134f7a3f8f1c8c7b8c1d002</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03271-0 Males of a Drosophila species that thrives on a particular fruit need the smell of food to begin courtship. This environmental cue acts on defined mating circuits in the brain.</description>
+</item>
+<item>
 <title>Six highlights from Parkinson’s disease research</title>
 <link>https://www.nature.com/articles/d41586-026-03172-2</link>
 <guid isPermaLink="false">a46d08d4c772f038d53f7cd547d017ed3afae473a6f673e440f447cd5a79a1df</guid>
@@ -264,6 +338,42 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03172-2 Targeting a new network, addressing gait issues and other advances from recent studies.</description>
+</item>
+<item>
+<title>Cutting-edge technique uncovers how the spine’s shock absorbers bear load</title>
+<link>https://www.nature.com/articles/d41586-026-03264-z</link>
+<guid isPermaLink="false">be68b3b7e7c11c4cbf6867b8ad1877199c4ff998ff102efe1cea298ef8c20a82</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03264-z An exciting imaging approach reveals how discs of soft tissue in the spine respond to compressive force at the micrometre and nanometre scales.</description>
+</item>
+<item>
+<title>A death sentence for ‘sloppy’ cancers</title>
+<link>https://www.nature.com/articles/d41586-026-03269-8</link>
+<guid isPermaLink="false">673bb153a769a6db84d14fd06c07f95edf6c9241bcaf54c34f0603047b93495c</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03269-8 The process of making protein from RNA can go awry in cancer cells. This malfunction might be harnessed to create an effective gene-therapy tool that targets tumours.</description>
+</item>
+<item>
+<title>Faint exoplanets detected using computational approach to remove glare from stars</title>
+<link>https://www.nature.com/articles/d41586-026-03295-6</link>
+<guid isPermaLink="false">6b2f96b6343d559ca284fc538e3bc6b4cfe86dbf7e25f0d496edee586bd40a56</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03295-6 An image-processing framework for detecting exoplanets directly has been developed. The technique overcomes the telescope-stability barrier that has limited previous methods, reveals fainter exoplanets than other approaches can detect and could make imaging exo-Earths easier for future observatories.</description>
+</item>
+<item>
+<title>People’s social networks can be unintentionally reshaped during randomized interventions</title>
+<link>https://www.nature.com/articles/d41586-026-03267-w</link>
+<guid isPermaLink="false">8b69c95c2b0a1ad96dd7ed199b4dfe3e8d88d90c2a3ba65bef52569efcb6deb7</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03267-w A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects and altered relationships in communities in rural Honduras.Link Phone-based tutoring improves learning during school closures</description>
 </item>
 <item>
 <title>Fine-tuning brain stimulation to fight Parkinson’s disease</title>
@@ -318,6 +428,249 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03413-4 Scientists have yet to reveal how the human brain produces the subjective experience we perceive as consciousness, but research has pushed the field in exciting directions.</description>
+</item>
+<item>
+<title>Infrared image detectors grown directly on read-out chips</title>
+<link>https://www.nature.com/articles/d41586-026-03420-5</link>
+<guid isPermaLink="false">14fb6bdb6af32e959dc0127aa50888d91a53cb1cbdae637fb82cd2cf74b0e351</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03420-5 A film of lead sulfide — an infrared-sensitive semiconductor — has been grown directly on a circuit that can read out the material’s electrical signal through an approach called monolithic in situ integration. This brings material growth and electronic integration together into a single step. The resulting image sensor shows high sensitivity for infrared wavelengths.</description>
+</item>
+<item>
+<title>A two-dimensional reticular triaxial molecularly woven fabric</title>
+<link>https://www.nature.com/articles/s41586-026-11218-8</link>
+<guid isPermaLink="false">235c05da290bd4167d606973620298ad8c9cde27932fc5a22f63254b5f6bab89</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11218-8 A two-dimensional reticular triaxial woven network material is constructed by incorporating C3-symmetric macrocycles into a triangular weave pattern, enabling an extra topological dimension to be used for the construction of functional materials.</description>
+</item>
+<item>
+<title>Accelerating commercialization and deployment of indoor photovoltaics</title>
+<link>https://www.nature.com/articles/s41586-026-11133-y</link>
+<guid isPermaLink="false">ab04b331ca10acd0a9eebaae0a2fab42bddb0c77cc7c194285fc8f754df3a1f8</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11133-y Recent progress in photovoltaics has been investigated to translate state-of-the-art cells in the laboratory into deployable products suited to real indoor conditions, focusing on wide-bandgap absorbers, reduced non-radiative voltage losses and reshaping module design.</description>
+</item>
+<item>
+<title>In vivo CAR-T double knockout screen maps synergistic antitumour gene pairs</title>
+<link>https://www.nature.com/articles/s41586-026-10956-z</link>
+<guid isPermaLink="false">29514ddc710c28857ceb38b2d9528e1996ac3a93a53d3140b750b6828b19ae46</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-10956-z Using high-throughput in vivo CAR-T double knockout screening, synergistic gene combinations to improve CAR-T cell therapy are revealed.</description>
+</item>
+<item>
+<title>Observation of prethermal dynamical phase transitions and resonant melting</title>
+<link>https://www.nature.com/articles/s41586-026-11225-9</link>
+<guid isPermaLink="false">079c42518cc8d20083d67889801d61f87c66bc10fbd09024e37a13c5ce45e3a6</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11225-9 A programmable neutral-atom quantum simulator is used to explore quench dynamics in spin models with up to 180 qubits, revealing prethermal dynamical phase transitions and resonant melting.</description>
+</item>
+<item>
+<title>Ecological and social cues orchestrate concerted courtship in &lt;i&gt;Drosophila&lt;/i&gt;</title>
+<link>https://www.nature.com/articles/s41586-026-11209-9</link>
+<guid isPermaLink="false">df40c7ef5b76a9fdb5d0182f8d14b7c07237136932eaca1c2dee6aee815019dd</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11209-9 In Drosophila erecta, food odours initiate male sexual arousal, which is subsequently reinforced by the visual motion of other courting flies, creating a multisensory mechanism that synchronizes courtship in groups when conditions are favourable for reproduction.</description>
+</item>
+<item>
+<title>An AI-native experimental laboratory for autonomous biomolecular operations</title>
+<link>https://www.nature.com/articles/s41586-026-11228-6</link>
+<guid isPermaLink="false">d953d5ad60303f9cec0c540a82249fa231461dbca5c6c9e41d8d7b9d5e5db206</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11228-6 AutoDNA is an artificial intelligence (AI)-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments, realizing the co-evolution of AI and the automation system within an end-to-end multi-user framework.</description>
+</item>
+<item>
+<title>Multimodal X-ray imaging reveals hierarchical fibre mechanics</title>
+<link>https://www.nature.com/articles/s41586-026-11148-5</link>
+<guid isPermaLink="false">fd38f1e59caaadc085b4ae67b5e62166be5dc016909b050355970e2f119dcc52</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11148-5 The X-ray visualization platform TomoSAXS, demonstrated here on intervertebral spinal discs, can visualize nanoscale to macroscale mechanics in intact biological organs and fibrous materials.</description>
+</item>
+<item>
+<title>Towards observing interstitial hydrogen in solution in metal lattices</title>
+<link>https://www.nature.com/articles/s41586-026-11238-4</link>
+<guid isPermaLink="false">275d1efb2ab78e1494d839008f190a5447b624cbd6fd065bfb92433adc0c6cb4</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11238-4 Using deuterium as a proxy for hydrogen, atom probe tomography provides experimental evidence for interstitial hydrogen in solid solution across different FCC phases, consistent with theoretical predictions of hydrogen affinity, revealing hydrogen partitioning in structural alloys.</description>
+</item>
+<item>
+<title>Comprehensive mapping of essential-gene interactions in &lt;i&gt;M. tuberculosis&lt;/i&gt;</title>
+<link>https://www.nature.com/articles/s41586-026-11212-0</link>
+<guid isPermaLink="false">e6f6904e868cb38e30d71d32a3e41690350a0e698cff22d17486caa3c015a2ea</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11212-0 A high-throughput CRISPR-interference platform allows the mapping of interactions between essential genes in Mycobacterium tuberculosis, revealing many previously unknown genetic interactions and providing insight into gene function and drug–target relationships that could enable the development of new therapies for tuberculosis.</description>
+</item>
+<item>
+<title>Conjugation-regulated self-assembled molecules for tandem solar cells</title>
+<link>https://www.nature.com/articles/s41586-026-11226-8</link>
+<guid isPermaLink="false">431871fe419d4ff1edeb91c0c3cfc1e4a37d02f018c88656ef002fbc131e0a7d</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11226-8 Rationally engineered molecular spatial conjugation is used for the formation of highly ordered, conformal self-assembled molecules, enabling the fabrication of high-performance perovskite/silicon tandem solar cells.</description>
+</item>
+<item>
+<title>Hard X-ray attosecond metrology</title>
+<link>https://www.nature.com/articles/s41586-026-11245-5</link>
+<guid isPermaLink="false">359e290bd5ae745a3909fa47414e510c7f2e96392490251f94b563c86d967774</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11245-5 Metrology techniques are developed to characterize and control attosecond hard X-ray pulses, directly measuring a 170-attosecond duration and enabling ultrafast studies of electronic dynamics in quantum systems.</description>
+</item>
+<item>
+<title>Cancer-selective gene circuits via intrinsic ribosomal frameshifting</title>
+<link>https://www.nature.com/articles/s41586-026-11200-4</link>
+<guid isPermaLink="false">f25b8edc2baa537ae4f72b8870db8a2535d72251dd3c31650cf659c2d33a094d</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11200-4 Codon-pair-dependent ribosomal frameshifting is a feature of translational dysregulation in cancer cells.</description>
+</item>
+<item>
+<title>Tracing the spread of Celtic languages using ancient genomics</title>
+<link>https://www.nature.com/articles/s41586-026-11198-9</link>
+<guid isPermaLink="false">bc9853582a4f271b7eff7123009e59f5bbbeee462439a8bbfbfefd7bc3127f92</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11198-9 Genome-wide data from 4,587 ancient individuals are analysed, focusing on Bronze and Iron Age Europe, to test the extent to which alternative archaeological and linguistic models for the origin and spread of Celtic fit reconstructed demographic histories.</description>
+</item>
+<item>
+<title>Venousization enables angiogenesis in the absence of VEGFR signalling</title>
+<link>https://www.nature.com/articles/s41586-026-11224-w</link>
+<guid isPermaLink="false">6626149f5db55c27ea0093e81b5431092b5bfc77fdc463fa25c7ff234708d559</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11224-w Longitudinal tracking of endothelial cells shows they can adapt to loss of VEGFR2 and form new functional vessels, challenging conventional views of the essential role of VEGF receptors in angiogenesis and providing insight into resistance to anti-VEGF therapies.</description>
+</item>
+<item>
+<title>The neural basis of flavour–nutrient learning</title>
+<link>https://www.nature.com/articles/s41586-026-11229-5</link>
+<guid isPermaLink="false">eb8d552e2f9608e5018779a49f63f55227deeadb7b6217eacddaf646df1892ee</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11229-5 A dopamine pathway to the basolateral amygdala is necessary for associating nutrients with flavours.</description>
+</item>
+<item>
+<title>Nectin-4 mediates rubella virus entry in airway and placental cells</title>
+<link>https://www.nature.com/articles/s41586-026-11248-2</link>
+<guid isPermaLink="false">ff98d0c59ca80d7b70cb775aae9fa1e9d6f8b12ac6e90cdb941910d0664f1326</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11248-2 Nectin-4 is identified as a pivotal host entry receptor for respiratory transmission and early placental infection of rubella virus.</description>
+</item>
+<item>
+<title>Aggression experience and observation drive shared behavioural and neural changes</title>
+<link>https://www.nature.com/articles/s41586-026-11217-9</link>
+<guid isPermaLink="false">fd276a33d4614c46b79e81f6d3679e7861d996e61ea37c7d1ac7d1c3fa39fe8b</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11217-9 Aggression experience and observation recruit a brain-wide network of excitatory, inhibitory and valence signals, and changes to this activation pattern predict a shared adaptive behaviour-control policy in a new aggression context.</description>
+</item>
+<item>
+<title>Transcriptomic convergence and the female protective effect in autism</title>
+<link>https://www.nature.com/articles/s41586-026-11236-6</link>
+<guid isPermaLink="false">5e1e23b6a0f05209d0374140a149ba88f43a3df59ad83bbc061d31b057adebd7</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11236-6 Gene network analysis shows how mutations in diverse genes associated with autism spectrum disorder can converge to exert shared effects, with X-linked transcription factor ZFX emerging as a key protective factor in the female brain.</description>
+</item>
+<item>
+<title>The deep Earth origin of the Great Unconformity</title>
+<link>https://www.nature.com/articles/s41586-026-11156-5</link>
+<guid isPermaLink="false">b0597876e89fee0c87a2d20c8c8798370e8ba73ff19eeb7eb64086318d87c22f</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11156-5 Continental-scale uplift and subsidence associated with long-wavelength dynamic topography due to mantle convection drove the formation and preservation of the Great Unconformity.</description>
+</item>
+<item>
+<title>Twist-angle-dependent quantum phase diagrams in moiré bilayer MoTe&lt;sub&gt;2&lt;/sub&gt;</title>
+<link>https://www.nature.com/articles/s41586-026-11274-0</link>
+<guid isPermaLink="false">c344be3c022b234f814c2345c7f6a4d97edec86d3ce594666aabe45d71fd1dc4</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11274-0 Twist-angle-dependent studies of moiré bilayer MoTe2 reveal a transition from fractional topological states to correlated insulators and superconductivity, linking topology, symmetry breaking and magnetism in moiré quantum materials.</description>
+</item>
+<item>
+<title>An open structure-guided RNA foundation model for generalizable prediction</title>
+<link>https://www.nature.com/articles/s41586-026-11210-2</link>
+<guid isPermaLink="false">6213b1dca880824bec3807b2839c8531f77ea7f9486f0934ac075f65064ccc80</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11210-2 structRFM, a structure-guided RNA foundation model pre-trained on 21 million sequence–structure pairs, learns multimodal representations that improve secondary and tertiary structure prediction, functional inference and zero-shot generalization across diverse RNA families.</description>
+</item>
+<item>
+<title>Synergy in viral–bacterial co-infection expedites algal bloom demise</title>
+<link>https://www.nature.com/articles/s41586-026-11243-7</link>
+<guid isPermaLink="false">a3f51bb884593679422bbb71d8953147e278d218f4129883c3b978983db27754</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11243-7 Viral–bacterial synergy accelerates algal bloom collapse by enhancing virus-induced mortality, driven by Alteromonas chemoattraction and co-infection, revealing a previously unrecognized mortality agent that influences oceanic carbon cycling .</description>
+</item>
+<item>
+<title>A conserved flowering-time module underlies double-season cropping</title>
+<link>https://www.nature.com/articles/s41586-026-11187-y</link>
+<guid isPermaLink="false">0615a4c5a8998ce8bdf2bdad2dfc60537e037227f775730a89935bf439de63b7</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11187-y The genomic footprints of 80 years of modern breeding in China are traced using representative cultivars, demonstrating how precision genome editing can be used to reconstruct adaptive modules for climate-resilient crop design.</description>
+</item>
+<item>
+<title>Microbiome-wide PheWAS links gut microbial SNVs to health and exposures</title>
+<link>https://www.nature.com/articles/s41586-026-11220-0</link>
+<guid isPermaLink="false">b84cf2b6fb526c5e9bda0c7a9ebe1f7f723b3c7584b06712cdeef7d493af5e6c</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11220-0 Gut microbial single-nucleotide variants across 10,781 individuals reveal 940 associations that link strain-level genetic variation to 69 host traits, with structural analyses pinpointing host phenotype-associated variants, providing a base pair-resolution resource for mechanistic hypothesis generation.</description>
+</item>
+<item>
+<title>A spatiotemporal cancer cell trajectory underlies glioblastoma heterogeneity</title>
+<link>https://www.nature.com/articles/s41586-026-11234-8</link>
+<guid isPermaLink="false">534b5b828d0c7cae4808c8a392de0bb2cd06874a1796260b3fe3f3c80da5b4b3</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11234-8 A deep single-cell and spatial multi-omic atlas of human glioblastoma is generated, pairing transcriptomic, epigenomic and genomic profiling, and tracing glioblastoma tumour heterogeneity to a stereotyped and spatially patterned trajectory of cancer cells.</description>
+</item>
+<item>
+<title>Imaging exoplanets below the telescope stability limit</title>
+<link>https://www.nature.com/articles/s41586-026-11213-z</link>
+<guid isPermaLink="false">efb522d996014dc7cbef208a54bbb25cd780e0a6c18c82c7172b5cc25fd6c632</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11213-z A new physics-based method combining the use of automatic differentiation to optimize millions of model parameters with a flexible physical model is described for starlight subtraction from real, on-sky coronagraphic images to greatly improve sensitivity.</description>
 </item>
 <item>
 <title>Astronaut and Earth</title>
@@ -434,17 +787,6 @@
 <description>APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>The Pacific’s Busy Storm Season</title>
-<link>https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season</link>
-<guid isPermaLink="false">d87bd0a830188828a1d8e5abca9231d046598ae1eea48eb4c6e142463d8f33c5</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 05:01:00 +0000</pubDate>
-<description>Super Typhoon In-fa developed an unusually large eye, and the remnants of Typhoon Champi transitioned into an extratropical storm that targeted Alaska.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-pacific" medium="image"/>
 </item>
 <item>
 <title>Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation</title>
@@ -762,69 +1104,6 @@
 <description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03506-0 Two books explore the damage caused by our unsustainable extraction of raw materials.</description>
 </item>
 <item>
-<title>What tech entrepreneurs can teach scientists about failure</title>
-<link>https://www.nature.com/articles/d41586-026-03485-2</link>
-<guid isPermaLink="false">9092d948dd8c7a21b5c45273b64a71e0011ac4286a521a9e3f0594e6b1fb7608</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03485-2 Start-up founders routinely talk about their failed companies. Academia could learn from them, says Mary Ryan.</description>
-</item>
-<item>
-<title>Iranian scientists in the United States face major upheaval</title>
-<link>https://www.nature.com/articles/d41586-026-03346-y</link>
-<guid isPermaLink="false">f694f51e26bd2e3bd41e240f8a79f2f23d7704438f78dc6c5bad6c95e9bbbab0</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03346-y Pressures due to the continuing US–Iran conflict are mounting as early-career researchers endure frozen immigration status, employment limbo and families caught in the war.</description>
-</item>
-<item>
-<title>Five overlooked steps to identify new epidemics, fast</title>
-<link>https://www.nature.com/articles/d41586-026-03509-x</link>
-<guid isPermaLink="false">c447d579a5aec56c49894b4bc9578488325f7b939fab02dd052adb002d2e01ba</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03509-x Current measures to track emerging epidemics have a key limitation: they don’t work if the disease causes unusual or unexpected symptoms.</description>
-</item>
-<item>
-<title>Meet Neuropixels: how probes that track hundreds of brain cells at once are revolutionizing neuroscience</title>
-<link>https://www.nature.com/articles/d41586-026-03511-3</link>
-<guid isPermaLink="false">b1f9c4a267c217fdd6256390245f789bf5c790ef268f48a85a8fc87f912ccdb4</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03511-3 From rodents to humans, tools that enable large-scale, single-cell neuronal recordings are exposing the inner workings of the brain.</description>
-</item>
-<item>
-<title>In Indonesia, PhD students blow the whistle on bad supervision</title>
-<link>https://www.nature.com/articles/d41586-026-02465-w</link>
-<guid isPermaLink="false">e2201540efe1d7537f1bca84d392c96ad6bd9b204efa3ed41050fd7bb40eed9f</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-02465-w The nation plans to boost the number of doctoral candidates, but some early-career researchers warn of systemic challenges, including poor-quality supervision.</description>
-</item>
-<item>
-<title>How researchers debunked ‘race science’: ‘a triumph of scientific self-correction’</title>
-<link>https://www.nature.com/articles/d41586-026-03507-z</link>
-<guid isPermaLink="false">1913f186aa86225775bf81057c7326ab1e9842ad57365fd5f60594037022c752</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03507-z An account of how nineteenth-century studies aiming to find a biological basis for human races were dismantled by good scientific practices — although their effects are still felt today.</description>
-</item>
-<item>
-<title>‘A perfect scientist, a perfect mum’: researchers mourn two biologists’ deaths in Spanish train crash</title>
-<link>https://www.nature.com/articles/d41586-026-03564-4</link>
-<guid isPermaLink="false">48d4633ec38d9e63c0548b447c67f8178ff3848839aecf3627704e95fe312d98</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03564-4 Scientists pay tribute to Marta Shahbazi Alonso and Tamara González Costa who died on their way to a developmental-biology meeting.</description>
-</item>
-<item>
 <title>Scientists discover a surprising brain benefit of eating peanuts every day</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261030003001.htm</link>
 <guid isPermaLink="false">f84c78a8456421a23041f4650a16846e066c8f0a478f5bc807b72d655ad8840e</guid>
@@ -1048,284 +1327,5 @@
 <category>science</category>
 <pubDate>Fri, 30 Oct 2026 02:07:19 +0000</pubDate>
 <description>Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed "sea muppets," these elusive creatures are known from just seven specimens, and no one has ever seen one alive.</description>
-</item>
-<item>
-<title>Briefing Chat: &lt;b&gt;Dog years: could longevity science extend your pets' lives?&lt;/b&gt;</title>
-<link>https://www.nature.com/articles/d41586-026-03553-7</link>
-<guid isPermaLink="false">3867474a6970ee5504648c48fd048037329b2d0661da662d3552b6440811b29b</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03553-7 Nature staff discuss the emerging field of pet longevity — plus, a researcher decides not to care about their student reviews. Are they wrong?</description>
-</item>
-<item>
-<title>Author Correction: Rh&lt;sup&gt;3+&lt;/sup&gt; stabilized in KRh@MFI catalyses regioselective hydroformylation</title>
-<link>https://www.nature.com/articles/s41586-026-11337-2</link>
-<guid isPermaLink="false">a59a462d603a10a8bb01e741b5e8a8271da6c43c58ede47d685b9fd7fe83cf81</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/s41586-026-11337-2 Author Correction: Rh 3+ stabilized in KRh@MFI catalyses regioselective hydroformylation</description>
-</item>
-<item>
-<title>Patrick Stewart dies: how Captain Picard inspired today’s science leaders</title>
-<link>https://www.nature.com/articles/d41586-026-03543-9</link>
-<guid isPermaLink="false">d8ed22ff29639eead31d4a11e1a9c1af59e304c3ded5b36203c6f249f97e732d</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03543-9 Researchers say his portrayal of the Star Trek character represented curiosity, thoughtfulness and an effort to understand others.</description>
-</item>
-<item>
-<title>Daily briefing: How Captain Picard inspired today’s scientists</title>
-<link>https://www.nature.com/articles/d41586-026-03556-4</link>
-<guid isPermaLink="false">02aedbe1deead046ff10d52bbd217102b99e27fa7dd202efd1f02194b280040e</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03556-4 Researchers pay tribute to actor Patrick Stewart. Plus, what the US mid-term elections might mean for science and why ancient people never settled in the centre of the lush ‘Green Arabia’.</description>
-</item>
-<item>
-<title>Somewhere over the transcontinental burrito tunnel</title>
-<link>https://www.nature.com/articles/d41586-026-03368-6</link>
-<guid isPermaLink="false">292008b8be667fe818a12ca351205d55068deeef0ca76c03f720b026b5392d25</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03368-6 Pipe dreams.</description>
-</item>
-<item>
-<title>I built the UK government’s metascience unit — here’s what countries need to know</title>
-<link>https://www.nature.com/articles/d41586-026-03502-4</link>
-<guid isPermaLink="false">86bbee8926ea1c56041a02771df5e4e752f6a456a40d3f9fdd82a4047c2a2b2c</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03502-4 To find evidence-backed ways to improve grant-funding processes, metascientists need freedom and money to experiment, as well as leaders who are willing to make change.</description>
-</item>
-<item>
-<title>Record-breaking retraction: scholarly publisher pulls 1,400 conference papers on one day</title>
-<link>https://www.nature.com/articles/d41586-026-03455-8</link>
-<guid isPermaLink="false">d2d20642fb271474deafa3e75c139bae1a9832c00f3d5b0e0042ec7ed5cab560</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03455-8 Announcement by IEEE follows publication of a study showing the retracted papers are linked to paper mills.</description>
-</item>
-<item>
-<title>Are dinosaur fossils hogging top journals? Analysis sparks debate over ‘charismatic’ finds</title>
-<link>https://www.nature.com/articles/d41586-026-03512-2</link>
-<guid isPermaLink="false">12f3b21293b6c211f894d3d30e04db79f6eb4ea63791c5e050e7c53c7ed67c28</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 30 October 2026; doi:10.1038/d41586-026-03512-2 Fossils of dinosaurs, mammals and other glamorous species are over-represented in high-profile titles, suggests a study of thousands of palaeontology papers.</description>
-</item>
-<item>
-<title>Even stupendous black holes can’t explain dark matter</title>
-<link>https://www.nature.com/articles/d41586-026-03386-4</link>
-<guid isPermaLink="false">b95573bbef06f452d5ac9a8405d1fc059d24661395182a4c36042c3a87d73249</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03386-4 The theoretical objects would have left a larger imprint on cosmic radiation if they were a source of the invisible force pulling together the galaxies.</description>
-</item>
-<item>
-<title>Daily briefing: The three red flags of suspicious journals</title>
-<link>https://www.nature.com/articles/d41586-026-03548-4</link>
-<guid isPermaLink="false">388b5b543c76c02c1ccb4a5d8b383f88dac21dff0c5f038b232ac6320ce634c8</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03548-4 These warning signs suggest a journal might be engaging in dubious publishing activities. Plus, the brain clears out faulty neurons at birth and whether a giant ‘sunshade’ could cool Earth.</description>
-</item>
-<item>
-<title>How the US mid-term elections could shake up science</title>
-<link>https://www.nature.com/articles/d41586-026-03479-0</link>
-<guid isPermaLink="false">90453efb354b5e65bc1f7e84b772d113eb9cc2f8b778e09957da399606f2973b</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 29 October 2026; doi:10.1038/d41586-026-03479-0 A Democratic victory in Congress could halt the Trump administration’s controversial grant-review plan and curb some of its funding actions.</description>
-</item>
-<item>
-<title>Switchable Chlorine Atom Transfer Radical Reactions</title>
-<link>https://www.nature.com/articles/s41586-026-11348-z</link>
-<guid isPermaLink="false">e5f3a4b295a14888564104e5445bd0bcdd4c6854a636ae75397d321014c7f0ca</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11348-z Switchable Chlorine Atom Transfer Radical Reactions</description>
-</item>
-<item>
-<title>Back-to-monomer depolymerization of silicones by deoxygenative chlorination</title>
-<link>https://www.nature.com/articles/s41586-026-11335-4</link>
-<guid isPermaLink="false">14eb28fac5b614f80e5e258c600fa0e762ed1efa88a1e4fa9c4d741e252f8023</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/s41586-026-11335-4 Back-to-monomer depolymerization of silicones by deoxygenative chlorination</description>
-</item>
-<item>
-<title>Why did ancient humans avoid this lush paradise</title>
-<link>https://www.nature.com/articles/d41586-026-03486-1</link>
-<guid isPermaLink="false">cb546f889aad4ee204ee6cc254c80a83e904c2584cc497335f4b7bf8a029ffdd</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03486-1 A new expedition into the Rub’ al Khali desert finds no evidence of ancient human settlement.</description>
-</item>
-<item>
-<title>This Arabian desert was once a lush paradise. Why did ancient humans avoid it?</title>
-<link>https://www.nature.com/articles/d41586-026-03484-3</link>
-<guid isPermaLink="false">309be4c3a7b700fcffbd007f4ee33d78e4a2e5a706c532a76eca7d64194305d3</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03484-3 Expedition revealed that water wasn’t enough for human settlement — plus, proposals to block sunlight get serious.</description>
-</item>
-<item>
-<title>Accounting of Africa’s water reveals a management gap</title>
-<link>https://www.nature.com/articles/d41586-026-03260-3</link>
-<guid isPermaLink="false">4115ced431643f4d445e91fc735b142cf7fcf401013eac28c2e9d44fe63edf2b</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03260-3 A map of Africa’s water demand reveals that the scarcity of water is only part of the problem facing the continent — management is a separate challenge.</description>
-</item>
-<item>
-<title>The brain liquidates billions of mutant neurons around the time we’re born</title>
-<link>https://www.nature.com/articles/d41586-026-03444-x</link>
-<guid isPermaLink="false">3063934d8eb963d972b56293b8237a974e4efb2fc75ab099c1bd22148446a314</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03444-x Faulty neurons can contribute to various neurological conditions, but researchers have uncovered a system that might clean them up.</description>
-</item>
-<item>
-<title>Daily briefing: The big push to personalize psychiatry</title>
-<link>https://www.nature.com/articles/d41586-026-03531-z</link>
-<guid isPermaLink="false">78de5c377943edf39f57c57e8e9cca6b29fa0995eaffc2e70f8d93cc1fc0560e</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03531-z A data-driven approach could match treatments to individuals with more precision. Plus, funders in Europe are backing preprint-led publishing and whether professors should care about student evaluations.</description>
-</item>
-<item>
-<title>Tethered to stone: how rock and water availability shaped early desert occupation</title>
-<link>https://www.nature.com/articles/d41586-026-03263-0</link>
-<guid isPermaLink="false">dcee62758da6f801151092105789b99627a6a2ebd16c7ec79042523de4a92603</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03263-0 Fresh water in deserts often points to sites with signs of early humans and stone tools. But, in Arabia’s Rub’ al Khali region, water alone does not predict occupation.</description>
-</item>
-<item>
-<title>What students think about my teaching doesn’t matter. Am I wrong?</title>
-<link>https://www.nature.com/articles/d41586-026-02202-3</link>
-<guid isPermaLink="false">14b9d10a2a72af86b29de0b1abb859600db0e28511dd221a950adbd61965e436</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-02202-3 A jury weighs in on whether teaching assessments are popularity contests or an important tool.</description>
-</item>
-<item>
-<title>How personalization and psychedelics are revitalizing psychiatry</title>
-<link>https://www.nature.com/articles/d41586-026-03402-7</link>
-<guid isPermaLink="false">a024e6b8bdf25e091389950a522046fb0f494b880cc897a758e2ba9b6f719f8b</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03402-7 Fresh ideas are welcome in a discipline in which progress is rare — provided they are applied rigorously.</description>
-</item>
-<item>
-<title>Lactate takes a shortcut into mitochondria to power the heart</title>
-<link>https://www.nature.com/articles/d41586-026-03261-2</link>
-<guid isPermaLink="false">07710c9ac5aa264b595852337d7f7b0479870a8b9d5392b1e1fefae501431ce2</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03261-2 A cellular fuel called lactate is channelled directly into energy-generating organelles in heart muscle, defying the prevailing view about lactate transport.</description>
-</item>
-<item>
-<title>Clues about complex life come from freshly cultivated archaea</title>
-<link>https://www.nature.com/articles/d41586-026-03294-7</link>
-<guid isPermaLink="false">508f2b080777d21cc809676c4d382e176ec750c25a36868ae62d13e6310e893b</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03294-7 Two archaeal strains that belong to a lineage closely related to the ancestor of eukaryotic cells (complex cells with membrane-bound organelles) have been brought into culture. Their simple internal organization, elaborate surface structures, microbial partnerships and protein-dependent lifestyle provide clues about how eukaryotic cells arose.</description>
-</item>
-<item>
-<title>Preprint-centric publishing model gets major boost</title>
-<link>https://www.nature.com/articles/d41586-026-03445-w</link>
-<guid isPermaLink="false">b52261dab45b66e23c16f15fe412fade70055aa8a6769c1ac16c2d0673c15b8c</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03445-w European funders put weight behind emerging ‘publish, review, curate’ approach for preprints.</description>
-</item>
-<item>
-<title>These three red flags could unmask dodgy journals</title>
-<link>https://www.nature.com/articles/d41586-026-03325-3</link>
-<guid isPermaLink="false">b86296613ddc14dd2045f6955c8a9d0682824b74b3224e68da6626b770666828</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03325-3 As poor publishing practices proliferate, scholarly databases are under pressure to ensure the titles they list are reputable.</description>
-</item>
-<item>
-<title>Is research funding now a lottery? Elite funder ERC swamped by applications</title>
-<link>https://www.nature.com/articles/d41586-026-03476-3</link>
-<guid isPermaLink="false">34c54941a111792629589df501b71bf6ddef435631714d7c534f888132f282d1</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03476-3 A marked rise in submissions for the European Research Council’s grants is pushing down success rates.</description>
-</item>
-<item>
-<title>Dengue comes back even in vaccinated people — new clues</title>
-<link>https://www.nature.com/articles/d41586-026-03488-z</link>
-<guid isPermaLink="false">9360817b10981360b38c0e00c11c04a2dbf39a75933580415cb36d8089fed13a</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03488-z Researchers help to answer a question dogging the development of improved vaccines against the mosquito-borne disease.</description>
-</item>
-<item>
-<title>The grand plan to transform psychiatry — by personalizing mental-health care</title>
-<link>https://www.nature.com/articles/d41586-026-03391-7</link>
-<guid isPermaLink="false">9fd5dc4f025852005eee2abfefdd779bebee2d4619d3187a514fe0bc7a2feba7</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03391-7 Could a blood sample, a brain scan and a look at your phone data transform how your psychiatrist treats you?</description>
-</item>
-<item>
-<title>Could a giant sunshade in space ‘solve global warming’? Scientists are taking the idea seriously</title>
-<link>https://www.nature.com/articles/d41586-026-03415-2</link>
-<guid isPermaLink="false">7089e85f80f668bab51e7f944e8e6e0f6febbc8cc70e9290a8a907126c121efe</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03415-2 Some say the concept is complete fantasy, but a detailed analysis suggests that the falling cost of rocket launches might make it feasible in a few decades.</description>
-</item>
-<item>
-<title>An unexpected function of a cell-cycle enzyme might explain the toxic effects of its inhibitors</title>
-<link>https://www.nature.com/articles/d41586-026-03288-5</link>
-<guid isPermaLink="false">ecfda9f2836bdd74f90edf1ce1925e28f6b7c1e0c3d96e214454e85871edccc2</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03288-5 A previously unknown mechanism required for cells to start proliferating has been identified. A combination of mathematical modelling and cell-based experiments shows that the enzyme WEE1 switches off a protein-degradation complex to allow cell proliferation to start, with implications for WEE1 inhibitors currently in trials for cancer treatments.</description>
-</item>
-<item>
-<title>Meta-study sparks questions about what it means to be good at regulating emotions</title>
-<link>https://www.nature.com/articles/d41586-026-03262-1</link>
-<guid isPermaLink="false">59149cf31e11a2f2c421f8a7e71ec9e1358c3be3e9518406948aec670dbdcd90</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 28 October 2026; doi:10.1038/d41586-026-03262-1 A first-of-its kind consortium reveals a lack of correlation between behavioural and neural measures of a person’s emotional regulation.</description>
 </item>
 </channel></rss>
