@@ -4,7 +4,87 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>The Biggest Pro-AI Super Pac Network Didn't Really Impact the Midterms</title>
+<title>Vercel rolls out new protection against stolen session cookie attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks</link>
+<guid isPermaLink="false">9db2bb1c771f0b75301228c6b9fae60473ca9d945628faa46f2b4734406b2f47</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:31:18 +0000</pubDate>
+<description>Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]</description>
+</item>
+<item>
+<title>How I learned to love an obnoxious phone grip</title>
+<link>https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case</link>
+<guid isPermaLink="false">bb7264ac37ad757523b100501f0c866788c6fbff40d4ec1660e2e6fbf71ce98d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:30:00 +0000</pubDate>
+<description>Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>OpenAI is already trying to shape the 2028 election</title>
+<link>https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election</link>
+<guid isPermaLink="false">4c65af7ddad1f5b56b6f88119d41d769cd833856915e3eb624d04861f47d8a06</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:25:44 +0000</pubDate>
+<description>OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.</description>
+</item>
+<item>
+<title>Bose’s QuietComfort Headphones are more than half off</title>
+<link>https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale</link>
+<guid isPermaLink="false">d70f68d1e25a8639a6e1b4e3cb1ee264d842cd53546115117e8ea075e845c424</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:13:11 +0000</pubDate>
+<description>It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date. The newer, second-generation version that launched in August is also down […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Bose-QuietComfort-Headphones-lifestyle.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Meta acquires AI coding startup Conductor</title>
+<link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor</link>
+<guid isPermaLink="false">2f7abd088fe66e28f4524f47588b659f20100cdd788b40dae9b108b94e8ca884</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:10:56 +0000</pubDate>
+<description>The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.</description>
+</item>
+<item>
+<title>‘We Have No Shared Reality’: Two Political Influencers on the Future of Politics Online</title>
+<link>https://www.wired.com/story/wired-world-fair-2026-cj-pearson-and-kat-abughazaleh</link>
+<guid isPermaLink="false">dbe0e8b39340dec9676cc5c62fbd1995562a2b49c413bfafc56b6a93cd7f80d2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:04:05 +0000</pubDate>
+<description>Kat Abughazaleh and CJ Pearson spoke at WIRED World Fair on Wednesday about the influence of social media on politics following Tuesday’s midterm elections.</description>
+<enclosure url="https://media.wired.com/photos/6aeb837339a5aa15fca882ba/master/pass/WWF-CJ-Kat-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aeb837339a5aa15fca882ba/master/pass/WWF-CJ-Kat-5.jpg" medium="image"/>
+</item>
+<item>
+<title>Zyxel fixes zero-day exploited to hack nearly 1,000 network switches</title>
+<link>https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches</link>
+<guid isPermaLink="false">8548203aec91f02a8ae5d272f3609755636e8535040cff31bf65706ed16835d9</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 20:58:19 +0000</pubDate>
+<description>Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]</description>
+</item>
+<item>
+<title>Apple Photos keeps getting better, here’s what’s new in iOS 27</title>
+<link>https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27</link>
+<guid isPermaLink="false">621f687adf71d4160ff7a79ef0ab7cc3c5635e379d211e0be04b5fb25e94f305</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 20:47:18 +0000</pubDate>
+<description>iOS 27’s biggest highlight is Siri AI, but the update also packs new features for apps like Messages , Notes , Wallet , and more . Here’s everything new for Apple’s Photos app in iOS 27. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-photos-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>The Biggest Pro-AI Super PAC Network Didn’t Really Impact the Midterms</title>
 <link>https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-didnt-really-impact-the-midterms</link>
 <guid isPermaLink="false">a7783aa1a7906d9c224ecb21324d7923a459754a83a3c0d2459dfc6add7e01cb</guid>
 <source>Wired</source>
@@ -53,8 +133,8 @@
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 20:24:14 +0000</pubDate>
 <description>Showrunner Silka Luisa and star Hunter Schafer want their series, Blade Runner 2099, to show the benefits of a post-revolution world.</description>
-<enclosure url="https://media.wired.com/photos/6aeb6336899aefeeb0331976/master/pass/WWF-Placeholder-Hunter-Schafer.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aeb6336899aefeeb0331976/master/pass/WWF-Placeholder-Hunter-Schafer.jpg" medium="image"/>
+<enclosure url="https://media.wired.com/photos/6aeb9abcdcebe052cc0d1797/master/pass/WWF-Hunter-Schafer-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aeb9abcdcebe052cc0d1797/master/pass/WWF-Hunter-Schafer-1.jpg" medium="image"/>
 </item>
 <item>
 <title>Gemini for Home now plugs into AT&amp;#038;T’s smart security system</title>
@@ -395,17 +475,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Nintendo is losing a Switch cartridge supplier</title>
-<link>https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center</link>
-<guid isPermaLink="false">cac47cf7f855e10c802f40e5a705f1e93c4a707fe90d669ccef16a0619dccb4f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:03:32 +0000</pubDate>
-<description>Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's ROM revenue fell 39 percent compared with last […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/jbareham_180301_2346_nintendo_switch_0094.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Elon Musk spent nearly $500 million on the midterms and lost big-time</title>
 <link>https://www.engadget.com/2306698/elon-musk-spent-nearly-500-million-on-the-midterms-and-lost-bigtime</link>
 <guid isPermaLink="false">7a67d7b76b4d10f24ef7d6283d702317c1446dec844e1a2af88edfd891d07e4b</guid>
@@ -477,17 +546,6 @@
 <description>The company’s cofounder recently convinced the Trump administration to support an initiative to gather DNA samples from endangered species.</description>
 <enclosure url="https://media.wired.com/photos/6aeb5f0ab57e802a8d80379d/master/pass/WWF-Ben-Lamm-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb5f0ab57e802a8d80379d/master/pass/WWF-Ben-Lamm-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Anker’s new window-mounted camera monitors the outside of your home from within it</title>
-<link>https://www.theverge.com/tech/1026360/anker-eufy-window-camera-e10-indoors-security-ai-color-night-vision</link>
-<guid isPermaLink="false">87054cb17f3fb6d6f080ef36108f77ed982ccae2026832ef4453bb6942373729</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 16:36:21 +0000</pubDate>
-<description>Anker announced a new indoor security camera that's designed to watch your yard, driveway, or front porch through a window, instead of monitoring what's inside your home. The new Anker Eufy Window Camera E10 takes a similar approach to the Wyze Window Cam that launched nearly a year ago. It installs right against a window […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ankercam1_43ac74.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>MacBook Neo 2 is coming, and Apple reportedly expects a massive hit</title>
@@ -952,6 +1010,17 @@
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
 </item>
 <item>
+<title>Columbia Promo Codes: 15% Off | November 2026</title>
+<link>https://www.wired.com/story/columbia-promo-code</link>
+<guid isPermaLink="false">d92e3430c244b8595ae0d27d600500f05e5700a4e6d129483bcece5c94194657</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
 <title>Hoka Coupon Codes: 30% Off in November 2026</title>
 <link>https://www.wired.com/story/hoka-coupon-code</link>
 <guid isPermaLink="false">2ffcf8afd11bb57e96a2c480db168a859d5ace30a6c486b90db6e39619571389</guid>
@@ -985,17 +1054,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
 </item>
 <item>
-<title>Columbia Promo Codes: 15% Off | November 2026</title>
-<link>https://www.wired.com/story/columbia-promo-code</link>
-<guid isPermaLink="false">d92e3430c244b8595ae0d27d600500f05e5700a4e6d129483bcece5c94194657</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
 <title>25% Off Adidas Promo Code | November 2026</title>
 <link>https://www.wired.com/story/adidas-promo-code</link>
 <guid isPermaLink="false">9e48467cb26d4f0b7c5066dda6c11e4efb6aa6f7f58aa6816c04f5c59bac2a81</guid>
@@ -1016,6 +1074,17 @@
 <description>Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+</item>
+<item>
+<title>Alo Discount Code: 20% Off November 2026</title>
+<link>https://www.wired.com/story/alo-yoga-discount-code</link>
+<guid isPermaLink="false">99a7bb0ffd774b71e7bc83a26ae9f3c4251cd371f5bd562395fdf0304d958361</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>Hulu Promo Codes &amp; Discounts: 20% Off in November 2026</title>
@@ -1060,17 +1129,6 @@
 <description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Alo Discount Code: 20% Off November 2026</title>
-<link>https://www.wired.com/story/alo-yoga-discount-code</link>
-<guid isPermaLink="false">99a7bb0ffd774b71e7bc83a26ae9f3c4251cd371f5bd562395fdf0304d958361</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
 <title>CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</title>
@@ -1449,24 +1507,6 @@
 <description>iOS 27.3 is available now in beta, and it’s a big release for Siri AI improvements. Joining new app actions, Siri Recaps, and developer features, iOS 27.3 also expands Siri AI to several additional languages. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/siri-ai-orb-generic-wwdc.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist</title>
-<link>https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist</link>
-<guid isPermaLink="false">df8b8b75cdf1b9e762b946bbbe9b761a00b1f2b9d1cd0d6df648427525b47074</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:45:48 +0000</pubDate>
-<description>Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.</description>
-</item>
-<item>
-<title>AI inference startup Fal doubles its valuation to $16B as demand surges</title>
-<link>https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges</link>
-<guid isPermaLink="false">64e891378c13ac062e9fbd46fab0f1d32a0bf282bfb9d724ea51b53892587e06</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 19:34:43 +0000</pubDate>
-<description>The five-year-old startup raised a $1.3 billion round led by Bessemer.</description>
 </item>
 <item>
 <title>iOS 27.3 brings Apple Intelligence features to China</title>
@@ -1852,24 +1892,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Barracuda warns of critical flaws allowing root access to devices</title>
-<link>https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices</link>
-<guid isPermaLink="false">f2721e8953efda1e46fcdc785de1f883f17c93b096d7a465366bcf796bb0c6fd</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:06:16 +0000</pubDate>
-<description>Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]</description>
-</item>
-<item>
-<title>Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028</title>
-<link>https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028</link>
-<guid isPermaLink="false">b66857d441c2367f7daf6dfa324ad308d1a5c7173798480d9f33d7d4548748b5</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:00:10 +0000</pubDate>
-<description>Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection engineering to threat hunting and exposure management. [...]</description>
-</item>
-<item>
 <title>Adobe teams up with Universal and Warner to bring popular music to Premiere mobile</title>
 <link>https://9to5mac.com/2026/11/03/adobe-teams-up-with-universal-and-warner-to-bring-popular-music-to-premiere-mobile</link>
 <guid isPermaLink="false">f00963e432240a267f19e8ce89f06a191cdc97f08c028401cdfc27ea23c8f06c</guid>
@@ -2154,17 +2176,6 @@
 <description>Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScxShEa3bsAhGLHlqkBcsyuRe6UeQwrOVXBFP3TwxzmXtd03vDeDRZHxxBLIKHDYgY5p5CsrFvBwuozg3UsRLtVMO758NhVwSju6D6WgO1J42wJd2NWR9aVzz-B_CWfiMFH2QANUrAnUXbgkKec2KtJjULvN3NTqrCPbLRNnxlnvBFIAkndClXJMIeXY/s1600/fridge-hack.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjScxShEa3bsAhGLHlqkBcsyuRe6UeQwrOVXBFP3TwxzmXtd03vDeDRZHxxBLIKHDYgY5p5CsrFvBwuozg3UsRLtVMO758NhVwSju6D6WgO1J42wJd2NWR9aVzz-B_CWfiMFH2QANUrAnUXbgkKec2KtJjULvN3NTqrCPbLRNnxlnvBFIAkndClXJMIeXY/s1600/fridge-hack.jpg" medium="image"/>
-</item>
-<item>
-<title>Uber Eats Promo Codes: $15 Off│November 2026</title>
-<link>https://www.wired.com/story/uber-eats-promo-code</link>
-<guid isPermaLink="false">f65f9233d10e1fad00d76a4566e7369162f7e26180a6b4c5756941dc343fbc5a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
-<description>Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.</description>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
 </item>
 <item>
 <title>Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors</title>
@@ -2957,17 +2968,6 @@
 <description>The robot vacuums designed for large open floor plans often have big batteries but take up a ton of space. The SwitchBot K11+ Pro goes the other direction: a tiny vacuum, a small dock, and Matter support so it works with Apple Home. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/SwitchBot-K11-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/SwitchBot-K11-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple TV has three shows with finales next week, here’s what’s ending</title>
-<link>https://9to5mac.com/2026/10/30/apple-tv-has-three-shows-with-finales-next-week-heres-whats-ending</link>
-<guid isPermaLink="false">39d6312afe5444e605bbc1758fa846ca016bae0257e884848309808cc8ba1c3e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 17:43:03 +0000</pubDate>
-<description>Apple TV just premiered Nocturne , a new crime thriller that’s earning a lot of praise . But the streamer also has three series all scheduled to wrap up next week. Here’s what’s ending. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-logo-fall-mountains.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-logo-fall-mountains.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</title>
