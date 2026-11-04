@@ -4,6 +4,55 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
+<link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month</link>
+<guid isPermaLink="false">95666940021eb80c23c6ce61ef1af1dc5e6e7cba8bb6f085e456d434f2728cc0</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
+<description>While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.</description>
+</item>
+<item>
+<title>Almost no one uses AI agents to book their Uber, company says</title>
+<link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says</link>
+<guid isPermaLink="false">8a0eacda93f2823371bde0059e728ea4f978f72fa498ce2c5836797885f71806</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
+<description>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</description>
+</item>
+<item>
+<title>Snapchat surpasses 30M paid subscribers</title>
+<link>https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers</link>
+<guid isPermaLink="false">4d352c405eb745c6b7f17c5f1d645add33092318638124207be8ddb1fe4eb890</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:49:29 +0000</pubDate>
+<description>The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.</description>
+</item>
+<item>
+<title>17 better ways Elon Musk could have wasted $446 million</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich</link>
+<guid isPermaLink="false">576b3975e72bb4e8a53856f77c0ab52bc819bf24bc5b6482c4774fae866d806b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:45:00 +0000</pubDate>
+<description>One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your main source of contact with the outside world, you […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>VMware releases vSphere Express for virtualization on up to 128 cores</title>
+<link>https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores</link>
+<guid isPermaLink="false">bca3ea2faebfe1ef01d268d08c72f7f468671e02aba778eaae50ee1cd3dbe705</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:38:49 +0000</pubDate>
+<description>“We started listening to a lot of our lower-end customers," VMware exec says.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-474325206-1152x648-1753374517.jpg" medium="image"/>
+</item>
+<item>
 <title>Vercel rolls out new protection against stolen session cookie attacks</title>
 <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks</link>
 <guid isPermaLink="false">9db2bb1c771f0b75301228c6b9fae60473ca9d945628faa46f2b4734406b2f47</guid>
@@ -22,6 +71,17 @@
 <description>Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months ago. This stick of butter was labeled […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/IMG_1326_edit.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>AMD's record quarter: Data center business doubles, while gaming craters</title>
+<link>https://arstechnica.com/gadgets/2026/11/amds-record-quarter-data-center-business-doubles-while-gaming-craters</link>
+<guid isPermaLink="false">853eb95e66528a9fb4b5a64781f83f569e45728950a3940c4fa9e6573aa1595b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:29:46 +0000</pubDate>
+<description>AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-1152x540.webp" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/AMD_Helios_Rack_Instinct_MI455X-1152x540.webp" medium="image"/>
 </item>
 <item>
 <title>OpenAI is already trying to shape the 2028 election</title>
@@ -73,6 +133,17 @@
 <description>Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]</description>
 </item>
 <item>
+<title>Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”</title>
+<link>https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech</link>
+<guid isPermaLink="false">486c70c94cb0cc7c69c7ca0177e23268c43476aa9ce2312ef25ef465c7cc4a1b</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 20:55:50 +0000</pubDate>
+<description>Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302983449-1024x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple Photos keeps getting better, here’s what’s new in iOS 27</title>
 <link>https://9to5mac.com/2026/11/04/heres-everything-new-for-apple-photos-in-ios-27</link>
 <guid isPermaLink="false">621f687adf71d4160ff7a79ef0ab7cc3c5635e379d211e0be04b5fb25e94f305</guid>
@@ -102,6 +173,17 @@
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 20:36:57 +0000</pubDate>
 <description>The web host said hackers exploited a vulnerability to access customer emails and files during a "deliberate attack."</description>
+</item>
+<item>
+<title>After Texas' blue wave, what happens to Elon Musk and SpaceX?</title>
+<link>https://arstechnica.com/space/2026/11/elon-musk-moved-spacex-to-red-texas-now-its-blue-what-happens-next</link>
+<guid isPermaLink="false">a0d12098f80f26cba2f6f2c1aac5d5e284da02c282e3341227ace7ef727319cb</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 20:36:05 +0000</pubDate>
+<description>"Data centers in space looking pretty appealing right now."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/elon-how-do-you-do-fellow-democrats-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple disables Siri AI waitlist in iOS 27, with one exception</title>
@@ -230,6 +312,17 @@
 <description>“Most of the risk is actually created by a couple of players building behind closed doors,” Clément Delangue said of the need for open source AI.</description>
 <enclosure url="https://media.wired.com/photos/6aeb930828f7263543de4332/master/pass/WWF-Clement-Delangue-2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb930828f7263543de4332/master/pass/WWF-Clement-Delangue-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control</title>
+<link>https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session</link>
+<guid isPermaLink="false">b734ada978fc92df565d981b9ce166534046c30f7b4c2444c83c0f96a4f6df01</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 19:08:23 +0000</pubDate>
+<description>Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-1152x648-1751388273.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/07/ted-cruz-1152x648-1751388273.jpg" medium="image"/>
 </item>
 <item>
 <title>DreamHost confirms data breach exposed FTP logins and webmail sessions</title>
@@ -462,17 +555,6 @@
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 17:11:15 +0000</pubDate>
 <description>Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.</description>
-</item>
-<item>
-<title>God of War Laufey delayed until May</title>
-<link>https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay</link>
-<guid isPermaLink="false">ae609cb99fd9802854950fb0aa1a4cf38e6d56f35805948e06b83f6b50553157</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:10:31 +0000</pubDate>
-<description>God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal of God of War Laufey in June, we've been deeply grateful to […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/7fa631fcc57afee84f351918717a3cdab924a583a409f14d.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Elon Musk spent nearly $500 million on the midterms and lost big-time</title>
@@ -1010,17 +1092,6 @@
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
 </item>
 <item>
-<title>Columbia Promo Codes: 15% Off | November 2026</title>
-<link>https://www.wired.com/story/columbia-promo-code</link>
-<guid isPermaLink="false">d92e3430c244b8595ae0d27d600500f05e5700a4e6d129483bcece5c94194657</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
-</item>
-<item>
 <title>Hoka Coupon Codes: 30% Off in November 2026</title>
 <link>https://www.wired.com/story/hoka-coupon-code</link>
 <guid isPermaLink="false">2ffcf8afd11bb57e96a2c480db168a859d5ace30a6c486b90db6e39619571389</guid>
@@ -1054,37 +1125,15 @@
 <media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
 </item>
 <item>
-<title>25% Off Adidas Promo Code | November 2026</title>
-<link>https://www.wired.com/story/adidas-promo-code</link>
-<guid isPermaLink="false">9e48467cb26d4f0b7c5066dda6c11e4efb6aa6f7f58aa6816c04f5c59bac2a81</guid>
+<title>Columbia Promo Codes: 15% Off | November 2026</title>
+<link>https://www.wired.com/story/columbia-promo-code</link>
+<guid isPermaLink="false">d92e3430c244b8595ae0d27d600500f05e5700a4e6d129483bcece5c94194657</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.</description>
-<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>LegalZoom Promo Code: Exclusive 10% Off LLC Formations</title>
-<link>https://www.wired.com/story/legalzoom-promo-code</link>
-<guid isPermaLink="false">8383cde9f47e0b5e1a234e16c5b30f54cfed5935bda6b6421e7b6010b32c0b52</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
-</item>
-<item>
-<title>Alo Discount Code: 20% Off November 2026</title>
-<link>https://www.wired.com/story/alo-yoga-discount-code</link>
-<guid isPermaLink="false">99a7bb0ffd774b71e7bc83a26ae9f3c4251cd371f5bd562395fdf0304d958361</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+<description>Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
 <title>Hulu Promo Codes &amp; Discounts: 20% Off in November 2026</title>
@@ -1129,6 +1178,39 @@
 <description>Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Alo Discount Code: 20% Off November 2026</title>
+<link>https://www.wired.com/story/alo-yoga-discount-code</link>
+<guid isPermaLink="false">99a7bb0ffd774b71e7bc83a26ae9f3c4251cd371f5bd562395fdf0304d958361</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Refresh your workout wardrobe. Save on buttery-soft leggings, chic streetwear, and activewear essentials with verified Alo Yoga discount codes, free shipping, and loyalty program perks.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>25% Off Adidas Promo Code | November 2026</title>
+<link>https://www.wired.com/story/adidas-promo-code</link>
+<guid isPermaLink="false">9e48467cb26d4f0b7c5066dda6c11e4efb6aa6f7f58aa6816c04f5c59bac2a81</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save 15% or 30% with Adidas promo codes, plus explore Adidas deals for 40% off trendy sneakers.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>LegalZoom Promo Code: Exclusive 10% Off LLC Formations</title>
+<link>https://www.wired.com/story/legalzoom-promo-code</link>
+<guid isPermaLink="false">8383cde9f47e0b5e1a234e16c5b30f54cfed5935bda6b6421e7b6010b32c0b52</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save on top services at LegalZoom, like LLC registration, incorporation, estate plans, and more with coupons and deals from WIRED.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
 </item>
 <item>
 <title>CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</title>
@@ -1365,15 +1447,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom</title>
-<link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom</link>
-<guid isPermaLink="false">9427f87f31ac6b742f96dc3200b8c608b507f1e67ae3090fd0d0c207f25e2748</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 21:43:08 +0000</pubDate>
-<description>Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.</description>
-</item>
-<item>
 <title>9to5Mac Daily: November 3, 2026 – Apple reports Q4 earnings</title>
 <link>https://9to5mac.com/2026/11/03/daily-november-3-2026</link>
 <guid isPermaLink="false">b2a7bf4bef53a9eed0e3e782c306ff64cead8adfca1644028683df031c3f900f</guid>
@@ -1427,15 +1500,6 @@
 <media:content url="https://media.wired.com/photos/6ae50b80941f4f67ee5f2a88/master/pass/GettyImages-2300813713.jpg" medium="image"/>
 </item>
 <item>
-<title>Hiding inside Palantir’s skyrocketing quarter is a foreboding signal</title>
-<link>https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal</link>
-<guid isPermaLink="false">e529e3957e845009c443cd2dc564bc8c1b11d7db620ac7943be9b8186a4d791d</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 21:05:55 +0000</pubDate>
-<description>Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.</description>
-</item>
-<item>
 <title>Xcode 27.3 adds GitHub Copilot to its built-in coding assistant</title>
 <link>https://9to5mac.com/2026/11/03/xcode-27-3-adds-github-copilot-to-its-built-in-coding-assistant</link>
 <guid isPermaLink="false">e651213668866c8cb2a83287d924654dc6c900e9e535c52a8498fca5646a4e78</guid>
@@ -1445,15 +1509,6 @@
 <description>Apple released Xcode 27.3 beta 1 today with multiple new features, chief among them an expansion of its built-in coding assistant to support GitHub Copilot. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/xcode.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>Orbital Matter 3D-printed the first rigid beam in the vacuum of space</title>
-<link>https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space</link>
-<guid isPermaLink="false">9f1daec47d1097c1647cf6e7274b5e06386c77a36e98e6880aeebbe0912ca912</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 20:57:17 +0000</pubDate>
-<description>An in-space construction first could be an enabler for the space data centers of the future.</description>
 </item>
 <item>
 <title>Ukraine’s drone strikes spur hasty Russian plans for underground data centers</title>
@@ -1969,17 +2024,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/ipad-mini-hero2-edited-1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Beyond screens: Mercedes-Benz's new holographic heads-up display</title>
-<link>https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display</link>
-<guid isPermaLink="false">4bb60c00563ae25042e6873f2f590f931474fb50a259d1d7c17e2d9ea0d057df</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:00:07 +0000</pubDate>
-<description>After pioneering the passenger screen, Mercedes has designs on the windshield.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple iPad Mini (2026) Review: A Dream Device, but Who Is It For?</title>
 <link>https://www.wired.com/review/ipad-mini-2026</link>
 <guid isPermaLink="false">342c39732651e53a66a2f6f26a79d05954f9c46cd01d93d8ce00b6320bd7be84</guid>
@@ -2255,17 +2299,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-clique-interview.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
 </item>
 <item>
-<title>"At Home in Space" opens, caps Air and Space Museum renovation</title>
-<link>https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation</link>
-<guid isPermaLink="false">3867566307fafa5424ab61b2a38c469fdc62b360fae535c997c7389d138870ad</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 23:30:16 +0000</pubDate>
-<description>The Smithsonian's National Air and Space Museum has all of its "space" back open.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/news-103026a-lg-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple says memory costs and Siri AI will weigh on holiday quarter profit margins</title>
 <link>https://9to5mac.com/2026/11/02/apple-says-memory-costs-and-siri-ai-will-weigh-on-holiday-quarter-profit-margins</link>
 <guid isPermaLink="false">c706601af76fb24cdebf2480b91d363ad01e24be60179fcd7fd29497fcbc4141</guid>
@@ -2275,17 +2308,6 @@
 <description>Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional pressure from Siri AI expenses during the holiday quarter. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Why large dogs age faster than small ones, and other October research highlights</title>
-<link>https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7</link>
-<guid isPermaLink="false">bf7d3f4fbdc82b5da682455e61f3751808ce153bcd4609a522647dc80ec50ec7</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 22:54:35 +0000</pubDate>
-<description>Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/doggos-1152x648-1793464886.jpg" medium="image"/>
 </item>
 <item>
 <title>9to5Mac Daily: November 2, 2026 – What’s next for the Mac and iPad</title>
@@ -2332,17 +2354,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/slack-imgs.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Third person dies of bird flu since virus started jumping to livestock</title>
-<link>https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock</link>
-<guid isPermaLink="false">762cee3eacf5a83ea9487fa3779b5b7092175b3b348ae85ea937e88d874ce3d4</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 21:21:43 +0000</pubDate>
-<description>The threat is still considered to be low, but the virus continues to spread.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2025/02/GettyImages-2190742287-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple releases new tvOS 27.2 build ahead of updated Apple TV 4K launch [U]</title>
 <link>https://9to5mac.com/2026/11/02/apple-releases-new-tvos-27-2-build-ahead-of-updated-apple-tv-4k-launch</link>
 <guid isPermaLink="false">9e174ab55f9dd73c11ef1048a581220df1f08371fc15cca8cd56d47eaf4e214e</guid>
@@ -2374,17 +2385,6 @@
 <description>iOS 27.2 launched last week with a convenient new Messages feature called ‘Suggested Actions.’ Here’s how you can customize the feature to your liking. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Googling "Zelda" today offers a glimpse of how search worked in 1998</title>
-<link>https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998</link>
-<guid isPermaLink="false">d4400695084ff0fd03f43e01efec8121f47eb7abff851e6a36335bf4185723ce</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 19:52:23 +0000</pubDate>
-<description>"The flow of time is always cruel."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>MagSafe Monday: Pelican’s MagSafe Battery Pack is the battery built to go anywhere</title>
