@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Announces Ka-Band Satellite Relay Awards for Space Communications</title>
+<link>https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications</link>
+<guid isPermaLink="false">cc6901236979e720406f23dd2b1dc2cfee9903d19186def326d530742f8e334a</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 18:00:02 +0000</pubDate>
+<description>NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" medium="image"/>
+</item>
+<item>
 <title>NASA Navigation Experiment Shows Promise for Planetary Landings</title>
 <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings</link>
 <guid isPermaLink="false">e4e032431b184aa8db119864a38fb94e4f794ec914523626135664980c6da35e</guid>
@@ -187,6 +198,15 @@
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03487-0 How similar are vertebrate and invertebrate sleeping behaviours? An analysis of spiders offers insights about how sleep evolved.</description>
 </item>
 <item>
+<title>Why not to wait even a few minutes before fleeing a tsunami</title>
+<link>https://www.nature.com/articles/d41586-026-03539-5</link>
+<guid isPermaLink="false">3785e700c95a22e7f592774b85e2835bb381789c8c03b6a8aae2366441304214</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03539-5 Simulation shows that hesitating can be the difference between making it to safety and not.</description>
+</item>
+<item>
 <title>A guide to Nature Index tables</title>
 <link>https://www.nature.com/articles/d41586-026-03344-0</link>
 <guid isPermaLink="false">bd1d3b726388ec5e0c4278b3dea468bdc433b2afaef66cc3dd85d62aabe67106</guid>
@@ -266,6 +286,15 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03169-x The disease is thought to be divided into two subtypes, depending on where it originates in the body — the gut or the brain.</description>
+</item>
+<item>
+<title>Rise of Germanic and Celtic languages is written in ancient DNA</title>
+<link>https://www.nature.com/articles/d41586-026-03581-3</link>
+<guid isPermaLink="false">818bb74a6a32f550e403798112984af9d59ac0e2f48d4c34a344304593b3ceb4</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03581-3 Thousands of genome sequences identify human migrations that might have spread early forms of these tongues around Europe.</description>
 </item>
 <item>
 <title>AI agents enter the ‘wet lab’</title>
@@ -373,7 +402,7 @@
 <source>Nature News</source>
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03267-w A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects and altered relationships in communities in rural Honduras.Link Phone-based tutoring improves learning during school closures</description>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/d41586-026-03267-w A re-examination of a randomized controlled trial for a health-advice intervention reveals ripple effects and altered relationships in communities in rural Honduras.</description>
 </item>
 <item>
 <title>Fine-tuning brain stimulation to fight Parkinson’s disease</title>
@@ -509,6 +538,15 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11238-4 Using deuterium as a proxy for hydrogen, atom probe tomography provides experimental evidence for interstitial hydrogen in solid solution across different FCC phases, consistent with theoretical predictions of hydrogen affinity, revealing hydrogen partitioning in structural alloys.</description>
+</item>
+<item>
+<title>Decoding the regulatory programs governing glioblastoma plasticity</title>
+<link>https://www.nature.com/articles/s41586-026-11177-0</link>
+<guid isPermaLink="false">5e3c1949c9df4269c24a4ad8401c435923109a1293c13a8c41bb8c518a93c022</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11177-0 Multi-omic analyses of cells from patients with glioblastoma (GB) provide insight into the role of non-genetic cellular plasticity in disease progression, showing that state stability in GB cells is controlled by a network of interacting activators and repressors.</description>
 </item>
 <item>
 <title>Comprehensive mapping of essential-gene interactions in &lt;i&gt;M. tuberculosis&lt;/i&gt;</title>
@@ -776,17 +814,6 @@
 <category>science</category>
 <pubDate>Tue, 03 Nov 2026 08:11:10 +0000</pubDate>
 <description>NASA’s Voyager 1 is approaching an extraordinary milestone nearly 50 years after its launch, even as engineers battle dwindling power and mysterious technical problems. A clever energy-saving maneuver has extended the spacecraft’s scientific mission, while an unexplained 48-hour communications blackout recently gave NASA a scare. On November 18, Voyager 1 will reach a distance of one light-day from Earth, making even the simplest round-trip communication take 48 hours.</description>
-</item>
-<item>
-<title>APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor</link>
-<guid isPermaLink="false">90c08f78aa09ed892a0ebc5509464df530ca9e45705b5045ce6e3ed203f261a5</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Comet PanSTARRs and […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/CometMeteor_Metais_1934.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation</title>
@@ -1075,33 +1102,6 @@
 <category>science</category>
 <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 02 November 2026; doi:10.1038/s41586-026-11350-5 Author Correction: mTORC1 drives cell-autonomous astrocyte reactivity in tuberous sclerosis</description>
-</item>
-<item>
-<title>Measles made a stealthy return as another virus took the spotlight</title>
-<link>https://www.nature.com/articles/d41586-026-03387-3</link>
-<guid isPermaLink="false">78da04a9ba1ebd7eeb92b1cca48dd2e113a90a7fe1dde6e1355b3f62760c7fd5</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03387-3 Vaccination rates dropped after the COVID-19 pandemic disrupted public-health programmes and their funding.</description>
-</item>
-<item>
-<title>Daily briefing: ‘A triumph of scientific self-correction’</title>
-<link>https://www.nature.com/articles/d41586-026-03571-5</link>
-<guid isPermaLink="false">fa701f534f707435191e34f7a1c90f2e43d5c3ad2bfa1ba2dfec76dfb7da22ef</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03571-5 Explore how researchers debunked race science. Plus, pressure put on your bones by exercise might slow ageing and watch a snake do a forward roll to escape danger.</description>
-</item>
-<item>
-<title>Earth’s resources sustain humanity — but they come at a high price</title>
-<link>https://www.nature.com/articles/d41586-026-03506-0</link>
-<guid isPermaLink="false">5f105fb7c518a8d844b59a4e545ce6a51b8a2c87444fad8803dcc036514bf594</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 02 November 2026; doi:10.1038/d41586-026-03506-0 Two books explore the damage caused by our unsustainable extraction of raw materials.</description>
 </item>
 <item>
 <title>Scientists discover a surprising brain benefit of eating peanuts every day</title>

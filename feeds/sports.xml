@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How landmark Everton compensation prevented Burnley record loss</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c893zeq4eln1o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">794cfcf50361dd6f8b6f51c1f0e3ec98f01d27525f2aeb0719a9bf569a10849e</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 04 Nov 2026 17:48:19 +0000</pubDate>
+<description>Burnley have published promising financial results, but under the hood is a payment from Everton which makes the picture look far less positive.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c056/live/b36294e0-d858-11f1-94f3-cf7d1e52bb8c.jpg" medium="image"/>
+</item>
+<item>
 <title>Ex-Burnley striker Rodriguez announces retirement</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cjvgxyn49rq4o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">5c6b5fff5d92513210e44fb363dbef0a05c9cfc37ddba422a1df9d0a4159a714</guid>
@@ -208,7 +219,7 @@
 <source>The Guardian Football</source>
 <category>sports</category>
 <pubDate>Wed, 04 Nov 2026 08:00:29 +0000</pubDate>
-<description>John Aloisi’s side need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch their first title. With one game to go, they still need a point. What was a formality has become a formidable task. The biggest bottle job in Asian football history is very much on and it would be as popular as it would be dramatic. The coach of the Sichuan club, the former Portsmouth and Coventry striker John Aloisi, has seen a 12-point lead over Dalian Yingbo cut to just three before Sunday’s showdowns. Whatever happens, this is a positive and thrilling end to a season that started negatively – literally – with nine of the 16 top-tier clubs kicking off on minus points. They had been punished as part of a “special campaign to crack down on match-fixing, gambling and corruption in the football industry”, said a joint statement from the Chinese Football Association, the Mini</description>
+<description>John Aloisi’s players need a point on the final day to seal their maiden title – but their form has dropped off a cliff With four games of the Chinese Super League to go, Chengdu Rongcheng needed just a point to clinch their first title. With one game to go, they still need a point. What was a formality has become a formidable task. The biggest bottle job in Asian football history is very much on and it would be as popular as it would be dramatic. The coach of the Sichuan club, the former Portsmouth and Coventry striker John Aloisi, has seen a 12-point lead over Dalian Yingbo cut to just three before Sunday’s showdowns. Whatever happens, this is a positive and thrilling end to a season that started negatively – literally – with nine of the 16 top-tier clubs kicking off on minus points. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc39238a6707ac80db70b377668785f0" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/948390b71d4e67e3c067f79af9b6a7b1730782fa/396_105_3202_2562/master/3202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc39238a6707ac80db70b377668785f0" medium="image"/>
 </item>
@@ -409,17 +420,6 @@
 <description>The Scotland head coach insists radical change is not required to improve his team after a mixed maiden camp.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a643/live/cf56f660-d7a3-11f1-84dd-e55f4bec0ecd.jpg" medium="image"/>
-</item>
-<item>
-<title>How sporting events are being affected by Middle East conflict</title>
-<link>https://www.bbc.co.uk/sport/articles/ck0j0l65nzlvo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">6c391467ae45ec1bcb327890ec852fc72e21c1792186f1114f5ffa40d82b34aa</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Tue, 03 Nov 2026 16:01:24 +0000</pubDate>
-<description>BBC Sport takes a look at how the ongoing conflict in the Middle East has affected sporting events in Saudi Arabia, Qatar, Bahrain and the wider area.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/754d/live/85ccd330-d798-11f1-801d-cf196dc7232c.jpg" medium="image"/>
 </item>
 <item>
 <title>Football Daily | West Ham want promotion – so it’s time to call in an understated club legend</title>
@@ -862,6 +862,28 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ef/live/feb3d0b0-d477-11f1-9dda-1ba6fcc7d159.jpg" medium="image"/>
 </item>
 <item>
+<title>How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay</title>
+<link>https://www.theguardian.com/football/2026/oct/30/manchester-city-financial-charges-guilty-marc-guehi-premier-league</link>
+<guid isPermaLink="false">3b475aab6280a1c3bc2e07215d993400706c8ac3654a70acd32cd587f1ae8483</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Fri, 30 Oct 2026 20:00:22 +0000</pubDate>
+<description>Club’s predicament raises interesting questions about principles, both for individuals and the Premier League I felt unbelievably ponderous. My head was made of Aztec stone. I realised I didn’t want to be with all these people. Somebody came at me, a huge individual in silver and blue. I fell at his feet and grabbed one shoe. I started untying the lace. He kicked away from me. I got up and walked off. I was exceedingly hungry. Not my words. Also not the words of the Manchester City centre-back Marc Guéhi, despite what you were thinking there. This is instead a condensed quote from the mind of Gary Harkness, existentially curious college running-back and the narrator of Don DeLillo’s great American football novel End Zone. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/1b026abea70290dea3132cff7efc573c7760cd79/55_0_2068_1654/master/2068.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2cd0687a58c0e4fea2f4ecba7a5711d6" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/1b026abea70290dea3132cff7efc573c7760cd79/55_0_2068_1654/master/2068.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2cd0687a58c0e4fea2f4ecba7a5711d6" medium="image"/>
+</item>
+<item>
+<title>Roster rifts, police raids and Son’s uncertain future leave South Korea at a crossroads</title>
+<link>https://www.theguardian.com/football/2026/oct/30/south-korea-national-team-scandals-son-heung-min</link>
+<guid isPermaLink="false">2b3a43505834df2ca8f81b9b34a2d196dc42c09f1241050e0aac32e02801bc4b</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Fri, 30 Oct 2026 09:00:49 +0000</pubDate>
+<description>After a disaster World Cup, the team have continued to spiral, with tensions high between young and older players and the captain’s standing in question Son Heung-min and Cristiano Ronaldo are iconic No 7s, Premier League legends and international record-breakers. Now there is a surprising danger of them having something else in common: being a divisive presence in their national teams. On 21 October, during a parliamentary committee meeting, politician Jeong Yeon-wook put a question to acting Korea Football Association (KFA) president Lee Yong-soo, that took a story out of the sports pages and into the national conversation. “It is said that recently, within the national team squad, players have been calling him not by his name but as ‘No 7’ or ‘that person’. Do you know who that is?” Lee then replied, “Are you referring to Son Heung-min?” Jeong went on: “So it appears to be true. … It has also been revealed that the national team’s leadership is causing discord and has broken down ov</description>
+<enclosure url="https://i.guim.co.uk/img/media/383571b89611bcc610296dcd545b29246504be20/219_0_5939_4752/master/5939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b8d627d198aad333e97681a27fe46d4" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/383571b89611bcc610296dcd545b29246504be20/219_0_5939_4752/master/5939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8b8d627d198aad333e97681a27fe46d4" medium="image"/>
+</item>
+<item>
 <title>A phone-free Yellow Wall: are Dortmund urging fans to be present or policing them?</title>
 <link>https://www.theguardian.com/football/2026/oct/29/borussia-dortmund-fans-phones</link>
 <guid isPermaLink="false">3fd37722b51aefaa098f11a7c14d8361dbedff8e402a5ff2f21302b9d11c4f88</guid>
@@ -895,6 +917,17 @@
 <media:content url="https://i.guim.co.uk/img/media/48b68c584d86d80c113be4f082b0f000e8d34bc8/347_0_2649_2120/master/2649.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=922bea96bb76eed5200ab93e90f52dcf" medium="image"/>
 </item>
 <item>
+<title>Lise Klaveness: ‘Certainly there are people that can challenge Infantino’</title>
+<link>https://www.theguardian.com/football/2026/oct/28/lise-klaveness-certainly-there-are-people-that-can-challenge-infantino</link>
+<guid isPermaLink="false">8681fb7bb9850576e619be4c07fe5acca649d46f20abcad163ce54e05e3f2b84</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Wed, 28 Oct 2026 08:00:03 +0000</pubDate>
+<description>Norwegian federation president distances self from Fifa presidency but believes governing body can be reformed As the rain whips around Oslo’s government quarter, Lise Klaveness is shielding herself from the wind, trying to work out tactics. “Of course we cannot probably do everything alone, but we have a voice, we have the right to speak, we have the right to suggest, so let’s see,” she says. “We will at least try to be a spearhead.” The president of the Norwegian Football Federation wants to re-engage Fifa, and other governing bodies, on the topic of remedy. A slightly arcane aspect of human rights policy in normal times, the importance of remedy became very clear in the aftermath of the World Cup in Qatar, when the families of those injured or killed in the work that led up to the tournament were left without financial compensation after Fifa chose to direct a legacy fund elsewhere. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/1557de2848d276d39119101683740a2a48541592/267_0_3337_2669/master/3337.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d00580f4bbfe331faba0e2eca15b11e9" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/1557de2848d276d39119101683740a2a48541592/267_0_3337_2669/master/3337.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d00580f4bbfe331faba0e2eca15b11e9" medium="image"/>
+</item>
+<item>
 <title>Which footballers have scored in the same minute as their surname? | The Knowledge</title>
 <link>https://www.theguardian.com/football/2026/oct/28/which-footballers-have-scored-in-the-same-minute-as-their-surname-knowledge</link>
 <guid isPermaLink="false">f96200d990d653ca8ca4aa673aa7193ffe38e0c350f777a2f83eb3c5a6967eac</guid>
@@ -915,28 +948,6 @@
 <description>Atlético accused Barcelona during summer chase Striker now rebuilding his reputation with fans Barcelona’s pursuit of Julián Alvarez came at a modest cost ⁠on Tuesday after the Spanish FA fined the club €602 (£503) following a complaint by Atlético Madrid over contact ⁠with ​the striker. Atlético accused Barcelona of approaching the Argentinian, whose contract runs until June 2030, ⁠without first notifying them in writing. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/9d6ea7bfada42139a273ebf714ecc8f9c8a57460/107_0_2575_2061/master/2575.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f997b5cf71b8bf982f1476f54940979e" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/9d6ea7bfada42139a273ebf714ecc8f9c8a57460/107_0_2575_2061/master/2575.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f997b5cf71b8bf982f1476f54940979e" medium="image"/>
-</item>
-<item>
-<title>An unmanageable club? Carrick the latest to suffer in Manchester United’s faded grandeur</title>
-<link>https://www.theguardian.com/football/2026/oct/27/manchester-united-michael-carrick-faded-grandeur</link>
-<guid isPermaLink="false">22e58b1bf7b9ed864b93102e59a0264a6e79ea110c0bc5b68d9282d2f97cf016</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Tue, 27 Oct 2026 20:02:34 +0000</pubDate>
-<description>Only Matt Busby and Alex Ferguson have truly succeeded in the Old Trafford hot seat with each casting uneasy shadows Should any football club fit the Great Man theory of history it is Manchester United. In the past 100 years, only Matt Busby and Alex Ferguson have knocked the club into shape. A pair of 20th-century Scotsmen, born 15 miles apart in Bellshill and Govan respectively, found the key. Otherwise, United has been a managerial dustbin, Michael Carrick the latest likely lobbed on the pile. Busby and Ferguson built the club around themselves, possessing the charisma to convince others that theirs was the path to follow. Carrick, an insider, a club man, is falling victim to the same isolation as his predecessors in failure . Bruno Fernandes and Lisandro Martínez going off-piste in TV interviews to depth charge Carrick were actually following club tradition. With glamour comes decadence, the faded grandeur that has so often chased a United manager out the door. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/30252404116b7b2759c3cfc0a3f19ae6bacdf054/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4125ff0e2711aba2053a97e09bb70999" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/30252404116b7b2759c3cfc0a3f19ae6bacdf054/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4125ff0e2711aba2053a97e09bb70999" medium="image"/>
-</item>
-<item>
-<title>Kylian Mbappé apologises after being dropped by Chinese brands for Mao Zedong comment</title>
-<link>https://www.theguardian.com/football/2026/oct/27/kylian-mbappe-dropped-by-chinese-brands-for-offensive-mao-jokes</link>
-<guid isPermaLink="false">96f74131776dad575f32602c7469505fba5aaeb75f1ec4796b48765da580308f</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Tue, 27 Oct 2026 11:54:47 +0000</pubDate>
-<description>Video appears to show Mao Zedong called a ‘dictator’ Dongpeng and Mengniu end deals with the player Kylian Mbappé has apologised after the Real Madrid forward was dropped by major Chinese brands for apparently joking about Mao Zedong in a video that has gone viral. There were also signs of broader repercussions, with the state-run Chinese digital newspaper The Paper reporting that public television was suspending broadcasts of matches from La Liga. The offending video shows Mbappé saying that the funniest internet meme he had seen involving him was of his face photoshopped on to that of “some guy – I think he’s a Chinese dictator”. This was an apparent reference to a meme of Mbappé superimposed on an image of Mao. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2ea8b24fb5e2eb57ae6795fabfda64ddbbe84c84/120_0_3367_2694/master/3367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ae8f1502a10d5342914e03dbd2bce27" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2ea8b24fb5e2eb57ae6795fabfda64ddbbe84c84/120_0_3367_2694/master/3367.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ae8f1502a10d5342914e03dbd2bce27" medium="image"/>
 </item>
 <item>
 <title>Kane’s Ballon d’Or triumph a glorious riposte to celebrity fawning of ceremony | Barney Ronay</title>
@@ -981,17 +992,6 @@
 <description>BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not rule him out of Chelsea's Premier League match against Manchester United.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d21/live/aaf3d7f0-d142-11f1-8d4e-ef1672a07d66.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d21/live/aaf3d7f0-d142-11f1-8d4e-ef1672a07d66.jpg" medium="image"/>
-</item>
-<item>
-<title>Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller</title>
-<link>https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report</link>
-<guid isPermaLink="false">10bad0d50de3b69c4257be3a3bc44feb8a77fcff4778d2908bdef3daa07779ec</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Sun, 25 Oct 2026 22:12:20 +0000</pubDate>
-<description>Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team and them out again as another having secured the kind of late victory he loves and which opens up a whole new world. With just three minutes and the final reserves of energy remaining, a wonderful moment of skill from Jude Bellingham found Eduardo Camavinga and set them on one last run. Camavinga sprinted free, skilfully slipped Pau Cubarsí and pulled back for Kylian Mbappé to provide the finish, a little bit of history written. “The world that loves football will have stopped to watch this and they won’t have gone disappointed; this was two teams that played to win,” Mourinho said. It had been an intense, breathless ride, a proper battle, and it was his team who won it. Arriving right on time, Mbappé scored his second to make it 2-1, the Camp Nou falling quiet and their team given no time to react. They had drawn level after Mbappé’s opener, Raphinha scoring, but could not do it again. Continue reading..</description>
-<enclosure url="https://i.guim.co.uk/img/media/7ab50aaf13eaeedad2fb923095289385e370af72/925_0_3082_2466/master/3082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a253093ac7671a641db7eecb292afd9" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/7ab50aaf13eaeedad2fb923095289385e370af72/925_0_3082_2466/master/3082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a253093ac7671a641db7eecb292afd9" medium="image"/>
 </item>
 <item>
 <title>Ian Holloway’s circus: why the manager’s antics are no laughing matter for fans</title>
