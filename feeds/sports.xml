@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>World record 51 red cards shown in Brazilian youth game</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">87fe8a9d5f15a31d780cba9129ecd6b2bab9b6ef6ccf8a893efb96ef82a8b498</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Wed, 04 Nov 2026 23:22:27 +0000</pubDate>
-<description>A world record of 43 players and eight members of staff were sent off during an under-20 championship match between Uberlandia and Mamore in Brazil.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png" medium="image"/>
-</item>
-<item>
 <title>Scotland U21 boss hails Donovan, Miller and Wilson attitude</title>
 <link>https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">71920b896744e17e1df5420cacb56de505b3e0cf43d0e7da25f0b9892b6b4374</guid>
@@ -54,7 +43,7 @@
 <source>The Guardian Football</source>
 <category>sports</category>
 <pubDate>Wed, 04 Nov 2026 22:18:02 +0000</pubDate>
-<description>West Ham recover from 3-0 down to draw 3-3 at Cardiff Leaders Middlesbrough beaten 2-0 at Wrexham Scott Parker’s return to West Ham had had looked like beginning in painful fashion but instead featured a stunning comeback from 3-0 down. The east London club’s new head coach had watched Cardiff ’s Jack Moylan score a first-half hat-trick, before a rousing response after the break ended with Max Kilman levelling the scores at 3-3 eight minutes from time. Elsewhere in the Championship, the leaders Middlesbrough went down 2-0 at Wrexham . Parker had been confirmed as West Ham’s head coach earlier on Wednesday, taking over from Nuno Espírito Santo, who was sacked on Tuesday. The club’s former midfielder was appointed on a two-and-a-half-year contract. Continue reading...</description>
+<description>West Ham recover from 3-0 down to draw 3-3 at Cardiff Leaders Middlesbrough beaten 2-0 at Wrexham Scott Parker’s return to West Ham had looked like beginning in painful fashion but instead featured a stunning comeback from 3-0 down. The east London club’s new head coach had watched Cardiff ’s Jack Moylan score a first-half hat-trick, before a rousing response after the break ended with Max Kilman levelling the scores at 3-3 eight minutes from time. Elsewhere in the Championship, the leaders Middlesbrough went down 2-0 at Wrexham . Parker had been confirmed as West Ham’s head coach earlier on Wednesday, taking over from Nuno Espírito Santo, who was sacked on Tuesday. The club’s former midfielder was appointed on a two-and-a-half-year contract. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/7eb9c49fcd7ea4b6441295d1fd73c69dd9cb004c/471_0_4872_3898/master/4872.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d1dde05ddbe88cd576e0af8aa96a9e9" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/7eb9c49fcd7ea4b6441295d1fd73c69dd9cb004c/471_0_4872_3898/master/4872.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d1dde05ddbe88cd576e0af8aa96a9e9" medium="image"/>
 </item>
@@ -244,6 +233,17 @@
 <description>After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg" medium="image"/>
+</item>
+<item>
+<title>What are rules on loan players in Champions League?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cmp8g4jy2pgpo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">025712afe984408df997d364f8faffd3c390a8153789644c7ad197a8a92928d1</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 04 Nov 2026 16:02:08 +0000</pubDate>
+<description>BBC Sport's Ask Me Anything team explains the Champions League rules on loan players facing their parent clubs</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/46fd4a90-d2e3-11f1-8af5-e1db7ad65222.jpg" medium="image"/>
 </item>
 <item>
 <title>Football Daily | Manchester United’s unlikely one-match winning streak and hard-to-please fans</title>
@@ -752,17 +752,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8e1/live/13b64ef0-d579-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
-<title>Kane beat Mbappe to Ballon d'Or by just 28 points</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c6073yeg52xeo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">1298633faa0b790c77bc191d07a4d50387c65cd1842387663bcbf3ede36cb2c4</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 31 Oct 2026 15:21:24 +0000</pubDate>
-<description>Voting figures show Harry Kane beat second-placed Kylian Mbappe to the men's Ballon d'Or by one of the tightest winning margins in the award's history.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24d2/live/06c43490-d539-11f1-b64c-03717a6e5b71.jpg" medium="image"/>
-</item>
-<item>
 <title>'We fell behind' - what does new San Siro deal mean for AC Milan and Inter?</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c84g15r12xn3o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">52548295c95f545bfd250133bdbca122d382572fd1777ba7fcfd04b0317a88e2</guid>
@@ -805,17 +794,6 @@
 <description>It makes sense that sports teams want to keep influencers out of their games. The battle some clubs are waging with their fans, however, is a different dilemma By all appearances, things on the Yellow Wall seemed as they always had been. The stadium announcer hollered out the first names of Borussia Dortmund’s starting lineup and the supporters responded with their last names, tens of thousands of voices bellowing as one. Dozens of black and yellow flags waved over Europe’s largest standing terrace, a mass of faces fixed on the field beneath them. And then Signal Iduna Park, sold out with 81,365 fans, roared when Max Beier’s lone goal led Dortmund to victory over Eintracht Frankfurt last Saturday, putting the home side even on points with Bayern Munich atop the Bundesliga standings. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/ae9830e0fe4dacd6d22a512c007e84f4cb6ca4a3/580_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be6d6a90dc895a477da760e3dcfb2f7f" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/ae9830e0fe4dacd6d22a512c007e84f4cb6ca4a3/580_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be6d6a90dc895a477da760e3dcfb2f7f" medium="image"/>
-</item>
-<item>
-<title>Is double drop from the Premier League becoming more common?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cv2d6ze63gk2o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">c965df6cbb61cea8d2bbd3cffe50948edff0c1a35825aad58b0f79d807aef9ed</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 29 Oct 2026 13:19:52 +0000</pubDate>
-<description>Back-to-back relegations to the third tier of English football are becoming more common and this season Burnley could make it a hat-trick after Luton Town and Leicester.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/660e/live/5ff58e70-d1ff-11f1-b30f-21253679b290.jpg" medium="image"/>
 </item>
 <item>
 <title>Kylian Mbappé’s China crisis shows how sensitive Mao’s legacy remains | Rebecca Bailey</title>

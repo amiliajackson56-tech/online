@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Report: Apple and Samsung outperform rivals as smartphone chip shipments tumble 21%</title>
+<link>https://9to5mac.com/2026/11/04/report-apple-and-samsung-outperform-rivals-as-smartphone-chip-shipments-tumble-21</link>
+<guid isPermaLink="false">358423974ce237b1dbcde3cf2656b32e9b8b79e744e077cfeb5267e13e7898af</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 23:59:10 +0000</pubDate>
+<description>According to Counterpoint Research, Apple and Samsung were the only major smartphone chip vendors to gain market share in Q3 2026, as global shipments declined 21% year-over-year. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/a19-pro-apple-black.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/a19-pro-apple-black.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
 <title>9to5Mac Daily: November 4, 2026 – iOS 27.3 beta 1 now available</title>
 <link>https://9to5mac.com/2026/11/04/daily-november-4-2026</link>
 <guid isPermaLink="false">1bc0a8623b6f54367d36e32f5c3af61b6ab95b159510a253ac87e57e72da29ef</guid>
@@ -21,7 +32,7 @@
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 23:13:14 +0000</pubDate>
-<description>After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low-Earth orbit.</description>
+<description>After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.</description>
 <enclosure url="https://media.wired.com/photos/6aeb63c850bcf3a7a3f979b5/master/pass/Business_TechBrosCrying.gif" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb63c850bcf3a7a3f979b5/master/pass/Business_TechBrosCrying.gif" medium="image"/>
 </item>
@@ -35,6 +46,17 @@
 <description>Power users seem more than willing to pay for AI-powered effects.</description>
 <enclosure url="https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/snap-has-more-than-30-million-paid-subscribers-across-snapchat-and-other-plans/l-intro-1793832812.jpg" medium="image"/>
+</item>
+<item>
+<title>Nintendo's biggest ROM chip supplier is bowing out of the business</title>
+<link>https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain</link>
+<guid isPermaLink="false">fc4fbc39d24bbd6b2c16de080c2d0a7a3aeecaac1b45d7e146d896f707b7b6f4</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 22:47:51 +0000</pubDate>
+<description>And what that could mean for physical Switch game costs.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
@@ -68,6 +90,17 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/11/apple-tv-new-logo-large.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>Hackers exploited iOS and Android flaws to infect phones</title>
+<link>https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones</link>
+<guid isPermaLink="false">c93bd43ca9b62628b02e8a99772d926a74616fed2698176ecc289ec338b44c68</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 22:26:49 +0000</pubDate>
+<description>Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg" medium="image"/>
+</item>
+<item>
 <title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
 <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month</link>
 <guid isPermaLink="false">95666940021eb80c23c6ce61ef1af1dc5e6e7cba8bb6f085e456d434f2728cc0</guid>
@@ -75,6 +108,17 @@
 <category>technology</category>
 <pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
 <description>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</description>
+</item>
+<item>
+<title>Uranium cubes reveal why the German nuclear project failed</title>
+<link>https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed</link>
+<guid isPermaLink="false">e9faad409040a5470341b922588bdc219399c37fc32d90560fd3b13801913fd7</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 21:56:29 +0000</pubDate>
+<description>"Our calculations suggest Heisenberg significantly underestimated the materials required."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg" medium="image"/>
 </item>
 <item>
 <title>Almost no one uses AI agents to book their Uber, company says</title>
@@ -1145,6 +1189,17 @@
 <media:content url="https://media.wired.com/photos/66ea0770c0b39dc87b71207a/master/pass/WIRED-Coupons-10.jpg" medium="image"/>
 </item>
 <item>
+<title>Columbia Promo Codes: 15% Off | November 2026</title>
+<link>https://www.wired.com/story/columbia-promo-code</link>
+<guid isPermaLink="false">d92e3430c244b8595ae0d27d600500f05e5700a4e6d129483bcece5c94194657</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
+<description>Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
 <title>Hoka Coupon Codes: 30% Off in November 2026</title>
 <link>https://www.wired.com/story/hoka-coupon-code</link>
 <guid isPermaLink="false">2ffcf8afd11bb57e96a2c480db168a859d5ace30a6c486b90db6e39619571389</guid>
@@ -1176,17 +1231,6 @@
 <description>Scale your portfolio for less with these verified The Motley Fool membership discounts, stock advisor promo codes, and Epic Bundle deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
-</item>
-<item>
-<title>Columbia Promo Codes: 15% Off | November 2026</title>
-<link>https://www.wired.com/story/columbia-promo-code</link>
-<guid isPermaLink="false">d92e3430c244b8595ae0d27d600500f05e5700a4e6d129483bcece5c94194657</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 06:00:00 +0000</pubDate>
-<description>Explore current Columbia deals on jackets, outdoor gear, and apparel. Find active Columbia promo codes, student discounts, and free shipping offers to save on your next adventure.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
 </item>
 <item>
 <title>25% Off Adidas Promo Code | November 2026</title>
@@ -1903,17 +1947,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/ios-27-iphone-side-angle-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?</title>
-<link>https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame</link>
-<guid isPermaLink="false">d0522909286669e4fb11322ab8eecb97433d404e77dd06bdd6ec126e6f1b2c18</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:03:13 +0000</pubDate>
-<description>UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware-1000x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access</title>
 <link>https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html</link>
 <guid isPermaLink="false">5350cf64f29cdc8ac80e555f0f95287832f53528f8c51bf82ed1bf74b1669c24</guid>
@@ -1934,17 +1967,6 @@
 <description>Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png" medium="image"/>
-</item>
-<item>
-<title>Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.</title>
-<link>https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram</link>
-<guid isPermaLink="false">fb61513d38bb2f0957279cf11ad6b1b4cb4a93080dca704419fa12df4e02e399</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:39:30 +0000</pubDate>
-<description>Meta faces pressure to protect No Kings Instagram on election day.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple Wallet driver’s licenses coming to three new states soon</title>
@@ -2000,17 +2022,6 @@
 <description>T-Mobile has announced a new 5 gigabit fiber broadband service priced at $90 a month, starting today. The company also says that if you sign up now, the price is guaranteed not to increase for a full decade … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/T-Mobile-launches-5-gigabit-fiber-for-90mo-with-10-year-price-guarantee.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/T-Mobile-launches-5-gigabit-fiber-for-90mo-with-10-year-price-guarantee.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>EPA throws in the towel on policing air pollution from factory farms</title>
-<link>https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms</link>
-<guid isPermaLink="false">ed920e788e54e412b3fc59d74e2ec7da8eb3cb557c41738eeb0255e4fc11a602</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 14:49:00 +0000</pubDate>
-<description>Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm-1152x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Here’s Why You Shouldn’t Use AI to Vote</title>
@@ -2957,17 +2968,6 @@
 <description>Hollywood director Rian Johnson ( Star Wars: The Last Jedi ) announced a new iPhone camera app that uses the same image processing techniques as his ‘ Knives Out ‘ films. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/rian-camera-app.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/rian-camera-app.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>iOS 27.2 adds two FaceTime features, including a personal favorite</title>
-<link>https://9to5mac.com/2026/10/30/ios-27-2-adds-two-facetime-features-including-a-personal-favorite</link>
-<guid isPermaLink="false">3ff85df8b96bf159af56438e53b0370dbfccbfa0652e9b018b2ef5a67f202ef6</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 30 Oct 2026 19:22:05 +0000</pubDate>
-<description>iOS 27.2 adds new features to Messages , Podcasts , Photos , and more—including some easy-to-miss upgrades to FaceTime. Here’s what’s new. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/facetime-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</title>
