@@ -4,6 +4,108 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>EA is bringing 25 classic PC games to Steam</title>
+<link>https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition</link>
+<guid isPermaLink="false">a8d095edc90e7e1a9d69f544c16bb71aa40f0aac4e168f5e4d168e2c817e3e55</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:30:00 +0000</pubDate>
+<description>Electronic Arts is launching 25 classic games on Steam, including "Anniversary Editions" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve "the original look, feel and creative intent of the game" but also have quality-of-life updates to support modern systems and controls and improve performance, according to EA. The […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/RoadRash_Screenshot_12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/RoadRash_Screenshot_12.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple TV unveils return of hit comedy from Ted Lasso, Shrinking creator</title>
+<link>https://9to5mac.com/2026/11/05/apple-tv-unveils-return-of-hit-comedy-from-ted-lasso-shrinking-creator</link>
+<guid isPermaLink="false">7d926029c4e0e52bfa11c28152841199b1394e3a4c11658aaab1bce907fd500a</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:23:55 +0000</pubDate>
+<description>Bad Monkey , an Apple TV comedy from the creator of Ted Lasso and Shrinking, returns soon for a new season. Here’s the just-released trailer for Bad Monkey season 2. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/12/bad-monkey-season-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Anthropic upgrades Claude with new Personal Finance feature</title>
+<link>https://9to5mac.com/2026/11/05/anthropic-upgrades-claude-with-new-personal-finance-feature</link>
+<guid isPermaLink="false">ef5e3449c719e4e9248a42bbec19ea2430f2fae4608625283c57a6819b15c609</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:14:22 +0000</pubDate>
+<description>Having the right context is what makes AI tools useful. Anthropic just launched the ability to securely use personal finance data with Claude. The company emphasizes that the feature is read-only and can’t take financial actions. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/claude-personal-finance.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/claude-personal-finance.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>OpenAI president Greg Brockman says company could be IPO ready in 2027</title>
+<link>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027</link>
+<guid isPermaLink="false">20ebb1cb1fa152c7b2a7c606246e1b4afe0363bb9e2ac33fffd4a7d4c028c3ba</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:02:27 +0000</pubDate>
+<description>OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.</description>
+</item>
+<item>
+<title>The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund</title>
+<link>https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund</link>
+<guid isPermaLink="false">693010569c04e64bba1552684adc00de426a7e1c2446e5f6582f7d886fbcd6e3</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+<description>Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.</description>
+</item>
+<item>
+<title>Claude can now analyze your spending with its new Personal Finance tool</title>
+<link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool</link>
+<guid isPermaLink="false">b9ca9ce17c9cbad18ab71a4b2ef92874e2366fcc87de44440a2a345f40a2fb23</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+<description>With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.</description>
+</item>
+<item>
+<title>Claude AI can plug directly into your bank account</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance</link>
+<guid isPermaLink="false">e6d6c85b3eb3fa4e89ea4aed657ea2fe97a7759e181e964c6e6c3e63cf5108a1</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+<description>Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot "where did my money go this month," for example, and it'll create an overview […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Now Claude can help with your finances too</title>
+<link>https://www.engadget.com/2307936/now-claude-can-help-with-your-finances-too</link>
+<guid isPermaLink="false">d7907582fd17e25db811beff360db94b91323d57c5a6148389f5fa5d0fd03907</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 18:00:00 +0000</pubDate>
+<description>But just like with ChatGPT, should you?</description>
+<enclosure url="https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/now-claude-can-help-with-your-finances-too/l-intro-1793895674.jpg" medium="image"/>
+</item>
+<item>
+<title>iPhone Duo just got a new accessibility feature in iOS 27.3 beta</title>
+<link>https://www.engadget.com/2308154/iphone-duo-new-accessibility-feature-ios-27-3-beta-reachability</link>
+<guid isPermaLink="false">b02e9f52c2e7371ece0a8c83702f8d57f9fe4f4146d83b751a10d9fcc4d4a15a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 17:59:50 +0000</pubDate>
+<description>Reachability helps make it easier to use the foldable with one hand.</description>
+<enclosure url="https://www.engadget.com/img/gallery/iphone-duo-just-got-a-new-accessibility-feature-in-ios-27-3-beta/l-intro-1793901496.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/iphone-duo-just-got-a-new-accessibility-feature-in-ios-27-3-beta/l-intro-1793901496.jpg" medium="image"/>
+</item>
+<item>
+<title>Harbinger raises $240M after expanding into defense</title>
+<link>https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense</link>
+<guid isPermaLink="false">48e2ed4bacf048273183f0bd35bffd1aeb3a360a2ff7df872ab64a82e1872de1</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 17:52:44 +0000</pubDate>
+<description>The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.</description>
+</item>
+<item>
 <title>‘Total repudiation’: The blue wave is about to hit AI</title>
 <link>https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai</link>
 <guid isPermaLink="false">a05905dc499c67f34cf1c1776bcb79c4308ac1a406fcd7df9dbbb0a2b00f256c</guid>
@@ -110,17 +212,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>Where is Windows 12?</title>
-<link>https://www.theverge.com/tech/1027621/where-is-windows-12-notepad</link>
-<guid isPermaLink="false">32be6e8caa6b61c04c38f4cd1d29dcec2987ee3d46cd08bb67acbd2172e1b6fa</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 17:00:00 +0000</pubDate>
-<description>While I wasn't expecting Microsoft to announce Windows 12 during its RTX Spark launch event last month, more than a few people were hoping to see something truly new. Between the growing frustration with Windows 11 and the muted response to Copilot Plus PCs, it's starting to feel like Microsoft needs to go bigger with […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Windows-FY27-CONS-C2-Wallpaper-EverydayProductivity.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>tvOS 27.2 adds new Apple TV 4K setting that’s an instant favorite</title>
 <link>https://9to5mac.com/2026/11/05/tvos-27-2-adds-new-apple-tv-4k-setting-ive-been-loving</link>
 <guid isPermaLink="false">9de161c48bc5936d66a751a3c58e22db30885e4a77ba249a776292a628e771e2</guid>
@@ -201,17 +292,6 @@
 <description>iOS 27.3 is coming next month and is packed with new features, including some that make Apple One Premier more compelling than ever. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/Apple-One-ios-27-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Sony’s retro headphones brought me back to my childhood in the best way</title>
-<link>https://www.theverge.com/tech/1026958/sony-mdr-3r-headphones-review</link>
-<guid isPermaLink="false">b54502054f461261249b8f58bdca10b10725ce9cfdf27f22e00956b320bc14d6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
-<description>Many of my childhood summer afternoons were spent riding around my hometown on my Huffy bike or, in later years, taking the bus into Harvard Square to walk around and hang out at The Garage. My Sony Walkman was always in my jacket pocket, and a pair of headphones were always on my head. For […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268854_Sony_MDR-3R_JHiggins_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Sony's MDR-3R wired headphones are steeped in retro aesthetics</title>
@@ -502,13 +582,13 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signature27-1-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>A YC startup is putting $1M behind five unsolved materials science problems for AI</title>
+<title>A YC startup is putting $1M behind 5 unsolved materials science problems for AI</title>
 <link>https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai</link>
 <guid isPermaLink="false">b6b371a91cafdd86ad70acdbf22cba64ac024e0361c9a6c5e2e1b44ea48a9a37</guid>
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<description>Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.</description>
+<description>While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.</description>
 </item>
 <item>
 <title>Spotify is coming to United's seatback screens</title>
@@ -630,17 +710,6 @@
 <description>Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.</description>
 </item>
 <item>
-<title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
-<link>https://www.wired.com/gallery/best-wireless-chargers</link>
-<guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-<description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
-<enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
-</item>
-<item>
 <title>AI’s Next Trick? Speaking Dolphin</title>
 <link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
 <guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
@@ -650,6 +719,17 @@
 <description>Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.</description>
 <enclosure url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" medium="image"/>
+</item>
+<item>
+<title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
+<link>https://www.wired.com/gallery/best-wireless-chargers</link>
+<guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+<description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
+<enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
 </item>
 <item>
 <title>He Trolls AI Labs for a Living. Now They All Want to Work With Him</title>
@@ -1062,15 +1142,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/switchcarts-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>AI PACs spent millions trying to shape Congress — here’s how they fared</title>
-<link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared</link>
-<guid isPermaLink="false">5523ef782a102f9407e48ea2548f3436dcdf106068bf3e331a15436bd3297fac</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 22:45:09 +0000</pubDate>
-<description>AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.</description>
-</item>
-<item>
 <title>Apple TV reportedly getting Justin Timberlake docuseries, announces new Toni Collette show</title>
 <link>https://9to5mac.com/2026/11/04/apple-tv-reportedly-getting-justin-timberlake-docuseries-announces-new-toni-collette-show</link>
 <guid isPermaLink="false">02b959e47778727d7f5abfc7cda5c2f0b4e7a0639815df11e42a3a895e551ad4</guid>
@@ -1093,15 +1164,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/05/malware-1000x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Nothing CEO says company’s mysterious AI-first device is dropping next month</title>
-<link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month</link>
-<guid isPermaLink="false">95666940021eb80c23c6ce61ef1af1dc5e6e7cba8bb6f085e456d434f2728cc0</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 22:13:16 +0000</pubDate>
-<description>While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.</description>
-</item>
-<item>
 <title>Uranium cubes reveal why the German nuclear project failed</title>
 <link>https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed</link>
 <guid isPermaLink="false">e9faad409040a5470341b922588bdc219399c37fc32d90560fd3b13801913fd7</guid>
@@ -1111,24 +1173,6 @@
 <description>"Our calculations suggest Heisenberg significantly underestimated the materials required."</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cube1-1152x648-1793713257.jpg" medium="image"/>
-</item>
-<item>
-<title>Almost no one uses AI agents to book their Uber, company says</title>
-<link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says</link>
-<guid isPermaLink="false">8a0eacda93f2823371bde0059e728ea4f978f72fa498ce2c5836797885f71806</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 21:56:01 +0000</pubDate>
-<description>During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.</description>
-</item>
-<item>
-<title>Snapchat surpasses 30M paid subscribers</title>
-<link>https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers</link>
-<guid isPermaLink="false">4d352c405eb745c6b7f17c5f1d645add33092318638124207be8ddb1fe4eb890</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 21:49:29 +0000</pubDate>
-<description>The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain their Memories.</description>
 </item>
 <item>
 <title>VMware releases vSphere Express for virtualization on up to 128 cores</title>
@@ -1451,28 +1495,6 @@
 <description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . Last week, news broke that hackers had stolen $6.3 billion from wallets on Binance, the most popular cryptocurrency exchange in the world. The company was able to freeze about nearly $3 billion of it, but the attack quickly made headlines, an</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Redditor uses AI to get Switch games running natively on Apple TV</title>
-<link>https://www.engadget.com/2306727/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv</link>
-<guid isPermaLink="false">ade36ed7f27b5e08a2d9ee125654471cce60c43f3a049ea4a98d12c52d071009</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:15:09 +0000</pubDate>
-<description>The TVPort project is another example of people using Claude Code to bring software to other platforms</description>
-<enclosure url="https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/redditor-uses-ai-to-get-switch-games-running-natively-on-apple-tv/l-intro-1793812470.jpg" medium="image"/>
-</item>
-<item>
-<title>Bluetooth is going to get a lot faster in 2027</title>
-<link>https://www.engadget.com/2306723/bluetooth-is-going-to-get-a-lot-faster-in-2027</link>
-<guid isPermaLink="false">aa4cf86a8ee6216b9e190df7e494adb12c24f77ed7a7233036d70947efed6012</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 17:14:21 +0000</pubDate>
-<description>Bluetooth HDT's rollout will benefit a wide range of wireless devices and how they communicate.</description>
-<enclosure url="https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/bluetooth-is-going-to-get-a-lot-faster-in-2027/l-intro-1793812232.jpg" medium="image"/>
 </item>
 <item>
 <title>Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root</title>
@@ -1815,17 +1837,6 @@
 <media:content url="https://media.wired.com/photos/6aea036065269e4ac1456c7d/master/pass/Wireless%20earbuds%20update%20Nov%20112026%20top%20art%20SOURCE%20Amazon.jpg" medium="image"/>
 </item>
 <item>
-<title>What’s the Difference Between an Ebike and an E-Moto?</title>
-<link>https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto</link>
-<guid isPermaLink="false">5f21a89c012cf1bffb1532c48fe51fcf776e6d64b5ebb5d2cc21b0ad1ce2d7f9</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 10:45:00 +0000</pubDate>
-<description>Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.</description>
-<enclosure url="https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg" medium="image"/>
-</item>
-<item>
 <title>New Jersey’s New Ebike Law Is Causing Chaos</title>
 <link>https://www.wired.com/story/new-jerseys-new-ebike-law-is-causing-chaos</link>
 <guid isPermaLink="false">8e481b00a412f2518b970589aaef62dff840ebb096b42976c3c07e05822ebd4d</guid>
@@ -1835,6 +1846,17 @@
 <description>Since early 2026, the law has required electric bike owners to get licenses—and in some cases, insurance—to ride. It has left many stranded and confused.</description>
 <enclosure url="https://media.wired.com/photos/6ae4e94d4bc4fc3930909772/master/pass/Gear_New%20Jersey%E2%80%99s%20New%20Ebike%20Law%20Is%20Causing%20Confusion%20and%20Chaos.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae4e94d4bc4fc3930909772/master/pass/Gear_New%20Jersey%E2%80%99s%20New%20Ebike%20Law%20Is%20Causing%20Confusion%20and%20Chaos.jpg" medium="image"/>
+</item>
+<item>
+<title>What’s the Difference Between an Ebike and an E-Moto?</title>
+<link>https://www.wired.com/story/whats-the-difference-between-an-ebike-and-an-e-moto</link>
+<guid isPermaLink="false">5f21a89c012cf1bffb1532c48fe51fcf776e6d64b5ebb5d2cc21b0ad1ce2d7f9</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 04 Nov 2026 10:45:00 +0000</pubDate>
+<description>Riders and lawmakers often don’t know the difference, and retailers sometimes muddy the waters on purpose. Here’s how to buy the micromobility vehicle you actually want.</description>
+<enclosure url="https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aea8cee83523dc6a2dbcc8a/master/pass/Gear_What%E2%80%99s%20the%20Difference%20Between%20an%20Ebike%20and%20an%20E-Moto.jpg" medium="image"/>
 </item>
 <item>
 <title>Chernobyl’s Dogs May Be Evolving, but Scientists Don’t Know Why</title>
@@ -2946,28 +2968,6 @@
 <description>If you’re like me and bought an iPhone Duo, you’re likely a bit disappointed by the options on the market to prop it up on a table. Apple’s official $129 folio with kickstand is expensive, flimsy, and gets in the way of the outer display. MagSafe wallets that turn into kickstands are too tall for the back of the phone, and there aren’t many good third party cases yet. That said, the perfect option for an iPhone Duo kickstand might’ve actually been hiding in plain sight all along. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/JPEG-image-3.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>This 140W power station might be the ultimate charger for Apple users [Video]</title>
-<link>https://9to5mac.com/2026/11/01/this-140w-power-station-might-be-the-ultimate-charger-for-apple-users-video</link>
-<guid isPermaLink="false">1bd671f3d398ae0ef7cc512027b9dc112774c244deca635e7b1fcafdfed43f15</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 16:16:29 +0000</pubDate>
-<description>I have tested and used countless charging stations over the years, and while many of them get the job done, I feel like there is always some sort of compromise. Whether it’s not enough power, lack of a certain port that I need, or slow wireless charging, I have yet to find one that truly checks every box for me. But over the last month, I have been using CUKTECH’s new 140W Powerstation, and it has nailed everything. It is a six-in-one desktop charger with a built-in retractable cable, magnetic wireless charging, and a dedicated diagnostic display, all in an aesthetic, compact package. Here is everything you need to know and why I think it’s worth considering. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/charger.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/charger.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Weekend Apple deals: Apple Watch Ultra 4, AirTag 2, MacBooks, AirPods, more</title>
-<link>https://9to5mac.com/2026/11/01/black-friday-weekend-apple-doorbuster-deals-watch-macbook-airpods</link>
-<guid isPermaLink="false">11f5e7e96da2c4a7c1bf3e77e41ad270ff8bc8035509c14e38524cce8c5840b3</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sun, 01 Nov 2026 12:49:54 +0000</pubDate>
-<description>The early Black Friday Doorbusters have officially arrived for week 1 of the biggest deal season of the year alongside the ongoing pre-order price drop on the next-gen Apple TV 4K and $17.50 a pop, and nearly $100 off the new Apple Watch Ultra 4 . Moving over to the Mac, the latest M6 Mac mini is $150 off, the M5 MacBook Air has returned to the lowest prices in months at $200 off , and we have pre-order offers on the new M6 MacBook Pro , M6 iMac , and the MacBook Pro with PROLED XDR Display . All of that joins Apple’s new OLED iPad mini and the next-gen World Travel Kit , as well as this deal on Apple Pencil USB-C for iPhone Duo users. Check it all out below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-weekend-deals-early-black-friday.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</title>
