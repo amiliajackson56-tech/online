@@ -4,6 +4,71 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Scientists discover that a clogged filter could revolutionize oil refining</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261103003207.htm</link>
+<guid isPermaLink="false">83f399e24ed771351b1118e43ecbae5fbc37f3a5c8b3f505d00c01fe0009053e</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 14:04:07 +0000</pubDate>
+<description>Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels. The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one of the world's most energy-intensive industries.</description>
+</item>
+<item>
+<title>A clever molecular trick unlocks previously impossible properties in glass</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261103003202.htm</link>
+<guid isPermaLink="false">d3d9b4b5b36dc8cf614eb89c0bc3d88976f944cf5bafa66cb613ab71b53ccc8a</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 13:36:51 +0000</pubDate>
+<description>Scientists have discovered how to reprogram the internal structure of glass using a special molecule that rearranges chemical bonds while lowering the melting temperature. The breakthrough could unlock entirely new glass materials with precisely controlled magnetic and optical properties, opening possibilities for advanced electronics, sensors, and other technologies.</description>
+</item>
+<item>
+<title>400,000-year-old teeth reveal a stunning twist in human evolution</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261102202836.htm</link>
+<guid isPermaLink="false">04fc3e337aec4b4cefab426eb8e59526060b22a9a7f5b67e8de0fb684dbf9352</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 13:05:12 +0000</pubDate>
+<description>A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group. That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia.</description>
+</item>
+<item>
+<title>Hubble Learns Galactic History From Stars</title>
+<link>https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars</link>
+<guid isPermaLink="false">4d40eb7ca8fc9a3f90fd0f1f83569a6160e30264efc98281033f31b1fb8bb931</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 12:56:21 +0000</pubDate>
+<description>This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&amp;h=1806&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&amp;h=1806&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Scientists discover mysterious “lonely” brain waves linked to memory loss</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261101010556.htm</link>
+<guid isPermaLink="false">bba5979fd1886fa15f044b812c49f79ed2ebca8122192f0777e6622859d69fb4</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 12:50:34 +0000</pubDate>
+<description>Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory. The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear.</description>
+</item>
+<item>
+<title>Goodbye, cavities? Scientists create gel that could regrow tooth enamel</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261104005059.htm</link>
+<guid isPermaLink="false">ae3fa0b16fa732d481acca1db27e3e64fd1801a75fa5a82cbdc26acc2cdcabe9</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 11:37:26 +0000</pubDate>
+<description>Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like healthy enamel, raising hopes for a simple treatment that could repair damaged teeth, prevent decay, and reduce sensitivity.</description>
+</item>
+<item>
+<title>Scientists solve 30-year-old mystery and discover a hidden defense against inflammation</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261101010554.htm</link>
+<guid isPermaLink="false">69b4a1e3893d4d8873400fe46d70ce38f49af54fb60b56511bb25ddf2c22f1f2</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 11:05:46 +0000</pubDate>
+<description>Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections. The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation.</description>
+</item>
+<item>
 <title>APOD: 2026 November 5 – Enceladus in Silhouette</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette</link>
 <guid isPermaLink="false">8f73d19c713edd8561f16afc5eaf9283b26c9cb5f3dccf942bbaf4be737b47f5</guid>
@@ -24,6 +89,24 @@
 <description>The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg?w=1880&amp;h=1253&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/island-of-snakes,-cats,-and-ophiolites/akrotirisaltlake_oli_20261010.jpg?w=1880&amp;h=1253&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>A tiny supercurrent could unlock quantum information without destroying it</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261102202831.htm</link>
+<guid isPermaLink="false">3ccdf31e4506de184a2487a2a1a2a023c85a1d43dc335c97a0559b253846a88b</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 03:47:09 +0000</pubDate>
+<description>Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.</description>
+</item>
+<item>
+<title>Scientists turn viruses into weapons against deadly superbugs</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261102202828.htm</link>
+<guid isPermaLink="false">e393c9c8a2d7c5271265db0639cf489cef618a624536cfd731c4d09ec289577a</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 02:40:33 +0000</pubDate>
+<description>Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria. An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatment into clinical practice. Early findings are encouraging, with one study reporting improvement in 77% of patients and the disappearance of targeted bacteria in 61%.</description>
 </item>
 <item>
 <title>NASA Announces X-70 Experimental Aircraft to Advance Flight Research</title>
@@ -182,17 +265,6 @@
 <description>APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=2048&amp;h=1395&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=2048&amp;h=1395&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>Before the Dawn in America’s Heartland</title>
-<link>https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland</link>
-<guid isPermaLink="false">79e632d7c84fde6c93e1f694af30e6d2888980fa23fa6fe4fd436dd5cf653339</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 05:01:00 +0000</pubDate>
-<description>With hardly a cloud in sight, astronauts had a sweeping view of nighttime lights in the U.S. Midwest.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/before-the-dawn-in-america’s-heartland/ISS075-E-226709.jpg?w=1440&amp;h=960&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Gene editing could replace a lifetime of medication, but there's a catch</title>
@@ -1212,42 +1284,6 @@
 <description>A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated prehistoric societies and suggest that the region played a much greater role in Mediterranean history than previously recognized.</description>
 </item>
 <item>
-<title>Scientists discover metals that defy the deep freeze at -424°F</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072127.htm</link>
-<guid isPermaLink="false">8c5b4c8f445d95f51f39acad938f4e2c979266892887eabaac2aeee99ac5756d</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 31 Oct 2026 12:45:59 +0000</pubDate>
-<description>Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking, two experimental alloys reorganize their internal structures, creating new ways to absorb stress and remain flexible.</description>
-</item>
-<item>
-<title>75,000-year-old Neanderthal may have been killed by a spear aimed at the heart</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072126.htm</link>
-<guid isPermaLink="false">6421a9c00a5acf3fb7811885eae3709aba51c6ee47940eed2c4a7ee4909e8e32</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 31 Oct 2026 11:05:20 +0000</pubDate>
-<description>A Neanderthal who died 75,000 years ago may have been killed by a wooden spear deliberately aimed at the heart, revealing rare evidence of prehistoric violence. A circular hole in the shoulder blade suggests the weapon pierced the chest and caused a rapidly fatal injury. Surprisingly, the same individual had survived an earlier devastating facial injury, suggesting other Neanderthals provided care and support.</description>
-</item>
-<item>
-<title>Scientists discover a bacterial defense so strange they thought it was broken</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072123.htm</link>
-<guid isPermaLink="false">6b80d5c30f51feb7e7e15f6b46aac2803b0464615af0d7a953afabedb7f0704f</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 31 Oct 2026 10:38:30 +0000</pubDate>
-<description>Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus attacks, this unusual mechanism waits until an infection begins before producing the DNA that switches on its lethal weapon. The infected bacterium then destroys itself, preventing the virus from multiplying and spreading to neighboring cells.</description>
-</item>
-<item>
-<title>A surprising vitamin A discovery is changing what scientists know about vision</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261028234813.htm</link>
-<guid isPermaLink="false">5803e81c0f869271c9b181530bfbb84a74d6188f86330e6209be1f33c0562b38</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 31 Oct 2026 04:31:41 +0000</pubDate>
-<description>Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work together to shape the foveola, the tiny region at the center of the retina responsible for our sharpest vision.</description>
-</item>
-<item>
 <title>Scientists smash oxygen nuclei to recreate matter from the Big Bang</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261030002935.htm</link>
 <guid isPermaLink="false">8b2dde3a8d1bcaae15a9a3fab6106f38021b3702ced83b97321a5d3479a3f891</guid>
@@ -1264,15 +1300,6 @@
 <category>science</category>
 <pubDate>Sat, 31 Oct 2026 00:59:52 +0000</pubDate>
 <description>A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within five years and an estimated 78% chance within 10 years. Scientists believe the discovery could pave the way for earlier intervention and future treatments designed to prevent Alzheimer’s before memory problems begin.</description>
-</item>
-<item>
-<title>Type 2 diabetes breakthrough as 54% achieve remission in just 6 months</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072129.htm</link>
-<guid isPermaLink="false">fe2b7ce798b141ea00dd883e4604e90fc54fc9eb16359a82590fe11bf3352acb</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 12:12:46 +0000</pubDate>
-<description>A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found that 54% of participants under age 45 who followed an intensive diet and exercise program achieved remission, compared with just 4% receiving usual care.</description>
 </item>
 <item>
 <title>The asteroid killed the dinosaurs. Why did crocodiles survive?</title>
@@ -1293,24 +1320,6 @@
 <description>A computer scientist has achieved a breakthrough in a nearly 25-year-old problem involving how computers calculate distances across enormous networks. The new algorithm delivers more reliable estimates for closely connected points without sacrificing speed, overcoming a longstanding limitation of earlier methods. Its secret lies in a smarter way of sampling network connections at multiple scales.</description>
 </item>
 <item>
-<title>Hubble reveals a stunning twist in how the universe emerged from darkness</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072113.htm</link>
-<guid isPermaLink="false">808bb410a17849e34140fd593532c554a44ba12b3a70746b0cf2578f3491fd50</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 10:50:22 +0000</pubDate>
-<description>A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead.</description>
-</item>
-<item>
-<title>Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072117.htm</link>
-<guid isPermaLink="false">89869e161e870da2d8b86448c76f15f40331850e9e3e993e118c439ae30fbf6a</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 10:37:00 +0000</pubDate>
-<description>A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7 million people could suffer snake envenoming annually, while more than 800,000 survivors are left with long-term disabilities.</description>
-</item>
-<item>
 <title>Astronauts just gave the International Space Station a powerful upgrade</title>
 <link>https://www.sciencedaily.com/releases/2026/10/261030002931.htm</link>
 <guid isPermaLink="false">1547ea0ab2a15d1cea2beb78510a0916f609e4a5b00ddcc2674da9f71597ce31</guid>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Fri, 30 Oct 2026 06:12:55 +0000</pubDate>
 <description>Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on November 5, the station will have up to 30% more available power, supporting critical operations and its eventual controlled deorbit.</description>
-</item>
-<item>
-<title>Scientists discover mysterious seahorse lookalikes that no one has ever seen alive</title>
-<link>https://www.sciencedaily.com/releases/2026/10/261029072119.htm</link>
-<guid isPermaLink="false">ab0dbc25a36d955b6b0b18ed0bbc0fc69deae2fe11b4d2c08d9da180225323f9</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Fri, 30 Oct 2026 02:07:19 +0000</pubDate>
-<description>Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nicknamed "sea muppets," these elusive creatures are known from just seven specimens, and no one has ever seen one alive.</description>
 </item>
 </channel></rss>
