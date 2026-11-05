@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Announces X-70 Experimental Aircraft to Advance Flight Research</title>
+<link>https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research</link>
+<guid isPermaLink="false">e16e941453c8c7a414b54cf677df0c88bc51a7221035d4c27f4b9503c3e67645</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 01:43:21 +0000</pubDate>
+<description>On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png?w=1672" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/nasa-x-70-image.png?w=1672" medium="image"/>
+</item>
+<item>
 <title>NASA Shares Plans to Accelerate Artemis, Return to Moon</title>
 <link>https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon</link>
 <guid isPermaLink="false">17a93f731a4a1724c1a992833eaef0123563ad06a7e7df6c78eda642bd336914</guid>
@@ -767,17 +778,6 @@
 <description>For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2015/04/tb-26-10-fig-1.png?w=770" medium="image"/>
-</item>
-<item>
-<title>NASA Astronaut, STEM Creator Connect with Students for STEM Day</title>
-<link>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day</link>
-<guid isPermaLink="false">55920a21abfa36e8a9ef827ad284da2a7bfed6cbdef076e966567bd3f24ed431</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 15:15:50 +0000</pubDate>
-<description>Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/anil-menon-downlink-nov-3.jpg?w=1280" medium="image"/>
 </item>
 <item>
 <title>The brain’s hidden fear mechanism may explain anxiety and PTSD</title>
