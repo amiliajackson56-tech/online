@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Midwestern City Lights</title>
+<link>https://www.nasa.gov/image-article/midwestern-city-lights</link>
+<guid isPermaLink="false">55a2930a5c54378a8e52b0e79a349e1cd8df1fdea3ee8719afebb39e7f3dd5d6</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 15:17:19 +0000</pubDate>
+<description>City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0227352orig.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>NASA Astronauts to Answer Questions from Florida Students</title>
+<link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2</link>
+<guid isPermaLink="false">6337b15d045c3dd154c45cb84496ebd54f128e9e4fb86e482ffcce5a610110af</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 05 Nov 2026 15:11:25 +0000</pubDate>
+<description>Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted by Freedom Crossing Academy in […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg?w=1920" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/freedom-crossing-downlink-nov-5.jpg?w=1920" medium="image"/>
+</item>
+<item>
 <title>Scientists discover that a clogged filter could revolutionize oil refining</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261103003207.htm</link>
 <guid isPermaLink="false">83f399e24ed771351b1118e43ecbae5fbc37f3a5c8b3f505d00c01fe0009053e</guid>
@@ -173,17 +195,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/2097409090238472611.png?w=962" medium="image"/>
 </item>
 <item>
-<title>Hubble Reveals Cosmic Mystery</title>
-<link>https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery</link>
-<guid isPermaLink="false">b1934d4389556f12301fdd8af34f74b22a6b54dbde9f0c126689111d629e977f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 15:59:36 +0000</pubDate>
-<description>This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/full-res-for-display-1.png?w=2048" medium="image"/>
-</item>
-<item>
 <title>A surprising discovery could help aging muscles repair themselves</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261104005226.htm</link>
 <guid isPermaLink="false">417ecc9a04adf838f6daf7e218b53036f5f9dff5b6bf8402b65847813aa62f76</guid>
@@ -254,17 +265,6 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 06:57:06 +0000</pubDate>
 <description>Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss. Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise obesity treatment if future human trials prove successful.</description>
-</item>
-<item>
-<title>APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342</link>
-<guid isPermaLink="false">acc301e7ba339cf75435540392d2cc0c1893bbafa8983e38c5b2e7035974d11a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 4 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Not-So-Hidden […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=2048&amp;h=1395&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/ic342.png?w=2048&amp;h=1395&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Gene editing could replace a lifetime of medication, but there's a catch</title>
