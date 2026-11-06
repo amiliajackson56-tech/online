@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>MetaMask says recent attack didn't affect wallet infrastructure</title>
+<link>https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure</link>
+<guid isPermaLink="false">49d9b403a56b49538700f125f9cb77b49be0e1ce6873e95166d0e5086a61c9ce</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 09:22:28 +0000</pubDate>
+<description>Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]</description>
+</item>
+<item>
 <title>Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services</title>
 <link>https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html</link>
 <guid isPermaLink="false">a3b94f1fb170a2b69842d6df107dd74cd808019727ad4afc93b8b8e93e5d6bf4</guid>
@@ -2002,15 +2011,6 @@
 <description>Elon Musk almost single-handedly funded the Republican midterms push. But of every traceable dollar Musk put into races that have been decided, more than 99 cents went to a race he lost.</description>
 <enclosure url="https://media.wired.com/photos/6ae8ece0dbe70363e491398f/master/pass/110226-elon-musk-midterm-races.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae8ece0dbe70363e491398f/master/pass/110226-elon-musk-midterm-races.jpg" medium="image"/>
-</item>
-<item>
-<title>mSecure password manager hack prompts password reset warnings</title>
-<link>https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings</link>
-<guid isPermaLink="false">6d3d43b901257f2444a411b9fda431e5e46aa16b24438381074aeb8eb162a0b6</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 16:00:18 +0000</pubDate>
-<description>mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]</description>
 </item>
 <item>
 <title>With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’</title>
