@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 November 6 – A Farewell to Swift</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift</link>
+<guid isPermaLink="false">89a92c97d83383c64d650db097d6350c8b63c387c4159c54194e46ff3c45808f</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&amp;h=1460&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&amp;h=1460&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Taking a Gander at Utah’s Goosenecks</title>
+<link>https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks</link>
+<guid isPermaLink="false">46b7465cdfaae4c4ceb6e0708cc83042619e676b1d7e3e6ae07c5674558b364f</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 05:01:00 +0000</pubDate>
+<description>The San Juan River has carved deep, improbably curvy meanders into the desert landscape.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/taking-a-gander-at-utah’s-goosenecks/ISS075-E-188830.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Midwestern City Lights</title>
 <link>https://www.nasa.gov/image-article/midwestern-city-lights</link>
 <guid isPermaLink="false">55a2930a5c54378a8e52b0e79a349e1cd8df1fdea3ee8719afebb39e7f3dd5d6</guid>
@@ -189,28 +211,6 @@
 <description>NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" medium="image"/>
-</item>
-<item>
-<title>NASA Navigation Experiment Shows Promise for Planetary Landings</title>
-<link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings</link>
-<guid isPermaLink="false">e4e032431b184aa8db119864a38fb94e4f794ec914523626135664980c6da35e</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 16:52:43 +0000</pubDate>
-<description>NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]</description>
-<enclosure url="https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://images-assets.nasa.gov/image/AFRC2026-0152-30/AFRC2026-0152-30~large.jpg?w=1920&amp;h=1280&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>NASA Space Grant Students Fuel Agency’s Inspiration Tour</title>
-<link>https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour</link>
-<guid isPermaLink="false">25c6bc8d2672898f1212fcb6a9a2edeec3f552a56cfcbfe6d2b8c1a4101b6fe2</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 16:16:41 +0000</pubDate>
-<description>NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/2097409090238472611.png?w=962" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/2097409090238472611.png?w=962" medium="image"/>
 </item>
 <item>
 <title>A surprising discovery could help aging muscles repair themselves</title>
