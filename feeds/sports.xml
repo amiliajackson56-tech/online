@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Football Daily</title>
+<link>https://www.bbc.co.uk/sounds/play/p0plqn9l?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">1044966a560bc0a216da6e45479c57074a5adc455f1fb14e68a34d8d91d39ab2</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Fri, 06 Nov 2026 19:52:00 +0000</pubDate>
+<description>John, Ian and Ali tell us what makes a good radio football summariser</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf1wk7.jpg" medium="image"/>
+</item>
+<item>
 <title>Matthias Jaissle caught in the storm as Newcastle struggle without European fix</title>
 <link>https://www.theguardian.com/football/2026/nov/06/matthias-jaissle-caught-in-the-storm-as-newcastle-struggle-without-european-fix</link>
 <guid isPermaLink="false">ab1e7e332779ed657cc279935104f2303b3ec1f7a5aaa86ab9e299007cf27863</guid>
@@ -112,6 +123,17 @@
 <description>Celtic and Hearts return to Scottish Premiership action with contrasting European fortunes, so what are the key talking points in the last fixtures before the November international break?</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg" medium="image"/>
+</item>
+<item>
+<title>Has Anderson lived up to the hype after Man City move?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">f8aeff5085cf65fd1238357b50682f57c200a0a0d34122b0e21ff8ac9355c8e0</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Fri, 06 Nov 2026 12:00:18 +0000</pubDate>
+<description>As Elliot Anderson returns to Nottingham Forest after his £116m move to Manchester City, has he lived up to the price tag?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d88/live/2656a970-d86b-11f1-85ab-b3cc3b5498c6.jpg" medium="image"/>
 </item>
 <item>
 <title>Palmer misses too many chances to impress - Tuchel</title>
@@ -255,17 +277,6 @@
 <description>BBC Sport columnist Tony Pulis explains what he did between jobs and why out-of-work managers can learn a lot from leaders outside of football.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg" medium="image"/>
-</item>
-<item>
-<title>From playing against Messi and Ronaldo to non-league</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">a4b6bb824167af34b71fe2956671a23d9f0081b6f27407711105ae0987c0d87c</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 06 Nov 2026 06:42:07 +0000</pubDate>
-<description>Fernando Forestieri, whose career has seen him play against Lionel Messi and Cristiano Ronaldo, is looking to inspire non-league Oxford City to a memorable FA Cup win over Leicester City.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab3/live/d631fc50-d9c9-11f1-bb8e-efaa31738708.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ab3/live/d631fc50-d9c9-11f1-bb8e-efaa31738708.jpg" medium="image"/>
 </item>
 <item>
 <title>'Putting his doubters in their place' - Rooney lands pundit of year award</title>

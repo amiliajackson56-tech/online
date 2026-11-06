@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs</title>
+<link>https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs</link>
+<guid isPermaLink="false">09fa5f5c7742a60dd1b21e0a02b08e3dea50359d22eb3235186a4e289183bfeb</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:24:19 +0000</pubDate>
+<description>OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]</description>
+</item>
+<item>
+<title>Apple’s DOJ antitrust battle sparks disputes with Epic, Samsung, Oura, Roblox, more</title>
+<link>https://9to5mac.com/2026/11/06/apples-doj-antitrust-battle-sparks-disputes-with-epic-samsung-oura-roblox-more</link>
+<guid isPermaLink="false">f7f8b1d082166cc9f535c7660782ffac1bb458bdbaba9a35511888437f94b7c7</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:06:06 +0000</pubDate>
+<description>Several tech companies are pushing back against subpoenas issued by Apple and the DOJ in their ongoing antitrust battle. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/10/apple-park-dusk.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>All the latest updates on AI data centers</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy</link>
+<guid isPermaLink="false">f8fe21ba7f368ed10ce0a3c0e1659178f895d9eae8a89112274a09de130c90c2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 20:02:22 +0000</pubDate>
+<description>Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Shure’s popular podcasting and streaming mic is almost $50 off</title>
+<link>https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale</link>
+<guid isPermaLink="false">5f3f5f973e436c6f6b0b4b2f49dece88cf8bac51ef76b823e6fecec390530a6f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 19:47:02 +0000</pubDate>
+<description>While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and directly from Shure. That’s almost $50 lower than its usual price, and just a few dollars […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/shure-mv7-plus-breakout.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google's eyewear partners can't keep a lid on its smart glasses plans</title>
+<link>https://www.engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans</link>
+<guid isPermaLink="false">7b6c0f60703cba858d6d49adc2a41890dd47e009d4007b1c68708af54fcf0292</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 19:45:23 +0000</pubDate>
+<description>Gentle Monster shared that its "Intelligent Eyewear" will be available to pre-order on November 12.</description>
+<enclosure url="https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans/l-intro-1793994268.jpg" medium="image"/>
+</item>
+<item>
 <title>HomeKit Weekly: Airversa’s Humelle is the Thread humidifier my house needs this winter</title>
 <link>https://9to5mac.com/2026/11/06/airversa-humelle</link>
 <guid isPermaLink="false">ad13412f2fde3df1d9de74e3d17e9da78aa95b0fafeff697c17441a43a37fb05</guid>
@@ -125,7 +178,7 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 18:10:10 +0000</pubDate>
-<description>Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called "spaces," allows Muse to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the app. If you connect your space to a relevant app, […]</description>
+<description>Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called "spaces," allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app. Meta says you can create a new space by […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&amp;strip=all&amp;crop=8.0752843063528,0,91.924715693647,74.471659887186" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&amp;strip=all&amp;crop=8.0752843063528,0,91.924715693647,74.471659887186" medium="image"/>
 </item>
@@ -287,28 +340,6 @@
 <description>If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Verge-Deals-Meta-Quest-3S.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Verge-Deals-Meta-Quest-3S.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Big Tech lost big in the 2026 election</title>
-<link>https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast</link>
-<guid isPermaLink="false">f659f2b84ee7c4315b2e2b9f0ae1c90e7708c2d3ec8a265f2e25ca86051cc358</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 16:38:02 +0000</pubDate>
-<description>On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_110626_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>How Akai and Moog are embracing vibe-coded mods</title>
-<link>https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai</link>
-<guid isPermaLink="false">51872e89890c6332b9ad5781289002b9b0b58b7de05cebc76f0e51c833599183</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 16:34:39 +0000</pubDate>
-<description>inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, "We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/assets_47c5d023e7b3451a86ac03602c65dce8_43f25647cf8a4cbb8786829bc29ee2fb.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Deals: M5 MacBook Air $250 off, Apple Watch Ultra $250 off, HomePod mini 2, HomeView, AirPods $100 off, more</title>
@@ -1281,17 +1312,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/04/Apple-under-4th-DMA-non-compliance-investigation.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Warby Parker seemingly spilled the beans on Google's Android XR smart glasses launch</title>
-<link>https://www.engadget.com/2308376/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch</link>
-<guid isPermaLink="false">6f46daed25d0d57844938ab2d8c3bd9e40c442bc97f3a0c2203cfda62e7942d1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 19:39:01 +0000</pubDate>
-<description>"Intelligent Eyewear" is apparently only a week away.</description>
-<enclosure url="https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/warby-parker-seemingly-spilled-the-beans-on-googles-android-xr-smart-glasses-launch/l-intro-1793907386.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI’s GPT-6 Astra silently obstructed safety research tasks</title>
 <link>https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks</link>
 <guid isPermaLink="false">20039ba5416205700ef8a11208a2892a3fa7d8845281dcbcff5c1c4b6076b4e4</guid>
@@ -1551,15 +1571,6 @@
 <description>Apple Creator Studio updates were announced late last month, with what the company describes as “powerful new AI features” using a combination of Apple Intelligence and OpenAI models. At the time, Apple didn’t give a specific availability date beyond sometime in November, but the updates are rolling out today … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-Creator-Studio-gets-powerful-new-AI-features-using-OpenAI.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Closing the Identity Gap at the Service Desk</title>
-<link>https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk</link>
-<guid isPermaLink="false">1df33798258e20d18ce95ac390835ac9bc7f822bc99c5820161ca2fe327e34fb</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 15:00:10 +0000</pubDate>
-<description>Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]</description>
 </item>
 <item>
 <title>WhatsApp adds shareable event invites and a new Events hub</title>
@@ -1837,37 +1848,15 @@
 <media:content url="https://media.wired.com/photos/6ada535b90bbef8397f3e78c/master/pass/culture-uk-incest-porn-ban-fanfic.jpg" medium="image"/>
 </item>
 <item>
-<title>Ray-Ban Promo Codes: Save 50% in November 2026</title>
-<link>https://www.wired.com/story/ray-ban-promo-code</link>
-<guid isPermaLink="false">32665a611b41bfc6108888c794c04ccdaabab7b32400c6679ef57c615a3d4ce4</guid>
+<title>Zoro Coupon Codes: 20% Off November 2026</title>
+<link>https://www.wired.com/story/zoro-promo-code</link>
+<guid isPermaLink="false">199ea7a214a4f6efd5c4bf9f93f8cae7b369e6f803373c0019a4815440a49027</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
-</item>
-<item>
-<title>Meta Quest Promo Codes and Coupons for November 2026</title>
-<link>https://www.wired.com/story/meta-quest-promo-code</link>
-<guid isPermaLink="false">361f07e09a3f7ed4b4b1535c278a6c0e94610d1c65c3f0a8ae2e217f6250e346</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
-</item>
-<item>
-<title>Nomad Goods Promo Codes: Get 25% Off in November 2026</title>
-<link>https://www.wired.com/story/nomad-discount-code</link>
-<guid isPermaLink="false">9254f5656796ce3331e0ab7f2639a1e5e2a380e2c0aa140222e6edb80f63bb05</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.</description>
-<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
+<description>Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.</description>
+<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
 </item>
 <item>
 <title>B&amp;H Photo Promo Codes and Deals This November 2026</title>
@@ -1914,15 +1903,37 @@
 <media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
-<title>Zoro Coupon Codes: 20% Off November 2026</title>
-<link>https://www.wired.com/story/zoro-promo-code</link>
-<guid isPermaLink="false">199ea7a214a4f6efd5c4bf9f93f8cae7b369e6f803373c0019a4815440a49027</guid>
+<title>Ray-Ban Promo Codes: Save 50% in November 2026</title>
+<link>https://www.wired.com/story/ray-ban-promo-code</link>
+<guid isPermaLink="false">32665a611b41bfc6108888c794c04ccdaabab7b32400c6679ef57c615a3d4ce4</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Find the best Zoro coupon codes, deals, and free shipping offers to save big on industrial equipment, tools, and supplies in November 2026.</description>
-<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+<description>Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
+</item>
+<item>
+<title>Meta Quest Promo Codes and Coupons for November 2026</title>
+<link>https://www.wired.com/story/meta-quest-promo-code</link>
+<guid isPermaLink="false">361f07e09a3f7ed4b4b1535c278a6c0e94610d1c65c3f0a8ae2e217f6250e346</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
+<title>Nomad Goods Promo Codes: Get 25% Off in November 2026</title>
+<link>https://www.wired.com/story/nomad-discount-code</link>
+<guid isPermaLink="false">9254f5656796ce3331e0ab7f2639a1e5e2a380e2c0aa140222e6edb80f63bb05</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.</description>
+<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
 </item>
 <item>
 <title>Herman Miller Promo Codes: 40% Off November 2026</title>
@@ -2990,17 +3001,6 @@
 <description>Following today’s earnings report, Apple held its quarterly earnings call, during which the company discussed the impact of rising memory costs on its profit margins and warned of additional pressure from Siri AI expenses during the holiday quarter. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/04/Analysts-believe-Apple-taking-a-highly-unusual-step-to-double-Mac-user-base.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>9to5Mac Daily: November 2, 2026 – What’s next for the Mac and iPad</title>
-<link>https://9to5mac.com/2026/11/02/daily-november-2-2026</link>
-<guid isPermaLink="false">df31b071773f852488dad9dda39340ae1e4d7817b6887cc2782c3712ce32749f</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 22:40:40 +0000</pubDate>
-<description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</title>
