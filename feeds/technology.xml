@@ -4,6 +4,46 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>At least 10 local governments have moved to drop Flock’s surveillance cameras since summer</title>
+<link>https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer</link>
+<guid isPermaLink="false">877cdd78912d23ef7bbef093abc069715597fe834a294f4ca25318eb9fcec942</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 07:18:44 +0000</pubDate>
+<description>The concerns range from privacy to how data is shared (and with whom) to procurement concerns.</description>
+</item>
+<item>
+<title>Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M</title>
+<link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m</link>
+<guid isPermaLink="false">a83a56374fd6aa91bfb5c5e279fa15b1331653c38bb895589dd8bcff0d7ab1f8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 06:28:32 +0000</pubDate>
+<description>Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.</description>
+</item>
+<item>
+<title>Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs</title>
+<link>https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html</link>
+<guid isPermaLink="false">97fd8de188fcd37eb9f38e849a29d4afc8d41b619370cb2e8be6c80880105678</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 05:58:54 +0000</pubDate>
+<description>A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg" medium="image"/>
+</item>
+<item>
+<title>Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login</title>
+<link>https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html</link>
+<guid isPermaLink="false">985aa680f8ad9f7c3d088709f51eda70fc3393521a7467bb9a106aa684ee04bc</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 06 Nov 2026 05:39:10 +0000</pubDate>
+<description>Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg" medium="image"/>
+</item>
+<item>
 <title>‘Awkwafina: The Unlikely Cook’ premieres on Apple TV</title>
 <link>https://9to5mac.com/2026/11/05/awkwafina-the-unlikely-cook-premieres-on-apple-tv</link>
 <guid isPermaLink="false">5700fb216f0c138cb4f5ab86b045766c0c8dac6eb2a8929c7d762d2c8afbee9b</guid>
@@ -997,24 +1037,6 @@
 <description>Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]</description>
 </item>
 <item>
-<title>Instagram brings Edits to desktop to take on CapCut</title>
-<link>https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut</link>
-<guid isPermaLink="false">2a37e297392522469c503132329fedcd90a2bb4e085d6c7a6b8781af52d443d9</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
-<description>The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.</description>
-</item>
-<item>
-<title>ElevenLabs now lets users publish AI-generated music directly on SoundCloud</title>
-<link>https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud</link>
-<guid isPermaLink="false">4b07e8272bfaf6967aed858f149bcc970346c756b7c33b575d4e6a9b623d0f50</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 15:00:00 +0000</pubDate>
-<description>ElevenLabs said more than 25 million tracks have been generated using its music models.</description>
-</item>
-<item>
 <title>WhatsApp is taking on Partiful with expanded Events feature</title>
 <link>https://www.engadget.com/2307395/whatsapp-is-taking-on-partiful-with-expanded-events-feature</link>
 <guid isPermaLink="false">16710384f20988498b1cf6676cf157c0b5eda926ce26ea1ca95ee85ff398e86a</guid>
@@ -1257,17 +1279,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/20261104_095710-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
-<link>https://www.wired.com/gallery/best-wireless-chargers</link>
-<guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-<description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
-<enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
-</item>
-<item>
 <title>AI’s Next Trick? Speaking Dolphin</title>
 <link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
 <guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
@@ -1277,6 +1288,17 @@
 <description>Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.</description>
 <enclosure url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" medium="image"/>
+</item>
+<item>
+<title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
+<link>https://www.wired.com/gallery/best-wireless-chargers</link>
+<guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+<description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
+<enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
 </item>
 <item>
 <title>He Trolls AI Labs for a Living. Now They All Want to Work With Him</title>
@@ -3045,27 +3067,5 @@
 <description>American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. "This month, Chainalysis detected an external actor using offensive agentic</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg" medium="image"/>
-</item>
-<item>
-<title>Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</title>
-<link>https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html</link>
-<guid isPermaLink="false">c305d693e177d5ef64daf367acfc1e634711244980670e6d6392ac16514ee3d1</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 08:27:43 +0000</pubDate>
-<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg" medium="image"/>
-</item>
-<item>
-<title>A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
-<link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
-<guid isPermaLink="false">09f142bd2640f27254d9a6b271336ed0701f8abb81fc1d3f81cb660b2bf78370</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Sat, 31 Oct 2026 05:33:41 +0000</pubDate>
-<description>A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg" medium="image"/>
 </item>
 </channel></rss>
