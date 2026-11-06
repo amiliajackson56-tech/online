@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>M30’s Sparkling Stars</title>
+<link>https://www.nasa.gov/image-article/m30s-sparkling-stars</link>
+<guid isPermaLink="false">344d924327419a44654fb9b2604effd3e6f97899a5fdb1d166cf534e56652efc</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 16:23:41 +0000</pubDate>
+<description>This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>Supercomputing Tech Demo Schedule</title>
+<link>https://science.nasa.gov/earth/supercomputing-tech-demo-schedule</link>
+<guid isPermaLink="false">5e5c60318fd65ed1b42e3c3d3dda9821526c406a626ca9f9143a7350bf7df34e</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 16:03:52 +0000</pubDate>
+<description>Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM Mixing and Matching and Multiple Versions, Oh My!Brad Richardson1:30 PMMixing and Matching and Multiple […]</description>
+</item>
+<item>
 <title>Scientists just found dinosaur blood that survived 115 million years</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261105224542.htm</link>
 <guid isPermaLink="false">9ad9c4695d7d3f88496385e8b893549e510dc0f2eaba861e766633d47635671a</guid>
@@ -114,6 +134,15 @@
 <category>science</category>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03630-x An adhesive that binds strongly even under water was inspired by a protein made by a feared pathogen.</description>
+</item>
+<item>
+<title>Briefing Chat: Meet the snakes that cartwheel away from trouble</title>
+<link>https://www.nature.com/articles/d41586-026-03632-9</link>
+<guid isPermaLink="false">ba7df1d45f6bce08b55525e4f200139b7cc559f688984c8833a7c4d145b17bd4</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03632-9 Nature staff discuss an acrobatic reptile defence strategy — plus, evidence of fossilized dinosaur blood cells.</description>
 </item>
 <item>
 <title>Preprint platform offers to pay researchers to review papers, but questions remain</title>
@@ -324,28 +353,6 @@
 <category>science</category>
 <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 05 November 2026; doi:10.1038/d41586-026-03596-w The manual toothbrush cleans by generating a bacteria-killing electrical charge. Plus, what ‘historic’ US mid-term results mean for science and a genetics lab run by AI-powered robots.</description>
-</item>
-<item>
-<title>NASA Shares Plans to Accelerate Artemis, Return to Moon</title>
-<link>https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon</link>
-<guid isPermaLink="false">17a93f731a4a1724c1a992833eaef0123563ad06a7e7df6c78eda642bd336914</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 21:04:10 +0000</pubDate>
-<description>In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/10/2-artemis-iii-con-ops-oct2026.jpg?w=2048" medium="image"/>
-</item>
-<item>
-<title>NASA Announces Ka-Band Satellite Relay Awards for Space Communications</title>
-<link>https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications</link>
-<guid isPermaLink="false">cc6901236979e720406f23dd2b1dc2cfee9903d19186def326d530742f8e334a</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 18:00:02 +0000</pubDate>
-<description>NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2022/02/nasa_meatball_large.jpg?w=1920" medium="image"/>
 </item>
 <item>
 <title>A surprising discovery could help aging muscles repair themselves</title>
@@ -1138,15 +1145,6 @@
 <category>science</category>
 <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03277-8 The ecology and evolution of winged legendary beasts, and monkeys that show their behinds to their buddies, in this week’s pick from the Nature archive.</description>
-</item>
-<item>
-<title>Research bonuses need clear and fair rules</title>
-<link>https://www.nature.com/articles/d41586-026-03562-6</link>
-<guid isPermaLink="false">21a7f449fa37973a432bd8aeb74cb8adea16d13554c0acf0c4d57e709f998174</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 03 November 2026; doi:10.1038/d41586-026-03562-6 Research bonuses need clear and fair rules</description>
 </item>
 <item>
 <title>Extra weight may be aging your brain faster than you think</title>
