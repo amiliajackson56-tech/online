@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>You can easily keep your home network running during a power outage — here's how</title>
+<link>https://www.engadget.com/2308573/how-to-keep-home-network-running-during-outage</link>
+<guid isPermaLink="false">0e96123cce52d1790f07de249fa6635458c77f57ea7c0c2976cd0b252ae19b37</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:30:00 +0000</pubDate>
+<description>Few things top the inconvenience of being in the middle of something online when the power goes out. Luckily, there are a few options to keep you connected.</description>
+<enclosure url="https://www.engadget.com/img/gallery/you-can-easily-keep-your-home-network-running-during-a-power-outage-heres-how/l-intro-1793913082.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/you-can-easily-keep-your-home-network-running-during-a-power-outage-heres-how/l-intro-1793913082.jpg" medium="image"/>
+</item>
+<item>
+<title>How to set up SpaceXAI's Grok in Google Workspace (and what it can do)</title>
+<link>https://www.engadget.com/2309543/how-to-set-up-use-spacexai-grok-in-google-workspace</link>
+<guid isPermaLink="false">81029fe32d7f090a84a7e84d117b5e592157bf83a84b99e786635f3e23fb7dcf</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:15:00 +0000</pubDate>
+<description>Inserting Grok into your Google Workspace is easy, but you'll want to consider a few things before rolling out the welcome mat.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-set-up-spacexais-grok-in-google-workspace-and-what-it-can-do/l-intro-1793988095.jpg" medium="image"/>
+</item>
+<item>
+<title>Hands-on: Anker’s 10K MagGo 2 Pro offers fast 25W MagSafe charging with a kickstand</title>
+<link>https://9to5mac.com/2026/11/07/anker-maggo-2-pro-fast-magsafe-charger-for-iphone</link>
+<guid isPermaLink="false">e89ec8d4e3abdea253c4011c5a5767f98fbc4a6404cf3b9c9ac5193b8a19af47</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:11:00 +0000</pubDate>
+<description>Anker’s new MagGo Pro 2 power bank offers active cooling, 25W MagSafe fast charging, 10,000mAh of capacity, and a smart display – all in one package. Anker touts it as the fastest and coolest wireless power bank on the market. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04231-2048x1024.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Parents want safer phones for kids. These companies are answering the call.</title>
+<link>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call</link>
+<guid isPermaLink="false">496e9e40fb70bf96ed258ecba4c59d9ef22b1cc11eefef05748c9924e57b7ceb</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<description>As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.</description>
+</item>
+<item>
+<title>How a bottleneck calculator for your GPU and CPU works</title>
+<link>https://www.engadget.com/2306571/how-bottleneck-calculator-works-gpu-cpu</link>
+<guid isPermaLink="false">47ba7217855483e3b358f49076b1a19a652e9f52bf7f352474e5abd2c00f25e1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 19:00:00 +0000</pubDate>
+<description>They're a quick way to help you check component compatibility before you build or upgrade a system.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-a-bottleneck-calculator-for-your-gpu-and-cpu-works/l-intro-1793806824.jpg" medium="image"/>
+</item>
+<item>
 <title>5 things you didn't know Steam's overlay could do</title>
 <link>https://www.engadget.com/2309539/things-you-didnt-know-steam-overlay-could-do</link>
 <guid isPermaLink="false">dcceadf7601aee28a3587c05f62e71e0a422e69f2d37706b4f1530cb3c275489</guid>
@@ -306,17 +359,6 @@
 <description>French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]</description>
 </item>
 <item>
-<title>How iOS can warn you when one of your passwords shows up in a data leak</title>
-<link>https://www.engadget.com/2305444/how-ios-warn-password-shows-up-data-leak</link>
-<guid isPermaLink="false">ccb95109feb8a8add3749f2c68152174f62a2e039ef1a3d4ce00ce96d8d6e20f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:15:00 +0000</pubDate>
-<description>You'll be warned if your credentials stored in Apple Passwords are weak or compromised so you can take appropriate action.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-ios-can-warn-you-when-one-of-your-passwords-shows-up-in-a-data-leak/l-intro-1793725978.jpg" medium="image"/>
-</item>
-<item>
 <title>AI broke the cybersecurity world. What’s next?</title>
 <link>https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos</link>
 <guid isPermaLink="false">4b429bd7582936e31a06bd96af5a52a7bc025ba8117462358d981259605958a1</guid>
@@ -326,28 +368,6 @@
 <description>Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Why you don't really need an expensive, high-end router</title>
-<link>https://www.engadget.com/2305411/why-you-dont-need-expensive-high-end-router</link>
-<guid isPermaLink="false">1b478fdaad237760d4586b64ac6e8f86c5290914630d62dba8a1f54dea60c200</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 15:00:00 +0000</pubDate>
-<description>Getting a top-of-the-line router won't necessarily increase your internet speeds. Here's what you need to know before you buy.</description>
-<enclosure url="https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/why-you-dont-really-need-an-expensive-high-end-router/l-intro-1793041101.jpg" medium="image"/>
-</item>
-<item>
-<title>Windows PowerToys can automate some of your more tedious PC tasks</title>
-<link>https://www.engadget.com/2305351/windows-powertoys-automate-pc-tasks</link>
-<guid isPermaLink="false">fa48506df7812f5f7c1143432a9862d2e9da4f6e5d1bd35766fdaa2a642affae</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:45:00 +0000</pubDate>
-<description>PowerToys is a secret weapon for Windows users, with tons of handy utilities to help you save time on your PC every day.</description>
-<enclosure url="https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/windows-powertoys-can-automate-some-of-your-more-tedious-pc-tasks/l-intro-1793722923.jpg" medium="image"/>
 </item>
 <item>
 <title>Good riddance, Cybertruck!</title>
@@ -1522,15 +1542,6 @@
 <description>"This is going to be a game-changer."</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/News_BlueOrigin-Northstar-Engine-1152x648.webp" medium="image"/>
-</item>
-<item>
-<title>The New York Times reportedly in talks to buy Letterboxd for $330 million</title>
-<link>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million</link>
-<guid isPermaLink="false">4bccd2f871eff453a6682fac0a09f5adc5df0b669e44d240688e7d83a515ba61</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 00:07:18 +0000</pubDate>
-<description>Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.</description>
 </item>
 <item>
 <title>6 Best VPN Services (2026), Tested and Reviewed</title>
@@ -2913,17 +2924,6 @@
 <description>An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a later disclosure, OPSSHIELD said about 2,950 customer servers ran the script,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png" medium="image"/>
-</item>
-<item>
-<title>John Ternus talks plans to improve Siri AI</title>
-<link>https://9to5mac.com/2026/11/03/john-ternus-talks-plans-to-improve-siri-ai</link>
-<guid isPermaLink="false">fc6d9c20d097e3fd196dd11b99ea420ba0caf49d3c154cd10623005ab4ec08b0</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:06:29 +0000</pubDate>
-<description>During Apple’s quarterly earnings call, CEO John Ternus was asked repeatedly about Siri AI’s future. Here’s what he said about Apple’s plans for improving and expanding Siri AI. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/john-ternus-iphone-event-hub.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing</title>
