@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Sequoia shutting down its Scouts program marks the end of an era</title>
+<link>https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era</link>
+<guid isPermaLink="false">348277486d931184951806bfa9fe31d528220dc885488853a5b4d05e98613375</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 05:01:54 +0000</pubDate>
+<description>Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.</description>
+</item>
+<item>
 <title>From the front row to the hot seat — what the midterms mean for Big Tech</title>
 <link>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech</link>
 <guid isPermaLink="false">03c46726276b69485a3653ed1db9214f4747dd2476473dbeae1562b47b227965</guid>
@@ -134,7 +143,7 @@
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 22:31:15 +0000</pubDate>
-<description>Tesla’s massive EV is the second within the last year to get the ax, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.</description>
+<description>Tesla’s biggest failure is the second massive EV to get the axe within the last year, while smaller vehicles are proliferating. It could be a huge benefit for the US battery supply chain.</description>
 <enclosure url="https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee2f4e65a8d4362bf27531/master/pass/GettyImages-2150577028.jpg" medium="image"/>
 </item>
@@ -1372,15 +1381,6 @@
 <description>Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]</description>
 </item>
 <item>
-<title>Serve Robotics launches new business to become the AWS for robots</title>
-<link>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots</link>
-<guid isPermaLink="false">9d929232a4e5752ab00ea23850f3c2dbc3e054e9847c634bbdc1135c3bc96c60</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 21:15:00 +0000</pubDate>
-<description>Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.</description>
-</item>
-<item>
 <title>Google is ditching Firebase Studio soon, and it wants you to use its newer AI tools instead</title>
 <link>https://www.engadget.com/2308541/google-is-ditching-firebase-studio-soon-and-it-wants-you-to-use-its-newer-ai-tools-instead</link>
 <guid isPermaLink="false">81a32ff7934552789bc7dd88eb61b4a2b0e270f79e38bc0b3b93fd568997e68e</guid>
@@ -1826,17 +1826,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
-<link>https://www.wired.com/gallery/best-wireless-chargers</link>
-<guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-<description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
-<enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
-</item>
-<item>
 <title>AI’s Next Trick? Speaking Dolphin</title>
 <link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
 <guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
@@ -1846,6 +1835,17 @@
 <description>Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.</description>
 <enclosure url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" medium="image"/>
+</item>
+<item>
+<title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
+<link>https://www.wired.com/gallery/best-wireless-chargers</link>
+<guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+<description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
+<enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
 </item>
 <item>
 <title>He Trolls AI Labs for a Living. Now They All Want to Work With Him</title>
@@ -1958,28 +1958,6 @@
 <media:content url="https://media.wired.com/photos/6ada535b90bbef8397f3e78c/master/pass/culture-uk-incest-porn-ban-fanfic.jpg" medium="image"/>
 </item>
 <item>
-<title>Ray-Ban Promo Codes: Save 50% in November 2026</title>
-<link>https://www.wired.com/story/ray-ban-promo-code</link>
-<guid isPermaLink="false">32665a611b41bfc6108888c794c04ccdaabab7b32400c6679ef57c615a3d4ce4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
-</item>
-<item>
-<title>Meta Quest Promo Codes and Coupons for November 2026</title>
-<link>https://www.wired.com/story/meta-quest-promo-code</link>
-<guid isPermaLink="false">361f07e09a3f7ed4b4b1535c278a6c0e94610d1c65c3f0a8ae2e217f6250e346</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.</description>
-<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
-</item>
-<item>
 <title>Nomad Goods Promo Codes: Get 25% Off in November 2026</title>
 <link>https://www.wired.com/story/nomad-discount-code</link>
 <guid isPermaLink="false">9254f5656796ce3331e0ab7f2639a1e5e2a380e2c0aa140222e6edb80f63bb05</guid>
@@ -1989,17 +1967,6 @@
 <description>Save up to 25% on Nomad Goods accessories such as Nomad phone cases, Nomad wallets, and more in November 2026.</description>
 <enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
-</item>
-<item>
-<title>B&amp;H Photo Promo Codes and Deals This November 2026</title>
-<link>https://www.wired.com/story/bh-photo-coupon</link>
-<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
 <title>Booking.com Promo Codes: 20% Off | November 2026</title>
@@ -2046,6 +2013,39 @@
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
 </item>
 <item>
+<title>Ray-Ban Promo Codes: Save 50% in November 2026</title>
+<link>https://www.wired.com/story/ray-ban-promo-code</link>
+<guid isPermaLink="false">32665a611b41bfc6108888c794c04ccdaabab7b32400c6679ef57c615a3d4ce4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Upgrade your frames with major savings on classic shapes, custom designs, and prescription lenses using these verified Ray-Ban discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
+</item>
+<item>
+<title>B&amp;H Photo Promo Codes and Deals This November 2026</title>
+<link>https://www.wired.com/story/bh-photo-coupon</link>
+<guid isPermaLink="false">a02076e4395bd96a220efa2041951b6091218c280a60fee66d925d63748a3607</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Enjoy top deals on cameras, computers, and tech essentials at B&amp;H Photo.</description>
+<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Meta Quest Promo Codes and Coupons for November 2026</title>
+<link>https://www.wired.com/story/meta-quest-promo-code</link>
+<guid isPermaLink="false">361f07e09a3f7ed4b4b1535c278a6c0e94610d1c65c3f0a8ae2e217f6250e346</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Experience cutting-edge VR and save up to 20% with coupons for the latest games, Meta Quest 3, Ray-Ban AI glasses, and more deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
 <title>Herman Miller Promo Codes: 40% Off November 2026</title>
 <link>https://www.wired.com/story/herman-miller-promo-code</link>
 <guid isPermaLink="false">a3525460808c2e69ebf1e99a9f9ff3edf792bc5549f9ea569647f9578edb80ad</guid>
@@ -2055,17 +2055,6 @@
 <description>Whether you’re looking for a Herman Miller promo code or discounts in their sale, here is how to save on the world's best ergonomic office furniture in November 2026.</description>
 <enclosure url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea03340e63ccab6b8add4b/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
-<title>HP Coupon Codes and Deals November 2026</title>
-<link>https://www.wired.com/story/hp-coupon-code</link>
-<guid isPermaLink="false">ab048b1690ffbd1040e79d315bc85b27ae0a3171cd4d90b899e1507dff4da139</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
 <title>Altra Running Promo Codes: 10% Off November 2026</title>
@@ -2088,6 +2077,17 @@
 <description>Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+</item>
+<item>
+<title>HP Coupon Codes and Deals November 2026</title>
+<link>https://www.wired.com/story/hp-coupon-code</link>
+<guid isPermaLink="false">ab048b1690ffbd1040e79d315bc85b27ae0a3171cd4d90b899e1507dff4da139</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save up to 60%, plus an extra 20% with HP promo codes for laptops, printers, PCs, and more tech.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
 </item>
 <item>
 <title>Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says</title>
