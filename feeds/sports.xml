@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Listen to Off The Ball</title>
+<link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">de851c45da54f2914688d9227927930d4efe441b080710529ae91c473a939498</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 07 Nov 2026 14:00:00 +0000</pubDate>
+<description>The most petty and ill-informed football show on radio.</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" medium="image"/>
+</item>
+<item>
+<title>Arsenal and Manchester City in action, FA Cup first round news and more – matchday live</title>
+<link>https://www.theguardian.com/football/live/2026/nov/07/arsenal-and-manchester-city-in-action-fa-cup-first-round-news-and-more-matchday-live</link>
+<guid isPermaLink="false">f3cad6da4ab8104d9d90210772ca73df1a3b48f70d65bd919f55f8af42b1b99b</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Sat, 07 Nov 2026 12:04:58 +0000</pubDate>
+<description>⚽ All the latest news before a busy day of football kicks off ⚽ Today’s fixtures | Latest tables | Mail us at matchday.live An email. Krishnamoorthy v has been pondering today’s games. Hello David. Would Leeds be able to puncture the nascent baloon of Tottenham optimism (if ever there was a candidate for a perfect oxymoron, this would ace it) and can we expect City to lose its way in the forest? Leeds v Spurs: Leeds have picked up just five points in their last 13 Premier League matches against Tottenham. Nottingham Forest v Man City: Having become the 10th team in English top-flight history to win each of their first seven games in a campaign, Man City have now lost their last two. Only Sheffield Wednesday in 1904-05 have won their first seven and then lost their next three. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/e3bcdef9e27c01a754224976aff93a6e302eba4c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c0f897c094a91ec02ab68c6966cff00" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/e3bcdef9e27c01a754224976aff93a6e302eba4c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6c0f897c094a91ec02ab68c6966cff00" medium="image"/>
+</item>
+<item>
 <title>Football Daily</title>
 <link>https://www.bbc.co.uk/sounds/play/p0pln6dk?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">762fa63b8fd6e05d8b8ec020a14b6e61b3f7bd2cf99ff38484cf27875aad5463</guid>
@@ -323,17 +345,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8744/live/a090dfb0-d9d0-11f1-9e5a-c30c5e3d8c85.jpg" medium="image"/>
 </item>
 <item>
-<title>Preston sign ex-Charlton captain Docherty</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cq8ezzx6pz6yo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">4c442ece175cbdd5ce8df6896a0b53cb812fc99cb6395cc96a5335efdc1b0677</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 06 Nov 2026 12:02:35 +0000</pubDate>
-<description>Preston North End sign experienced midfielder Greg Docherty on a deal until the end of the season.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d799/live/eb894040-d9d8-11f1-9e5a-c30c5e3d8c85.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d799/live/eb894040-d9d8-11f1-9e5a-c30c5e3d8c85.jpg" medium="image"/>
-</item>
-<item>
 <title>Has Anderson lived up to the hype after Man City move?</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">f8aeff5085cf65fd1238357b50682f57c200a0a0d34122b0e21ff8ac9355c8e0</guid>
@@ -409,17 +420,6 @@
 <description>Can Celtic build on their European comeback as another huge Premiership weekend looms?</description>
 <enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pll46p.jpg" medium="image"/>
-</item>
-<item>
-<title>How much prize money can teams win in FA Cup?</title>
-<link>https://www.bbc.co.uk/sport/articles/cq8jzn88rejgo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">3b83bbe742f66d6b4fd87ae9134d580e4e8e56ef57d2f02372e1067fbd076f5f</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 06 Nov 2026 07:50:11 +0000</pubDate>
-<description>Our Ask Me Anything team look at what teams could be set to earn from the 2026-27 FA Cup.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e4/live/5a50dcb0-d6cb-11f1-a701-fddedf244c16.png" medium="image"/>
 </item>
 <item>
 <title>How to follow the FA Cup on the BBC this weekend</title>
@@ -563,17 +563,6 @@
 <description>Jesus de Miguel's family say "the mark he has left on so many people" is something they will always remember as the footballer's funeral takes place in Spain.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7822/live/4d543600-d933-11f1-8bce-2396c9c50357.jpg" medium="image"/>
-</item>
-<item>
-<title>Emery close to agreeing new Aston Villa contract</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cw99zde82nmno?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">17de4b62fa6e53dfcc1622c285c454c218e5beb1c67388e772decd83b3f433c0</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Thu, 05 Nov 2026 15:45:22 +0000</pubDate>
-<description>Aston Villa manager Unai Emery is close to agreeing a contract extension at the club.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/410d/live/f2a1a650-d92a-11f1-bd1d-4f4c8335e0ab.jpg" medium="image"/>
 </item>
 <item>
 <title>What new Kane deal means for England and the Premier League record</title>
@@ -959,17 +948,6 @@
 <description>Hull City's Matt Crooks and Aston Villa's Matty Cash are the first players to receive a one-match ban for accumulating five yellow cards in the 2025-26 Premier League season.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b177/live/1aa00750-d6a1-11f1-b441-2b33b063138f.png" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b177/live/1aa00750-d6a1-11f1-b441-2b33b063138f.png" medium="image"/>
-</item>
-<item>
-<title>Defeat for London City - but is Europe a real possibility?</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cj93z2nk2694o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">398a83b8814256f04c3b3857d054a1e0c4c59173bf350e1df3f2e768a1c5fbf9</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sun, 01 Nov 2026 15:49:47 +0000</pubDate>
-<description>London City Lionesses suffer defeat by Manchester City but their performance suggests they are closer to Champions League qualification than expected.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340f/live/54e51be0-d61e-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
 <title>Manager ins and outs - 2026-27</title>
