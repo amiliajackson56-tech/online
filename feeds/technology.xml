@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>From the front row to the hot seat — what the midterms mean for Big Tech</title>
+<link>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech</link>
+<guid isPermaLink="false">03c46726276b69485a3653ed1db9214f4747dd2476473dbeae1562b47b227965</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 04:16:43 +0000</pubDate>
+<description>After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.</description>
+</item>
+<item>
 <title>Apple Music Classical gets new black-and-white icon in latest update</title>
 <link>https://9to5mac.com/2026/11/06/apple-music-classical-gets-new-black-and-white-icon-in-latest-update</link>
 <guid isPermaLink="false">dbdd32e9d8a732d8a1e0b36af149d1cf9040cf2f5fa2f328a0050b4deb16d77b</guid>
@@ -1469,15 +1478,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-xbox-pc-app-is-getting-a-speed-boost/l-intro-1793908196.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta says US users can now video chat with their Muse AI avatar</title>
-<link>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar</link>
-<guid isPermaLink="false">f66d8f2942889cef95d9d342c30551c335b3da6d83cae98317fe022e0bf37ad2</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 19:48:28 +0000</pubDate>
-<description>Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.</description>
-</item>
-<item>
 <title>Report: Apple’s planned $7 billion bond sale attracts four times as much demand</title>
 <link>https://9to5mac.com/2026/11/05/report-apples-planned-7-billion-bond-sale-attracts-four-times-as-much-demand</link>
 <guid isPermaLink="false">b908acc4756e5766990d4c2a70d57cc368bfe3c6b01ce2d4299e6dd04feb4807</guid>
@@ -1826,17 +1826,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>AI’s Next Trick? Speaking Dolphin</title>
-<link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
-<guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-<description>Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.</description>
-<enclosure url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" medium="image"/>
-</item>
-<item>
 <title>Best Wireless Chargers (2026): My Picks After Testing 100+</title>
 <link>https://www.wired.com/gallery/best-wireless-chargers</link>
 <guid isPermaLink="false">c3c11ab7166b9fc467154359a9c5423a6e8ba182c91b5ce8a08a1834862bf956</guid>
@@ -1846,6 +1835,17 @@
 <description>Stop fumbling for cables in the dark. These WIRED-tested stands and pads will take the hassle out of refueling your phone, wireless earbuds, and watch.</description>
 <enclosure url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6a0f6f4c9c4f912eb7592888/master/pass/Best%20Wireless%20Chargers%20top%20art%20052026%20SOURCE%20Amazon-Nomad%20Goods.jpg" medium="image"/>
+</item>
+<item>
+<title>AI’s Next Trick? Speaking Dolphin</title>
+<link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
+<guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+<description>Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.</description>
+<enclosure url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" medium="image"/>
 </item>
 <item>
 <title>He Trolls AI Labs for a Living. Now They All Want to Work With Him</title>
