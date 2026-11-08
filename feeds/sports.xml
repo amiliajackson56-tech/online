@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>'I can't believe he is one of us' - inside Salah's life in Trabzon</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">c3b2da823da1c8f09c14463bb91a5520ff18cd95198789fdd2989522b5cde5fb</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sun, 08 Nov 2026 07:30:01 +0000</pubDate>
-<description>BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg" medium="image"/>
-</item>
-<item>
 <title>Messi makes history with MLS Golden Boot</title>
 <link>https://www.bbc.co.uk/sport/football/articles/ckr5ygezr0m9o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">8ed91e2b28544b004484df7c958c9e1713334a3686bcb24859d9978205159bdd</guid>
@@ -59,6 +48,17 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg" medium="image"/>
 </item>
 <item>
+<title>Messi claims second straight Golden Boot as Nashville sets points record on MLS Decision Day</title>
+<link>https://www.theguardian.com/football/2026/nov/07/lionel-messi-mls-golden-boot-inter-miami-charlotte-nashville-playoffs</link>
+<guid isPermaLink="false">5c188f86d676957d8c27926dabe1378de3addf843fc82655c751752231cdd51c</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Sun, 08 Nov 2026 03:31:47 +0000</pubDate>
+<description>Messi first to win consecutive MLS Golden Boots Inter Miami surrender 3-0 lead in dramatic draw Nashville set new league record with 77 points Lionel Messi won his second consecutive MLS Golden Boot award on Saturday, but Inter Miami squandered a three-goal lead in a 3-3 draw with Charlotte on the final day of the regular season. The Argentine superstar failed to score but set up Miami’s first two goals from corners at Nu Stadium as the defending champions secured second place in the Eastern Conference and home-field advantage for the first two rounds of the playoffs. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/1d4d3bd0c9a8421b674f46bdc4437179c427f66f/333_0_3810_3048/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=744366676da14922d48ac5c678dfe2ac" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/1d4d3bd0c9a8421b674f46bdc4437179c427f66f/333_0_3810_3048/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=744366676da14922d48ac5c678dfe2ac" medium="image"/>
+</item>
+<item>
 <title>'It's Savage junior's night' - Charlie scores against dad Robbie's side</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cmx2d76znxe1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">f419037f24381f1dc92b1bea6849c2a6c01ff8ca166cd55009d1ba64303de80d</guid>
@@ -92,7 +92,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c339/live/0442b290-db07-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>'Curtains for Robinson' or can floundering Aberdeen boss survive?</title>
+<title>'Curtains for Robinson' or can foundering Aberdeen boss survive?</title>
 <link>https://www.bbc.co.uk/sport/football/articles/crlyk582kpn1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">b5fb1a610e9b6b787b6537df039bbd7bcfd8defa368189a0c2fd701bfbfbb239</guid>
 <source>BBC Football</source>
@@ -323,6 +323,17 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171e/live/563c7180-dadf-11f1-88f9-d3c2139f8619.jpg" medium="image"/>
 </item>
 <item>
+<title>Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c6rmyg7xpnj1o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">ef183f1dfe7089a6c95ec43d4f53ac89eeeeb2acb67661bb486755c53d979630</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sat, 07 Nov 2026 19:34:32 +0000</pubDate>
+<description>Arsenal move six points clear at the top of the Premier League after beating Hull City - but did Martin Odegaard's goal save the blushes of the VAR?</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07a/live/a49461b0-daf0-11f1-827e-c7e7ee102257.jpg" medium="image"/>
+</item>
+<item>
 <title>Championship roundup: Birmingham go top, Cardiff stun Burnley from 4-1 down</title>
 <link>https://www.theguardian.com/football/2026/nov/07/championship-roundup-stoke-norwich-wrexham-wolves</link>
 <guid isPermaLink="false">2e013f04c693345bca22c1f3fef3fed3c8e24cd2f5102a87483e75243fafa1ee</guid>
@@ -431,17 +442,6 @@
 <description>Swansea City centre-back Stephen Welsh drops out the Scotland squad for their forthcoming Nations League double-header and is replaced with Los Angeles' Ryan Porteous.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7938/live/6a3bb340-dab1-11f1-93e1-3b657b665bcf.png" medium="image"/>
-</item>
-<item>
-<title>My dream is to win Ballon d'Or - Gabriel</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">472b80a0f5407f9365a67bfa8c589438ea8250e2f553b0fd40e16e0b165a7588</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 07 Nov 2026 12:25:14 +0000</pubDate>
-<description>Manchester United forward JJ Gabriel says his "dream is to win the Ballon d'Or", as he closes in on a move to Real Madrid.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a16/live/eaf4a7b0-daa4-11f1-9da2-b11e4d68c08e.jpg" medium="image"/>
 </item>
 <item>
 <title>‘A footballing alien’: Mamadou Sangaré soars to Premier League heights</title>
@@ -565,6 +565,17 @@
 <media:content url="https://i.guim.co.uk/img/media/0764787a3c80e8b2763ec5e0848c037293306c8b/0_0_4998_3998/master/4998.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=148bdf72eb39cc1aecc69b384e177d7f" medium="image"/>
 </item>
 <item>
+<title>'A beautiful story' as Bellingham brothers called up</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">2092de1b832cd979d75aa61fafb7031e7b0a41992156c25130d195f6f2a5f9a1</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Fri, 06 Nov 2026 14:16:34 +0000</pubDate>
+<description>It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg" medium="image"/>
+</item>
+<item>
 <title>Amar Dedic set to escape Newcastle sanction over carrying bow and arrow</title>
 <link>https://www.theguardian.com/football/2026/nov/06/amar-dedic-set-to-escape-newcastle-sanction-over-carrying-bow-and-arrow</link>
 <guid isPermaLink="false">f1456f94a9fb1d48afb8d207a14037a04136ef779f6208d3ba83a46a9050d306</guid>
@@ -596,17 +607,6 @@
 <description>Evanilson helps Bournemouth to 3-1 win at Sparta Prague Ferencvaros prevail 2-0 at Milan to keep 100% record Sunderland ’s unbeaten run in the Europa League came to an end as they were beaten 2-0 by Dinamo Zagreb at the Stadium of Light. Dinamo went ahead through Luka Stojkovic’s fierce strike and the midfielder turned provider for Dion Drena Beljo to double their advantage before the break. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35ecdc7b0f795720f644b261349aeb2a" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/4718194e042b637ce1e14510eea795bf0b2a463e/675_50_1865_1493/master/1865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35ecdc7b0f795720f644b261349aeb2a" medium="image"/>
-</item>
-<item>
-<title>Scott Parker’s dramatic West Ham return leaves him struggling for words</title>
-<link>https://www.theguardian.com/football/2026/nov/05/scott-parkers-dramatic-west-ham-return-leaves-him-struggling-for-words</link>
-<guid isPermaLink="false">7156581d147c9f8d402d3ab4361ecee44a396e4c352bb8b2d6f12816a985d882</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Thu, 05 Nov 2026 22:30:35 +0000</pubDate>
-<description>The former midfielder with impressive managerial promotion record began with a thrilling comeback in draw at Cardiff Three days in and Scott Parker has already lost his voice. West Ham’s head coach arrived on Tuesday, watched his side fight back from 3-0 down to draw with Cardiff on Wednesday and was struggling to make himself heard when he met the media on Thursday afternoon. “It’s like in the summer holidays,” Parker said. “You put the flip-flops on for five weeks, then you come back home and you get your shoes on. You’re in a minute, you’ve got a blister on the back of your heel. It’s the same with a throat. I’ve not shouted for a little while. All of a sudden there’s shouting and it’s a bit croaky.” Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77e903ae88841d2abe35d4b530b867b0" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/59dbef7c403bddefffc473d430bd22a167dabef0/300_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77e903ae88841d2abe35d4b530b867b0" medium="image"/>
 </item>
 <item>
 <title>‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel</title>
@@ -739,17 +739,6 @@
 <description>The five individuals at the Premier League set to play a key role in the fate of Manchester City.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/944a/live/733de250-c978-11f1-a64c-550be9e3c66b.jpg" medium="image"/>
-</item>
-<item>
-<title>Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cqx28zjxdxxzo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">42f4350de0d451be5f4812e8fb3f050fb2e01d967956e7aca6371865797b7ccf</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Wed, 04 Nov 2026 16:12:46 +0000</pubDate>
-<description>After their memorable comeback victory against Roma, can Manchester United avoid a repeat of the past and follow that up with a successive victory?</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37d4/live/9ead2680-d85a-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
 <title>‘She can do what Beckham did’: Océane Hurtré making waves at Birmingham</title>
