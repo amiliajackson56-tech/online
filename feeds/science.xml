@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 November 8 – Major Fireball Meteor</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor</link>
+<guid isPermaLink="false">4d1edc58dbf944a956edd42c62f8d60eb8ab7a970d05c9688fbd97dee580f61b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sun, 08 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>NASA Awards Moon Base Transportation, Technology, Science Projects</title>
 <link>https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects</link>
 <guid isPermaLink="false">7fccb3522d0d3bf297a7f6e80647e72a48b7914f2d9dbc6627052d21faa20f75</guid>
@@ -351,17 +362,6 @@
 <category>science</category>
 <pubDate>Thu, 05 Nov 2026 13:05:12 +0000</pubDate>
 <description>A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today. By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group. That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia.</description>
-</item>
-<item>
-<title>Hubble Learns Galactic History From Stars</title>
-<link>https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars</link>
-<guid isPermaLink="false">4d40eb7ca8fc9a3f90fd0f1f83569a6160e30264efc98281033f31b1fb8bb931</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 05 Nov 2026 12:56:21 +0000</pubDate>
-<description>This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&amp;h=1806&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg?w=2048&amp;h=1806&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists discover mysterious “lonely” brain waves linked to memory loss</title>
