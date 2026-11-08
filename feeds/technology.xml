@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Chatbots might be coming to Apple’s HomeView</title>
+<link>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</link>
+<guid isPermaLink="false">7ff53c833c04080042abcbe9c8b544a7734725064c28d12bad1a9aa3c74d62f9</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:00:30 +0000</pubDate>
+<description>Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a "Conversational Apps" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me</title>
+<link>https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me</link>
+<guid isPermaLink="false">4a4f57b8de42cf3a0adcedbf3133c3eb5a2a953a7ea1fc57fecf12a2aed859e4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
+<description>The AutoBarista's "Grind iQ" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso.</description>
+</item>
+<item>
+<title>How to set up Google Authenticator on a new phone</title>
+<link>https://www.engadget.com/2307835/how-to-set-up-google-authenticator-new-phone</link>
+<guid isPermaLink="false">38d33f8b8e5ee60a017b1ba618d1e5b62677faf11eb9b9e6663b44861b9bc40d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:00:00 +0000</pubDate>
+<description>How to setup Google Authenticator on a new phone without causing a headache.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-set-up-google-authenticator-on-a-new-phone/l-intro-1793698683.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-set-up-google-authenticator-on-a-new-phone/l-intro-1793698683.jpg" medium="image"/>
+</item>
+<item>
+<title>Your digital game library is yours, until it's not</title>
+<link>https://www.engadget.com/2307829/digital-game-library-ownership-uncertainty</link>
+<guid isPermaLink="false">2328636a065cdd0cb66727178af2612b594d475b6aae0f27bcda81c1900d7ba9</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 14:45:00 +0000</pubDate>
+<description>Digital games you "buy" can be taken away at any time, and there are fewer options than ever for true game ownership.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-digital-game-library-is-yours-until-its-not/l-intro-1793892568.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-digital-game-library-is-yours-until-its-not/l-intro-1793892568.jpg" medium="image"/>
+</item>
+<item>
+<title>The pros and cons of buying refurbished laptops</title>
+<link>https://www.engadget.com/2307699/buying-refurbished-laptops-pros-and-cons</link>
+<guid isPermaLink="false">a03c6760da5f73c33ddfb05e17edb1ed378aea76843d038e704712aaed1ccab4</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 14:30:00 +0000</pubDate>
+<description>A properly refurbished laptop will get you a lot for your money, but not all refurb jobs are done to the same standard.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-buying-refurbished-laptops/l-intro-1793889891.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-buying-refurbished-laptops/l-intro-1793889891.jpg" medium="image"/>
+</item>
+<item>
 <title>The game reverse engineering community is the latest casualty of AI</title>
 <link>https://www.engadget.com/2307604/game-reverse-engineering-community-latest-ai-casualty</link>
 <guid isPermaLink="false">d5bf78905abc05a83c5149baf79d18b222c376ce783d1b5e9b1d58dde65850d7</guid>
@@ -321,39 +374,6 @@
 <description>On Equity, we unpacked what the midterms mean for the tech industry.</description>
 </item>
 <item>
-<title>Is your router overheating? Here's how to keep it cool and working safely</title>
-<link>https://www.engadget.com/2306359/how-to-keep-router-from-overheating</link>
-<guid isPermaLink="false">71ee2cb573e4ce3cbc073d9b7823c9983681f9aa817855fc9dba2a679432ab2a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 22:00:00 +0000</pubDate>
-<description>You'll want your router to be well-ventilated for it to perform at its best.</description>
-<enclosure url="https://www.engadget.com/img/gallery/is-your-router-overheating-heres-how-to-keep-it-cool-and-working-safely/l-intro-1793800666.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/is-your-router-overheating-heres-how-to-keep-it-cool-and-working-safely/l-intro-1793800666.jpg" medium="image"/>
-</item>
-<item>
-<title>How often should you restart your Fitbit watch?</title>
-<link>https://www.engadget.com/2309565/how-often-should-restart-fitbit-watch</link>
-<guid isPermaLink="false">b3d8932eee24d1fe356b5d176fc79722f17e1630141f52f0a41db6f236e2ff9a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 21:45:00 +0000</pubDate>
-<description>The old "turn it off and turn it on again" trick can come in handy for certain situations.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-often-should-you-restart-your-fitbit-watch/l-intro-1793889829.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-often-should-you-restart-your-fitbit-watch/l-intro-1793889829.jpg" medium="image"/>
-</item>
-<item>
-<title>The built-in iPhone app for creativity you may be ignoring (but shouldn't)</title>
-<link>https://www.engadget.com/2309562/iphone-built-in-creativity-app-should-use-freeform</link>
-<guid isPermaLink="false">4dce24d42ac847c71164e35563fe9bbace62321c5f53fab8e871d3b62d5053fb</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 21:30:00 +0000</pubDate>
-<description>Your iPhone has a built-in app for brainstorming and visual planning that can turn scattered screenshots, sketches and notes into something you can share.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-built-in-iphone-app-for-creativity-you-may-be-ignoring-but-shouldnt/l-intro-1793900002.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-built-in-iphone-app-for-creativity-you-may-be-ignoring-but-shouldnt/l-intro-1793900002.jpg" medium="image"/>
-</item>
-<item>
 <title>Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo</title>
 <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo</link>
 <guid isPermaLink="false">3b069222ecbd3b59ba7f8c2ff943b91c72de351b72c023cee112d46552acd58c</guid>
@@ -584,17 +604,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-early-black-friday-deals-HomeView-AirPods-MacBook-Ultra-4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Why a new report on Anthropic automating AI development is alarming researchers</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development</link>
-<guid isPermaLink="false">eecad6fef1daea32eacda32c0bb28056968d36fc45ddb410145c1946ddba9fe9</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 12:30:00 +0000</pubDate>
-<description>Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The Bantu expansion changed Africa. Scientists are still tracing how.</title>
 <link>https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures</link>
 <guid isPermaLink="false">336af74c1de5a9178a0804d3c6e3b9f44633ecd939514fc4b764b2d1e71449c2</guid>
@@ -683,17 +692,6 @@
 <media:content url="https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg" medium="image"/>
 </item>
 <item>
-<title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
-<link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
-<guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
-<enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
-</item>
-<item>
 <title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
 <link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
 <guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
@@ -703,6 +701,17 @@
 <description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
 <enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
+</item>
+<item>
+<title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
+<link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
+<guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
+<enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
 </item>
 <item>
 <title>The 19 Best Early Black Friday Deals 2026</title>
@@ -1493,15 +1502,6 @@
 <description>Creators in their sixties, seventies, and eighties have flooded adult platforms as the demand for mature content has skyrocketed, with some turning to online sex work as a retirement lifeline.</description>
 <enclosure url="https://media.wired.com/photos/6aecc120526de281f1d52128/master/pass/Culture_The%20Octogenarians%20Joining%20OnlyFans%20to%20Fund%20Retirement_v1.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aecc120526de281f1d52128/master/pass/Culture_The%20Octogenarians%20Joining%20OnlyFans%20to%20Fund%20Retirement_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>Tesla will stop making the Cybertruck in 2027</title>
-<link>https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027</link>
-<guid isPermaLink="false">1fb70132d8386c8d42d15c291e41b1645743f5ab96c230216c62fec1d76f21f1</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 11:50:10 +0000</pubDate>
-<description>The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.</description>
 </item>
 <item>
 <title>Kitchen Composters I Recommend After 2 Years of Testing (2026)</title>
