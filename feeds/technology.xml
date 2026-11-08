@@ -4,6 +4,68 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’</title>
+<link>https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done</link>
+<guid isPermaLink="false">b8984debaad2724176bb33a1d2f68fae580e4be8b33fce3fae8e61af77675d8f</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 18:00:04 +0000</pubDate>
+<description>SNL seems to have its knives out for tech executives.</description>
+</item>
+<item>
+<title>The pros and cons of using your laptop with the lid closed</title>
+<link>https://www.engadget.com/2308391/using-laptop-lid-closed-pros-and-cons</link>
+<guid isPermaLink="false">af3cc3e6b3ef632b18de912a61d2ef56a7666d9f3932d0e3a73d43a805896386</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 17:45:00 +0000</pubDate>
+<description>Connecting your laptop to an external display and running it with the lid closed has some benefits and drawbacks.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-laptop-with-the-lid-closed/l-intro-1793907582.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-your-laptop-with-the-lid-closed/l-intro-1793907582.jpg" medium="image"/>
+</item>
+<item>
+<title>He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.</title>
+<link>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund</link>
+<guid isPermaLink="false">246d45790f69876be5d353b8a329416b93d10943b5b6bba7378090c1dbbfe8ca</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 17:30:00 +0000</pubDate>
+<description>Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.</description>
+</item>
+<item>
+<title>How much Netflix cost in 2007 vs. 2026</title>
+<link>https://www.engadget.com/2308948/how-much-netflix-cost-2007-vs-2026</link>
+<guid isPermaLink="false">5ce8a4a00a37a9dfb53e1e885c3574368d45cb69a002485b5385203dade43c0c</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 17:30:00 +0000</pubDate>
+<description>It's been nearly 20 years since Netflix first introduced its streaming media plans. They've changed a bit .</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-much-netflix-cost-in-2007-vs-2026/l-intro-1793972828.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-much-netflix-cost-in-2007-vs-2026/l-intro-1793972828.jpg" medium="image"/>
+</item>
+<item>
+<title>Elvis and Eminem rights holders are suing Suno</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit</link>
+<guid isPermaLink="false">c08233254ab55692344230fc658e502255fd7f325c13813a761b5555b7a8d1fe</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 17:23:19 +0000</pubDate>
+<description>Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those artists. The lawyers in the Presley suit claim that Suno has violated Tennessee's […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22202367/517216004.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The reason why some USB ports are teal</title>
+<link>https://www.engadget.com/2308359/reason-why-usb-ports-teal</link>
+<guid isPermaLink="false">39009ab0d1f1f60efdbadace5452f27272a5177f21b22065cd2dc33a281bb669</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 17:15:00 +0000</pubDate>
+<description>A teal USB port can indicate a connection with particular data and charging speeds. Here's what it means.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-reason-why-some-usb-ports-are-teal/l-intro-1793906676.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-reason-why-some-usb-ports-are-teal/l-intro-1793906676.jpg" medium="image"/>
+</item>
+<item>
 <title>TechCrunch Mobility: The Cybertruck experiment is over</title>
 <link>https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over</link>
 <guid isPermaLink="false">a8057696b6984e7adb3d887750bd6e1915a21fef74d09b7d2a690e776e5f502f</guid>
@@ -372,39 +434,6 @@
 <media:content url="https://www.engadget.com/img/gallery/syncing-apple-music-across-your-devices-is-easier-than-you-think/l-intro-1793849755.jpg" medium="image"/>
 </item>
 <item>
-<title>Samsung One UI 9.5 beta may be coming soon: Here's how to sign up for the program</title>
-<link>https://www.engadget.com/2307479/samsung-one-ui-9-5-beta-program-how-to-sign-up</link>
-<guid isPermaLink="false">ee67f847ba1a2e4845d327318d961bfc911e1193ae3303511c6eab8a887fef49</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 01:00:00 +0000</pubDate>
-<description>Samsung appears to be preparing the One UI 9.5 beta program ahead of an expected 2027 launch. Here's what to do if you want to test Samsung's latest OS.</description>
-<enclosure url="https://www.engadget.com/img/gallery/samsung-one-ui-9-5-beta-may-be-coming-soon-heres-how-to-sign-up-for-the-program/l-intro-1793854687.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/samsung-one-ui-9-5-beta-may-be-coming-soon-heres-how-to-sign-up-for-the-program/l-intro-1793854687.jpg" medium="image"/>
-</item>
-<item>
-<title>How do spam callers get your number in the first place?</title>
-<link>https://www.engadget.com/2307324/spam-callers-how-they-get-your-number</link>
-<guid isPermaLink="false">d01def96eaad450f52df22446b44677d1f995720d91b3b2fa62c652a95571f98</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 00:45:00 +0000</pubDate>
-<description>Ever wonder how a total stranger ended up with your phone number? The answer starts earlier than you think, and a few small habits can keep it from spreading.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-do-spam-callers-get-your-number-in-the-first-place/l-intro-1793828250.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-do-spam-callers-get-your-number-in-the-first-place/l-intro-1793828250.jpg" medium="image"/>
-</item>
-<item>
-<title>What does Apple One Family come with and which subscription is best for you?</title>
-<link>https://www.engadget.com/2307150/apple-one-family-plan-what-comes-with-which-subscription-best</link>
-<guid isPermaLink="false">43732b3770d787e58eafd3b91c673d893c2085f6b240a0ddb626ae9b073bb622</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 00:30:00 +0000</pubDate>
-<description>Apple One offers strong value if you're using a lot of Apple services anyway, but make sure you do the math before signing up.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-does-apple-one-family-come-with-and-which-subscription-is-best-for-you/l-intro-1793824864.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-does-apple-one-family-come-with-and-which-subscription-is-best-for-you/l-intro-1793824864.jpg" medium="image"/>
-</item>
-<item>
 <title>Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone</title>
 <link>https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone</link>
 <guid isPermaLink="false">9840dfc561d8eaca7e2cd8f0e64dc932fea4317c7f0e64953fc64a1da19a632e</guid>
@@ -589,17 +618,6 @@
 <description>Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Good riddance, Cybertruck!</title>
-<link>https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash</link>
-<guid isPermaLink="false">64aea633afaca9aebc44f5368281c68e3b3a26fe10bec2b72e262ac665a83d23</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 14:40:06 +0000</pubDate>
-<description>I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be "winding down" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it was a humiliating way to kill a vehicle that was once hailed […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/yI0AMBlStYQ-HD.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands</title>
@@ -1420,15 +1438,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg" medium="image"/>
 </item>
 <item>
-<title>After blocking Muse, Amazon now lets users text Alexa to help them shop</title>
-<link>https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop</link>
-<guid isPermaLink="false">63e1c5c982d992554201f922b1c9a6268fdddbc81115346d8aeffd17f6016277</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 14:10:00 +0000</pubDate>
-<description>Amazon said that the feature will roll out to millions of users in coming weeks.</description>
-</item>
-<item>
 <title>No more Cybertrucks; Musk moves on from the angular metallic flop</title>
 <link>https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk</link>
 <guid isPermaLink="false">3bc1e1b383733d23fa6804d84487860f3d2db09e31a455346f18333de7c97975</guid>
@@ -1460,15 +1469,6 @@
 <description>Popular Apple accessory maker Twelve South is launching a new retractable Cablesnap 65W travel charger this week. It has a built-in USB-C cable, alongside an additional USB-C port and USB-A port. You can order the new Cablesnap 65W on Amazon today for $49.99 . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Twelve-South-Cablesnap-Retractable-USB-C-Travel-Charger-2026.jpg.webp?w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Twelve-South-Cablesnap-Retractable-USB-C-Travel-Charger-2026.jpg.webp?w=1500" medium="image"/>
-</item>
-<item>
-<title>Underdog shows off a 32MB speech model in new demo</title>
-<link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo</link>
-<guid isPermaLink="false">a128386b25427955b1c07e8d5b89d53ed68f88dd2e47ddd2b4ffe5e271a6bd18</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 13:02:16 +0000</pubDate>
-<description>Despite its small size, Underdog's new model can generate both speech and music.</description>
 </item>
 <item>
 <title>D-Link warns of multiple zero-days in DGS-3130 Series switches</title>
