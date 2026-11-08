@@ -4,17 +4,6 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>Listen to Off The Ball</title>
-<link>https://www.bbc.co.uk/sounds/play/live:bbc_radio_scotland_fm?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">de851c45da54f2914688d9227927930d4efe441b080710529ae91c473a939498</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sun, 08 Nov 2026 14:00:00 +0000</pubDate>
-<description>The most petty and ill-informed football show on radio.</description>
-<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0d5ff0c.jpg" medium="image"/>
-</item>
-<item>
 <title>Shock changes &amp; key results - Wrexham's seismic week</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cqrkyg434y84o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">22dcf2d011e1f2654922d076c3743f3e2543f3d0e059701662d457f2e34856ce</guid>
@@ -123,6 +112,17 @@
 <description>Brighton's unique defensive shape has provided the platform for the Seagulls' superb start to the Premier League season.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/0e138ac0-d90d-11f1-94c6-3f8050561bf5.jpg" medium="image"/>
+</item>
+<item>
+<title>The oldest club in London making FA Cup history</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cv8ez3pe5x41o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">d2e197c3a67c4a19b3c1b20bc1390391846c749d535ee359f2ce06e4469c7cdc</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 08 Nov 2026 06:28:56 +0000</pubDate>
+<description>Cray Wanderers host Stockport County in the FA Cup first round, with 112 league places separating the two sides.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f765/live/7f024030-d860-11f1-85ab-b3cc3b5498c6.jpg" medium="image"/>
 </item>
 <item>
 <title>Messi claims second straight Golden Boot as Nashville set points record on MLS Decision Day</title>
@@ -356,6 +356,17 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3af7/live/d780fef0-dae4-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
+<title>There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson</title>
+<link>https://www.theguardian.com/football/2026/nov/07/manager-sorts-out-manchester-united-unai-emery</link>
+<guid isPermaLink="false">eb9fca1d781eeee827dfbe4eb1e52f2527a1c1631ad178755d97a55230849745</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Sat, 07 Nov 2026 20:00:19 +0000</pubDate>
+<description>Spaniard may feel some of Old Trafford’s allure when he goes there on Sunday but he is right in wanting to stay at the club with brighter prospects On Sunday afternoon, shortly before 4.30, Unai Emery will leave the tunnel at Old Trafford and walk along the touchline towards the bench. Will he glance around the grand old stadium – faded and leaking though it may be in parts – and think that he could have a part in restoring the club to former glories? Will he look at the home bench and imagine himself sitting there – or perhaps more plausibly, scuttling up and down in front of it – as the first Manchester United manager since Sir Alex Ferguson to land a league title? Perhaps not. Emery is, after all, in “advanced talks” to extend a contract at Villa that already runs to 2029. However frustrating he may find the habitual summer churn, he is good at managing it. He feels the right fit for Villa, and that is arguably the most important factor in determining success. Yet all elite managers</description>
+<enclosure url="https://i.guim.co.uk/img/media/b085cadb561754dfa46a2a4b77ebd136369e8a35/729_180_2295_1836/master/2295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4b44df00797faa535f8e23331cc51e5" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b085cadb561754dfa46a2a4b77ebd136369e8a35/729_180_2295_1836/master/2295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4b44df00797faa535f8e23331cc51e5" medium="image"/>
+</item>
+<item>
 <title>Muniz strike denies Newcastle and Jaissle much-needed win</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cm2d69p2x3g7o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">553220e7ba1033ccdc31418c0841823c0140af887c7cb03c23b8a6324a29903f</guid>
@@ -532,17 +543,6 @@
 <media:content url="https://i.guim.co.uk/img/media/9e7ae405facd7fe96282352c135e94adb050c653/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38906b7b587387cc7c955c209ace0e04" medium="image"/>
 </item>
 <item>
-<title>I left Man City for my mental wellbeing - Trafford</title>
-<link>https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">646fe3a7f62ca3a8dec814048abcbf037b8bf11099eeb0a1cdec24a5036fbdea</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 07 Nov 2026 07:16:37 +0000</pubDate>
-<description>James Trafford says not playing for Manchester City last season was "horrendous" and left him with no choice but to leave the club and join Leeds United in the summer.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef3/live/6773ae50-da1c-11f1-b441-2b33b063138f.jpg" medium="image"/>
-</item>
-<item>
 <title>Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football</title>
 <link>https://www.theguardian.com/football/2026/nov/07/antisocial-behaviour-non-league-football-youth-hooligans-police</link>
 <guid isPermaLink="false">6f3388bf88335d031693b085f2fc2cc98768fb9bacd7ffff95c608872f9395bf</guid>
@@ -565,17 +565,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e94/live/6dde44f0-da2e-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
-<title>Thierno Barry double fires Everton to comeback win against Coventry</title>
-<link>https://www.theguardian.com/football/2026/nov/06/everton-coventry-premier-league-match-report</link>
-<guid isPermaLink="false">1e4c602bfb70a0a4280c736a4f35cee265daaca583b7d1abb0bcf19edb3ae361</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Fri, 06 Nov 2026 22:03:48 +0000</pubDate>
-<description>The wildly optimistic Evertonian – if such a being exists – could not have envisaged David Moyes’ side fifth in the Premier League with Thierno Barry just behind Erling Haaland in the goalscoring chart when their transfer window closed in calamitous fashion. Yet there they sit, team and striker defying all expectations, following a stirring comeback against luckless Coventry. Frank Lampard endured a torturous night against his old club as Coventry impressed but were refused two strong penalty claims. The Coventry manager felt his team were denied a third time by the video assistant referee for an apparent handball by Barry when edging Everton ahead. Replays were inconclusive. It was the dancing French forward’s second goal of the game and 10th in all competitions this season. He also delivered a fine assist for Kiernan Dewsbury-Hall as the in-form midfielder put his latest England disappointment behind him to seal victory in convincing style. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/faee4eedcdd07bdc1ae9a290d4eea8e3b2fdb21d/405_0_4050_3240/master/4050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ca64cc8049ae27ca0e4be465c570d0b" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/faee4eedcdd07bdc1ae9a290d4eea8e3b2fdb21d/405_0_4050_3240/master/4050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ca64cc8049ae27ca0e4be465c570d0b" medium="image"/>
-</item>
-<item>
 <title>Charlton’s struggles expose ‘absolute ocean’ between WSL and second tier</title>
 <link>https://www.theguardian.com/football/2026/nov/06/charlton-risk-being-chewed-up-wsl-karen-hills</link>
 <guid isPermaLink="false">11d10aaf739ba0cbe92534761f12e0f35b9d18d472b843e092503504441bb8b2</guid>
@@ -596,17 +585,6 @@
 <description>Jude had asked head coach to scout Dortmund midfielder ‘It will be beautiful for Jude to have his brother close’ Thomas Tuchel has given a first England call-up to Jobe Bellingham , admitting the midfielder’s older brother, Jude, had nagged him to do so, as he set up the prospect of their family dream being realised. Tuchel’s inclusion of the younger Bellingham for the Nations League games against Croatia and Spain was further evidence of his shift away from the squad that served him well at the World Cup last summer and towards a fresh dynamic for the mission to win Euro 2028. The manager has named a 25-man group for the game against Croatia at Wembley on Thursday and the one against Spain in Madrid three days after; of the 22 outfield players, only 11 were at the World Cup. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/403_296_4404_3521/master/4404.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4818222d57b045523fe9fb2226f98c49" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/b0d33f547e93a4f8986eec3da7a3b51410509f44/403_296_4404_3521/master/4404.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4818222d57b045523fe9fb2226f98c49" medium="image"/>
-</item>
-<item>
-<title>James out for minimum of five games - Bompastor</title>
-<link>https://www.bbc.co.uk/sport/football/articles/crq5nnqn84zyo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">bcfbfe05aee1c55eca07c162be0c87d14cb341ca76dc1d1210e798a89b78d243</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Fri, 06 Nov 2026 16:44:44 +0000</pubDate>
-<description>Sonia Bompastor says Lauren James is out for at least the next few weeks, casting doubt on her availability for England's World Cup qualifying play-off matches.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5cf/live/b6d6f4d0-d9fd-11f1-84c1-dbcae60402d7.jpg" medium="image"/>
 </item>
 <item>
 <title>Football Daily | You want proper football? Here are the FA Cup first-round ties to look out for</title>
