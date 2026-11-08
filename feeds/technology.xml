@@ -4,6 +4,48 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Iris Ohyama data cloud breach exposes info of 7.7 million customers</title>
+<link>https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers</link>
+<guid isPermaLink="false">991a8f7ace2dbef42f27dae640cde8092a8d98152b33f2ab11f759325f38df49</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:43:08 +0000</pubDate>
+<description>Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]</description>
+</item>
+<item>
+<title>Apple aiming to make Siri ‘more like an agent’ as soon as next year: report</title>
+<link>https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report</link>
+<guid isPermaLink="false">11590f6807f11f85f6b9b8858dabd7c215f9777fceb4ca5e8c489359c955bb11</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:30:36 +0000</pubDate>
+<description>Apple finally shipped its long awaited personalized Siri with iOS 27. The company lived up to its promises, and delivered on its hefty goals that it set out back in 2024. That said, Siri still lacks in terms of proactively taking actions for you, a feature that many AI companies are actively working towards. Apple might come around on that next year, per Bloomberg’s Mark Gurman . The company is also experimenting with a new engineering pipeline that might make faster development possible. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/siri-ai-app-ios-27-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>These experimental EV batteries can eject themselves during a fire</title>
+<link>https://www.engadget.com/2307844/experimental-ev-batteries-eject-during-fire</link>
+<guid isPermaLink="false">c650ef1f587b57c9b9f775b5bf137567ef409caeccf9a62f5b54240c57783680</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:30:00 +0000</pubDate>
+<description>EV battery fires are highly dangerous and difficult to extinguish, but is launching a battery pack out of the car a smart or realistic solution?</description>
+<enclosure url="https://www.engadget.com/img/gallery/these-experimental-ev-batteries-can-eject-themselves-during-a-fire/l-intro-1793820961.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/these-experimental-ev-batteries-can-eject-themselves-during-a-fire/l-intro-1793820961.jpg" medium="image"/>
+</item>
+<item>
+<title>Pro Gamers typically don't use OLED monitors, but you most definitely can</title>
+<link>https://www.engadget.com/2307840/pro-gamers-dont-use-oled-monitors-why-you-should</link>
+<guid isPermaLink="false">54235b3664c65ed0004ee3fc3dddac325dff38911c0e808bbf6cf5735add0e69</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 15:15:00 +0000</pubDate>
+<description>Big tournaments favor LCD monitors, though perhaps not for the reasons you suspect. We'll explain why normal gamers can and should embrace OLED displays.</description>
+<enclosure url="https://www.engadget.com/img/gallery/pro-gamers-typically-dont-use-oled-monitors-but-you-most-definitely-can/l-intro-1793761591.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/pro-gamers-typically-dont-use-oled-monitors-but-you-most-definitely-can/l-intro-1793761591.jpg" medium="image"/>
+</item>
+<item>
 <title>Chatbots might be coming to Apple’s HomeView</title>
 <link>https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview</link>
 <guid isPermaLink="false">7ff53c833c04080042abcbe9c8b544a7734725064c28d12bad1a9aa3c74d62f9</guid>
@@ -332,17 +374,6 @@
 <media:content url="https://www.engadget.com/img/gallery/what-discs-can-a-playstation-5-play/l-intro-1793819005.jpg" medium="image"/>
 </item>
 <item>
-<title>What does NAT type mean for online gaming?</title>
-<link>https://www.engadget.com/2309599/what-nat-type-means-online-gaming</link>
-<guid isPermaLink="false">084d6186361b430e05f27a419bc4c0804de1014a647d0e2346b0dd9e3189e7aa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 22:30:00 +0000</pubDate>
-<description>If you regularly play online games, you may have noticed a setting called NAT type or even got an alert about it. Here's what it means and why it matters.</description>
-<enclosure url="https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/what-does-nat-type-mean-for-online-gaming/l-intro-1793903325.jpg" medium="image"/>
-</item>
-<item>
 <title>Chromagraph Camera is exactly the camera app I’ve been looking for on iPhone</title>
 <link>https://9to5mac.com/2026/11/07/chromagraph-camera-is-exactly-the-camera-app-ive-been-looking-for-on-iphone</link>
 <guid isPermaLink="false">9840dfc561d8eaca7e2cd8f0e64dc932fea4317c7f0e64953fc64a1da19a632e</guid>
@@ -352,17 +383,6 @@
 <description>Last week, movie director Rian Johnson announced a surprise new camera app for iPhone that reimagines what a smartphone photo should look like. Many people would agree that Apple’s iPhone photos are a tad bit overprocessed. iPhone 18 Pro and iPhone Duo introduced a new film texture option, but in my view, it’s a bit too exaggerated. Chromagraph Camera , on the other hand, feels pretty perfect. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/rian-camera-app.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>The disadvantages of owning smart refrigerators</title>
-<link>https://www.engadget.com/2309569/disadvantages-owning-smart-refrigerators</link>
-<guid isPermaLink="false">51a8425a6eaafd1fe77173b3af5ef9ad5fab179fa0b3093b93d808806526633e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 22:15:00 +0000</pubDate>
-<description>A smart refrigerator can change how you manage your kitchen, but its features come with practical drawbacks worth checking before making a purchase.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-disadvantages-of-owning-smart-refrigerators/l-intro-1793726702.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-disadvantages-of-owning-smart-refrigerators/l-intro-1793726702.jpg" medium="image"/>
 </item>
 <item>
 <title>After the midterms, things are looking rocky for Elon Musk and data centers</title>
@@ -692,17 +712,6 @@
 <media:content url="https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg" medium="image"/>
 </item>
 <item>
-<title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
-<link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
-<guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
-<enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
-</item>
-<item>
 <title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
 <link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
 <guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
@@ -712,6 +721,17 @@
 <description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
 <enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
+</item>
+<item>
+<title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
+<link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
+<guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
+<enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
 </item>
 <item>
 <title>The 19 Best Early Black Friday Deals 2026</title>
@@ -1760,15 +1780,6 @@
 <description>Apple Arcade subscribers got four new games today, with another major release coming next week. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/11/apple-arcade-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Nearly 1.5 million exposed secrets targeted in new revocation program</title>
-<link>https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets</link>
-<guid isPermaLink="false">90a9132e0b10bdd9ccf88cd1dd13627c9669b296213ffa364e1ed1c9aae3cde5</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 20:15:08 +0000</pubDate>
-<description>Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]</description>
 </item>
 <item>
 <title>13 Best Early Black Friday Deals at Best Buy on Hot Tech (2026)</title>
@@ -2880,17 +2891,6 @@
 <description>Apple has yet to launch the iPhone 18, with only 18 Pro and Duo models debuting this fall. But a new leak points to two iPhone 18 upgrades that will follow the pattern of the iPhone 18 Pro. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-pride-luminance-iphone-17-pro-black.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/ios-26-5-pride-luminance-iphone-17-pro-black.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Deals: MacBook Neo up to $120 off, AirPods Pro 3, Apple Watch Ultra 4, Beats 360 up to $80 off, more</title>
-<link>https://9to5mac.com/2026/11/03/deals-macbook-neo-airpods-apple-watch-beats-360</link>
-<guid isPermaLink="false">bbde0438c8684e8bcddbaa136969a795d5916fefa57d4c81885678df80846c48</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:29:30 +0000</pubDate>
-<description>Alongside the ongoing $50 price drop on AirPods Pro 3 , we once again have some additional Apple Watch Ultra 4 models dropping back down to all-time low pricing at nearly $100 off and up to $200 off M5 MacBook Air . Today we spotted a rare MacBook Neo deal live at Amazon as well as up to $120 off select models directly on the Apple refurbished store, the 2026 M5 Max Mac Studio returning to the Amazon all-time low at $200 off , a chance to score the new Beats 360 at the lowest price we have seen yet, and the Beats 10-foot 240W Braided USB-C Cable at the lowest price of the year. Check it all out below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-MacBook-Neo-Apple-Watch-Ultra-4-AirPods.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-MacBook-Neo-Apple-Watch-Ultra-4-AirPods.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access</title>
