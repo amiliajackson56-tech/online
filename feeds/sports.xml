@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Palace consider replacing Sage with Frank among contenders</title>
+<link>https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">162dad9b020ac31cec4fc7e375ad00feac195b1f263b7b6e9b5d5c18bc169d7b</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Sun, 08 Nov 2026 20:49:40 +0000</pubDate>
+<description>Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas Frank among the contenders to replace him.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
+</item>
+<item>
+<title>FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round</title>
+<link>https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield</link>
+<guid isPermaLink="false">f8146468ab951955fd759c423deb3e2d131e97f94eb26160e5da9896d9277c73</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Sun, 08 Nov 2026 20:15:53 +0000</pubDate>
+<description>Grimsby and Stockport survive scares but Wednesday out Exeter upset League One leaders Huddersfield Seventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round. The Dorset part-timers took the lead after only nine minutes when the property surveyor Yang Seung-woo curled a superb strike from just inside the penalty area into the top corner. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad2b948bc69612f848dc8337ba240951" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad2b948bc69612f848dc8337ba240951" medium="image"/>
+</item>
+<item>
 <title>Where does Man Utd 4-4 Villa rank among best Premier League games?</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cy47wj05xgqo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">3e40d270b83adbf51eb81f2515133af1b155380eae7ff6e8063478f7381bd03c</guid>
@@ -37,7 +59,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8967/live/b01c8b60-dbaa-11f1-a701-fddedf244c16.jpg" medium="image"/>
 </item>
 <item>
-<title>Bournemouth continue winning streak with Ipswich win</title>
+<title>Bournemouth beat Ipswich to extend winning streak</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cmx23rll2w0qo?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">4583848041bc81fab84dcbd0baa828285688a7a9a07df22908b025dd9bc1ac26</guid>
 <source>BBC Football</source>
@@ -169,17 +191,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bfb/live/d0b51af0-db81-11f1-93e1-3b657b665bcf.jpg" medium="image"/>
 </item>
 <item>
-<title>FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round</title>
-<link>https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield</link>
-<guid isPermaLink="false">f8146468ab951955fd759c423deb3e2d131e97f94eb26160e5da9896d9277c73</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Sun, 08 Nov 2026 17:41:47 +0000</pubDate>
-<description>Grimsby and Stockport survive scares Exeter upset League One leaders Huddersfield Seventh-tier Wimborne heaped more misery on Crawley as the bottom side in the Football League lost 2-0 in the biggest upset of the FA Cup first round. The Dorset part-timers took the lead after only nine minutes when the property surveyor Yang Seung-woo curled a superb strike from just inside the penalty area into the top corner. Continue reading...</description>
-<enclosure url="https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad2b948bc69612f848dc8337ba240951" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad2b948bc69612f848dc8337ba240951" medium="image"/>
-</item>
-<item>
 <title>10-man Stockport come from behind to survive huge scare at Cray</title>
 <link>https://www.bbc.co.uk/sport/football/videos/cqj9km408d38o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">103fdb58184f1eefe2be8418a1867223749994179b81b56fc0046418c96ae541</guid>
@@ -257,13 +268,13 @@
 <media:content url="https://i.guim.co.uk/img/media/3af2f1b92a97f12785b61aabdc522fe2f1de8b48/77_0_2140_1711/master/2140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dec08707150e9e39a7a28424b65abf7" medium="image"/>
 </item>
 <item>
-<title>Evanilson launches eighth straight Bournemouth win at blundering Ipswich</title>
+<title>Evanilson ignites eighth straight Bournemouth win at blundering Ipswich</title>
 <link>https://www.theguardian.com/football/2026/nov/08/ipswich-bournemouth-premier-league-match-report</link>
 <guid isPermaLink="false">92ccc0c65575cb7fc08463eb0cd4f88906a47b9d5729af9b25f15129505dc555</guid>
 <source>The Guardian Football</source>
 <category>sports</category>
 <pubDate>Sun, 08 Nov 2026 16:14:31 +0000</pubDate>
-<description>Another Evanilson goal helped fire Marco Rose’s Bournemouth to an eighth straight victory with a hard-fought 2-1 win at Ipswich. Evanilson failed to score in his first six appearances of the season but found the net for a fifth consecutive Premier League match and made it seven goals in eight after five minutes at Portman Road. Continue reading...</description>
+<description>Marco Rose paid tribute to his Bournemouth side after a hard‑fought 2-1 victory at Ipswich equalled the club’s record of eight consecutive wins. Evanilson got the ball rolling after five minutes, scoring for a fifth successive Premier League match. With seven goals this season, he has already beaten his tally from the whole of last season. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/3a9051327a06c71de5586088eef6a4488e7826e7/435_0_3996_3197/master/3996.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ec7f16a3e2428ca1c5a392ed0a1c8cf" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/3a9051327a06c71de5586088eef6a4488e7826e7/435_0_3996_3197/master/3996.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ec7f16a3e2428ca1c5a392ed0a1c8cf" medium="image"/>
 </item>
@@ -574,17 +585,6 @@
 <description>Questions over whether Álvaro Arbeloa and Matthias Jaissle have what it takes to succeed in the Premier League remain unanswered after these two young foreign managers watched their sides grind out a 1-1 draw at Craven Cottage. Arbeloa’s Fulham lacked fizz, physicality and personality before rescuing a point thanks to a late equaliser from Rodrigo Muniz, while Newcastle displayed little of Jaissle’s high-octane philosophy and squandered the chance to move into the top half after failing to build on a vicious opening goal from Jacob Murphy. Continue reading...</description>
 <enclosure url="https://i.guim.co.uk/img/media/0524118fb7d7482c664b87701841e19090a63c3b/314_0_2767_2214/master/2767.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a015403979f624d0d97296506cd810ec" type="image/jpeg"/>
 <media:content url="https://i.guim.co.uk/img/media/0524118fb7d7482c664b87701841e19090a63c3b/314_0_2767_2214/master/2767.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a015403979f624d0d97296506cd810ec" medium="image"/>
-</item>
-<item>
-<title>Tottenham set to complain to Pro Ref after Bogle escapes red card</title>
-<link>https://www.bbc.co.uk/sport/football/articles/c39wz9llg255o?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">59c49db8de3add6df599eb3b13caf0d145aeead4b72211b897af4ce2698b43d8</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sat, 07 Nov 2026 16:35:26 +0000</pubDate>
-<description>Tottenham are set to submit a formal complaint about the decision not to send off Jayden Bogle for his challenge on Mathys Tel during the defeat by Leeds.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4437/live/77476990-dac4-11f1-bda8-29fb69dbc026.jpg" medium="image"/>
 </item>
 <item>
 <title>Manchester City break clear of Chelsea in WSL after Bronze’s freak own goal</title>
