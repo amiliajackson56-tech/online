@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation</title>
+<link>https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html</link>
+<guid isPermaLink="false">4d02c260bfd3474beac1944c16a7542aac1df8b69d858035441029358f1c0e69</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 06:05:24 +0000</pubDate>
+<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg" medium="image"/>
+</item>
+<item>
 <title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”</title>
 <link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50</link>
 <guid isPermaLink="false">177dd03271cc9aec73ac94c0e4d26ccf1d8490f7830d8682abb6a52969cfe840</guid>
@@ -521,17 +532,6 @@
 <media:content url="https://media.wired.com/photos/6aece579f9b9f1f7ef48cd46/master/pass/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg" medium="image"/>
 </item>
 <item>
-<title>The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now</title>
-<link>https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026</link>
-<guid isPermaLink="false">433c9094638e3e8140e0059d721b88176d1207ad0c645be3500ffe4d2cab3d66</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
-<description>Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.</description>
-<enclosure url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" medium="image"/>
-</item>
-<item>
 <title>6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More</title>
 <link>https://www.wired.com/gallery/best-touchscreen-gloves</link>
 <guid isPermaLink="false">87aeda509637ad20f3729be91528ad5e3c5167827377b09276df341614966222</guid>
@@ -541,6 +541,17 @@
 <description>We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?</description>
 <enclosure url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" medium="image"/>
+</item>
+<item>
+<title>The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now</title>
+<link>https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026</link>
+<guid isPermaLink="false">433c9094638e3e8140e0059d721b88176d1207ad0c645be3500ffe4d2cab3d66</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+<description>Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.</description>
+<enclosure url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" medium="image"/>
 </item>
 <item>
 <title>World Models Will Soon Be Inescapable. Here’s What You Need to Know</title>
@@ -815,17 +826,6 @@
 <media:content url="https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg" medium="image"/>
 </item>
 <item>
-<title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
-<link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
-<guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
-<enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
-</item>
-<item>
 <title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
 <link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
 <guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
@@ -835,6 +835,17 @@
 <description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
 <enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
+</item>
+<item>
+<title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
+<link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
+<guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
+<enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
 </item>
 <item>
 <title>The 19 Best Early Black Friday Deals 2026</title>
@@ -3056,16 +3067,5 @@
 <description>Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0. Neither flaw is in CISA's Known</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy</title>
-<link>https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html</link>
-<guid isPermaLink="false">bfff44c21cc75a582d8e2d6dca73bfd175e0ca0808019e0058a89a07708bcd47</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 11:30:00 +0000</pubDate>
-<description>Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZbG_0dst_8ctvKrGx37rAninLXS6SIcKT4YjziNbu7bPmTPAsYvWo-Jkwj0UqT493VwmYVtvkthnEGLqTusFvJFo9fPth_VWjI2XNev9SKY-sePLY12rM5yWoQOzrvEXG0DWOWBb7N8GcdHNPqv6skeqGx2r2zGVlDeWkPnt5drMe_R2yh8TB8-kOCug/s1600/pro.jpg" medium="image"/>
 </item>
 </channel></rss>
