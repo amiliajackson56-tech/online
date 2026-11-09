@@ -4,6 +4,81 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Tesla expands robotaxi service to San Antonio</title>
+<link>https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio</link>
+<guid isPermaLink="false">923f6f9932b2d3a82b3fc4d60c2bad23f2f9147be079922c568503daaf89246e</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:30:24 +0000</pubDate>
+<description>This will be the fourth Texas city in which Tesla will launch robotaxis.</description>
+</item>
+<item>
+<title>The Midterms Were a Pretty Good Sign for the Right-to-Repair Movement</title>
+<link>https://www.wired.com/story/the-midterms-were-a-pretty-good-sign-for-right-to-repair</link>
+<guid isPermaLink="false">7c49fb05d26b8295d1af0bb18a12215f45d12cfb912f119c186b5b75d963a048</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:30:00 +0000</pubDate>
+<description>A shifting political landscape gives right-to-repair advocates their best shot yet at meaningful federal reform.</description>
+<enclosure url="https://media.wired.com/photos/6aedfe0f80b2626fa065567c/master/pass/GettyImages-2302892700.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aedfe0f80b2626fa065567c/master/pass/GettyImages-2302892700.jpg" medium="image"/>
+</item>
+<item>
+<title>Scientists May Have Discovered a Massive Starless Galaxy</title>
+<link>https://www.wired.com/story/scientists-discover-massive-starless-galaxy</link>
+<guid isPermaLink="false">f235ebe1be8d1faab178eac85906f58351dd3f63f62aa1a29d3fb06963daadb2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:15:00 +0000</pubDate>
+<description>The promising candidate contains roughly 2 billion times the sun’s mass in hydrogen, yet appears to have no stars. Studying it could help answer questions that have vexed astronomers for years.</description>
+<enclosure url="https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg" medium="image"/>
+</item>
+<item>
+<title>Torrent underground</title>
+<link>https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy</link>
+<guid isPermaLink="false">738fb8efec577226749b53aad1933eeed651b31d51c58595cc5819512f3aab4a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:05 +0000</pubDate>
+<description>When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession. Worried it might become […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_CVirginia_LEDE_1.gif?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268792_private_torrent_trackers_CVirginia_LEDE_1.gif?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
+<link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
+<guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
+<enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
+</item>
+<item>
+<title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
+<link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
+<guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
+<enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
+</item>
+<item>
+<title>Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack</title>
+<link>https://9to5mac.com/2026/11/09/security-bite-podcast-mac-malware-likely-helped-pull-off-the-record-6-3b-binance-hack</link>
+<guid isPermaLink="false">62d6e2c9e0fd26c765052912d8182cac0a4b8b6d72619810176046ef8693beac</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>9to5Mac Security Bite is exclusively brought to you by Mosyle, the only Apple Unified Platform . Making Apple devices work-ready and enterprise-safe is all we do. Our unique integrated approach to management and security combines state-of-the-art Apple-specific security solutions for fully automated Hardening &amp; Compliance, Next Generation EDR, AI-powered Zero Trust, and exclusive Privilege Management with the most powerful and modern Apple MDM on the market. The result is a totally automated Apple Unified Platform currently trusted by over 45,000 organizations to make millions of Apple devices work-ready with no effort and at an affordable cost. Request your EXTENDED TRIAL today and understand why Mosyle is everything you need to work with Apple . This week, Christopher Lopez (@L0Psec) returns to the Security Bite Podcast. Chris is a longtime macOS security researcher and reverse engineer, and was last on the show to break down the rise of ClickFix. In this episode, we dig into the new</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/07/sb-lg-27-dark.webp?w=1500" medium="image"/>
+</item>
+<item>
 <title>These Robotic Arms Are Powered by Algae. Watch How They Move</title>
 <link>https://www.wired.com/story/these-robotic-arms-are-made-of-algae-watch-how-they-move</link>
 <guid isPermaLink="false">e2f9387ac4cdffbb550b55c53d036eede57c4a12477bb100a5f32e83a06c0f94</guid>
@@ -13,6 +88,17 @@
 <description>The key to the movement of these flexible robots is the algae’s photosynthetic capabilities.</description>
 <enclosure url="https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/master/pass/Soft-robot-arm_3.jpeg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aeb82bb5d3f8b6dd9946810/master/pass/Soft-robot-arm_3.jpeg" medium="image"/>
+</item>
+<item>
+<title>LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks</title>
+<link>https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html</link>
+<guid isPermaLink="false">4cf8ced66f8a8e1b333037dc7fe6ba6d32d5a36a8d8b61bf9d56bad9d1fb106e</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 10:01:21 +0000</pubDate>
+<description>Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg" medium="image"/>
 </item>
 <item>
 <title>I Let Pangram Loose on My Gmail Inbox. Here’s How Much AI It Found</title>
@@ -753,17 +839,6 @@
 <description>Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.</description>
 </item>
 <item>
-<title>The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance</title>
-<link>https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions</link>
-<guid isPermaLink="false">70f1531fce2b0561b927bd1826255ba8903dc729a1aa19219f9c293dbe4a0344</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 17:00:00 +0000</pubDate>
-<description>With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun and heat. Half an hour later, I felt exhausted, dizzy, […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268829_The90_Gem_SVasani_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Remove your personal info from the web (and stop it coming back)</title>
 <link>https://9to5mac.com/2026/11/07/remove-your-personal-info-from-the-web-and-stop-it-coming-back</link>
 <guid isPermaLink="false">7c34be21794971fe190e1950d599f8e0b4aee0c65bcad4e051610fbd98668bd3</guid>
@@ -1131,15 +1206,6 @@
 <description>Reuters and The Washington Post report that Apple is among the tech giants potentially facing congressional investigations as Democrats prepare to take control of both chambers in January. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/08/cook-gift-glass.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The Duo apps are coming, says Apple</title>
-<link>https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple</link>
-<guid isPermaLink="false">4890e404ec18294bf3e6b0b9779f8cebcdb331b387f08a9db81d0fbf7c78b6ff</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 21:38:05 +0000</pubDate>
-<description>There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.</description>
 </item>
 <item>
 <title>How Stephen Miller Schemed His Way to the Top</title>
@@ -2178,17 +2244,6 @@
 <media:content url="https://media.wired.com/photos/6aea53001ffd9173e25bd6c5/master/pass/Aina%20Ring%20colors%20standing.jpeg" medium="image"/>
 </item>
 <item>
-<title>Apple MacBook Pro OLED (2026) Review: The Best Comes at a Cost</title>
-<link>https://www.wired.com/review/apple-macbook-pro-oled-2026</link>
-<guid isPermaLink="false">554deeef0f0a9159fa438617757fc86ffd805bb3995de60b46e03f8f5e11ff80</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new OLED MacBook Pro comes with an incredible-looking touchscreen display—and an equally eye-popping price.</description>
-<enclosure url="https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aebd874f1d50b8664c56b28/master/pass/macbook-pro-OLED-04.jpg" medium="image"/>
-</item>
-<item>
 <title>Nintendo Switch games running natively on Apple TV using Claude Code port</title>
 <link>https://9to5mac.com/2026/11/05/nintendo-switch-games-running-natively-on-apple-tv-using-claude-code-port</link>
 <guid isPermaLink="false">eaebf4ce029e27803c7d17d103fc10c77d7dfbacf7e2bb9e9cd233d459242ce5</guid>
@@ -2198,28 +2253,6 @@
 <description>A Redditor has just released an open-source project allowing Switch and Switch 2 games to run natively on Apple TV . So far, both Super Mario Odyssey and Animal Crossing: New Horizons are running, with work ongoing on The Legend of Zelda: Tears of the Kingdom … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Nintendo-Switch-games-running-natively-on-Apple-TV-using-Claude-Code-port-.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Nintendo-Switch-games-running-natively-on-Apple-TV-using-Claude-Code-port-.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work</title>
-<link>https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work</link>
-<guid isPermaLink="false">0acab40ef2b1f219c781156ef4712fd09fbfdbf9f6c2b8e0d004776c206f7a20</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<description>Potential Sciences, a startup backed by the UK government, is betting that training AI models on computer-generated biochemical data can speed up the plodding process of developing new drugs.</description>
-<enclosure url="https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aebade028f7263543de445a/master/pass/Business_Drug%20Discovery%20Is%20a%20Needle%20in%20a%20Haystack%20Problem.%20This%20AI%20Startup%20Thinks%20It%20Has%20The%20Answer_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>Motorola Signature 27: Specs, Price, Features, Release Date</title>
-<link>https://www.wired.com/story/motorola-wants-to-sell-you-a-1600-phone-that-doesnt-fold</link>
-<guid isPermaLink="false">03e0e31909ebbf0cc9c31f7452084b159ecd1fcd8e00178a0e35d8af00689780</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 13:00:00 +0000</pubDate>
-<description>Equipped with the brightest display, an “Event-Based Vision Sensor,” and the next-generation Qualcomm processor, Motorola hopes you’ll want to spend big bucks on its ceramic and aluminum Signature 27.</description>
-<enclosure url="https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aea54d38c0d20ad6dc9def8/master/pass/signature27_lifestyle9_Motorola.jpg" medium="image"/>
 </item>
 <item>
 <title>HomeView will support third-party AI chatbots, suggests code</title>
@@ -2264,17 +2297,6 @@
 <description>There have been a number of high-profile movies technically shot on iPhone , but in most cases they are using the same professional cinematography kit they would use with other cameras, including lenses costing tens of thousands of dollars. Resident Evil director Zach Cregger uses his own iPhone in a rather different way, taking an approach that could be useful to amateur and professional filmmakers alike … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Resident-Evil-director-Zach-Cregger-explains-why-the-iPhone-is-vital-to-his-work.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>AI’s Next Trick? Speaking Dolphin</title>
-<link>https://www.wired.com/story/wired-world-fair-2026-denise-herzing-wild-dolphin</link>
-<guid isPermaLink="false">62fde210e42b16662698972b143fddc11a8c2a9cd3d596506f5728d2fad17522</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-<description>Denise Herzing, the founder and director of the Wild Dolphin Project, is using AI to help understand audio and video footage of the marine mammals.</description>
-<enclosure url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aeb7139fd4267963caa45b7/master/pass/WWF-Denise-Herzig-1.jpeg" medium="image"/>
 </item>
 <item>
 <title>5 Active Cyber Threats That Put US Enterprises at Risk in October 2026</title>
@@ -2915,17 +2937,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/watchOS-27.3-b1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>macOS 27.3 Golden Gate beta 1 now available, here’s what to expect</title>
-<link>https://9to5mac.com/2026/11/03/macos-27-3-golden-gate-beta-1-now-available-heres-what-to-expect</link>
-<guid isPermaLink="false">1865f106039d8f13a382584ee15805c377c14bb57e4f5ea830507e1a3d9650f6</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 18:10:18 +0000</pubDate>
-<description>Following last week’s release of macOS 27.2 , Apple has now kicked off the next round of beta testing with the first developer beta of macOS 27.3 Golden Gate. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-b1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/macOS-27.3-b1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft</title>
 <link>https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html</link>
 <guid isPermaLink="false">62e23c789fbfd2f85d19b5cda60f223a48c61e51317e15463cf2fb7e382d0fc7</guid>
@@ -3056,16 +3067,5 @@
 <description>Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which carries a CVSS score of 10.0. Successful exploitation of the flaw could permit unauthenticated users to delete arbitrary files on the server and extract</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tflB6yfzJv3UijqJlfCikzOQx0NHz9AVTh13vDvWu-LfAfFfBDjGbKI79Cb3dd2Ca_ck2KNP46WwYKcuweVD9Wc1srFpRkBimsG-EQS567tR92Yyg1DKPWqhhZHc1sP71qHWQoUxndY2VzDlqVsd2gx2GPcMx7pjVG8ws13bfMKXDtqz5q7EiJ22Mmr_/s1600/wp.jpg" medium="image"/>
-</item>
-<item>
-<title>⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</title>
-<link>https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html</link>
-<guid isPermaLink="false">a3562df3fff969c304c828c1c4f1a3f36ce8570fa4befb07a56a56fcc14fb350</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 02 Nov 2026 16:57:56 +0000</pubDate>
-<description>Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj03NmPVHpoxRjXKDh7s6v2Dav4D-MCSLBTLalEb9ScH_lLc4yQJWOW8QfTIBePp7Pcgo1qrq6MYuQvNeyb0LCvWO4E4e7BLQKEj-g3Z2LImj4CXV-UUGfVd-vVL0NGtxMMn50klhOLlyI3p6DXhIFf-LkMsST7LK4kh3gIjqlvBwOUgbKTq8-hRdvmfz46/s1600/rcap.jpg" medium="image"/>
 </item>
 </channel></rss>

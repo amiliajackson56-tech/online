@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars</title>
+<link>https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars</link>
+<guid isPermaLink="false">ff7d4fc2e22cc37906ac8b9dece48ebd5a9f449198ede24fbf6f9f6f58806356</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536" medium="image"/>
+</item>
+<item>
 <title>APOD: 2026 November 9 – Rigel and the Witch Head Nebula</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula</link>
 <guid isPermaLink="false">026599d1fc59a624221a9aff6bbdc17927ffa9ba4c2ea83234e1454424f34c29</guid>
@@ -42,6 +53,15 @@
 <category>science</category>
 <pubDate>Mon, 09 Nov 2026 01:14:33 +0000</pubDate>
 <description>Scientists have discovered that the stickiness of underwater “marine snow” plays a surprisingly important role in how much carbon reaches the deep ocean. Gooier particles resist bacterial breakdown and can transport more than six times as much carbon to the depths, revealing an unexpected connection between ocean slime and Earth's climate.</description>
+</item>
+<item>
+<title>The super El Niño is more than a climate shock – it’s a health one, too</title>
+<link>https://www.nature.com/articles/d41586-026-03628-5</link>
+<guid isPermaLink="false">32b61793e72583908c0c24df5a142301459b555ec60618e97ffae02a06bcf183</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together.</description>
 </item>
 <item>
 <title>COP31 kicks off as planet faces imminent overshoot of 1.5 °C climate target</title>
@@ -398,17 +418,6 @@
 <description>Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questions about longstanding recommendations to choose low-fat dairy.</description>
 </item>
 <item>
-<title>APOD: 2026 November 6 – A Farewell to Swift</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift</link>
-<guid isPermaLink="false">89a92c97d83383c64d650db097d6350c8b63c387c4159c54194e46ff3c45808f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Fri, 06 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 6 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Farewell […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&amp;h=1460&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Swift_Millionth_Image_Mosaic.jpg?w=2048&amp;h=1460&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Dead stars could break one of physics' most famous limits</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261102202835.htm</link>
 <guid isPermaLink="false">252069d1c430c905f3a16f617335d18e66e3f496a8dbb833e70a84fd9e2bbc83</guid>
@@ -461,6 +470,15 @@
 <category>science</category>
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03442-z A reviewer can earn US$200 through XSci’s scheme if they deliver their work within five days.</description>
+</item>
+<item>
+<title>Daily briefing: Ancient cave art found hiding in plain sight</title>
+<link>https://www.nature.com/articles/d41586-026-03648-1</link>
+<guid isPermaLink="false">ed013c23efb49fffc1ebf95ef2b343375f5997dc9f3e59ca3b6243c9a9083ae8</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 06 November 2026; doi:10.1038/d41586-026-03648-1 Rock-art in a Spanish cave dates back 26,000 years. Plus, flexible working policies can end up saddling academic mothers with more work and the origins of Celtic and Germanic languages.</description>
 </item>
 <item>
 <title>In Vivo CRISPR Base Editing of &lt;i&gt;ANGPTL3&lt;/i&gt; for Durable Lipid Lowering</title>
@@ -1217,24 +1235,6 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11210-2 structRFM, a structure-guided RNA foundation model pre-trained on 21 million sequence–structure pairs, learns multimodal representations that improve secondary and tertiary structure prediction, functional inference and zero-shot generalization across diverse RNA families.</description>
-</item>
-<item>
-<title>Synergy in viral–bacterial co-infection expedites algal bloom demise</title>
-<link>https://www.nature.com/articles/s41586-026-11243-7</link>
-<guid isPermaLink="false">a3f51bb884593679422bbb71d8953147e278d218f4129883c3b978983db27754</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11243-7 Viral–bacterial synergy accelerates algal bloom collapse by enhancing virus-induced mortality, driven by Alteromonas chemoattraction and co-infection, revealing a previously unrecognized mortality agent that influences oceanic carbon cycling .</description>
-</item>
-<item>
-<title>A conserved flowering-time module underlies double-season cropping</title>
-<link>https://www.nature.com/articles/s41586-026-11187-y</link>
-<guid isPermaLink="false">0615a4c5a8998ce8bdf2bdad2dfc60537e037227f775730a89935bf439de63b7</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11187-y The genomic footprints of 80 years of modern breeding in China are traced using representative cultivars, demonstrating how precision genome editing can be used to reconstruct adaptive modules for climate-resilient crop design.</description>
 </item>
 <item>
 <title>The brain’s hidden fear mechanism may explain anxiety and PTSD</title>
