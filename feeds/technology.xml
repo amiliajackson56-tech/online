@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>How to use your laptop as a second monitor</title>
+<link>https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor</link>
+<guid isPermaLink="false">fad7fb836ffaf3299f36068c4002a2beab530fabf443763dc4f408f6411c5036</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 01:30:00 +0000</pubDate>
+<description>If you have an extra laptop lying around, you can connect it to your primary laptop with a wireless or wired connection for a free dual monitor set up.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-use-your-laptop-as-a-second-monitor/l-intro-1793914883.jpg" medium="image"/>
+</item>
+<item>
 <title>Why your USB device isn't showing up on your MacBook and how you can fix it</title>
 <link>https://www.engadget.com/2309279/why-usb-device-not-showing-up-macbook-fixes</link>
 <guid isPermaLink="false">a1bebff432732cd887f8a7bc724c7c68238db1305884220e985277aacea203e2</guid>
@@ -291,17 +302,6 @@
 <description>With smartphones serving all purposes, an old flip phone, especially a SIM-less one, may feel useless. However, this couldn't be further from the truth.</description>
 <enclosure url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-flip-phone-do-this-instead/l-intro-1793913615.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/dont-throw-away-your-old-flip-phone-do-this-instead/l-intro-1793913615.jpg" medium="image"/>
-</item>
-<item>
-<title>The danger of charging your phone under your pillow isn't radiation</title>
-<link>https://www.engadget.com/2309290/why-charging-phone-under-pillow-dangerous-explained</link>
-<guid isPermaLink="false">618d8bae5615f17ee1dd768a927eb09990aacfb16f63655e9e93b8538262665a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 20:00:00 +0000</pubDate>
-<description>The old fear about cell phone radiation causing cancer is an overblown concern, but there are other dangers when you tuck a charging phone under your pillow.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-danger-of-charging-your-phone-under-your-pillow-isnt-radiation/l-intro-1793912846.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-danger-of-charging-your-phone-under-your-pillow-isnt-radiation/l-intro-1793912846.jpg" medium="image"/>
 </item>
 <item>
 <title>macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how</title>
@@ -806,17 +806,6 @@
 <media:content url="https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg" medium="image"/>
 </item>
 <item>
-<title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
-<link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
-<guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
-<enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
-</item>
-<item>
 <title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
 <link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
 <guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
@@ -826,6 +815,17 @@
 <description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
 <enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
+</item>
+<item>
+<title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
+<link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
+<guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+<description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
+<enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
 </item>
 <item>
 <title>The 19 Best Early Black Friday Deals 2026</title>
