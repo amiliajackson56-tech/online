@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”</title>
+<link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50</link>
+<guid isPermaLink="false">177dd03271cc9aec73ac94c0e4d26ccf1d8490f7830d8682abb6a52969cfe840</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 05:26:29 +0000</pubDate>
+<description>Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.</description>
+</item>
+<item>
 <title>How to use your laptop as a second monitor</title>
 <link>https://www.engadget.com/2309277/how-to-use-laptop-second-desktop-monitor</link>
 <guid isPermaLink="false">fad7fb836ffaf3299f36068c4002a2beab530fabf443763dc4f408f6411c5036</guid>
@@ -512,17 +521,6 @@
 <media:content url="https://media.wired.com/photos/6aece579f9b9f1f7ef48cd46/master/pass/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg" medium="image"/>
 </item>
 <item>
-<title>6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More</title>
-<link>https://www.wired.com/gallery/best-touchscreen-gloves</link>
-<guid isPermaLink="false">87aeda509637ad20f3729be91528ad5e3c5167827377b09276df341614966222</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
-<description>We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?</description>
-<enclosure url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" medium="image"/>
-</item>
-<item>
 <title>The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now</title>
 <link>https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026</link>
 <guid isPermaLink="false">433c9094638e3e8140e0059d721b88176d1207ad0c645be3500ffe4d2cab3d66</guid>
@@ -532,6 +530,17 @@
 <description>Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.</description>
 <enclosure url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" medium="image"/>
+</item>
+<item>
+<title>6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More</title>
+<link>https://www.wired.com/gallery/best-touchscreen-gloves</link>
+<guid isPermaLink="false">87aeda509637ad20f3729be91528ad5e3c5167827377b09276df341614966222</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+<description>We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?</description>
+<enclosure url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" medium="image"/>
 </item>
 <item>
 <title>World Models Will Soon Be Inescapable. Here’s What You Need to Know</title>
@@ -1193,15 +1202,6 @@
 <category>technology</category>
 <pubDate>Fri, 06 Nov 2026 18:46:52 +0000</pubDate>
 <description>Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]</description>
-</item>
-<item>
-<title>Hundreds of Artex AI hacking tools found publicly exposed to the web</title>
-<link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web</link>
-<guid isPermaLink="false">0b47ae94b8dc6c928b086e6fe2b747aed794ff71d974bca08a1746140c0acf54</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 18:44:38 +0000</pubDate>
-<description>Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.</description>
 </item>
 <item>
 <title>Free Chinese AI Models Are Getting Scary Good at Hacking</title>
