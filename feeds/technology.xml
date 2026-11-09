@@ -4,6 +4,68 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang</link>
+<guid isPermaLink="false">38ea5b66d259522356b1fd73eab5aead985ba155990b27facb1d91bc6d476ec6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 23:07:59 +0000</pubDate>
+<description>The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Hotel giant Wyndham exposed customer data after app security lapse</title>
+<link>https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse</link>
+<guid isPermaLink="false">51f5969ae6b15bc66eb44616dbcc796a19fb27a5ded16e40742cf8e645d77268</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 23:03:46 +0000</pubDate>
+<description>Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.</description>
+</item>
+<item>
+<title>The pros and cons of using mesh Wi-Fi</title>
+<link>https://www.engadget.com/2307745/using-mesh-wifi-pros-and-cons</link>
+<guid isPermaLink="false">879bd5bee8e56231d8b8db29972488ad46a10a2c0a6d0d2e91eada4a97e3f982</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 23:00:00 +0000</pubDate>
+<description>Should you buy a mesh Wi-Fi system or a standalone router? Learn how each handles range, roaming, and cost, and which one fits your home best.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-mesh-wi-fi/l-intro-1793389440.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-pros-and-cons-of-using-mesh-wi-fi/l-intro-1793389440.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple Intelligence completes regulatory registration for iPad and Mac in China</title>
+<link>https://9to5mac.com/2026/11/09/apple-intelligence-completes-regulatory-registration-for-ipad-and-mac-in-china</link>
+<guid isPermaLink="false">50bee785371cceb891fefc30addd5153bbcb012cc0e9053b35e4c8f55ac3ed0a</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 22:54:52 +0000</pubDate>
+<description>Apple has completed an important regulatory step ahead of Apple Intelligence’s expected launch in China this December. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal</title>
+<link>https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal</link>
+<guid isPermaLink="false">e105484703996e34195d7ca95e82b43a2d4c870785e1b8bab6fbcaa3702f44a3</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 22:46:09 +0000</pubDate>
+<description>Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.</description>
+</item>
+<item>
+<title>Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn’t Work</title>
+<link>https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work</link>
+<guid isPermaLink="false">84468bd903e1c2bb44d09b7d6f75754097de803b1c9f54a1f51cb464dbe5221f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 22:40:10 +0000</pubDate>
+<description>Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.</description>
+<enclosure url="https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af23b015b42cb1a21fe56e5/master/pass/Waymo-Said-It-Fixed-School-Bus-Problem-Gear-2220531171.jpg" medium="image"/>
+</item>
+<item>
 <title>The race is on to sue Nvidia</title>
 <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia</link>
 <guid isPermaLink="false">bda3011897fcd94668c2f3a2cee226f21816c8fb4d5ed54e0846843189cbd914</guid>
@@ -139,7 +201,7 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2303840643.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How to customize or disable the touchscreen on the new MacBook Pro and Sidecar</title>
+<title>How to customize or disable the touchscreen on the new MacBook Pro</title>
 <link>https://9to5mac.com/2026/11/09/how-to-customize-or-disable-the-touchscreen-on-the-new-macbook-pro-and-sidecar</link>
 <guid isPermaLink="false">0f4879700d9f874c44c42150dcf66e451133d6d983989933b8c5be1e68d007d4</guid>
 <source>9to5Mac</source>
@@ -698,17 +760,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-PROLED-XDR-MacBook-HomeView-Ultra-4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Sony’s new PlayStation Portal handheld includes ‘additional’ internal storage</title>
-<link>https://www.theverge.com/news/1029822/sony-playstation-portal-japan-model-additional-storage</link>
-<guid isPermaLink="false">04c35e90322109c1090a0db4a1d96a99e7065784e504d9282416c5404112cdfe</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:23:31 +0000</pubDate>
-<description>Sony is launching a new version of its PlayStation Portal exclusively in Japan next month. The updated model will launch in the midnight black color option we've seen before, and will include "additional" internal storage for future-looking features. It's the additional internal storage that's the surprise change to this particular model, which will be locked […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/playstationportal.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>NHTSA investigates if Waymo robotaxis are still running school bus stop signs</title>
 <link>https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs</link>
 <guid isPermaLink="false">466067d824e6d7f01d5c281b8a9d565fee0ad24ff272e4adbbdde27824afd7aa</guid>
@@ -984,17 +1035,6 @@
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 13:43:28 +0000</pubDate>
 <description>Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.</description>
-</item>
-<item>
-<title>Coinbase receives approval to become a chartered trust bank</title>
-<link>https://www.engadget.com/2310531/coinbase-receives-approval-to-become-a-chartered-trust-bank</link>
-<guid isPermaLink="false">c050ac904742d50d6c75e7b661ca330b379a70a03064412157bca8db3ac98858</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 13:40:54 +0000</pubDate>
-<description>Coinbase has received approval from the US Office of the Comptroller of Currency to become a nationally chartered trust bank.</description>
-<enclosure url="https://www.engadget.com/img/gallery/coinbase-receives-approval-to-become-a-chartered-trust-bank/l-intro-1794231576.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/coinbase-receives-approval-to-become-a-chartered-trust-bank/l-intro-1794231576.jpg" medium="image"/>
 </item>
 <item>
 <title>US bans MEXC crypto exchange over sanctions evasion, cybercrime links</title>
@@ -1275,24 +1315,6 @@
 <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg" medium="image"/>
-</item>
-<item>
-<title>Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’</title>
-<link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50</link>
-<guid isPermaLink="false">177dd03271cc9aec73ac94c0e4d26ccf1d8490f7830d8682abb6a52969cfe840</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 05:26:29 +0000</pubDate>
-<description>Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.</description>
-</item>
-<item>
-<title>Apps to distract you from the endless cycle of doomscrolling</title>
-<link>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling</link>
-<guid isPermaLink="false">4ee74eef0f09c6d12b15c78d1c76431680faaec7b863b17b0dccc3fe2f517171</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 22:00:00 +0000</pubDate>
-<description>It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.</description>
 </item>
 <item>
 <title>macOS 27.3 could change how you grant AI agents Full Disk Access, here’s how</title>
@@ -2321,17 +2343,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>How Elon Musk and Big Tech Poured Millions Into the Midterms, and Lost</title>
-<link>https://www.wired.com/story/uncanny-valley-podcast-how-elon-musk-and-big-tech-poured-millions-into-the-midterms-and-lost</link>
-<guid isPermaLink="false">c45b6811e6ad02b30da0afc07e1c8230d43435099074f4600af9ec76e3943220</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 22:18:42 +0000</pubDate>
-<description>This week on “Uncanny Valley,” we discuss the historic blue wave that swept the midterms and delivered a rebuke to the Trump administration, Big Tech, and data centers.</description>
-<enclosure url="https://media.wired.com/photos/6ae91976d809b451458cb25a/master/pass/Uncanny-Valley-Midterms-Politics-138711413.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae91976d809b451458cb25a/master/pass/Uncanny-Valley-Midterms-Politics-138711413.jpg" medium="image"/>
-</item>
-<item>
 <title>CleanMyMac now helps you clean up Gmail and manage Chrome tabs</title>
 <link>https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs</link>
 <guid isPermaLink="false">817a79556aad1eb8536ff3103663ae8b3dd934549775dbe698449c39a6129b14</guid>
@@ -2880,17 +2891,6 @@
 <description>Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg" medium="image"/>
-</item>
-<item>
-<title>With iOS 27.3, Apple will start checking iCloud public links for ‘harmful content’</title>
-<link>https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content</link>
-<guid isPermaLink="false">0590685e7cf1d2debf2eb2458abf9df62f6c3ed2c8ceeab94b95b40e9ef45f6b</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 15:55:23 +0000</pubDate>
-<description>iOS 27.3 adds lots of new iPhone features , and it also makes a change to how public iCloud links work with the aim of preventing harmful content from being shared. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits</title>

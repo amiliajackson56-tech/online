@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Rubies on Mars?</title>
+<link>https://science.nasa.gov/blog/rubies-on-mars</link>
+<guid isPermaLink="false">8a918517c6245020c27c127ad2f077fef4401ae3961a98badb4a9aeb9ffeb124</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 22:27:12 +0000</pubDate>
+<description>Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and SuperCam have great capabilities for detecting all kinds of […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_SIF_2023_0846549705_738EBY_N0930000SRLC02503_0000LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Newest Sample, Oldest Rock?</title>
+<link>https://science.nasa.gov/blog/newest-sample-oldest-rock</link>
+<guid isPermaLink="false">af0078f31e3195cdf92ae41a9ce18abb6e0c997314a20cf267ecbe7c724d4347</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 22:25:52 +0000</pubDate>
+<description>Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>La NASA busca a la próxima generación de astronautas</title>
 <link>https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas</link>
 <guid isPermaLink="false">14b98b878e48aa05244b742b6e8e5ff15819e0d146eea6813a4f6dee99555372</guid>
@@ -162,28 +184,6 @@
 <category>science</category>
 <pubDate>Mon, 09 Nov 2026 07:36:14 +0000</pubDate>
 <description>A massive study of more than 120,000 older adults suggests that common osteoporosis drugs may reduce the risk of Alzheimer’s disease and other dementias by up to 24%. The surprising findings raise the possibility that medications already used to strengthen bones could also help protect the aging brain.</description>
-</item>
-<item>
-<title>APOD: 2026 November 9 – Rigel and the Witch Head Nebula</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula</link>
-<guid isPermaLink="false">026599d1fc59a624221a9aff6bbdc17927ffa9ba4c2ea83234e1454424f34c29</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 05:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 November 9 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Rigel and the Witch Head Nebula Explanation: Does the blue nebula look like the head of a […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&amp;h=1359&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/WitchHead_Czerski_3000.jpg?w=2048&amp;h=1359&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>Ozone Hole Reaches Its 2026 Maximum</title>
-<link>https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum</link>
-<guid isPermaLink="false">155d9f5cc0b5428ba4d09dd3154683010a7c77ca91006c659c9375941876bf6c</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 05:00:00 +0000</pubDate>
-<description>The ozone hole ranked seventh largest by area in 48 years of monitoring, but it was not as deep as other large holes on record.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&amp;h=1480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/ozone-hole-reaches-its-2026-maximum/ozone_geos5_20260918_hires.jpg?w=1440&amp;h=1480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>DNA on the Shroud of Turin reveals centuries of hidden secrets</title>
