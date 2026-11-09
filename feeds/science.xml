@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>La NASA busca a la próxima generación de astronautas</title>
+<link>https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas</link>
+<guid isPermaLink="false">14b98b878e48aa05244b742b6e8e5ff15819e0d146eea6813a4f6dee99555372</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 19:27:20 +0000</pubDate>
+<description>Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" medium="image"/>
+</item>
+<item>
 <title>NASA Advanced Mid-Power Electric Rocket Challenge</title>
 <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge</link>
 <guid isPermaLink="false">70a6b1af0b12ed4525e30a549d67eb584d47119b0871400d35aa86ae14129c52</guid>
@@ -353,17 +364,6 @@
 <category>science</category>
 <pubDate>Sun, 08 Nov 2026 08:14:23 +0000</pubDate>
 <description>Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use.</description>
-</item>
-<item>
-<title>APOD: 2026 November 8 – Major Fireball Meteor</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor</link>
-<guid isPermaLink="false">4d1edc58dbf944a956edd42c62f8d60eb8ab7a970d05c9688fbd97dee580f61b</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Sun, 08 Nov 2026 05:05:00 +0000</pubDate>
-<description>APODScienceAPODAPOD: 2026 November 8 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Major Fireball Meteor Explanation: The sky glows with soft pinkish colors of fading twilight in this serendipitous […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/meteor2017_Taylor_1200.jpg?w=0&amp;h=0&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Scientists discover hidden brain changes linked to common sleep disorders</title>
