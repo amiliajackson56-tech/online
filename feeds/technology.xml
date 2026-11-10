@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>9to5Mac Daily: November 9, 2026 – Apple software development, iOS 28</title>
+<link>https://9to5mac.com/2026/11/09/daily-november-9-2026</link>
+<guid isPermaLink="false">6b44528199a1e32e885dd6a655ba95d62d61168a953d0d7e46d6f04dc3d2d3c0</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 00:49:31 +0000</pubDate>
+<description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>How to turn on personal results on your Google Home</title>
+<link>https://www.engadget.com/2307753/how-to-turn-on-personal-results-google-home</link>
+<guid isPermaLink="false">ee5a8ac941eb93ed0a0c37537fa3c3c16b590ad7b1288a8a6bf2a0a689789e24</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 00:30:00 +0000</pubDate>
+<description>Every member of the family can have their own assistant with personal results on Google Home. Find out how to set this feature up.</description>
+<enclosure url="https://www.engadget.com/img/gallery/how-to-turn-on-personal-results-on-your-google-home/l-intro-1793815000.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/how-to-turn-on-personal-results-on-your-google-home/l-intro-1793815000.jpg" medium="image"/>
+</item>
+<item>
+<title>David Ellison says AI could be the ‘biggest creative unlock in modern history’</title>
+<link>https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai</link>
+<guid isPermaLink="false">05e31abb81030e94daf9e1de5c7882de3be9f45e8966f4c80ac0665709d5abc2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 00:28:49 +0000</pubDate>
+<description>During Paramount Skydance's latest earnings call, CEO David Ellison said "it's hard to imagine" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: "I think when you zoom out and look at production, AI really has the potential to […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2274329497.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang’s Troubles Leave the AI Industry Reeling</title>
+<link>https://www.wired.com/story/jensen-huangs-troubles-leaves-the-ai-industry-reeling</link>
+<guid isPermaLink="false">86992df8e81dce2808c7cf3bb46e3e245bdedacff6220a469523b1b1e20801f3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 00:18:19 +0000</pubDate>
+<description>With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.</description>
+<enclosure url="https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg" medium="image"/>
+</item>
+<item>
 <title>The safety reason TSA might ask you to turn on your phone</title>
 <link>https://www.engadget.com/2307751/why-tsa-ask-turn-on-phone-safety-reason</link>
 <guid isPermaLink="false">ac7222af1d16182a8fcf5a659bbbf00c7f3d7615d205a0ecb19b4c095c79a663</guid>
@@ -63,7 +107,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 23:28:37 +0000</pubDate>
-<description>The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.</description>
+<description>The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.</description>
 </item>
 <item>
 <title>Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang</title>
@@ -661,17 +705,6 @@
 <media:content url="https://www.engadget.com/img/gallery/the-reason-your-laptop-can-get-hot-after-extended-use/l-intro-1793800956.jpg" medium="image"/>
 </item>
 <item>
-<title>James Gunn is out as DC movie leader</title>
-<link>https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving</link>
-<guid isPermaLink="false">fe4df8a5c5891042b9a9b447abae15d868f0e6c970a5519a0e590597bd6c0480</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 17:39:57 +0000</pubDate>
-<description>Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline reports. However, Gunn and Safran will "continue to produce on various DC projects" […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2299570592.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware</title>
 <link>https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html</link>
 <guid isPermaLink="false">2ba6cb1be9af9cf5c4949d27312809f69218f914960dcb1a9478518527a1d653</guid>
@@ -964,17 +997,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/12/iphone-17-black.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>This prototype camera is fighting the good fight against AI photography</title>
-<link>https://www.engadget.com/2307723/caim-1-camera-fighting-against-ai-photography</link>
-<guid isPermaLink="false">ed77b40d72022277215b7c89e7af9a2361f237f707e38fc7eda536ec707fd34e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 14:45:00 +0000</pubDate>
-<description>To push back against an onslaught of deep fakes, this camera embeds cryptographic proof of every photo's origin. Think of it like a silicon fingerprint.</description>
-<enclosure url="https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/this-prototype-camera-is-fighting-the-good-fight-against-ai-photography/l-intro-1793382637.jpg" medium="image"/>
-</item>
-<item>
 <title>9to5Mac Overtime 089: Live Rewind, Siri Recap, and Apple Watch privacy</title>
 <link>https://9to5mac.com/2026/11/09/9to5mac-overtime-089-live-rewind-siri-recap-and-apple-watch-privacy</link>
 <guid isPermaLink="false">dad6cdcd270ad40c54e412f654c34f2bb7d78b4c8d8630e84b1b129412c21611</guid>
@@ -1172,17 +1194,6 @@
 <media:content url="https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg" medium="image"/>
 </item>
 <item>
-<title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
-<link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
-<guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-<description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
-<enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
-</item>
-<item>
 <title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
 <link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
 <guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
@@ -1192,6 +1203,17 @@
 <description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
 <enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
+</item>
+<item>
+<title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
+<link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
+<guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
+<enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
 </item>
 <item>
 <title>Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack</title>
@@ -1434,17 +1456,6 @@
 <media:content url="https://media.wired.com/photos/6aece579f9b9f1f7ef48cd46/master/pass/GrahamConjecture-crIrenePe%CC%81rez-Lede.jpg" medium="image"/>
 </item>
 <item>
-<title>The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now</title>
-<link>https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026</link>
-<guid isPermaLink="false">433c9094638e3e8140e0059d721b88176d1207ad0c645be3500ffe4d2cab3d66</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
-<description>Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.</description>
-<enclosure url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" medium="image"/>
-</item>
-<item>
 <title>6 Best Touchscreen Gloves (2026) Knitted, Waterproof, Leather, and More</title>
 <link>https://www.wired.com/gallery/best-touchscreen-gloves</link>
 <guid isPermaLink="false">87aeda509637ad20f3729be91528ad5e3c5167827377b09276df341614966222</guid>
@@ -1454,6 +1465,17 @@
 <description>We braved the cold to answer a modern dilemma: Can you keep your hands warm and use a smartphone at the same time?</description>
 <enclosure url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee72371d8c716d0f5e527c/master/pass/The-Best-Touchscreen-Gloves.jpg" medium="image"/>
+</item>
+<item>
+<title>The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now</title>
+<link>https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026</link>
+<guid isPermaLink="false">433c9094638e3e8140e0059d721b88176d1207ad0c645be3500ffe4d2cab3d66</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sun, 08 Nov 2026 10:00:00 +0000</pubDate>
+<description>Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.</description>
+<enclosure url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg" medium="image"/>
 </item>
 <item>
 <title>World Models Will Soon Be Inescapable. Here’s What You Need to Know</title>
@@ -2321,17 +2343,6 @@
 <media:content url="https://media.wired.com/photos/68c88e3fadc88e6a8852f302/master/pass/nordvpn.png" medium="image"/>
 </item>
 <item>
-<title>The 7 Best Early Black Friday TV Deals (2026)</title>
-<link>https://www.wired.com/story/early-black-friday-tv-deals-11-5-26</link>
-<guid isPermaLink="false">705d402f3a9d2145343455fa55f0a35d4d71567d2b141f50747fc116cced3edd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 22:28:43 +0000</pubDate>
-<description>I found discounts of up to half off some of the top WIRED-tested TVs.</description>
-<enclosure url="https://media.wired.com/photos/6aed023aaada98abfcc694d5/master/pass/The-Best-Early-Black-Friday-TV-Deals.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aed023aaada98abfcc694d5/master/pass/The-Best-Early-Black-Friday-TV-Deals.jpg" medium="image"/>
-</item>
-<item>
 <title>Report: Apple captured half of global smartphone revenue in Q3</title>
 <link>https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3</link>
 <guid isPermaLink="false">856f9b1af25648429264270b2bbeedc8bdd8f95a3379c5a225397cf74400495e</guid>
@@ -2869,17 +2880,6 @@
 <description>Apple has a MacBook Neo 2 planned for early 2027, per Mark Gurman , and a new report from Digitimes indicates the company is expecting it to be a massive hit. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/macbook-neo_eaaffa.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Deals: HomeView discount, Apple Watch Ultra 4 $100 off, Ultra 3 $250 off, MacBook Neo, more</title>
-<link>https://9to5mac.com/2026/11/04/deals-homeview-apple-watch-ultra-macbook-neo</link>
-<guid isPermaLink="false">16ed0bb6e29f27cfb05ee7801192f9d7cc0533e3f7c928e16b873310dd7e2b0c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Wed, 04 Nov 2026 16:29:56 +0000</pubDate>
-<description>The Apple HomeView pre-order discount is back and the deal AirPods Pro 3 at $50 off is still flying, but we are also tracking return all-time lows on Apple Watch Ultra 4 at nearly $100 off and today we spotted a series of major clearance deals on Apple Watch Ultra 3 at $250 off . We also have a rare discount on the most affordable Silver MacBook Neo (and up to $120 off models from the Apple refurb store), all-time lows on Apple’s new iPhone/AirPods Wrist Strap , the latest 10-foot Beats 240W USB-C Braided Cable in all four colors at just $18 , and much more waiting below. Update: The 2026 Apple Polishing Cloth is now back in-stock at $9 Prime shipped . more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-HomeView-Apple-Watch-Ultra-MacBook-Neo.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-HomeView-Apple-Watch-Ultra-MacBook-Neo.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit</title>
