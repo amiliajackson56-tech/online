@@ -4,7 +4,51 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
-<title>OpenAI Acquires Odessia, travel startup created by Sonder founder</title>
+<title>The VR Disney Plus app on Meta Quest now has 3D movies</title>
+<link>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</link>
+<guid isPermaLink="false">e2816ea59479a5b2d61d8df92cc15c8d43ab09f1a2bdb648f365b3b6323a0d38</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
+<description>Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Disney+ app on Meta Quest now includes 3D movies</title>
+<link>https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies</link>
+<guid isPermaLink="false">4fdc67016a612c5f079e59d57c0195fd3042c050c8d65b98bba81bdb0ca87a8a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
+<description>Meta is starting to sell 3D films too.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-disney-app-on-meta-quest-now-includes-3d-movies/l-intro-1794332464.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-disney-app-on-meta-quest-now-includes-3d-movies/l-intro-1794332464.jpg" medium="image"/>
+</item>
+<item>
+<title>Oura is acquiring medical AI chatbot startup Counsel Health</title>
+<link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
+<guid isPermaLink="false">daf7e9e96e7de529337a2313285db8c7de54f27cdbdbb52bc31a120a3b651c8f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
+<description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple to investigate accident that killed three workers at iPhone parts factory in India</title>
+<link>https://9to5mac.com/2026/11/10/apple-to-investigate-accident-that-killed-three-workers-at-iphone-parts-factory-in-india</link>
+<guid isPermaLink="false">cc122a61d12bba9ff32f27127310ee4d004044150da54627b37b6c494bcba1c3</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 21:34:43 +0000</pubDate>
+<description>Reuters reports that three contract workers died after inhaling gas during an inspection at a Tata Electronics factory that produces iPhone components in India. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/03/apple-india.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>OpenAI acquires Odessia, travel startup created by Sonder founder</title>
 <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder</link>
 <guid isPermaLink="false">3b53bf6090ab9868ec4d537392370a44237352182f157d7fbf6dbb11f5afeda3</guid>
 <source>TechCrunch</source>
@@ -70,7 +114,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 20:47:05 +0000</pubDate>
-<description>Former SignalFire investor Sahir Raoof raises $27.5M for new fund targeting AI in pharma</description>
+<description>Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.</description>
 </item>
 <item>
 <title>X-energy gets green light to build its first small modular nuclear reactors</title>
@@ -296,20 +340,9 @@
 <source>The Verge</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: as part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight […]</description>
+<description>Google is adding a new feature to its underwhelming HiLight light on the back of Pixel 11 Pro phones: As part of the November 2026 Pixel Drop, the light can light up when you get Google Messages texts from your favorite contacts. Sure, it's a small addition to the disappointing ways you could use HiLight […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Pixel-11-Pro-HiLight-using-HiLight-Studio-Rainbow.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Google's impressive Rambler dictation tech is now available on Pixel 10 devices too</title>
-<link>https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates</link>
-<guid isPermaLink="false">ce31b5ffa69c03059adc58f4e834f17848e035fa4cc66faaf2cfc28f379d2fc1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" medium="image"/>
 </item>
 <item>
 <title>How much did the ASUS ROG Zephyrus G14 cost in 2020 vs 2026?</title>
@@ -321,6 +354,17 @@
 <description>You've adjusted for inflation, but the math isn't mathing. We can explain why you may be feeling sticker shock over the cost of a ASUS ROG Zephyrus G14.</description>
 <enclosure url="https://www.engadget.com/img/gallery/how-much-did-the-asus-rog-zephyrus-g14-cost-in-2020-vs-2026/l-intro-1793737272.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/how-much-did-the-asus-rog-zephyrus-g14-cost-in-2020-vs-2026/l-intro-1793737272.jpg" medium="image"/>
+</item>
+<item>
+<title>Google's impressive Rambler dictation tech is now available on Pixel 10 devices too</title>
+<link>https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates</link>
+<guid isPermaLink="false">ce31b5ffa69c03059adc58f4e834f17848e035fa4cc66faaf2cfc28f379d2fc1</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
+<description>November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.</description>
+<enclosure url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
@@ -438,17 +482,6 @@
 <media:content url="https://www.engadget.com/img/gallery/nvidia-dlss-4-5-has-presets-you-should-know-about/l-intro-1793721583.jpg" medium="image"/>
 </item>
 <item>
-<title>Ableton Live 13 announced with a step sequencer, new drum synth, and more</title>
-<link>https://www.theverge.com/tech/1030846/ableton-live-13-announced-step-sequencer-looplet-daw</link>
-<guid isPermaLink="false">c072534746f8c33f936ebaa256c66a7cdcbc52de176cc84fe9b018bf82d7c179</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:43:49 +0000</pubDate>
-<description>Today, Ableton announced Live 13, which is expected to arrive in early 2027 with a slew of new features. Most of the changes are seemingly minor on paper, but when combined, they make for the biggest update to the digital audio workstation (DAW) in years. The feature most likely to draw attention is the addition […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1-l13-stepseq-2.avif?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem</title>
 <link>https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html</link>
 <guid isPermaLink="false">f020d812e8ed826cbd47b6e76147ba98891330b4782c81adb55415a8d6c76eef</guid>
@@ -480,17 +513,6 @@
 <description>Gemini for healthcare is in preview now, with some big-name partners already on board.</description>
 <enclosure url="https://www.engadget.com/img/gallery/google-turns-gemini-towards-medical-paperwork/l-intro-1794331979.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/google-turns-gemini-towards-medical-paperwork/l-intro-1794331979.jpg" medium="image"/>
-</item>
-<item>
-<title>The indie game community is in disarray over AI and Big Walk</title>
-<link>https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai</link>
-<guid isPermaLink="false">c619bb88505937dcdf397de95a5ee875cb69f18016ed0ed8c7787eeddb7321c4</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:32:47 +0000</pubDate>
-<description>Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in "any capacity." Soon after, the developer of indie hit Big Walk has published a statement saying it "sparingly" used AI in the "final stretch" of the game's development to "help work through difficult […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/BigWalk_Screenshot_Jun26_01.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks</title>
@@ -854,17 +876,6 @@
 <description>Kunal Shah said the company wants to make voice notes, groups, stickers, and video "simpler and more expressive."</description>
 </item>
 <item>
-<title>Reddit is (sort of) getting into the product reviews business</title>
-<link>https://www.engadget.com/2310918/reddit-is-sort-of-getting-into-the-product-reviews-business</link>
-<guid isPermaLink="false">976d8c670c3b57e8f283f19500de2577b5ed7cf51e0a88b2971405ac1b4270e6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
-<description>The platform's new toolset collects and organizes user data on thousands of items.</description>
-<enclosure url="https://www.engadget.com/img/gallery/reddit-is-sort-of-getting-into-the-product-reviews-business/l-intro-1794241903.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/reddit-is-sort-of-getting-into-the-product-reviews-business/l-intro-1794241903.jpg" medium="image"/>
-</item>
-<item>
 <title>Kitchen Gear From Our Place Is Steeply Discounted</title>
 <link>https://www.wired.com/story/our-place-sale-november-2026</link>
 <guid isPermaLink="false">475b87c4809d53d4704a8c8f68aa6de3cb88eb73c6e5d47d7f5af6b781f73bb5</guid>
@@ -971,17 +982,6 @@
 <description>The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.</description>
 </item>
 <item>
-<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
-<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
-<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
-<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
-</item>
-<item>
 <title>4DX Movies Are Entering Their Thirsty Romance Era</title>
 <link>https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry</link>
 <guid isPermaLink="false">2823673c1363847b05a751732b0e398f999460b9b42d833cebf241e0446b659f</guid>
@@ -1002,6 +1002,17 @@
 <description>Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.</description>
 <enclosure url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" medium="image"/>
+</item>
+<item>
+<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
+<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
+<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
+<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
 </item>
 <item>
 <title>Ring’s wheeled and flying robots will patrol your home</title>
@@ -1346,28 +1357,6 @@
 <media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
-<title>Bose Promo Code: 40% Off for November 2026</title>
-<link>https://www.wired.com/story/bose-coupon-code</link>
-<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -1401,6 +1390,28 @@
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
+</item>
+<item>
+<title>Bose Promo Code: 40% Off for November 2026</title>
+<link>https://www.wired.com/story/bose-coupon-code</link>
+<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
 <title>Chirp Discount Codes: 67% Off</title>
 <link>https://www.wired.com/story/chirp-discount-code</link>
 <guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
@@ -1410,28 +1421,6 @@
 <description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
-</item>
-<item>
-<title>Breville Promo Code: $700 Off | November 2026</title>
-<link>https://www.wired.com/story/breville-promo-code</link>
-<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
-<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
-</item>
-<item>
-<title>Dyson Promo Codes: 25% Off in November 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Barkbox Promo Codes and Discounts: Up to 50% Off</title>
@@ -1498,6 +1487,28 @@
 <description>Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in November 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+</item>
+<item>
+<title>Breville Promo Code: $700 Off | November 2026</title>
+<link>https://www.wired.com/story/breville-promo-code</link>
+<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
+<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
 </item>
 <item>
 <title>A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure</title>
@@ -2090,17 +2101,6 @@
 <media:content url="https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg" medium="image"/>
 </item>
 <item>
-<title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
-<link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
-<guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-<description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
-<enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
-</item>
-<item>
 <title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
 <link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
 <guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
@@ -2110,6 +2110,17 @@
 <description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
 <enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
+</item>
+<item>
+<title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
+<link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
+<guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
+<enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
 </item>
 <item>
 <title>Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack</title>
@@ -2946,17 +2957,6 @@
 <description>Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. "The flaw could enable silent chat data theft, phishing,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif" medium="image"/>
-</item>
-<item>
-<title>Deals: HomeView, AirPods Pro 3, Apple Watch Ultra 4, Hue Bridge Pro bundle, MacBook Air $200 off, more</title>
-<link>https://9to5mac.com/2026/11/05/deals-homeview-airpods-pro-3-apple-watch-ultra-4-macbook</link>
-<guid isPermaLink="false">48559e97bf4a090d47184815124a4a79b10a8e3cec45ab98c80b28db262862cb</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 16:34:18 +0000</pubDate>
-<description>The ongoing Apple HomeView pre-order discount and AirPods Pro 3 at $50 off , the venerable 2026 Apple Polishing Cloth is now back in-stock at $9 Prime shipped – perfect Apple stocking stuffer. We are also now tracking Apple Watch Ultra 4 with the Translucent Gray Ocean Band down at nearly $100 off again alongside the most affordable 13-inch M5 MacBook Air starting from $1,099 shipped ($200 off). Those offers join up to 40% off Apple’s iPhone 18 Pro and 18 Pro Max cases , the latest iPad Air models for less than an iPad mini, an Amazon all-time low on this Philips Hue Bridge Pro bundle , and a look at the all-new Twelve South 65W Cablesnap Retractable USB-C Travel Charger . Scope it all out below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Apple-Watch-Ultra-4-Hue-Bridge-Pro-HomeView.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-Apple-Watch-Ultra-4-Hue-Bridge-Pro-HomeView.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories</title>
