@@ -4,6 +4,55 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Alzheimer’s may have early warning signs outside the brain</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261108233103.htm</link>
+<guid isPermaLink="false">74c36340962282ebab1d1bee0c0dfa0674fa978928708e33241b3f301f35b558</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 01:47:34 +0000</pubDate>
+<description>A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.</description>
+</item>
+<item>
+<title>Curiosity Blog, Sols 5056-5062: Charging Back Up!</title>
+<link>https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up</link>
+<guid isPermaLink="false">fc400f5c232b380e47d35ac223cb085fbe51fa60a3454551cb0c6d7e8ad7e8f1</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 01:07:45 +0000</pubDate>
+<description>By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, we are in the middle […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG?w=1024&amp;h=512&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG?w=1024&amp;h=512&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole</title>
+<link>https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole</link>
+<guid isPermaLink="false">901e4c6072cf569b275ad463cd8bfc33dab8b1384194d34453431c8b15d7d05c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 01:05:48 +0000</pubDate>
+<description>Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&amp;h=1184&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&amp;h=1184&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
+<title>After 40 years, CERN finds evidence of a one-in-10-billion particle decay</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261108233047.htm</link>
+<guid isPermaLink="false">fb9a85ae230146d3d1120ea62605bd8eca5ce675ed0eded7cd1a860416d45c29</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 00:42:52 +0000</pubDate>
+<description>CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators.</description>
+</item>
+<item>
+<title>Scientists finally discover why we learn to love bitter coffee</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261108233100.htm</link>
+<guid isPermaLink="false">5d3be687b385fb30282a500c6ba872874045ee3f335a09d451ae7f154f27c335</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 23:19:35 +0000</pubDate>
+<description>Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences.</description>
+</item>
+<item>
 <title>Rubies on Mars?</title>
 <link>https://science.nasa.gov/blog/rubies-on-mars</link>
 <guid isPermaLink="false">8a918517c6245020c27c127ad2f077fef4401ae3961a98badb4a9aeb9ffeb124</guid>
@@ -92,17 +141,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261107-ph-jls01-0269.jpg?w=2048" medium="image"/>
 </item>
 <item>
-<title>NASA’s ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars</title>
-<link>https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars</link>
-<guid isPermaLink="false">ef502c3869749e9e393c3b6789850e9c08b9c511744781ce8eb41376e9ab76e2</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 16:01:47 +0000</pubDate>
-<description>NASA’s two ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft have each successfully completed a powered Earth flyby, using Earth’s gravity in combination with a sustained engine burn to slingshot themselves toward Mars. With these successful maneuvers complete, the twin spacecraft are on target to reach the Red Planet in September 2027. “This is […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/escapade/ESCAPADE-B_TMI_07.jpg?w=2048&amp;h=1365&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Common supplement could help fight psoriasis, scientists discover</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261108233057.htm</link>
 <guid isPermaLink="false">b2c41421a0609786456b1a357474b9b6d3fb765fe9a1722e8d4a5bd9dbacf1ea</guid>
@@ -128,17 +166,6 @@
 <category>science</category>
 <pubDate>Mon, 09 Nov 2026 11:19:39 +0000</pubDate>
 <description>Scientists have observed a bizarre quantum state of matter that combines the structure of a crystal with the frictionless flow of a liquid, all at room temperature. The breakthrough overturns a major practical limitation of exotic quantum experiments and could help bring powerful new light-based computing and sensing technologies closer to reality.</description>
-</item>
-<item>
-<title>CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars</title>
-<link>https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars</link>
-<guid isPermaLink="false">ff7d4fc2e22cc37906ac8b9dece48ebd5a9f449198ede24fbf6f9f6f58806356</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-<description>After 378 days without windows, the sounds of the outside world, or real-time calls with family and friends, four research volunteers stepped out of NASA’s Mars Dune Alpha habitat on Oct. 31, completing the agency’s second yearlong Mars surface simulation. Ross Elder, Ellen Ellis, James Spicer, and Matthew Montgomery entered the roughly 1,700-square-foot, 3D-printed habitat at […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424286.jpg?w=1536" medium="image"/>
 </item>
 <item>
 <title>Scientists discover a surprising link between acorns and lyme disease</title>
@@ -555,15 +582,6 @@
 <description>Full-fat dairy may not be the health villain it has long been portrayed as, according to a new study finding that three daily servings did not worsen weight, cholesterol, or insulin resistance over 12 weeks. Researchers also observed improvements in blood pressure and nutrient intake, raising questions about longstanding recommendations to choose low-fat dairy.</description>
 </item>
 <item>
-<title>Dead stars could break one of physics' most famous limits</title>
-<link>https://www.sciencedaily.com/releases/2026/11/261102202835.htm</link>
-<guid isPermaLink="false">252069d1c430c905f3a16f617335d18e66e3f496a8dbb833e70a84fd9e2bbc83</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Fri, 06 Nov 2026 03:11:09 +0000</pubDate>
-<description>A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible. Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for decades. The findings could help explain unusually bright supernova explosions that have long puzzled astronomers.</description>
-</item>
-<item>
 <title>An anti-aging drug may help protect the brain before Alzheimer's symptoms begin</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261104084017.htm</link>
 <guid isPermaLink="false">b9eab8482ad83c502c8a6f8896fbb5d1ec45c9c3a597c65ce8e59723c63259cf</guid>
@@ -697,15 +715,6 @@
 <category>science</category>
 <pubDate>Thu, 05 Nov 2026 11:37:26 +0000</pubDate>
 <description>Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel behaves much like healthy enamel, raising hopes for a simple treatment that could repair damaged teeth, prevent decay, and reduce sensitivity.</description>
-</item>
-<item>
-<title>A tiny supercurrent could unlock quantum information without destroying it</title>
-<link>https://www.sciencedaily.com/releases/2026/11/261102202831.htm</link>
-<guid isPermaLink="false">3ccdf31e4506de184a2487a2a1a2a023c85a1d43dc335c97a0559b253846a88b</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Thu, 05 Nov 2026 03:47:09 +0000</pubDate>
-<description>Researchers have proposed a breakthrough technique for reading quantum information without destroying the delicate states that make quantum computers work. By detecting an electrical signal generated by the qubit itself, their method achieved up to 99.85% accuracy in simulations and could make future quantum computers simpler and more efficient.</description>
 </item>
 <item>
 <title>Opportunistically Detecting Signs of Hypertension on a Consumer Smartwatch</title>
@@ -1282,15 +1291,6 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11229-5 A dopamine pathway to the basolateral amygdala is necessary for associating nutrients with flavours.</description>
-</item>
-<item>
-<title>The brain’s hidden fear mechanism may explain anxiety and PTSD</title>
-<link>https://www.sciencedaily.com/releases/2026/11/261102202833.htm</link>
-<guid isPermaLink="false">51003e8f2391b4d9e191e2a37bcd1eb6fbdf38587d5f0a4b20044f67191a8fa0</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Tue, 03 Nov 2026 13:03:02 +0000</pubDate>
-<description>A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overlap, potentially allowing faster responses to danger. This "better safe than sorry" survival mechanism could help explain why people with anxiety or PTSD sometimes experience intense fear in completely safe situations.</description>
 </item>
 <item>
 <title>A 50-year-old mystery of vanishing frogs reveals a hidden killer</title>
