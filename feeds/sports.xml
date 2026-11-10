@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Podcast: What is going wrong at Aberdeen?</title>
+<link>https://www.bbc.co.uk/sounds/play/p0pm7gkd?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">0a7ad2041bf3747f86313176c805ace67b7cf84e9c97c80524a4a03d38e14b0c</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+<description>Robinson is out, but are Aberdeen’s problems much bigger than the manager?</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pm7gks.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pm7gks.jpg" medium="image"/>
+</item>
+<item>
 <title>Caldwell &amp; McGlynn linked with Aberdeen job - gossip</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c8ly0y5q34pno?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">7494d6f714eb3c0524a84f0f1281d2e50a2f537afa5c0c535e29dbc23511e446</guid>
@@ -37,13 +48,13 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
-<title>Listen: Who is your BBC Women's Footballer of the Year?</title>
+<title>More than the Score</title>
 <link>https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">ce9d4a84bc42a71b18ab417b5f15abc7e5874debd9a0555bbfc5d03a7a63acd3</guid>
 <source>BBC Football</source>
 <category>sports</category>
 <pubDate>Tue, 10 Nov 2026 06:30:00 +0000</pubDate>
-<description>The five nominees have been announced for the BBC award</description>
+<description>The five nominees have been announced for the BBC World Service award</description>
 <enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0pm1c2j.jpg" medium="image"/>
 </item>
@@ -189,6 +200,17 @@
 <description>Arsenal defender Ben White says people don't know the "full story" behind his decision to previously make himself unavailable for England selection - but says he would make the same decision again.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64ef/live/13e8f0c0-dc55-11f1-8fe6-5becaee5408f.jpg" medium="image"/>
+</item>
+<item>
+<title>Kane and Bellingham air strong views in England World Cup review</title>
+<link>https://www.bbc.co.uk/sport/football/articles/cqr7y7813l04o?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">e29198bfaca39e73f32a139d9f52941472d5c7f492bbbe85eba831ab756e2bd0</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Mon, 09 Nov 2026 17:30:23 +0000</pubDate>
+<description>England players are understood to have aired strong views about their World Cup semi-final defeat by Argentina in a team meeting.</description>
+<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d453cf00-dc51-11f1-a869-656dc96bd12d.jpg" medium="image"/>
 </item>
 <item>
 <title>Wilson eyeing survival step as Wales tackle Norway</title>
@@ -675,17 +697,6 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde1/live/4a0a6a30-db4c-11f1-b441-2b33b063138f.png" medium="image"/>
 </item>
 <item>
-<title>'I can't believe he is one of us' - inside Salah's life in Trabzon</title>
-<link>https://www.bbc.co.uk/sport/football/articles/cmwyqzy934lxo?at_medium=RSS&amp;at_campaign=rss</link>
-<guid isPermaLink="false">c3b2da823da1c8f09c14463bb91a5520ff18cd95198789fdd2989522b5cde5fb</guid>
-<source>BBC Football</source>
-<category>sports</category>
-<pubDate>Sun, 08 Nov 2026 07:30:01 +0000</pubDate>
-<description>BBC Sport travels to Turkey to watch Mohamed Salah play for Trabzonspor and discover how the 'Egyptian King' is settling into life by the Black Sea.</description>
-<enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg" type="image/jpeg"/>
-<media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/054e/live/566a97f0-da93-11f1-8206-e519d24a9ca2.jpg" medium="image"/>
-</item>
-<item>
 <title>'The worst conditions in my 35-year career' - commentating in the FA Cup fog</title>
 <link>https://www.bbc.co.uk/sport/football/articles/cqev3rdvyvm1o?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">3ee1d415dc067a9dccfe578b7b9f895e425acf93c19e75cfcb4b45fb53ddbd53</guid>
@@ -728,17 +739,6 @@
 <description>It may be a surprise to some but Jobe Bellingham's call up to the England senior side has been a long time coming.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e1/live/6e8557d0-d9d5-11f1-9e5a-c30c5e3d8c85.jpg" medium="image"/>
-</item>
-<item>
-<title>‘In moments of pain, football comes together’: Spain says goodbye to Jesús de Miguel</title>
-<link>https://www.theguardian.com/football/2026/nov/05/jesus-de-miguel-death-tenerife-funeral-football-spain</link>
-<guid isPermaLink="false">480c1d45f78c3ad50dd7cc160f6449506b77bc5017b387ee8bc01d01a40ae4d4</guid>
-<source>The Guardian Football</source>
-<category>sports</category>
-<pubDate>Thu, 05 Nov 2026 22:03:49 +0000</pubDate>
-<description>Only 3,587 people live in his family’s village but the streets of Navahermosa were fuller yet quieter to mourn the Tenerife striker at his funeral The narrow streets of Navahermosa in La Mancha were fuller than they have ever been on Thursday afternoon and quieter too. Silence accompanied the funeral cortege as its made way from the funeral home to the parish church of San Miguel Arcángel carrying Jesús de Miguel Alameda, “Demi”, the Tenerife striker who died after an on-field collision with the Andorra goalkeeper Jesús Owono three days earlier. Only 3,587 people live in his family’s village but now they were joined by the game he loved. “We wanted to be close to his parents, his wife and daughter. In moments of pain, football comes together more than ever,” said Luis de la Fuente. The Spain manager did not say much else; there was not much else he could say, not much anyone could. These have been dark, desperate days, days when it was impossible to assimilate what has happened, and th</description>
-<enclosure url="https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=524992fc8ec9ac2a017351caae7c5b97" type="image/jpeg"/>
-<media:content url="https://i.guim.co.uk/img/media/eea7928b70b174eebe5b6e5016c4356c4b57a54c/385_0_5850_4680/master/5850.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=524992fc8ec9ac2a017351caae7c5b97" medium="image"/>
 </item>
 <item>
 <title>What new Kane deal means for England and the Premier League record</title>
