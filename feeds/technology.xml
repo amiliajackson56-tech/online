@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Otter AI can now follow conversations across 30+ languages</title>
+<link>https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages</link>
+<guid isPermaLink="false">0f192bba36f64bb6ee3d0329ba71c795e80a590bce284e58dd1b089b1731c81d</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+<description>Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.</description>
+</item>
+<item>
+<title>Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information</title>
+<link>https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information</link>
+<guid isPermaLink="false">ccc979e1da2b25eea51370081a3fe0b656ca6a5195680b39d39786824acf8b7e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
+<description>A researcher’s trawl through publicly available code found private information was at risk across multiple departments.</description>
+<enclosure url="https://media.wired.com/photos/6af269df2008482926d88a86/master/pass/Security_Security%20Flaws%20Across%20UK%20Government%20Sites%20Exposed%20%E2%80%98God-Tier%E2%80%99%20Information_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af269df2008482926d88a86/master/pass/Security_Security%20Flaws%20Across%20UK%20Government%20Sites%20Exposed%20%E2%80%98God-Tier%E2%80%99%20Information_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026</title>
+<link>https://thehackernews.com/2026/11/google-issues-chrome-security-update.html</link>
+<guid isPermaLink="false">749cd79bf9b6b051f921dd2a0964c78940dcc9dddee5e4ca849f6e61ef2c0c97</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:52:54 +0000</pubDate>
+<description>Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg" medium="image"/>
+</item>
+<item>
+<title>N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits</title>
+<link>https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html</link>
+<guid isPermaLink="false">f0d40b6eb5cac62ee86cf717f406d05317d47708def4f82c98769f895c4ecee0</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:44:36 +0000</pubDate>
+<description>N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell. "As a precautionary measure, we are temporarily taking our Hosted N-central environment offline while we take the necessary actions to secure the</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DkzHcZpJVVEU3e3wmGB2DiyRsnWXkf_2bfT1fiDJG4Wn92cartbhyphenhyphenqZHOjXGasigHqJAyXM0kjOlYipgEkahrCi9KGa1s8gpINVT-oFldgOc1bZMUQ-nmFqsSMNwIe6463fXOxSqX1dNroXgwn9MwsmCx41jvPdtdygITxfKyTRDUWKS19YVTFTZY8sr/s1600/n-able.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DkzHcZpJVVEU3e3wmGB2DiyRsnWXkf_2bfT1fiDJG4Wn92cartbhyphenhyphenqZHOjXGasigHqJAyXM0kjOlYipgEkahrCi9KGa1s8gpINVT-oFldgOc1bZMUQ-nmFqsSMNwIe6463fXOxSqX1dNroXgwn9MwsmCx41jvPdtdygITxfKyTRDUWKS19YVTFTZY8sr/s1600/n-able.jpg" medium="image"/>
+</item>
+<item>
+<title>CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws</title>
+<link>https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html</link>
+<guid isPermaLink="false">4703b2a7b4d7d2a2a912c1f3b529a5dedc5e64790d69ffd02c7609f716ee7f5d</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:31:42 +0000</pubDate>
+<description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png" medium="image"/>
+</item>
+<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -37,6 +90,17 @@
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
+<title>Valvoline Coupons and Promo Codes for November 2026</title>
+<link>https://www.wired.com/story/valvoline-coupons</link>
+<guid isPermaLink="false">81a691ff48a8e9c7069be7f347870d7970581bdfc7da8f16506c57feeae00da8</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.</description>
+<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
+</item>
+<item>
 <title>Office Depot Coupons: $20 Off November 2026</title>
 <link>https://www.wired.com/story/office-depot-promo-codes</link>
 <guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
@@ -59,26 +123,15 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>Valvoline Coupons and Promo Codes for November 2026</title>
-<link>https://www.wired.com/story/valvoline-coupons</link>
-<guid isPermaLink="false">81a691ff48a8e9c7069be7f347870d7970581bdfc7da8f16506c57feeae00da8</guid>
+<title>Dyson Promo Codes: 25% Off in November 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.</description>
-<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
-</item>
-<item>
-<title>Breville Promo Code: $700 Off | November 2026</title>
-<link>https://www.wired.com/story/breville-promo-code</link>
-<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
-<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Chirp Discount Codes: 67% Off</title>
@@ -158,15 +211,15 @@
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in November 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<title>Breville Promo Code: $700 Off | November 2026</title>
+<link>https://www.wired.com/story/breville-promo-code</link>
+<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
+<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
 </item>
 <item>
 <title>California’s proposed ‘billionaire tax’ fails to pass</title>
@@ -1160,15 +1213,6 @@
 <description>Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.</description>
 </item>
 <item>
-<title>Waymo robotaxis kept illegally passing school buses after software fix, feds say</title>
-<link>https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say</link>
-<guid isPermaLink="false">3ea7cd27eafe16dadc94cb726e304b858cd4eaa2af2be71a19b37645819cb02f</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 15:24:59 +0000</pubDate>
-<description>The update to Waymo's self-driving system was rolled out nearly a year ago.</description>
-</item>
-<item>
 <title>Nvidia CEO's affair becomes a national security problem</title>
 <link>https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage</link>
 <guid isPermaLink="false">33a0483307191e736514257bcb73581bbfb5c813db7e504f887f69a6278d3b7c</guid>
@@ -1890,17 +1934,6 @@
 <description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
 <enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
-</item>
-<item>
-<title>Ecoflow Rapid Pro Power Bank Deal: Save $80</title>
-<link>https://www.wired.com/story/ecoflow-rapid-pro-deal-november-2026</link>
-<guid isPermaLink="false">fd7cbae1066b35debac76e8f5c1b831b2d97becf4e56d7f80daabe2a5965da7f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>With huge capacities, retractable USB-C cables, and fast-charging capability, these discounted Ecoflow power banks are worth grabbing.</description>
-<enclosure url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee6950f3308d4d3049680f/master/pass/Your-Holiday-Travels-Need-a-Power-Bank,-and-My-Favorite-Has-Never-Been-Cheaper.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</title>
@@ -3034,38 +3067,5 @@
 <description>Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png" medium="image"/>
-</item>
-<item>
-<title>cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes</title>
-<link>https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html</link>
-<guid isPermaLink="false">c3e615c4c5d6d791ca5ef6728c497232c65b40f2c618d5af92f9e6911a95c7b9</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 15:16:32 +0000</pubDate>
-<description>An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. In a later disclosure, OPSSHIELD said about 2,950 customer servers ran the script,</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png" medium="image"/>
-</item>
-<item>
-<title>Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing</title>
-<link>https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html</link>
-<guid isPermaLink="false">b84cad2a2e67203e1c8e6fda7462f0b2daa108321068a6dd8cb8d955da2b055a</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 11:23:53 +0000</pubDate>
-<description>Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg" medium="image"/>
-</item>
-<item>
-<title>The 4 Elements of Exposure Prioritization and How to Operationalize Them</title>
-<link>https://thehackernews.com/2026/11/the-4-elements-of-exposure.html</link>
-<guid isPermaLink="false">e168d5f8ea0683e50921d04b71059fe77a9fad24c1b60867ebd92aa0727b4ca0</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 11:18:20 +0000</pubDate>
-<description>Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5J_qkmStJVdWJYvNtd4lb2cRfPMaSvu1dEKp8tXOjw71kt_fRGGfdPr60HL5agJ8NMBYO5sH7jVvzMWXlLW1fq0xilaF0GyLQHCznSjHeos7sdP_Xwmd6OWyzKv8Yq8m-Z0Hn3x15GBU8AySu2A27OlIWiuAW9ch0iZuXxTpELRSQ6uRdW9nLK4uXQg/s1600/picus-main.png" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK5J_qkmStJVdWJYvNtd4lb2cRfPMaSvu1dEKp8tXOjw71kt_fRGGfdPr60HL5agJ8NMBYO5sH7jVvzMWXlLW1fq0xilaF0GyLQHCznSjHeos7sdP_Xwmd6OWyzKv8Yq8m-Z0Hn3x15GBU8AySu2A27OlIWiuAW9ch0iZuXxTpELRSQ6uRdW9nLK4uXQg/s1600/picus-main.png" medium="image"/>
 </item>
 </channel></rss>
