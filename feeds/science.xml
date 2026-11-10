@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities</title>
+<link>https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities</link>
+<guid isPermaLink="false">c45c5c281dd2928f93deb802d6f0143bfb5cd37b5086b21cbd8d7f80d79cbe0b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 19:22:45 +0000</pubDate>
+<description>Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston</title>
 <link>https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston</link>
 <guid isPermaLink="false">6103d40234ae10198e8f3069ce3dd04661aff20a719b80596e1f4ddfd2275814</guid>
@@ -236,17 +247,6 @@
 <description>Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. However, the team felt strongly that it was worth the effort […]</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_ZL0_2018_0846089083_331EBY_N0920000ZCAM05068_1100LMJ.jpg?w=1648&amp;h=1200&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
-<title>La NASA busca a la próxima generación de astronautas</title>
-<link>https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas</link>
-<guid isPermaLink="false">14b98b878e48aa05244b742b6e8e5ff15819e0d146eea6813a4f6dee99555372</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 19:27:20 +0000</pubDate>
-<description>Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" medium="image"/>
 </item>
 <item>
 <title>Common supplement could help fight psoriasis, scientists discover</title>
