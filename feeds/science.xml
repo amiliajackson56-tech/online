@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>CHAPEA Crew Leaves a Mark</title>
+<link>https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark</link>
+<guid isPermaLink="false">c56871ec8d71c1c0765c8774953d5c4e5e606b2c95c5e10fff500e63f47518a6</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 14:57:55 +0000</pubDate>
+<description>The Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew arranged photos around a boot print in the simulated Martian sand outside their habitat on Aug. 31, 2026. The crew recently exited their habitat on Saturday, Oct. 31, after 378 days of isolation in a facility at the agency’s Johnson Space Center in Houston. Health […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg?w=1536" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e425219orig.jpg?w=1536" medium="image"/>
+</item>
+<item>
 <title>APOD: 2026 November 10 – Saturn Behind the Moon</title>
 <link>https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon</link>
 <guid isPermaLink="false">6077b114a81316c8b17982213913b9c386ac6f89fe2cf9ffe8fbf184d9a686b0</guid>
@@ -111,6 +122,15 @@
 <description>Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03623-w Picking a site for an observatory should be about more than science. Humanities scholars have a crucial role in responsible siting.</description>
 </item>
 <item>
+<title>California votes to give record $8.4 billion to medical research</title>
+<link>https://www.nature.com/articles/d41586-026-03635-6</link>
+<guid isPermaLink="false">9b8bb9d315c94ef2ccbfd8cab079c97a10ebfde818ce9275334a11859d882083</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03635-6 The cash infusion, earmarked for immunology studies, is the largest ever for science authorized by a US public vote — but it has drawn criticism.</description>
+</item>
+<item>
 <title>How microbes can secure the critical minerals the world needs</title>
 <link>https://www.nature.com/articles/d41586-026-03629-4</link>
 <guid isPermaLink="false">6a1904a73663672241115ebda4ae2828dda0b023d134e9e28447b68071e56a65</guid>
@@ -126,7 +146,7 @@
 <source>Nature News</source>
 <category>science</category>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues from Mongolia suggest that underground fungal networks might be key for reviving degraded land and preserving plant biodiversity.</description>
+<description>Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity.</description>
 </item>
 <item>
 <title>PhDs worldwide are having a shake up — why now?</title>
@@ -218,17 +238,6 @@
 <description>Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg?w=1200" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg?w=1200" medium="image"/>
-</item>
-<item>
-<title>La NASA destina un millón de dólares al reto estudiantil Base Lunar</title>
-<link>https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar</link>
-<guid isPermaLink="false">08013d4840d57bf96b5e99f9147977af22701d44b2fc4fe72055c3848851e13e</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 17:36:33 +0000</pubDate>
-<description>Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad de oro de […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/cpc-logistics-actionshot-1.png?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/cpc-logistics-actionshot-1.png?w=2048" medium="image"/>
 </item>
 <item>
 <title>Common supplement could help fight psoriasis, scientists discover</title>
@@ -1282,15 +1291,6 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11209-9 In Drosophila erecta, food odours initiate male sexual arousal, which is subsequently reinforced by the visual motion of other courting flies, creating a multisensory mechanism that synchronizes courtship in groups when conditions are favourable for reproduction.</description>
-</item>
-<item>
-<title>An AI-native experimental laboratory for autonomous biomolecular operations</title>
-<link>https://www.nature.com/articles/s41586-026-11228-6</link>
-<guid isPermaLink="false">d953d5ad60303f9cec0c540a82249fa231461dbca5c6c9e41d8d7b9d5e5db206</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11228-6 AutoDNA is an artificial intelligence (AI)-native autonomous biomolecular engineering laboratory targeting multi-objective experiments across diverse instruments, realizing the co-evolution of AI and the automation system within an end-to-end multi-user framework.</description>
 </item>
 <item>
 <title>A 50-year-old mystery of vanishing frogs reveals a hidden killer</title>
