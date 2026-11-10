@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA to Welcome Expedition 74 Astronauts Home at Space Center Houston</title>
+<link>https://www.nasa.gov/news-release/nasa-to-welcome-expedition-74-astronauts-home-at-space-center-houston</link>
+<guid isPermaLink="false">6103d40234ae10198e8f3069ce3dd04661aff20a719b80596e1f4ddfd2275814</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 18:06:33 +0000</pubDate>
+<description>NASA will welcome home the Expedition 74 crew during a public event at Space Center Houston following their return from a long-duration mission aboard the International Space Station. NASA astronauts Jessica Meir, Jack Hathaway, and Chris Williams; ESA (European Space Agency) astronaut Sophie Adenot; and Roscosmos cosmonauts Sergey Kud‑Sverchkov and Sergei Mikaev will share mission […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/expedition-74-picture.jpg?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA Scientists Show How Gravitational Waves Can Reveal New Worlds</title>
 <link>https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds</link>
 <guid isPermaLink="false">aaad94cf7bdb6ce39c257f5c9cb3f9b63a2fc03661e60e1fd7adbab202b704b5</guid>
@@ -236,17 +247,6 @@
 <description>Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Estados Unidos regresa a […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920" medium="image"/>
-</item>
-<item>
-<title>NASA’s Chandra Finds Source of Star’s Mysterious Outbursts</title>
-<link>https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts</link>
-<guid isPermaLink="false">e16142d03f2a82b5bd1d851c7638ecc6cf297e6324f2a442c1ceaee0008982d3</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 18:55:50 +0000</pubDate>
-<description>Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling material away from the massive star every 113 days as they orbit […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=2048&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=2048&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Common supplement could help fight psoriasis, scientists discover</title>
