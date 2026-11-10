@@ -4,6 +4,79 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Hackers now exploit critical Barracuda ESG flaws to gain root access</title>
+<link>https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access</link>
+<guid isPermaLink="false">069c9763b153ec471fc4f59945233ba168661c3976fef2f7a4547dbf1a2a2be4</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 10:10:20 +0000</pubDate>
+<description>Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]</description>
+</item>
+<item>
+<title>Huupe Mini 2 Review: More Game Than It Can Handle</title>
+<link>https://www.wired.com/review/huupe-mini-2</link>
+<guid isPermaLink="false">5bed4b01bad2c2a167797f83e4264270f0fe1cf309cf8237d3fae019f4ef9be9</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 10:08:00 +0000</pubDate>
+<description>The Huupe Mini 2 can count baskets, stream shows, and challenge strangers, but I’d settle for a working power button.</description>
+<enclosure url="https://media.wired.com/photos/6af29f382c67abe2e82841e0/master/pass/Review--Huupe-Mini-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af29f382c67abe2e82841e0/master/pass/Review--Huupe-Mini-2.jpg" medium="image"/>
+</item>
+<item>
+<title>Turla hackers use new Cereal malware to spy on govt Exchange servers</title>
+<link>https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers</link>
+<guid isPermaLink="false">276f05ccb629962c03d675969c1b157390043cf9cdb9a10170eed15686a68f61</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 10:04:32 +0000</pubDate>
+<description>The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]</description>
+</item>
+<item>
+<title>SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution</title>
+<link>https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html</link>
+<guid isPermaLink="false">c110ef77ed0278863603bba8ea1c06d49f2fa6c755aaf353522fcf6141cf98b8</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 10:02:40 +0000</pubDate>
+<description>Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4snqwJ4uD_sRDyI8zs23mcfFTWfZoSrn9n1hbUrsHbyWy-1VFL8amxqQnLb7LSTPkuSwnsPofUJT6anObg-nU4Q5e01WBb3IixN_PdL-1MJ2nOip4qSTEoVDmePRlOgjSVjvtbH8vFlQgxtGuKuqmuHWLyzIavw2Sj4VtZBlTYhUqeySbQcDMEr4Wns/s1600/sap-flaws.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4snqwJ4uD_sRDyI8zs23mcfFTWfZoSrn9n1hbUrsHbyWy-1VFL8amxqQnLb7LSTPkuSwnsPofUJT6anObg-nU4Q5e01WBb3IixN_PdL-1MJ2nOip4qSTEoVDmePRlOgjSVjvtbH8vFlQgxtGuKuqmuHWLyzIavw2Sj4VtZBlTYhUqeySbQcDMEr4Wns/s1600/sap-flaws.jpg" medium="image"/>
+</item>
+<item>
+<title>GTA 6 is now available for preload if you have a spare 212GB</title>
+<link>https://www.engadget.com/2311841/gta-6-now-available-for-preload</link>
+<guid isPermaLink="false">6229c78f0d5e1c09482af42ba6c8fc635ec05f6020b61035b2642f23246055f6</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 10:01:45 +0000</pubDate>
+<description>With its release just nine days away, Grand Theft Auto VI is now available for preloading on Xbox Series X|S and PlayStation 5.</description>
+<enclosure url="https://www.engadget.com/img/gallery/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb/l-intro-1794304763.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/gta-6-is-now-available-for-preload-if-you-have-a-spare-212gb/l-intro-1794304763.jpg" medium="image"/>
+</item>
+<item>
+<title>Here’s What We Know About the X-70 Fractal, NASA’s Experimental New Plane</title>
+<link>https://www.wired.com/story/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane</link>
+<guid isPermaLink="false">7e91017063ead5d0acbd90876101c09d6eba15cd86b8244fc61c599ce560c00d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+<description>NASA announced the development of an experimental aircraft designed to explore new flight capabilities, although details about its design and operation remain under wraps.</description>
+<enclosure url="https://media.wired.com/photos/6af20c50a64aa182bab7b341/master/pass/nasa-x-70-image.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af20c50a64aa182bab7b341/master/pass/nasa-x-70-image.jpg" medium="image"/>
+</item>
+<item>
+<title>DOJ lawsuit says Lyft routinely refuses service to passengers with disabilities</title>
+<link>https://www.engadget.com/2311839/doj-lawsuit-lyft-routinely-refused-service-passengers-with-disabilities</link>
+<guid isPermaLink="false">11967f365fa6620b1558ebc132bc48316181d4c69eefd8f0c680563889bb5876</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 09:58:52 +0000</pubDate>
+<description>The Justice Department has sued Lyft, accusing its drivers of routinely refusing service to passengers with wheelchairs and service animals.</description>
+<enclosure url="https://www.engadget.com/img/gallery/doj-lawsuit-says-lyft-routinely-refuses-service-to-passengers-with-disabilities/l-intro-1794304647.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/doj-lawsuit-says-lyft-routinely-refuses-service-to-passengers-with-disabilities/l-intro-1794304647.jpg" medium="image"/>
+</item>
+<item>
 <title>France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites</title>
 <link>https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html</link>
 <guid isPermaLink="false">db918bafa08cb13b8fcbdd07086afe23eb069535185f09c9e70b054338bc0be8</guid>
@@ -119,6 +192,28 @@
 <media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
+</item>
+<item>
+<title>Bose Promo Code: 40% Off for November 2026</title>
+<link>https://www.wired.com/story/bose-coupon-code</link>
+<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+</item>
+<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -152,26 +247,15 @@
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<title>Dyson Promo Codes: 25% Off in November 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
-<title>Bose Promo Code: 40% Off for November 2026</title>
-<link>https://www.wired.com/story/bose-coupon-code</link>
-<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Chirp Discount Codes: 67% Off</title>
@@ -249,17 +333,6 @@
 <description>Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>Dyson Promo Codes: 25% Off in November 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Breville Promo Code: $700 Off | November 2026</title>
@@ -1162,28 +1235,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-PROLED-XDR-MacBook-HomeView-Ultra-4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>NHTSA investigates if Waymo robotaxis are still running school bus stop signs</title>
-<link>https://www.engadget.com/2310872/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs</link>
-<guid isPermaLink="false">466067d824e6d7f01d5c281b8a9d565fee0ad24ff272e4adbbdde27824afd7aa</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:16:46 +0000</pubDate>
-<description>The latest probe questions the effectiveness of Waymo's software recall from 2025.</description>
-<enclosure url="https://www.engadget.com/img/gallery/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/l-intro-1794240937.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/nhtsa-investigates-if-waymo-robotaxis-are-still-running-school-bus-stop-signs/l-intro-1794240937.jpg" medium="image"/>
-</item>
-<item>
-<title>Think twice before using a webcam cover on your MacBook</title>
-<link>https://www.engadget.com/2307730/think-twice-before-using-webcam-cover-macbook</link>
-<guid isPermaLink="false">46b6f3e75c545523734373cb12b24b9ff511e9f3dfb3a0d6bc5a00a3f8d545c1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:15:00 +0000</pubDate>
-<description>Webcam covers sound like a good idea, but your MacBook isn't designed with space to accommodate them.</description>
-<enclosure url="https://www.engadget.com/img/gallery/think-twice-before-using-a-webcam-cover-on-your-macbook/l-intro-1793645458.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/think-twice-before-using-a-webcam-cover-on-your-macbook/l-intro-1793645458.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year</title>
 <link>https://9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year</link>
 <guid isPermaLink="false">e3848d5a6932015df62840f60ca707a77042f31d6046773811f9a2449906649d</guid>
@@ -1379,15 +1430,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Parents-in-the-US-can-expect-Instagram-notifications-about-their-teens.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Ukraine dismantles crypto scam network that stole €4.3 million</title>
-<link>https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million</link>
-<guid isPermaLink="false">494864e2c9d9794d97ad1c0c0afbdb22446bf1ae6d94f29c035aaec82abfa413</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 12:16:13 +0000</pubDate>
-<description>Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]</description>
-</item>
-<item>
 <title>Apple staff accused of signing up customers to subscriptions without consent; company responds</title>
 <link>https://9to5mac.com/2026/11/09/apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent-company-responds</link>
 <guid isPermaLink="false">d5de4377d510c4b190654d8243da59ca19f0f7e3898a09a900456df1fa714c5c</guid>
@@ -1465,17 +1507,6 @@
 <media:content url="https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg" medium="image"/>
 </item>
 <item>
-<title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
-<link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
-<guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-<description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
-<enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
-</item>
-<item>
 <title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
 <link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
 <guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
@@ -1485,6 +1516,17 @@
 <description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
 <enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
+</item>
+<item>
+<title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
+<link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
+<guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
+<enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
 </item>
 <item>
 <title>Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack</title>
@@ -1639,15 +1681,6 @@
 <description>In the past few years, a major Apple story (especially in the age of AI) has been that the company isn’t moving fast enough in the space to keep up with competitors. According to Bloomberg’s Mark Gurman , new Apple CEO John Ternus is reportedly pushing on software chief Craig Federighi to ‘accelerate’ Apple’s roadmap for software. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/06/New-Apple-privacy-features.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>Iris Ohyama data cloud breach exposes info of 7.7 million customers</title>
-<link>https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers</link>
-<guid isPermaLink="false">991a8f7ace2dbef42f27dae640cde8092a8d98152b33f2ab11f759325f38df49</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Sun, 08 Nov 2026 15:43:08 +0000</pubDate>
-<description>Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]</description>
 </item>
 <item>
 <title>Apple aiming to make Siri ‘more like an agent’ as soon as next year: report</title>
@@ -1934,28 +1967,6 @@
 <description>The apps and platforms that help family caregivers manage their loved ones’ needs are becoming more capable, but the broader issue of caregivers’ well-being remains unsolved.</description>
 <enclosure url="https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6aed04343576db1689ab3d03/master/pass/Caregiving%20app.jpg" medium="image"/>
-</item>
-<item>
-<title>GoRuck Black Friday Sale: My Favorite Packs and Weighted Vests Are Nearly 50% Off</title>
-<link>https://www.wired.com/story/goruck-black-friday-sale-2026</link>
-<guid isPermaLink="false">d1c69d6c004371d12505ee417f9b0a0ade2d178994408e1917af396247018692</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>Skip the gym and get outdoors with GoRuck’s indestructible packs and workout gear, deeply discounted ahead of the holidays.</description>
-<enclosure url="https://media.wired.com/photos/6aee7389276d9711716c9d08/master/pass/My-Favorite-GoRuck-Packs-and-Weighted-Vests-Are-on-Sale-for-Black-Friday.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee7389276d9711716c9d08/master/pass/My-Favorite-GoRuck-Packs-and-Weighted-Vests-Are-on-Sale-for-Black-Friday.jpg" medium="image"/>
-</item>
-<item>
-<title>He Ran on Fighting Data Centers. Now, He’s Going to Congress</title>
-<link>https://www.wired.com/story/he-ran-on-fighting-data-centers-now-hes-going-to-congress</link>
-<guid isPermaLink="false">181ef523da1e3408f919db3466bd5ca9ccac6f817f3ba8c3d2581ef4ecf46ac3</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
-<description>Will Lawrence beat out better-funded opponents in the race to represent Michigan’s 7th District. Now, the representative-elect is laying out his plans to fight for a federal data center moratorium.</description>
-<enclosure url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee8c314e9fcb3cda39f822/master/pass/Power-Play-Ran-on-Hating-Congress.jpg" medium="image"/>
 </item>
 <item>
 <title>Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</title>
@@ -3056,16 +3067,5 @@
 <description>Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a large-scale, artificial intelligence (AI)-powered attack campaign that came to light last week. "An external attacker gained unauthorized access to part of</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMgLc61q6cTompbBY4lS-pqinmS1_3vYBYH7OVnnFTmOZfMk8R7houuqUmnMhUs-gTI-55HwieAaPuCI_zhc0XNw74PhfZVbCjWexPUUugMc1crPvP6uQsic7o3GDy5KXbYJE8LtXqdban8cTcfnn9AxRgOkR0w5_bQx-pHTR1A5-ttEHcpqGkgYajjSiA/s1600/chainstack.png" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMgLc61q6cTompbBY4lS-pqinmS1_3vYBYH7OVnnFTmOZfMk8R7houuqUmnMhUs-gTI-55HwieAaPuCI_zhc0XNw74PhfZVbCjWexPUUugMc1crPvP6uQsic7o3GDy5KXbYJE8LtXqdban8cTcfnn9AxRgOkR0w5_bQx-pHTR1A5-ttEHcpqGkgYajjSiA/s1600/chainstack.png" medium="image"/>
-</item>
-<item>
-<title>Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft</title>
-<link>https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html</link>
-<guid isPermaLink="false">62e23c789fbfd2f85d19b5cda60f223a48c61e51317e15463cf2fb7e382d0fc7</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 03 Nov 2026 16:55:58 +0000</pubDate>
-<description>Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a tampered Homebrew installation and recruitment-themed social engineering attack targeting two of its engineers. "It was not a single isolated breach or a simple phishing incident,"</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZCMCR8h3YCPcfY8Fbe54ckYKh_YUt_Yd7v82dAHobZtMNlQl_JVKWUX4OUPwR0dEmYsLNfeKsW6rUthk8pYRVhIddbPXx86sHCcNBRL9E-9LJTPrYSYwJ_V66EwGJNFeoWgDPbjcGfeJ4w2qn_gfTjXBoNAnfWq4GZ8rq7VOhnqt4QlItYEBr3Zar7XL1/s1600/bin.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZCMCR8h3YCPcfY8Fbe54ckYKh_YUt_Yd7v82dAHobZtMNlQl_JVKWUX4OUPwR0dEmYsLNfeKsW6rUthk8pYRVhIddbPXx86sHCcNBRL9E-9LJTPrYSYwJ_V66EwGJNFeoWgDPbjcGfeJ4w2qn_gfTjXBoNAnfWq4GZ8rq7VOhnqt4QlItYEBr3Zar7XL1/s1600/bin.jpg" medium="image"/>
 </item>
 </channel></rss>
