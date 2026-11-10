@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Scientists Show How Gravitational Waves Can Reveal New Worlds</title>
+<link>https://science.nasa.gov/missions/lisa/gravitational-waves-can-reveal-new-worlds</link>
+<guid isPermaLink="false">aaad94cf7bdb6ce39c257f5c9cb3f9b63a2fc03661e60e1fd7adbab202b704b5</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 10 Nov 2026 16:00:26 +0000</pubDate>
+<description>The LISA (Laser Interferometer Space Antenna) observatory, now in development, will detect gravitational waves, the tiny ripples in space-time caused by orbiting masses. Now two studies led by NASA astrophysicists show in new detail how LISA could reveal a new and unique population of exoplanets — worlds beyond our solar system — throughout our galaxy. […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&amp;h=1593&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/ciencia/2023/06/s/stsci-j-p2223a_0.jpeg?w=2048&amp;h=1593&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>CHAPEA Crew Leaves a Mark</title>
 <link>https://www.nasa.gov/image-article/chapea-crew-leaves-a-mark</link>
 <guid isPermaLink="false">c56871ec8d71c1c0765c8774953d5c4e5e606b2c95c5e10fff500e63f47518a6</guid>
@@ -238,17 +249,6 @@
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/chandra/2026/at2016blu.jpg?w=2048&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>NASA Advanced Mid-Power Electric Rocket Challenge</title>
-<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge</link>
-<guid isPermaLink="false">70a6b1af0b12ed4525e30a549d67eb584d47119b0871400d35aa86ae14129c52</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 17:42:42 +0000</pubDate>
-<description>Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The NASA AMPERE Challenge invites U.S. commercial companies to develop and demonstrate mid-power Hall effect […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg?w=1200" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2024/05/image-1ee21e.jpeg?w=1200" medium="image"/>
-</item>
-<item>
 <title>Common supplement could help fight psoriasis, scientists discover</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261108233057.htm</link>
 <guid isPermaLink="false">b2c41421a0609786456b1a357474b9b6d3fb765fe9a1722e8d4a5bd9dbacf1ea</guid>
@@ -418,6 +418,15 @@
 <category>science</category>
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02998-0 Nature reports on five countries where academic freedom has either plummeted or soared in recent years.</description>
+</item>
+<item>
+<title>Daily briefing: The ‘overshoot COP’ kicks off</title>
+<link>https://www.nature.com/articles/d41586-026-03658-z</link>
+<guid isPermaLink="false">2d538969455ed2a4fa4543541987174e5e48a91230e9e7eeca9746051de7f015</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03658-z The COP31 climate conference begins, with ‘climate overshoot’ a key talking point. Plus, the surprising benefits of ‘pink noise’ and the role of AI chatbots to support men’s mental health.</description>
 </item>
 <item>
 <title>What postdoc ads ask for and what they leave unsaid</title>
@@ -1282,15 +1291,6 @@
 <category>science</category>
 <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-10956-z Using high-throughput in vivo CAR-T double knockout screening, synergistic gene combinations to improve CAR-T cell therapy are revealed.</description>
-</item>
-<item>
-<title>Observation of prethermal dynamical phase transitions and resonant melting</title>
-<link>https://www.nature.com/articles/s41586-026-11225-9</link>
-<guid isPermaLink="false">079c42518cc8d20083d67889801d61f87c66bc10fbd09024e37a13c5ce45e3a6</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 04 November 2026; doi:10.1038/s41586-026-11225-9 A programmable neutral-atom quantum simulator is used to explore quench dynamics in spin models with up to 180 qubits, revealing prethermal dynamical phase transitions and resonant melting.</description>
 </item>
 <item>
 <title>A 50-year-old mystery of vanishing frogs reveals a hidden killer</title>
