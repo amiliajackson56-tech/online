@@ -4,6 +4,70 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>A New Benchmark for De-Aging Comes From Slowly Turning Back Cells’ Clocks</title>
+<link>https://www.wired.com/story/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks</link>
+<guid isPermaLink="false">a0fc1ab1a833877f38e53a4948f4a7209408a2211984b3da60dcd980d64cc1e3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:30:00 +0000</pubDate>
+<description>Researchers in Germany gradually reversed human cells’ ages by decades. By doing so, they could track the de-aging process in a way previous rejuvenation experiments could not.</description>
+<enclosure url="https://media.wired.com/photos/6ae0fe13b1846b1aa519246b/master/pass/leadimagesize.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae0fe13b1846b1aa519246b/master/pass/leadimagesize.jpg" medium="image"/>
+</item>
+<item>
+<title>CISA flags Cisco BroadWorks flaw as actively exploited in attacks</title>
+<link>https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks</link>
+<guid isPermaLink="false">7df133cfe89f573213bdabbf5dc71919c11c276ded69635498d630392804a869</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:12:08 +0000</pubDate>
+<description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]</description>
+</item>
+<item>
+<title>Early Black Friday Deals Under $100 (2026)</title>
+<link>https://www.wired.com/story/best-early-black-friday-deals-under-100-11-11-2026</link>
+<guid isPermaLink="false">d6012327860eda23662e45ccbbc70185da679380af48cd04e6e06cd94a42cd5d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:12:00 +0000</pubDate>
+<description>Here are the best discounts we’ve found so far on WIRED-tested gadgets under $100.</description>
+<enclosure url="https://media.wired.com/photos/6af39fd8ba886163acf11ce3/master/pass/The-Best-Early-Black-Friday-Deals-Under-$100.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af39fd8ba886163acf11ce3/master/pass/The-Best-Early-Black-Friday-Deals-Under-$100.jpg" medium="image"/>
+</item>
+<item>
+<title>The Best iPad to Buy (and What to Avoid) in 2026: Air, Pro, Mini</title>
+<link>https://www.wired.com/gallery/the-best-ipad</link>
+<guid isPermaLink="false">34eb79abaa56f71ba6925b0aed221cdb0de71ce31209fb7cc2e615a00ac70213</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+<description>Apple sells four types of iPads. Here’s an updated breakdown of the brand’s tablets to help you find the best one for your needs.</description>
+<enclosure url="https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/master/pass/ipad-air-m4-04%20(1).jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/69ced2e8b3e67db87f57d6c7/master/pass/ipad-air-m4-04%20(1).jpg" medium="image"/>
+</item>
+<item>
+<title>LinkedIn Is Testing a Feature That Lets You See Your Profile Stalkers</title>
+<link>https://www.wired.com/story/linkedin-is-testing-a-feature-that-lets-you-see-your-profile-stalkers</link>
+<guid isPermaLink="false">79e76a4516a2f4d7d7846c80c8f9819a72743da030af785fe0ac54b28c14f62a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 10:00:00 +0000</pubDate>
+<description>Some users have noticed a new “frequent viewer” label that reveals who repeatedly views their profiles.</description>
+<enclosure url="https://media.wired.com/photos/6ae39c26d0f1304b561646b2/master/pass/Business_StalkYourStalkerLinkedIn_v1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae39c26d0f1304b561646b2/master/pass/Business_StalkYourStalkerLinkedIn_v1.jpg" medium="image"/>
+</item>
+<item>
+<title>Lucid CEO says the company didn't know where its own cars were</title>
+<link>https://www.engadget.com/2313113/lucid-q3-2026-losing-cars</link>
+<guid isPermaLink="false">9bd5b7d6f18c4d1d88a9c9cab5cc871db615a5c0827c0f33a3f5740aabcb63a0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 09:56:03 +0000</pubDate>
+<description>Tesla rival Lucid has an interesting excuse for its third quarter earnings underperformance.</description>
+<enclosure url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/lucid-ceo-says-the-company-didnt-know-where-its-own-cars-were/l-intro-1794390872.jpg" medium="image"/>
+</item>
+<item>
 <title>Microsoft fixes Exchange sign-ins broken by Windows Server updates</title>
 <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates</link>
 <guid isPermaLink="false">b1d0658c71f86d9aa5310fe2dec04ad2a37df8d7e565cd78a96b2b71bd9e9fb0</guid>
@@ -77,6 +141,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg" medium="image"/>
 </item>
 <item>
+<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
+<link>https://www.wired.com/story/noom-promo-code</link>
+<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+</item>
+<item>
 <title>Best Buy Discount Codes: 60% Off</title>
 <link>https://www.wired.com/story/best-buy-discount-code</link>
 <guid isPermaLink="false">7eb17bb83e8c7c6ad205db59abf5096e4ea9696da30c70cf1a7bf350dc2358b9</guid>
@@ -141,17 +216,6 @@
 <description>Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
-<link>https://www.wired.com/story/noom-promo-code</link>
-<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Visible Promo Codes and Coupons for November 2026</title>
@@ -978,17 +1042,6 @@
 <description>As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.</description>
 </item>
 <item>
-<title>Anthropic takes on Google and Microsoft with Claude Sheets</title>
-<link>https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets</link>
-<guid isPermaLink="false">ebff75f13d748a69a8330ead1ad322a632c08f2acbfd873d1ccd5eb2f1c298ed</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:30:00 +0000</pubDate>
-<description>The company also has a new whiteboard app.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anthropic-takes-on-google-and-microsoft-with-claude-sheets/l-intro-1794328365.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anthropic-takes-on-google-and-microsoft-with-claude-sheets/l-intro-1794328365.jpg" medium="image"/>
-</item>
-<item>
 <title>Steam Deck performance gets a reality check with Valve's new FPS data</title>
 <link>https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data</link>
 <guid isPermaLink="false">cb4a4c3d3113105c77d02723f9da973e4aa1e326979c55cb6ffdcfb38f6a6c09</guid>
@@ -1630,15 +1683,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgogipF_6VgFSzsnZ_UFUM5FfzGyk1MOv5SRi3PSivRHjxs6IsO0fmOdDjQsDJHiKcnxJ8T89NMMYiqo_NEEtv0EoQsafjOFuZ-Te6famJBJKegqDnf1b63Hdzkls7IO1JOtSNjb5Hatb4Ny8Zu46mggCXYKvHf3Ne9Qc4ZRfLBmLnZ7omPEHAjDfJRQEKu/s1600/fable.jpg" medium="image"/>
 </item>
 <item>
-<title>Fireworks AI discloses new breach after cloud provider hack</title>
-<link>https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack</link>
-<guid isPermaLink="false">96bc735a7492be023dd1c40fa0a8ac2e8d5c6d801b49e1ae395872b8f69af785</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 07:49:58 +0000</pubDate>
-<description>AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]</description>
-</item>
-<item>
 <title>Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information</title>
 <link>https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information</link>
 <guid isPermaLink="false">ccc979e1da2b25eea51370081a3fe0b656ca6a5195680b39d39786824acf8b7e</guid>
@@ -1804,17 +1848,6 @@
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
-<title>Braun Promo Codes: 15% Off November 2026</title>
-<link>https://www.wired.com/story/braun-promo-code</link>
-<guid isPermaLink="false">69c5ba9e71f978511e9b16193ccd528e3ba3b973d07ee9f6c37b2dea98c89222</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Chirp Discount Codes: 67% Off</title>
 <link>https://www.wired.com/story/chirp-discount-code</link>
 <guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
@@ -1826,15 +1859,15 @@
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
-<title>Breville Promo Code: $700 Off | November 2026</title>
-<link>https://www.wired.com/story/breville-promo-code</link>
-<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
+<title>Braun Promo Codes: 15% Off November 2026</title>
+<link>https://www.wired.com/story/braun-promo-code</link>
+<guid isPermaLink="false">69c5ba9e71f978511e9b16193ccd528e3ba3b973d07ee9f6c37b2dea98c89222</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
-<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+<description>Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
 <item>
 <title>Dyson Promo Codes: 25% Off in November 2026</title>
@@ -1846,6 +1879,17 @@
 <description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
 <enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+</item>
+<item>
+<title>Breville Promo Code: $700 Off | November 2026</title>
+<link>https://www.wired.com/story/breville-promo-code</link>
+<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
+<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
 </item>
 <item>
 <title>A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure</title>
@@ -1936,17 +1980,6 @@
 <media:content url="https://media.wired.com/photos/6af24323a64aa182bab7b6c8/master/pass/The-Best-Deals-to-Shop-During-The-Home-Depot%E2%80%99s-Early-Black-Friday-Sale.jpg" medium="image"/>
 </item>
 <item>
-<title>These WIRED-Tested Standing Desks Are Already on Sale for Black Friday</title>
-<link>https://www.wired.com/story/best-early-black-friday-deals-on-standing-desks-11-9-26</link>
-<guid isPermaLink="false">651d3cb44e866a291d7314f039641efbe0cd91e2cfa5e02765c4949f62ca47a5</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 22:00:00 +0000</pubDate>
-<description>Upgrade your workspace with discounts on WIRED-tested desks from Branch, Vari, FlexiSpot, and Uplift—plus a walking pad to keep things moving.</description>
-<enclosure url="https://media.wired.com/photos/6af23df6e40bff41e001e2c8/master/pass/frames8-solid.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af23df6e40bff41e001e2c8/master/pass/frames8-solid.jpg" medium="image"/>
-</item>
-<item>
 <title>DCU shake-up: James Gunn and Peter Safran out post-merger</title>
 <link>https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger</link>
 <guid isPermaLink="false">c68b5e526d0c8a3460ee0c8a4a8837677af0c6a09925d569ea5768de1ae99d13</guid>
@@ -2011,17 +2044,6 @@
 <description>A new Financial Times report reveals how Apple saved billions in taxes in 2026 by shifting profits through Singapore and Ireland. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>The 9 Best TV Shows to Stream This Month (November 2026)</title>
-<link>https://www.wired.com/story/the-9-best-shows-to-stream-right-now</link>
-<guid isPermaLink="false">061ce5b4b751863976f2a1d0061a525796a6915c226a166bae28f55df35cc2ac</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 20:47:28 +0000</pubDate>
-<description>Black Doves, The Lord of the Rings: The Rings of Power, and Blade Runner 2099 are just a few of the shows you should be watching right now.</description>
-<enclosure url="https://media.wired.com/photos/6af20c07edee43782ec1ab6a/master/pass/Show-Guide-Blade-Runner-2099-TCDBLRU_ZU006.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af20c07edee43782ec1ab6a/master/pass/Show-Guide-Blade-Runner-2099-TCDBLRU_ZU006.jpg" medium="image"/>
 </item>
 <item>
 <title>iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more</title>
@@ -2244,17 +2266,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang Hired a PR Firm Known for Handling Sex Scandals Last Year</title>
-<link>https://www.wired.com/story/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year</link>
-<guid isPermaLink="false">8368c66208828eb04bded9b421f5c1f277a9eab7f7963774395a7f4be3304629</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 14:30:56 +0000</pubDate>
-<description>The Nvidia CEO began working with consultants from Heller as early as October 2025, around the same time he was first linked to a suspected Chinese spy.</description>
-<enclosure url="https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af1d38e0949f43953b8f9d7/master/pass/Jensen%20Huang.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple pushing faster on agentic Siri would carry three big risks</title>
 <link>https://9to5mac.com/2026/11/09/apple-pushing-faster-on-agentic-siri-would-carry-three-big-risks</link>
 <guid isPermaLink="false">b0dadd50362b6d96491a37723aa5e97bd3c54752087484965f37ad19054f4e0a</guid>
@@ -2297,17 +2308,6 @@
 <description>Repair technician turned consumer rights advocate Louis Rossmann recently accused Apple store staff of signing up customers to the company’s services subscriptions without their consent. Apple has not yet commented, but has taken two steps indicating that the company takes the accusations seriously … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent.jpg?quality=82&amp;strip=all&amp;w=1500" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-staff-accused-of-signing-up-customers-to-subscriptions-without-consent.jpg?quality=82&amp;strip=all&amp;w=1500" medium="image"/>
-</item>
-<item>
-<title>King Arthur Baking Sourdough Sidekick Review: Rising to the Occasion</title>
-<link>https://www.wired.com/review/king-arthur-baking-sourdough-sidekick</link>
-<guid isPermaLink="false">b8a8ca02c43cd7a101e9d97819bc602214097208bf7c3e5193896cf4ebd2e688</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 12:00:00 +0000</pubDate>
-<description>This techy automatic starter feeder has some quirks, but it ended my yearlong sourdough slump.</description>
-<enclosure url="https://media.wired.com/photos/6af017c637aad9e5c7a8f002/master/pass/Review--King-Arthur-Baking-Sourdough-Sidekick.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af017c637aad9e5c7a8f002/master/pass/Review--King-Arthur-Baking-Sourdough-Sidekick.jpg" medium="image"/>
 </item>
 <item>
 <title>Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars</title>
