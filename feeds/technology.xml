@@ -4,6 +4,110 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>iOS 27.3 adds new setting to bypass website cookie popups (eventually)</title>
+<link>https://9to5mac.com/2026/11/11/ios-27-3-adds-new-setting-to-bypass-website-cookie-popups-eventually</link>
+<guid isPermaLink="false">295ea6e8826ae6c3fbc4293894f99bdd6e645e49efb1f13b32fba03f0c3f6982</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:07:20 +0000</pubDate>
+<description>iOS 27.3 is currently in beta and packed with new features , including a ‘Global Privacy Control’ setting in Safari that could someday put an end to cookie consent pop-ups. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/09/iphone-17-pro-max-cosmic-orange-fi-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Siri co-founder backs Helix for its voice ID tech</title>
+<link>https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech</link>
+<guid isPermaLink="false">0ab5aefdf6fa53e010154f50f4e11ebf4e3c84c6ced0521015ba7e402ce373a4</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:02:47 +0000</pubDate>
+<description>Helix said that its voice ID tech can run on an iPhone 13</description>
+</item>
+<item>
+<title>eBPF Rootkits: Why Underground Actors Are Taking Notice</title>
+<link>https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice</link>
+<guid isPermaLink="false">0514c40aecbd33e72fab488902a53779d404b529e187da4965229c3078b1bf3c</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:01:11 +0000</pubDate>
+<description>Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]</description>
+</item>
+<item>
+<title>Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth</title>
+<link>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth</link>
+<guid isPermaLink="false">34b5b4703a4ee2901b19773531024b63f11c98502ad7b38f722ef2b919e1483a</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<description>At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.</description>
+</item>
+<item>
+<title>Ocarina of Time is even better if you use a smartphone app</title>
+<link>https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula</link>
+<guid isPermaLink="false">5b3e8a37b7e76f03f9a4474963e6a7fec7a446cb5684622e45f3b4675dd6cfd6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<description>I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or even wanting to. Jumping into the Ocarina of […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/20261110-01M74FRERRH793DQ734KTJM2FA-061DB0ED-ACA3-47E5-8CA3-6B3B776C2354.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Google’s AlphaGenome 2 zooms in on the cellular roots of disease</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model</link>
+<guid isPermaLink="false">943bd9ebdd36c5629d76e70282e54a6aa5927d181f927f4efacdc48897591f0b</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
+<description>Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem that could hold important clues to the causes of disease - and point the way to new treatments. AlphaGenome 2 is the successor […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/alphagenome-atlas-cover__background.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Europe wants to ban 'dark patterns' in apps and loot boxes for minors</title>
+<link>https://www.engadget.com/2313329/europe-wants-to-ban-dark-patterns-in-apps-and-loot-boxes-for-minors</link>
+<guid isPermaLink="false">a80267a513b276e9916c2e155afad8bce1737a62b8952faaa2b2d3a0faf19267</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:29:03 +0000</pubDate>
+<description>Europe's Digital Fairness Act targets digital practices that harm children and push people into spending more.</description>
+<enclosure url="https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/europe-wants-to-ban-addictive-design-loot-boxes-and-dark-patterns-in-apps/l-intro-1794406701.jpg" medium="image"/>
+</item>
+<item>
+<title>If you bought an iPhone Duo, have you kept or returned it? [Poll]</title>
+<link>https://9to5mac.com/2026/11/11/if-you-bought-an-iphone-duo-have-you-kept-or-returned-it-poll</link>
+<guid isPermaLink="false">218d1d42db744153eb85d8dc9b0045cc6fe7559282b6a3145429ea747100113b</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:13:49 +0000</pubDate>
+<description>When Apple announced the iPhone Duo back in September, the company called it “the most transformational change to iPhone since the original,” and there’s no doubt that it generated a huge amount of excitement. But a new report suggests that for some buyers the novelty quickly wore off, and they ended up returning their devices. Is this just a handful of people, or is it more common … ? more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-one-handed-front-display.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-one-handed-front-display.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Google DeepMind just mathematically verified key parts of Signal</title>
+<link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup</link>
+<guid isPermaLink="false">7db3dbf05615c3ed65084a4f7b0a8fb9189fc19916fe0d6660be167eca67929a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
+<description>The four-week project hints that AI could make formal verification far more practical.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits</title>
+<link>https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html</link>
+<guid isPermaLink="false">d8637e378806af0b6063819219a872d1d727c9e72c0ee5aa0ce63049cd389965</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 14:01:00 +0000</pubDate>
+<description>Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious activity in October 2026 against several E.U.-based customers within a narrow window of just over three minutes. The activity has been found to share some</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1600/qliksense.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1600/qliksense.jpg" medium="image"/>
+</item>
+<item>
 <title>Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads</title>
 <link>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads</link>
 <guid isPermaLink="false">87209848417b63cfc5323ac30a2478c54745cf6540e64a0ef28f56dec80499e5</guid>
@@ -465,6 +569,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg" medium="image"/>
 </item>
 <item>
+<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
+<link>https://www.wired.com/story/noom-promo-code</link>
+<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+</item>
+<item>
 <title>Best Buy Discount Codes: 60% Off</title>
 <link>https://www.wired.com/story/best-buy-discount-code</link>
 <guid isPermaLink="false">7eb17bb83e8c7c6ad205db59abf5096e4ea9696da30c70cf1a7bf350dc2358b9</guid>
@@ -529,17 +644,6 @@
 <description>Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
-</item>
-<item>
-<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
-<link>https://www.wired.com/story/noom-promo-code</link>
-<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Visible Promo Codes and Coupons for November 2026</title>
@@ -824,17 +928,6 @@
 <media:content url="https://www.engadget.com/img/gallery/meta-warns-some-of-its-ai-glasses-may-get-too-warm-if-they-get-wet/l-intro-1794347917.jpg" medium="image"/>
 </item>
 <item>
-<title>The VR Disney Plus app on Meta Quest now has 3D movies</title>
-<link>https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies</link>
-<guid isPermaLink="false">e2816ea59479a5b2d61d8df92cc15c8d43ab09f1a2bdb648f365b3b6323a0d38</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 22:00:00 +0000</pubDate>
-<description>Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avengers and Black Panther, Meta says. But the updated […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/05.-EN-US_Meta-3D.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The Disney+ app on Meta Quest now includes 3D movies</title>
 <link>https://www.engadget.com/2312296/the-disney-app-on-meta-quest-now-includes-3d-movies</link>
 <guid isPermaLink="false">4fdc67016a612c5f079e59d57c0195fd3042c050c8d65b98bba81bdb0ca87a8a</guid>
@@ -855,17 +948,6 @@
 <description>Democrats accuse FCC nominee of evading questions about Carr, her current boss.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/danielle-thumann-severs-fcc-1152x648-1794344603.jpg" medium="image"/>
-</item>
-<item>
-<title>Oura is acquiring medical AI chatbot startup Counsel Health</title>
-<link>https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition</link>
-<guid isPermaLink="false">daf7e9e96e7de529337a2313285db8c7de54f27cdbdbb52bc31a120a3b651c8f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 21:40:31 +0000</pubDate>
-<description>Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an "AI-native primary care company," using the app to deliver AI-generated responses and insights based on users' health data reported from their […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268600_oura_ring_5_AKrales_0104.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Apple to investigate accident that killed three workers at iPhone parts factory in India</title>
@@ -1143,17 +1225,6 @@
 <media:content url="https://www.engadget.com/img/gallery/how-much-did-the-asus-rog-zephyrus-g14-cost-in-2020-vs-2026/l-intro-1793737272.jpg" medium="image"/>
 </item>
 <item>
-<title>Google's impressive Rambler dictation tech is now available on Pixel 10 devices too</title>
-<link>https://www.engadget.com/2312136/google-november-pixel-drop-rambler-hilight-updates</link>
-<guid isPermaLink="false">ce31b5ffa69c03059adc58f4e834f17848e035fa4cc66faaf2cfc28f379d2fc1</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:00:00 +0000</pubDate>
-<description>November's Pixel Drop also brings other AI features to older Pixel phones, while the Pixel 11's HiLight feature now works with Google Messages.</description>
-<enclosure url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/googles-impressive-rambler-dictation-tech-is-now-available-on-pixel-10-devices-too/l-intro-1794327349.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
 <link>https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google</link>
 <guid isPermaLink="false">7e74320883f414fbb1a04c0c3716d288a87aa88106c3feccb22ba486611f9446</guid>
@@ -1429,15 +1500,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-mBJN_E4CjW3MXyjYYdeCGcyR052aVnG3uUWjaEfafvPAdatcJhn9LbtngqXBb5JsVwJVoorc8i41nTbYR9UcwVrwWNzU-WAfVk2yL32hYW1elVMJtwauW53nhRG37EwbovnFCW8InensI8tKoR9pqcWnZx54t6xOU_HsjjR9KWTLwVr_MBcknFeGShZU/s1600/fire.jpg" medium="image"/>
 </item>
 <item>
-<title>Meta’s AI agent Muse lands on Apple Watch and Android Wear OS</title>
-<link>https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os</link>
-<guid isPermaLink="false">00824ebcd8896845c55819fd9b98e5718a7ccdbcd47b3328ba6e433a371aff20</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 15:29:30 +0000</pubDate>
-<description>Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.</description>
-</item>
-<item>
 <title>Apple Arcade unveils three new games from hit franchises</title>
 <link>https://9to5mac.com/2026/11/10/apple-arcade-unveils-three-new-games-from-hit-franchises</link>
 <guid isPermaLink="false">850db4e7ee9c895a4ff8b9c90f8c560a8023bdb8ed1e8243d58107a3a2af3782</guid>
@@ -1467,15 +1529,6 @@
 <description>The new model is up to twice as successful at some tasks.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Reddit is turning user conversations into AI-powered product reviews</title>
-<link>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews</link>
-<guid isPermaLink="false">fb4690d5ff44298149eadead36cf27435aa943ecf90d612dd64929696019652e</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 15:00:00 +0000</pubDate>
-<description>Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.</description>
 </item>
 <item>
 <title>Kitchen Gear From Our Place Is Steeply Discounted</title>
@@ -1566,6 +1619,17 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/adobe-max.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
+<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
+<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
+<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
+<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
+</item>
+<item>
 <title>4DX Movies Are Entering Their Thirsty Romance Era</title>
 <link>https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry</link>
 <guid isPermaLink="false">2823673c1363847b05a751732b0e398f999460b9b42d833cebf241e0446b659f</guid>
@@ -1586,17 +1650,6 @@
 <description>Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.</description>
 <enclosure url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" medium="image"/>
-</item>
-<item>
-<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
-<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
-<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
-<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
 </item>
 <item>
 <title>Ring’s wheeled and flying robots will patrol your home</title>
@@ -1784,15 +1837,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM6RGvSNUqube0TIXYpzHhs7uSvT0k28f2Q8s-GVOexnCI4T5mzFMUs3Lz4_aS6gNuS71DSTvtfOO-tfVFXvVu82pBmj5gO5_jO5g1ndVQQX8xjBY8A_IDAVNkO7oE1s5FRyEsxXQ_HEM_5_KI4g9VWN8BLgCmQTS1DaFt6lRlfgEJMsxyC5bxQW1qhM/s1600/apple-patch.jpg" medium="image"/>
 </item>
 <item>
-<title>Hackers now exploit critical Barracuda ESG flaws to gain root access</title>
-<link>https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access</link>
-<guid isPermaLink="false">069c9763b153ec471fc4f59945233ba168661c3976fef2f7a4547dbf1a2a2be4</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 10:10:20 +0000</pubDate>
-<description>Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]</description>
-</item>
-<item>
 <title>Huupe Mini 2 Review: More Game Than It Can Handle</title>
 <link>https://www.wired.com/review/huupe-mini-2</link>
 <guid isPermaLink="false">5bed4b01bad2c2a167797f83e4264270f0fe1cf309cf8237d3fae019f4ef9be9</guid>
@@ -1903,6 +1947,17 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png" medium="image"/>
 </item>
 <item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
+</item>
+<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -1934,17 +1989,6 @@
 <description>Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
 </item>
 <item>
 <title>Bose Promo Code: 40% Off for November 2026</title>
@@ -2024,15 +2068,15 @@
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
-<title>Breville Promo Code: $700 Off | November 2026</title>
-<link>https://www.wired.com/story/breville-promo-code</link>
-<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
+<title>Chirp Discount Codes: 67% Off</title>
+<link>https://www.wired.com/story/chirp-discount-code</link>
+<guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
-<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+<description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
 <title>Canadian court certifies class action against Apple over Google search deal</title>
@@ -2110,17 +2154,6 @@
 <description>Apple has once again turned to cinematic action to promote Apple Pay, in a new ad directed by Edgar Wright ( Baby Driver , Shaun of the Dead ). Watch the new ad below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-pay-mayhem.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling</title>
-<link>https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling</link>
-<guid isPermaLink="false">589f666fa05c054a3c85ed8efce69ee438f152388cb21a71cf7d2c66ada2a75c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 21:13:39 +0000</pubDate>
-<description>Lawsuit demands Kalshi return losses because online betting is illegal in Washington.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg" medium="image"/>
 </item>
 <item>
 <title>How to customize or disable the touchscreen on the new MacBook Pro</title>
@@ -2992,28 +3025,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/03/f1-apple-tv-4k-multiview.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Report: Apple captured half of global smartphone revenue in Q3</title>
-<link>https://9to5mac.com/2026/11/05/report-apple-captured-half-of-global-smartphone-revenue-in-q3</link>
-<guid isPermaLink="false">856f9b1af25648429264270b2bbeedc8bdd8f95a3379c5a225397cf74400495e</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 22:22:49 +0000</pubDate>
-<description>According to a new report from Counterpoint Research , Apple just recorded its highest-ever global smartphone revenue for a third calendar quarter. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/iphone-18-pro-glacier-apple-watch-airpods-5.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>CleanMyMac now helps you clean up Gmail and manage Chrome tabs</title>
-<link>https://9to5mac.com/2026/11/05/cleanmymac-now-helps-you-clean-up-gmail-and-manage-chrome-tabs</link>
-<guid isPermaLink="false">817a79556aad1eb8536ff3103663ae8b3dd934549775dbe698449c39a6129b14</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 21:48:20 +0000</pubDate>
-<description>MacPaw today announced an expansion of CleanMyMac’s capabilities beyond the app’s traditional Mac maintenance and optimization tools. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/clean-mac-gmail.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux</title>
 <link>https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html</link>
 <guid isPermaLink="false">90a9e74aa19bf7e06abb48514db4b1319a518011f5c671f0f183e02f0d456f80</guid>
@@ -3056,16 +3067,5 @@
 <description>A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png" medium="image"/>
-</item>
-<item>
-<title>OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run</title>
-<link>https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html</link>
-<guid isPermaLink="false">c7e59b0d46842b6392615ae8f870defc69cc778ca3c5e1bf2b92f9b8687982db</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 12:08:54 +0000</pubDate>
-<description>OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. "Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg" medium="image"/>
 </item>
 </channel></rss>
