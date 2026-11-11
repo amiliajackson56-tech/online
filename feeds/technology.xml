@@ -4,6 +4,15 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft fixes Exchange sign-ins broken by Windows Server updates</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates</link>
+<guid isPermaLink="false">b1d0658c71f86d9aa5310fe2dec04ad2a37df8d7e565cd78a96b2b71bd9e9fb0</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 09:07:27 +0000</pubDate>
+<description>Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]</description>
+</item>
+<item>
 <title>Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes</title>
 <link>https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html</link>
 <guid isPermaLink="false">b4b549aacbc41c785d5486f1807cf831d896bb3793bb397da240e5ee7bd1c0d6</guid>
@@ -1795,17 +1804,6 @@
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
 </item>
 <item>
-<title>Chirp Discount Codes: 67% Off</title>
-<link>https://www.wired.com/story/chirp-discount-code</link>
-<guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
-</item>
-<item>
 <title>Braun Promo Codes: 15% Off November 2026</title>
 <link>https://www.wired.com/story/braun-promo-code</link>
 <guid isPermaLink="false">69c5ba9e71f978511e9b16193ccd528e3ba3b973d07ee9f6c37b2dea98c89222</guid>
@@ -1817,15 +1815,15 @@
 <media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in November 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<title>Chirp Discount Codes: 67% Off</title>
+<link>https://www.wired.com/story/chirp-discount-code</link>
+<guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+<description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
 <title>Breville Promo Code: $700 Off | November 2026</title>
@@ -1837,6 +1835,17 @@
 <description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
 <enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in November 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure</title>
@@ -1881,15 +1890,6 @@
 <description>With a big checkbook and sought-after chips, Nvidia’s CEO had his thumb on the world of AI. An extramarital affair with a suspected Chinese spy may put all of that at risk.</description>
 <enclosure url="https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af20d5c5d3e4adc0dc34622/master/pass/What-Jensen-Huangs-Spy-Scandal-Means-For-AI-Industry-Business-2219673294.jpg" medium="image"/>
-</item>
-<item>
-<title>Vanderbilt University hit in BYOD ransomware attack, data theft claimed</title>
-<link>https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed</link>
-<guid isPermaLink="false">5fa4642d1d14b30c1783273f985c20019687ecd80927d85ccbec622bf2c7b92e</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 23:52:12 +0000</pubDate>
-<description>Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]</description>
 </item>
 <item>
 <title>Apple Intelligence completes regulatory registration for iPad and Mac in China</title>
@@ -2041,7 +2041,7 @@
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Mon, 09 Nov 2026 20:15:38 +0000</pubDate>
-<description>The all-new M6 MacBook and the touch display PROLED XDR have now arrived, and we are taking a look at some of our favorite accessories to upgrade the experience. From the latest Apple Magic Keyboard and Trackpad , as well as its World Travel kit , we also have MacBook stands to tidy up your workstation, expandable storage , charging stations for your desktop, and our favorite mouse solutions . The gear collected below might give you some good ideas on how to elevate your new MacBook rig, just be sure to score the 2026 Apple Polishing Cloth at $9 before it sells out again – the only way to clean a MacBook display properly. more…</description>
+<description>Update 10/11: Amazon has now launched an official early Black Friday deal on Apple’s latest USB-C Magic Mouse with the white model down at $59.99 and the black at $79.99 – that’s put o nearly 25% off and among the lowest prices ever. The all-new M6 MacBook and the touch display PROLED XDR have now arrived, and we are taking a look at some of our favorite accessories to upgrade the experience. From the latest Apple Magic Keyboard and Trackpad , as well as its World Travel kit , we also have MacBook stands to tidy up your workstation, expandable storage , charging stations for your desktop, and our favorite mouse solutions . The gear collected below might give you some good ideas on how to elevate your new MacBook rig, just be sure to score the 2026 Apple Polishing Cloth at $9 before it sells out again – the only way to clean a MacBook display properly. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-MacBook-Pro-accessories-chargers-keyboards-monitors.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Best-MacBook-Pro-accessories-chargers-keyboards-monitors.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
