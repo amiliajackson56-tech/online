@@ -4,6 +4,59 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Apple Music debuts Labrinth’s new single, created live on the touchscreen MacBook Pro</title>
+<link>https://9to5mac.com/2026/11/10/apple-music-debuts-labrinths-new-single-created-live-on-the-touchscreen-macbook-pro</link>
+<guid isPermaLink="false">a28b2a9eed9338b6260676a6c70cec7133566c921f85eae81716ae2af4f775a4</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 01:31:51 +0000</pubDate>
+<description>Following last week’s livestream , when Labrinth composed and recorded a song overnight at Apple Tower Theatre in Los Angeles on the new touchscreen MacBook Pro , the single is now available on Apple Music. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labrinth-apple-store.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/labrinth-apple-store.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>X launches its own clipping feature to spur influencer engagement</title>
+<link>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement</link>
+<guid isPermaLink="false">5a44252c99a116fa987758be60b19fbe9864b6acefbd1659fb1c04b428d8a107</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 01:02:13 +0000</pubDate>
+<description>X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.</description>
+</item>
+<item>
+<title>What is the average lifespan of recordable Blu-ray discs?</title>
+<link>https://www.engadget.com/2307784/average-lifespan-recordable-blu-ray-discs</link>
+<guid isPermaLink="false">40b8ec2ab94aa5eb5ffe5a3fa0f626030fd3cfe2b247fff677ef8156756e6aff</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 01:00:00 +0000</pubDate>
+<description>How long they will last depends on a few factors.</description>
+<enclosure url="https://www.engadget.com/img/gallery/what-is-the-average-lifespan-of-recordable-blu-ray-discs/l-intro-1793384545.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/what-is-the-average-lifespan-of-recordable-blu-ray-discs/l-intro-1793384545.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode</title>
+<link>https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling</link>
+<guid isPermaLink="false">ad03d6d88297a6a8e7c6a26a627cb6f1948c9b7119dfc93263de4b26cbef2aec</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 00:34:24 +0000</pubDate>
+<description>Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting some new features alongside this official release. In April, Microsoft started testing Auto SR […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/257996_ROG_Xbox_Ally_and_Xbox_Ally_X_AKrales_0073.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Why your Roku might be plugged into the wrong HDMI port</title>
+<link>https://www.engadget.com/2307791/why-roku-plugged-into-wrong-hdmi-port</link>
+<guid isPermaLink="false">abf8945bffee4b170f5a3b61fe307aa0602071b0aca852523c060511c05112ef</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 00:30:00 +0000</pubDate>
+<description>A Roku isn't as sensitive to the chosen HDMI port as a game console or sound bar, but you should still choose the right one for the job.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-your-roku-might-be-plugged-into-the-wrong-hdmi-port/l-intro-1793648756.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-your-roku-might-be-plugged-into-the-wrong-hdmi-port/l-intro-1793648756.jpg" medium="image"/>
+</item>
+<item>
 <title>iFixit teardown shows how Apple's glowing PROLED MacBook logo works</title>
 <link>https://www.engadget.com/2312969/ifixit-teardown-shows-how-apples-glowing-proled-macbook-logo-works</link>
 <guid isPermaLink="false">695636bbe833447e76e9d126302661e0c45eb232e954329698223c9e1d3bc9dc</guid>
@@ -37,13 +90,13 @@
 <media:content url="https://www.engadget.com/img/gallery/how-to-get-this-siri-camera-upgrade-for-your-ipad-before-its-public-release/l-intro-1794345704.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple confirms ongoing outage affecting iCloud and more</title>
+<title>Apple confirms ongoing outage affecting iCloud and more [U]</title>
 <link>https://9to5mac.com/2026/11/10/apple-confirms-ongoing-outage-affecting-icloud-and-more</link>
 <guid isPermaLink="false">6558faf6bad426409a1bbe2660ac58609cd8fb6c42fd4edede2b235925b417c2</guid>
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 23:48:49 +0000</pubDate>
-<description>If you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. more…</description>
+<description>Update, 5:18 p.m. PT: Apple says all outages have now been resolved. If you’re having problems accessing iCloud and other Apple services this evening, you’re not alone. Apple has confirmed an ongoing outage affecting iCloud, Find My, and more. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -634,17 +687,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/swift-student-challenge-2027.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>ChatGPT is getting verified AI ‘Business Agents’</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub</link>
-<guid isPermaLink="false">3ec8add99452b34023174e31bcd47c92872e704be0b433b8c6bad6c89f1aa48d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 18:00:00 +0000</pubDate>
-<description>ChatGPT is going to let you chat with verified "Business Agents" that represent a brand to help you with things like comparison shopping. The feature, available first to "eligible" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Business-Agent-Customer-Conversation.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Here's what to look for so you don't get scammed by a fake GPU</title>
 <link>https://www.engadget.com/2307801/fake-gpu-scam-what-to-look-for</link>
 <guid isPermaLink="false">8c51148d720f8c8903f1b0b02bb361a0cd8d59dcfcc8006c903cf05672ac1857</guid>
@@ -753,17 +795,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg" medium="image"/>
 </item>
 <item>
-<title>Can you use WD-40 on your electronics?</title>
-<link>https://www.engadget.com/2307782/can-you-use-wd40-on-electronics</link>
-<guid isPermaLink="false">94d0ea72bcaf53471893c9bee3266e37eccf821384a98bec9a77a94e709e6dd5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:15:00 +0000</pubDate>
-<description>Maintaining your electronics involves cleaning them correctly. Discover if WD-40 is the right product for the job.</description>
-<enclosure url="https://www.engadget.com/img/gallery/can-you-use-wd-40-on-your-electronics/l-intro-1793801260.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/can-you-use-wd-40-on-your-electronics/l-intro-1793801260.jpg" medium="image"/>
-</item>
-<item>
 <title>Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline</title>
 <link>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</link>
 <guid isPermaLink="false">4cc686f0d8904bd210ba8527d956c91073e12d14da6cd1e27485a6e54d5e8dbd</guid>
@@ -771,17 +802,6 @@
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 17:04:19 +0000</pubDate>
 <description>The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
-</item>
-<item>
-<title>Adobe and Google have teamed up to connect Drive, Gmail and Acrobat</title>
-<link>https://www.engadget.com/2312215/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat</link>
-<guid isPermaLink="false">c6a175efc2cf22c2dc8bd0a66c0522233682e534f0f5ac626cd95f0dcc646b57</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 17:02:46 +0000</pubDate>
-<description>Some Adobe tools will end up in Google Search's AI mode, as well.</description>
-<enclosure url="https://www.engadget.com/img/gallery/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/l-intro-1794330076.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/adobe-and-google-have-teamed-up-to-connect-drive-gmail-and-acrobat/l-intro-1794330076.jpg" medium="image"/>
 </item>
 <item>
 <title>Satechi expands lineup of color-matched accessories for MacBook Neo</title>
@@ -1103,26 +1123,6 @@
 <description>Adobe is taking on Figma with a new prototype builder tool in Firefly.</description>
 </item>
 <item>
-<title>Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion</title>
-<link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion</link>
-<guid isPermaLink="false">5553fe020c93d3c2ae42de53f3b1b6800e6676eac18f9ed2933d087b887f14e2</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:01:39 +0000</pubDate>
-<description>The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.</description>
-</item>
-<item>
-<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
-<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
-<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
-<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
-</item>
-<item>
 <title>4DX Movies Are Entering Their Thirsty Romance Era</title>
 <link>https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry</link>
 <guid isPermaLink="false">2823673c1363847b05a751732b0e398f999460b9b42d833cebf241e0446b659f</guid>
@@ -1143,6 +1143,17 @@
 <description>Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.</description>
 <enclosure url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" medium="image"/>
+</item>
+<item>
+<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
+<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
+<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
+<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
 </item>
 <item>
 <title>Ring’s wheeled and flying robots will patrol your home</title>
@@ -1487,28 +1498,6 @@
 <media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
 </item>
 <item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
-<title>Bose Promo Code: 40% Off for November 2026</title>
-<link>https://www.wired.com/story/bose-coupon-code</link>
-<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
-</item>
-<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -1542,15 +1531,26 @@
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in November 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
+</item>
+<item>
+<title>Bose Promo Code: 40% Off for November 2026</title>
+<link>https://www.wired.com/story/bose-coupon-code</link>
+<guid isPermaLink="false">39a667a9d2bf80ed1c2463a02a3db72249dd8f9b282b97da25af1d78ddc8dc60</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get at least 40% off headphones, speakers, soundbars, and other audio products from Bose.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
 <title>Chirp Discount Codes: 67% Off</title>
@@ -1562,6 +1562,28 @@
 <description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
+</item>
+<item>
+<title>Breville Promo Code: $700 Off | November 2026</title>
+<link>https://www.wired.com/story/breville-promo-code</link>
+<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
+<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+</item>
+<item>
+<title>Dyson Promo Codes: 25% Off in November 2026</title>
+<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
+<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Barkbox Promo Codes and Discounts: Up to 50% Off</title>
@@ -1628,17 +1650,6 @@
 <description>Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
-</item>
-<item>
-<title>Breville Promo Code: $700 Off | November 2026</title>
-<link>https://www.wired.com/story/breville-promo-code</link>
-<guid isPermaLink="false">9509b06b328c839e8dbbc804dbde136db267e4919a9e04036b1adafbbcb28e31</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
-<enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
 </item>
 <item>
 <title>A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure</title>
@@ -2156,17 +2167,6 @@
 <media:content url="https://media.wired.com/photos/6ae4b0b9fafa122d7f6143a0/master/pass/103016-Starless%20Galaxy.jpg" medium="image"/>
 </item>
 <item>
-<title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
-<link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
-<guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
-<description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
-<enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
-</item>
-<item>
 <title>Audioengine Color of the Year Kit Review: Bright Look, Good Sound</title>
 <link>https://www.wired.com/review/audioengine-2026-color-of-the-year-kit</link>
 <guid isPermaLink="false">6500bba32290a77a151fd8c175d18f25b32e2500101f7a1c4acc77270c9110ba</guid>
@@ -2176,6 +2176,17 @@
 <description>The canary-yellow set is equal parts design and audio performance, and includes speakers, speaker stands, a turntable, and a subwoofer.</description>
 <enclosure url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6ae7d3cff069d9b77251ba31/master/pass/Review%20Audioengine%20Color%20of%20the%20Year%20Kit%20102026%20top%20art%20SOURCE%20Audioengine.jpg" medium="image"/>
+</item>
+<item>
+<title>Authors Can Defend Against AI Allegations With ‘Paper Trail’ Tools. Is It Enough?</title>
+<link>https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools</link>
+<guid isPermaLink="false">d87410c6c541a05ee78b3972d2fcfc4f4098eed973d393aba042f6c032b7908f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 09 Nov 2026 11:00:00 +0000</pubDate>
+<description>As the publishing industry wrestles with paranoia over the provenance of manuscripts, writers are caught in an impossible bind.</description>
+<enclosure url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ae34f0e2a90131582712a70/master/pass/102926-AI%20Cheating_.jpg" medium="image"/>
 </item>
 <item>
 <title>Security Bite Podcast: Mac malware likely helped pull off the record $6.3B Binance hack</title>
@@ -2924,17 +2935,6 @@
 <description>Public beta testers, Apple is now rolling out the first public betas for iPadOS 27.3, tvOS 27.3, and more. Here’s what‘s new. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iPadOS-27.3-public.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>First macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3 RCs now available [U]</title>
-<link>https://9to5mac.com/2026/11/05/first-macos-sequoia-15-8-3-and-macos-tahoe-26-7-3-rcs-now-available</link>
-<guid isPermaLink="false">347e8437a7d7bf6458a209a27a61d38fa71b5016c19f593e00bbe5954e343ade</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Thu, 05 Nov 2026 19:03:56 +0000</pubDate>
-<description>Update, November 5: The release candidates are now available to public beta testers as well. In addition to the release of macOS 27.3 beta 1, Apple is also rolling out the first release candidates of macOS Sequoia 15.8.3 and macOS Tahoe 26.7.3. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2025/06/macOS-26-Tahoe-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux</title>
