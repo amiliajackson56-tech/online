@@ -1471,7 +1471,7 @@
 <source>The Hacker News</source>
 <category>technology</category>
 <pubDate>Tue, 10 Nov 2026 06:52:54 +0000</pubDate>
-<description>Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after</description>
+<description>Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: 8.8), has been described as a use-after-free bug in the XML component. "Use-after-free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg" medium="image"/>
 </item>
@@ -1564,17 +1564,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>Chirp Discount Codes: 67% Off</title>
-<link>https://www.wired.com/story/chirp-discount-code</link>
-<guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
-<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
-</item>
-<item>
 <title>Barkbox Promo Codes and Discounts: Up to 50% Off</title>
 <link>https://www.wired.com/story/barkbox-promo-code</link>
 <guid isPermaLink="false">42c1dfa0384b986e8574c73727d4df57ee0528a392b4ffb4d8c52a8c6b113ec0</guid>
@@ -1619,17 +1608,6 @@
 <media:content url="https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg" medium="image"/>
 </item>
 <item>
-<title>Braun Promo Codes: 15% Off November 2026</title>
-<link>https://www.wired.com/story/braun-promo-code</link>
-<guid isPermaLink="false">69c5ba9e71f978511e9b16193ccd528e3ba3b973d07ee9f6c37b2dea98c89222</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
 <title>Casetify Promo Codes | 15% Off November 2026</title>
 <link>https://www.wired.com/story/casetify-promo-code</link>
 <guid isPermaLink="false">88c569670f688a0ac1e756ad5a41ceae0b54d9915345df14b3fb048b2778be0b</guid>
@@ -1639,6 +1617,17 @@
 <description>Keep your phone protected and your wallet happy with these proven strategies to secure a Casetify promo code, student discount, and sitewide deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Braun Promo Codes: 15% Off November 2026</title>
+<link>https://www.wired.com/story/braun-promo-code</link>
+<guid isPermaLink="false">69c5ba9e71f978511e9b16193ccd528e3ba3b973d07ee9f6c37b2dea98c89222</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Unlock exclusive savings on Braun IPL, shavers, and grooming products. Find verified Braun promo codes and expert tips to maximize your discounts.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
 </item>
 <item>
 <title>Dyson Promo Codes: 25% Off in November 2026</title>
@@ -1661,6 +1650,17 @@
 <description>Discover the top Breville coupons and discount codes for coffee machines, kitchen appliances, and fresh coffee beans, with deals up to $700 off.</description>
 <enclosure url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0770a11625d8759598b4/master/pass/WIRED-Coupons-8.jpg" medium="image"/>
+</item>
+<item>
+<title>Chirp Discount Codes: 67% Off</title>
+<link>https://www.wired.com/story/chirp-discount-code</link>
+<guid isPermaLink="false">3c2bb71d2ab3693f11ca9de84c215cc3b9f1417d13fc3926c595a0fd424c7c5a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.</description>
+<enclosure url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg" medium="image"/>
 </item>
 <item>
 <title>A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure</title>
