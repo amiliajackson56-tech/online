@@ -4,6 +4,50 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Nvidia is reportedly preparing to fire Jensen Huang</title>
+<link>https://www.theverge.com/tech/1031652/jensen-huang-rumor</link>
+<guid isPermaLink="false">a6547f8cea67f8f6609b53937afaca625d10587ce10f880e69fca6305115eea2</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 22:44:36 +0000</pubDate>
+<description>Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824934/2192224191.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Hands on with Home Assistant’s new ‘smart home multi-tool’</title>
+<link>https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on</link>
+<guid isPermaLink="false">3ddc5cc5a5b08ed60436e8bf10c359e2d99e3d2802a246767fd2000614ccd103</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+<description>Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more devices into your smart home. It's part of Home Assistant's ongoing efforts to become more user-friendly. And it's working. I've been testing the […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/aux2-hero.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Pete Hegseth Is About to Get His Ass Kicked</title>
+<link>https://www.wired.com/story/pete-hegseth-is-about-to-get-his-ass-kicked</link>
+<guid isPermaLink="false">cf48156cf7fa71cac86d7882d7ca426d52033b9cd8ac347a3f3db10ab57036b2</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 22:00:00 +0000</pubDate>
+<description>House Democrats are already planning to make their impeachment case against the defense secretary as airtight—and appealing to Republicans—as possible.</description>
+<enclosure url="https://media.wired.com/photos/6af4b41c996b256982d289fd/master/pass/politics_hegseth_impeach.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af4b41c996b256982d289fd/master/pass/politics_hegseth_impeach.jpg" medium="image"/>
+</item>
+<item>
+<title>United won’t let your AI agent book your flight</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents</link>
+<guid isPermaLink="false">3c4a130ff1dbafc38dee6b28c18e9582e36c07dec78116be1df03232579c9c7a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 21:54:21 +0000</pubDate>
+<description>United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23176430/1237621702.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>iPhone Duo one week later: The future, or not for me?</title>
 <link>https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me</link>
 <guid isPermaLink="false">a2d141678dba62956ee83fdbb7e4ff624e56f3453756b7f8d5aca3db5972baec</guid>
@@ -55,7 +99,7 @@
 <description>Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
 </item>
 <item>
-<title>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</title>
+<title>T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says</title>
 <link>https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says</link>
 <guid isPermaLink="false">e8ecb6b75613dd7c5cd4d269ca2b75df0cd7acbd4755ab4a8cf9d8d9273958e9</guid>
 <source>Ars Technica</source>
@@ -654,28 +698,6 @@
 <description>Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.</description>
 </item>
 <item>
-<title>Sony’s latest Pulse wireless headset packs planar magnetic drivers at a good price</title>
-<link>https://www.theverge.com/games/1031291/sony-playstation-pulse-wireless-gaming-headset-hands-on</link>
-<guid isPermaLink="false">2b73307335ce5d8ba58a7252fdac7a7e68989f0b8a7b7e40bd2f844730a32bb3</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-<description>It's tempting to seek out the do-everything wireless gaming headset with noise cancellation, phenomenal sound quality, multiplatform connectivity, swappable batteries - you name it. But if you just want the basics done well, Sony's new $99.99 PlayStation Pulse headset is worth considering. It has very good sound and just enough extras, even if you use […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/pulseheadset.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Adobe’s AI experiments let you walk around in photos and interview your characters</title>
-<link>https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai</link>
-<guid isPermaLink="false">1251f00274bede43be17fe09fe5f9e8dd6c6d24fbd9015e18d8a9f61880dae70</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 14:00:00 +0000</pubDate>
-<description>Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they can transform images into explorable 3D scenes, design AI characters by talking to them, and turn photo editing into a copy/paste process. […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Adobe-Project-Screen-Test.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>HomeKit Weekly: SwitchBot’s Curtain Track 4 is the easiest smart curtain retrofit yet</title>
 <link>https://9to5mac.com/2026/11/11/switchbot-curtain-track-4</link>
 <guid isPermaLink="false">0ff771b33b5f007ab6044598cb6c4335f841c8b3ac6f448eb6172e6f472d22f9</guid>
@@ -718,17 +740,6 @@
 <description>Yesterday brought a surprise move by Apple when it abruptly ceased write access to the Apple Support Community and announced that it would be permanently closing in just over a week. While the news does make me a little nostalgic, I do have to say that I think its time had long since come and gone … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/I-feel-a-little-nostalgic-about-the-Apple-Support-Community-forums-but-it-was-time.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/I-feel-a-little-nostalgic-about-the-Apple-Support-Community-forums-but-it-was-time.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Streaming is still trying to be TikTok</title>
-<link>https://www.theverge.com/streaming/1030864/streaming-skydance-paramount-disney-hulu-earnings-tiktok-short-form-video</link>
-<guid isPermaLink="false">af06ecd48e5436f8d1830a82ca1c14de5fb1a2e8eff1ab1cfda9de12ba814241</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 13:30:00 +0000</pubDate>
-<description>At Skydance's first employee town hall after it acquired Warner Bros. Discovery in October, CEO David Ellison told staff that the company behind Paramount Plus and HBO Max was competing for people's attention with some of the world's biggest tech companies. Months earlier, he'd singled out a way to get viewers to spend more time […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X</title>
@@ -2220,17 +2231,6 @@
 <description>We've gathered all the top Valvoline coupons and promo codes for November 2026, including deals on full synthetic oil changes and other essential maintenance.</description>
 <enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
-</item>
-<item>
-<title>Barkbox Promo Codes and Discounts: Up to 50% Off</title>
-<link>https://www.wired.com/story/barkbox-promo-code</link>
-<guid isPermaLink="false">42c1dfa0384b986e8574c73727d4df57ee0528a392b4ffb4d8c52a8c6b113ec0</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save on Barkbox subscriptions, including monthly themed collections of plush toys, tough chews, and healthy snacks designed to keep your pup’s tail wagging.</description>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
 <title>Canadian court certifies class action against Apple over Google search deal</title>
