@@ -4,6 +4,39 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Cash App founder's killer gets 16 years to life in prison</title>
+<link>https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison</link>
+<guid isPermaLink="false">d1b1bbe76bbd5dd8442ab235a62ce5c7f7c4a4c8f37ada2bd22aec0d66e64b0a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 18:57:37 +0000</pubDate>
+<description>Bob Lee died from multiple stab wounds in 2023.</description>
+<enclosure url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" medium="image"/>
+</item>
+<item>
+<title>Peacock is redesigning its mobile app to focus more on vertical videos</title>
+<link>https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos</link>
+<guid isPermaLink="false">3d05aecba2f5d302cc68146da181db19365785c5c32cfb9da39eb7a6645b04ed</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 18:24:40 +0000</pubDate>
+<description>This is an attempt to "win another hour per user, per month."</description>
+<enclosure url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" medium="image"/>
+</item>
+<item>
+<title>Loot boxes, influencers, and addictive features face an EU crackdown</title>
+<link>https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection</link>
+<guid isPermaLink="false">92bde755004877b47691e28ced9a27ee77cba98496fc28ca49295165d46de57a</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 18:13:52 +0000</pubDate>
+<description>Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make "your online experience fairer." The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
 <title>Apple offers a military discount, here’s how to get it</title>
 <link>https://9to5mac.com/2026/11/11/apple-offers-a-military-discount-heres-how-to-get-it</link>
 <guid isPermaLink="false">2ab52d3702529e67a82fb2abb60a48ece8e66baedd7af6961a0ccb3011006a26</guid>
@@ -149,7 +182,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 16:14:44 +0000</pubDate>
-<description>Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.</description>
+<description>Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.</description>
 </item>
 <item>
 <title>The AO3 Shutdown Is Pitting Fanfic Readers Against Authors</title>
@@ -277,7 +310,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 15:02:47 +0000</pubDate>
-<description>Helix said that its voice ID tech can run on an iPhone 13</description>
+<description>With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.</description>
 </item>
 <item>
 <title>eBPF Rootkits: Why Underground Actors Are Taking Notice</title>
@@ -295,7 +328,7 @@
 <source>TechCrunch</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 15:00:00 +0000</pubDate>
-<description>At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.</description>
+<description>With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.</description>
 </item>
 <item>
 <title>Ocarina of Time is even better if you use a smartphone app</title>
@@ -450,17 +483,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2271211363.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>I asked every TV manufacturer 17 questions about how they spy on you</title>
-<link>https://www.theverge.com/tech/1012372/tv-privacy-acr-questions</link>
-<guid isPermaLink="false">53cf43c23ca1eb5e1c4b84c82ac7cfa54d06953bb3dee5cb7d097865eb366e99</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
-<description>Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices might be […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268797_What_data_are_your_TVs_collecting_and_is_it_protected__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>Microsoft's Automatic Super Resolution is now officially out for the ROG Xbox Ally X</title>
 <link>https://www.engadget.com/2313202/microsoft-automatic-super-resolution-comes-to-rog-xbox-ally-x</link>
 <guid isPermaLink="false">714047b8340d78157a97f247cc00656c69477650eabae5719e8309941f16bfbc</guid>
@@ -509,7 +531,7 @@
 <source>9to5Mac</source>
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 12:31:23 +0000</pubDate>
-<description>Amazon’s early Black Friday sale is now live , and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off , the $250 price drop on M5 MacBook Air , and Apple Watch Ultra 4 at nearly $100 off , there are some serious Apple add-on offers going live today. We have the return of all-time low pricing on AirTag 2 at $17.50 each , some rare discounts on the latest Magic Mouse in black and the classic white/silver livery, the ongoing low on its 2026 Magic Keyboard , and the lowest price around for the iPhone Duo-ready Apple Pencil USB-C. All of that joins as much as 40% off Apple’s iPhone 18 Pro case lineup (several models have hit new all-time lows as of this morning), and even more waiting down below. more…</description>
+<description>Update 10/11: After going completely out of stock yesterday, Apple’s 2026 next-generation Apple Polishing Cloth is now available for purchase again at $9 Prime shipped via Amazon. Amazon’s early Black Friday sale is now live , and it includes a number of official Apple accessory deals starting this morning. Alongside some big-ticket deals on AirPods Pro 3 at $50 off , the $250 price drop on M5 MacBook Air , and Apple Watch Ultra 4 at nearly $100 off , there are some serious Apple add-on offers going live today. We have the return of all-time low pricing on AirTag 2 at $17.50 each , some rare discounts on the latest Magic Mouse in black and the classic white/silver livery, the ongoing low on its 2026 Magic Keyboard , and the lowest price around for the iPhone Duo-ready Apple Pencil USB-C. All of that joins as much as 40% off Apple’s iPhone 18 Pro case lineup (several models have hit new all-time lows as of this morning), and even more waiting down below. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Apple-accessorry-deals.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Black-Friday-Apple-accessorry-deals.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
@@ -792,17 +814,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg" medium="image"/>
 </item>
 <item>
-<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
-<link>https://www.wired.com/story/noom-promo-code</link>
-<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>Best Buy Discount Codes: 60% Off</title>
 <link>https://www.wired.com/story/best-buy-discount-code</link>
 <guid isPermaLink="false">7eb17bb83e8c7c6ad205db59abf5096e4ea9696da30c70cf1a7bf350dc2358b9</guid>
@@ -867,6 +878,17 @@
 <description>Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
+<link>https://www.wired.com/story/noom-promo-code</link>
+<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Visible Promo Codes and Coupons for November 2026</title>
@@ -1333,17 +1355,6 @@
 <description>A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]</description>
 </item>
 <item>
-<title>The best-selling game console of all time is over 25 years old</title>
-<link>https://www.engadget.com/2307802/the-best-selling-game-console-of-all-time-is-over-25-years-old</link>
-<guid isPermaLink="false">e117306b8e384d554ee6851993ba949380524022249acdae755274084fa36bad</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:30:00 +0000</pubDate>
-<description>Sony shipped over 160 million PlayStation 2 units over its 13-year run.</description>
-<enclosure url="https://www.engadget.com/img/gallery/the-best-selling-game-console-of-all-time-is-over-25-years-old/l-intro-1793731008.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/the-best-selling-game-console-of-all-time-is-over-25-years-old/l-intro-1793731008.jpg" medium="image"/>
-</item>
-<item>
 <title>Oura to acquire AI-native primary care startup Counsel Health for $625M</title>
 <link>https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m</link>
 <guid isPermaLink="false">1b0c05cd97a311af5c4f8a2b41b220d621e87dbde7c35b23ba7bf6d6a3ba1436</guid>
@@ -1373,17 +1384,6 @@
 <description>An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQOwa1ngLZRATbbZyg_iud4SNx-9ugjo2iOG6crnJzatc_uS9FjGScBnNUy-uNIuOEE3Y6kJTpUVMVtOR1bW5sse_pRNJA1SQALCGjshDx6-CF1t8HXlUI2CCb6yp7Uepz6uk3ctMLUlSx4Q36Q7pZcx1nb9wPgbYAZqvd6CnSJ6WM6Kn_ZENtHpESoM/s1600/nearai.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQOwa1ngLZRATbbZyg_iud4SNx-9ugjo2iOG6crnJzatc_uS9FjGScBnNUy-uNIuOEE3Y6kJTpUVMVtOR1bW5sse_pRNJA1SQALCGjshDx6-CF1t8HXlUI2CCb6yp7Uepz6uk3ctMLUlSx4Q36Q7pZcx1nb9wPgbYAZqvd6CnSJ6WM6Kn_ZENtHpESoM/s1600/nearai.jpg" medium="image"/>
-</item>
-<item>
-<title>New York will independently test AI models</title>
-<link>https://www.engadget.com/2312487/new-york-will-independently-test-ai-models</link>
-<guid isPermaLink="false">f0efa7acffc5bcaa90dad10640c4727fa96498751183589f6211a5cac78d25dc</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 19:19:20 +0000</pubDate>
-<description>The state's research center will check AI companies' work instead of taking their word.</description>
-<enclosure url="https://www.engadget.com/img/gallery/new-york-will-independently-test-ai-models/l-intro-1794338220.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/new-york-will-independently-test-ai-models/l-intro-1794338220.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple has new Mac app coming to make running local AI models easy</title>
@@ -1782,17 +1782,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/adobe-max.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
-<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
-<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
-<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
-</item>
-<item>
 <title>4DX Movies Are Entering Their Thirsty Romance Era</title>
 <link>https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry</link>
 <guid isPermaLink="false">2823673c1363847b05a751732b0e398f999460b9b42d833cebf241e0446b659f</guid>
@@ -1813,6 +1802,17 @@
 <description>Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.</description>
 <enclosure url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" medium="image"/>
+</item>
+<item>
+<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
+<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
+<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
+<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
 </item>
 <item>
 <title>Ring’s wheeled and flying robots will patrol your home</title>
@@ -2079,17 +2079,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png" medium="image"/>
 </item>
 <item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -2121,6 +2110,17 @@
 <description>Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
 </item>
 <item>
 <title>Bose Promo Code: 40% Off for November 2026</title>
