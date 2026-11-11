@@ -4,6 +4,99 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>iPhone Duo one week later: The future, or not for me?</title>
+<link>https://9to5mac.com/2026/11/11/iphone-duo-one-week-later-the-future-or-not-for-me</link>
+<guid isPermaLink="false">a2d141678dba62956ee83fdbb7e4ff624e56f3453756b7f8d5aca3db5972baec</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 21:33:21 +0000</pubDate>
+<description>My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone? more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>eMudhra revokes 8 more CA certificates after private key mishap</title>
+<link>https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap</link>
+<guid isPermaLink="false">099a6b7783e3c7d3e58f8645e9fe92ae3dd0d8856c5634fabae2e3a8320b6c6a</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 21:27:40 +0000</pubDate>
+<description>Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]</description>
+</item>
+<item>
+<title>Binance warns iPhone crypto holders of security flaw researchers say remains unpatched</title>
+<link>https://9to5mac.com/2026/11/11/binance-warns-iphone-crypto-holders-of-security-flaw-researchers-say-remains-unpatched</link>
+<guid isPermaLink="false">1658eaa554fbc63074ded4b02f7f578e755082df2e1e82855344ea98ed72a6df</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 21:17:30 +0000</pubDate>
+<description>Crypto exchange Binance has warned iPhone users about an iOS vulnerability that could allow malicious apps to access sensitive data stored by other apps. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/06/apple-hacked.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Apple Invites app now lets hosts poll guests, plus new emoji effect added</title>
+<link>https://9to5mac.com/2026/11/11/apple-invites-app-now-lets-hosts-poll-guests-plus-new-emoji-effect-added</link>
+<guid isPermaLink="false">6bf33adeb5f5efb44d871125e08034d38ecd8790fd3fd8f1ac89c63ec013efee</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 21:08:46 +0000</pubDate>
+<description>Apple Invites, an iCloud+ feature, just added two new features in this month’s update. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600" medium="image"/>
+</item>
+<item>
+<title>Notion says Fireworks breach exposed customer AI chat transcripts</title>
+<link>https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts</link>
+<guid isPermaLink="false">e9b1651e2709b7ea14f395fd455f4fa11f87f6bf842add147b7e66e43b4f2ad8</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:54:20 +0000</pubDate>
+<description>Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
+</item>
+<item>
+<title>T-Mobile illegally imposed 50 GB cap on low-income home Internet plan, NY says</title>
+<link>https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says</link>
+<guid isPermaLink="false">e8ecb6b75613dd7c5cd4d269ca2b75df0cd7acbd4755ab4a8cf9d8d9273958e9</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:32:21 +0000</pubDate>
+<description>Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" medium="image"/>
+</item>
+<item>
+<title>Anduril says its first satellite can see adversaries maneuver in orbital night</title>
+<link>https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness</link>
+<guid isPermaLink="false">78c34c8f8ab330b8f6fc6d2df2e9a37615709f8bcaed29b9338377a5df89f0e3</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:22:03 +0000</pubDate>
+<description>"What's unique is it's got a huge dynamic range. We can see things in full dark."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple reportedly met with Thai officials over spyware alerts sent to politicians</title>
+<link>https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians</link>
+<guid isPermaLink="false">0fe537fce0817d72b321944e5775204b6f87948ea4f2974737e08b9610e9da88</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:18:07 +0000</pubDate>
+<description>Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Why the data center you dread might never even be built</title>
+<link>https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built</link>
+<guid isPermaLink="false">321d8b43ce72dae60562d150f2699be8eb77467f1b94d6251bec46b9a5c793f7</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:15:15 +0000</pubDate>
+<description>The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place. With billions of dollars in AI infrastructure […]</description>
+</item>
+<item>
 <title>Meta is losing its longtime head of infrastructure</title>
 <link>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure</link>
 <guid isPermaLink="false">c3fa6b6a983077561348d3dd6c5ad83f26dbe8cce9ec99204f1c31392a5daa09</guid>
@@ -11,6 +104,17 @@
 <category>technology</category>
 <pubDate>Wed, 11 Nov 2026 20:12:01 +0000</pubDate>
 <description>Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.</description>
+</item>
+<item>
+<title>United is restricting AI agents from booking flights</title>
+<link>https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights</link>
+<guid isPermaLink="false">dbb2cd951b1601b5fb1c78789fdc6ef654c42f2f1d2e89ecc86f5d78e8eedaf7</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 20:09:44 +0000</pubDate>
+<description>The airline believes AI poses security risks and may violate DOT and FAA rules.</description>
+<enclosure url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" medium="image"/>
 </item>
 <item>
 <title>Olaf Sakkers is betting he can beat the emerging-manager squeeze</title>
@@ -958,17 +1062,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg" medium="image"/>
 </item>
 <item>
-<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
-<link>https://www.wired.com/story/noom-promo-code</link>
-<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
 <title>Best Buy Discount Codes: 60% Off</title>
 <link>https://www.wired.com/story/best-buy-discount-code</link>
 <guid isPermaLink="false">7eb17bb83e8c7c6ad205db59abf5096e4ea9696da30c70cf1a7bf350dc2358b9</guid>
@@ -1033,6 +1126,17 @@
 <description>Save 30% with a OnePlus coupon in November 2026, plus save up to 10% on earbuds, phones, and more.</description>
 <enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Noom Promo Codes: 50% Off Best Deals for November 2026</title>
+<link>https://www.wired.com/story/noom-promo-code</link>
+<guid isPermaLink="false">9f49cd1694ea90938e711793e8965ee2a0c5db518352ad3f0d4b8e0d7417fc6a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Wed, 11 Nov 2026 06:00:00 +0000</pubDate>
+<description>Discover the best ways to save on Noom subscriptions, including free trials, limited-time offers for GLP-1Rx Plus, and essential tips for redeeming your Noom discount.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
 </item>
 <item>
 <title>Visible Promo Codes and Coupons for November 2026</title>
@@ -1240,17 +1344,6 @@
 <description>"Launch is extremely constrained and that is exactly the situation we predicted."</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/1793382176191-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>These Xiaomi phones are no longer getting support with the latest HyperOS 4 update</title>
-<link>https://www.engadget.com/2307810/xiaomi-phones-no-longer-supported-hyper-os-4-update</link>
-<guid isPermaLink="false">3969521833ab75808e3ff4455808c6ca0f03b3f4e30b2e8110f89c64c4c6ad0e</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 23:00:00 +0000</pubDate>
-<description>Xiaomi's HyperOS 4 update includes intriguing new features like Soft Light Glass, memory improvements and more, but the not everyone will get the perks.</description>
-<enclosure url="https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/these-xiaomi-phones-are-no-longer-getting-support-with-octobers-hyperos-4-update/l-intro-1793733962.jpg" medium="image"/>
 </item>
 <item>
 <title>CleanupBuddy 2.0 expands beyond the keyboard with new display cleaning features</title>
@@ -1537,15 +1630,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/08/Pixel-11-series-6-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google</title>
-<link>https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google</link>
-<guid isPermaLink="false">7e74320883f414fbb1a04c0c3716d288a87aa88106c3feccb22ba486611f9446</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 18:49:52 +0000</pubDate>
-<description>OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.</description>
-</item>
-<item>
 <title>Free video-streaming service Tubi lets users share curated watchlists now</title>
 <link>https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now</link>
 <guid isPermaLink="false">28625d11221f1e7f923003a4d95421503b1db7537477c817e0d4f3fb560b73a3</guid>
@@ -1654,37 +1738,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-MacBook-Air-HomeView-AirPods-Trackpad.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>High oil prices have led to a dip in global carbon emissions</title>
-<link>https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last</link>
-<guid isPermaLink="false">8bebeeb78f54a7d4aac445176b7ccc907b30c676bbd62638b3a218e28a838faa</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:29:27 +0000</pubDate>
-<description>Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>One space station company sues another for copying its work</title>
-<link>https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work</link>
-<guid isPermaLink="false">67f440dce0e98664f34c860dd3293b11cb699d6ff983abeaa83a5422e429be68</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:17:51 +0000</pubDate>
-<description>"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom"</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers</title>
-<link>https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers</link>
-<guid isPermaLink="false">4d844152923c736724adc8df7b477aa382a5367f4dbe81f739d07b6bb567acd7</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 16:17:16 +0000</pubDate>
-<description>A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]</description>
-</item>
-<item>
 <title>iPadOS 27.3 adds new iPad setting I instantly turned on</title>
 <link>https://9to5mac.com/2026/11/10/ipados-27-3-adds-new-ipad-setting-i-instantly-turned-on</link>
 <guid isPermaLink="false">1a06d505eb47cb1fc5963ba5c4af4c594feca0cbb854a895690c949bf9d90b4e</guid>
@@ -1716,15 +1769,6 @@
 <description>Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-Z8hFA8uMe4HXLf_4QRk4Z4VLuUCDRL89LcgpXfsj9YAwLsLHIZL46pn2SLz0BBhCKPUKBhChDRRsKYPSkZPwmsDIhozGQ-4YemxOSol0AiwBEgtGX9OSZ_L3SQZVoebBX1fWGkh8TQ_hNVYHho0eCrBQzLlhnjPhhymXqcWePyuhdQDCMb6KJi6pmIe/s1600/cbs.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-Z8hFA8uMe4HXLf_4QRk4Z4VLuUCDRL89LcgpXfsj9YAwLsLHIZL46pn2SLz0BBhCKPUKBhChDRRsKYPSkZPwmsDIhozGQ-4YemxOSol0AiwBEgtGX9OSZ_L3SQZVoebBX1fWGkh8TQ_hNVYHho0eCrBQzLlhnjPhhymXqcWePyuhdQDCMb6KJi6pmIe/s1600/cbs.jpg" medium="image"/>
-</item>
-<item>
-<title>Binance warns of iOS flaw that could leak crypto wallet secrets</title>
-<link>https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets</link>
-<guid isPermaLink="false">77e6e3750a79c537db43df0cacf99b1f06c95bffbfa697d997aa12d396cf65bb</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 15:59:19 +0000</pubDate>
-<description>Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]</description>
 </item>
 <item>
 <title>Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America</title>
@@ -1815,17 +1859,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/adobe-max.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
-<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
-<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
-<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
-<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
-</item>
-<item>
 <title>4DX Movies Are Entering Their Thirsty Romance Era</title>
 <link>https://www.wired.com/story/4dx-movies-horny-romances-wicker-heated-rivalry</link>
 <guid isPermaLink="false">2823673c1363847b05a751732b0e398f999460b9b42d833cebf241e0446b659f</guid>
@@ -1846,6 +1879,17 @@
 <description>Built by Cyanogen’s cofounder, Kora is a next-gen alternative to Windows and macOS built for power users running local AI models.</description>
 <enclosure url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af27401edee43782ec1ac6b/master/pass/gear_ai_operating_system_nerdy.jpg" medium="image"/>
+</item>
+<item>
+<title>Rocco’s Mini Mini Fridge Is Here (2026)</title>
+<link>https://www.wired.com/story/rocco-made-a-mini-version-of-its-mini-fridge</link>
+<guid isPermaLink="false">eeae3ef538b05415a2ff789bdfb3d22333677eba71d07f33a659c5218b69d4f1</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 14:00:00 +0000</pubDate>
+<description>The new Mini Mini holds 12 cans and fits on a countertop. And if you buy a full-sized Rocco fridge, you can take $50 off the little one.</description>
+<enclosure url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af293932a1c39196b9b1e9d/master/pass/Rocco-Made-a-Mini-Version-of-Its-Mini-Fridge.jpg" medium="image"/>
 </item>
 <item>
 <title>Ring’s wheeled and flying robots will patrol your home</title>
@@ -2112,17 +2156,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png" medium="image"/>
 </item>
 <item>
-<title>Office Depot Coupons: $20 Off November 2026</title>
-<link>https://www.wired.com/story/office-depot-promo-codes</link>
-<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
-<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
 <title>Rover Promo Codes and Referral Deals for November 2026</title>
 <link>https://www.wired.com/story/rover-promo-code</link>
 <guid isPermaLink="false">6fe16afa97879ad12ac1fcfbaeb35b06c70a2fed08d5e3c96cc11bb037efb4ed</guid>
@@ -2154,6 +2187,17 @@
 <description>Save on bulk groceries, household essentials, and electronics with a verified Sam's Club promo code or membership discount.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
+</item>
+<item>
+<title>Office Depot Coupons: $20 Off November 2026</title>
+<link>https://www.wired.com/story/office-depot-promo-codes</link>
+<guid isPermaLink="false">4fd706ee1956fcc6498d839b40c5000d3fe3f6b11e7a85ca2a0127a57de644d4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Tue, 10 Nov 2026 06:00:00 +0000</pubDate>
+<description>From furniture and ink to professional printing services, use an Office Depot discount code to maximize your savings on every workspace essential.</description>
+<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
 </item>
 <item>
 <title>Bose Promo Code: 40% Off for November 2026</title>
@@ -2915,28 +2959,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/05/iphone-19-pro-20-anniversary-max.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>iOS 27.2 adds Apple Photos invisible watermark feature, here’s how it works</title>
-<link>https://9to5mac.com/2026/11/06/ios-27-2-adds-apple-photos-invisible-watermark-feature-heres-how-it-works</link>
-<guid isPermaLink="false">d5def8371411e09d42885e52a8512bb3c9856485b711b2d5b0d14ffa7aadacba</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:39:08 +0000</pubDate>
-<description>iOS 27.2 arrived last week, and among its changes for Apple Photos , the update adds an invisible watermarking feature when you use certain editing tools. Here’s how it works. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/ios-27-photos-app-icon-fi-purple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple says there are already over 100,000 apps built for iPhone Duo</title>
-<link>https://9to5mac.com/2026/11/06/apple-says-there-are-already-over-100000-apps-built-for-iphone-duo</link>
-<guid isPermaLink="false">0c4ddfac6a9840111a9f1b725ef84ad32ed36f422fba535c85e460ebd435f898</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:23:49 +0000</pubDate>
-<description>Apple released the iPhone Duo two weeks ago, and the app story is quickly taking shape. In a new statement to 9to5Mac , Apple has revealed that there are already “well over 100,000 apps” on the App Store designed for iPhone Duo, and thousands are being added each day. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-round-2-01.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-round-2-01.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot</title>
 <link>https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html</link>
 <guid isPermaLink="false">12404fdb4aa2369898b863996b18c6ed8c1a8d6a1f79072a9ab2a87023c145c1</guid>
@@ -2948,17 +2970,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg" medium="image"/>
 </item>
 <item>
-<title>Apple Stores roll out holiday decorations to kick off the season</title>
-<link>https://9to5mac.com/2026/11/06/apple-stores-roll-out-holiday-decorations-to-kick-off-the-season-2</link>
-<guid isPermaLink="false">4fd975bc8e406a307042a5168f839afc23f4e08baef0cf060c9569892c9424b1</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 15:10:52 +0000</pubDate>
-<description>The holidays are coming, and Apple Stores around the world are rolling out decorations today to celebrate. Here’s a look at this year’s holiday decor. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2022/12/Mac-accessories-holidays.jpg.webp?w=1600" medium="image"/>
-</item>
-<item>
 <title>OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits</title>
 <link>https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html</link>
 <guid isPermaLink="false">4ab15b935f3f24ba1c9fc78799d4b471306a2a540e1477b612ba25823ac77a41</guid>
@@ -2968,17 +2979,6 @@
 <description>OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is "more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set," OpenAI said. It has classified the model as</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple Store now offers extended holiday returns for all products</title>
-<link>https://9to5mac.com/2026/11/06/apple-store-now-offers-extended-holiday-returns-for-all-products-2026</link>
-<guid isPermaLink="false">dbe3530456f519c3987d20144b5654bd04ea1c6440ca03d59d722e567dc02641</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Fri, 06 Nov 2026 14:38:48 +0000</pubDate>
-<description>Apple has rolled out its holiday theming at the online Apple Store, and with it a new, extended return policy has just been put into place. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store-austin-john-ternus-deidre-duo-launch.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-store-austin-john-ternus-deidre-duo-launch.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
 <title>Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It</title>
