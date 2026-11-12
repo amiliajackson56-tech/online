@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Curiosity Blog, Sols 5063-5069 Rocks and Chips</title>
+<link>https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips</link>
+<guid isPermaLink="false">5cf497c37d8467081586543e48eee043ad2c4f7e79f725787d68a7b549297c42</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 12 Nov 2026 00:41:35 +0000</pubDate>
+<description>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg?w=480&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg?w=480&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>Energy drinks linked to 11 times more reports of cardiac arrest</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261110042543.htm</link>
 <guid isPermaLink="false">b5090f596e1e32be19a3dc077e98288f8e1c0a237190c676c852ba8ad2a6fe55</guid>
@@ -204,6 +215,15 @@
 <category>science</category>
 <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03660-5 Mapping the movements of wildlife across the Amazon and other regions to their exposure to human activities can inform protection initiatives.</description>
+</item>
+<item>
+<title>Microplastics change the colour of the sea near the Great Pacific Garbage Patch</title>
+<link>https://www.nature.com/articles/d41586-026-03637-4</link>
+<guid isPermaLink="false">fc821b5f0459ce3588b87075dbdc9febc3dbf093b99ff7375ae771c19b9d0e18</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 11 November 2026; doi:10.1038/d41586-026-03637-4 The waters around the zone of floating debris appear greener and bluer on account of high levels of tiny bits of plastic.</description>
 </item>
 <item>
 <title>Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus</title>
@@ -787,17 +807,6 @@
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_proj_msl_redops_ods_surface_sol_05062_opgs_edr_ncam_NRB_846865643EDR_S1251326NCAM00592M_.JPG?w=1024&amp;h=512&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole</title>
-<link>https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole</link>
-<guid isPermaLink="false">901e4c6072cf569b275ad463cd8bfc33dab8b1384194d34453431c8b15d7d05c</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 10 Nov 2026 01:05:48 +0000</pubDate>
-<description>Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. If they are indeed crystals, and […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&amp;h=1184&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/october/https___mars.nasa.gov_msl-raw-images_msss_05050_mcam_5050MR1101700012601677E01_DXXX.jpg?w=1328&amp;h=1184&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>After 40 years, CERN finds evidence of a one-in-10-billion particle decay</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261108233047.htm</link>
 <guid isPermaLink="false">fb9a85ae230146d3d1120ea62605bd8eca5ce675ed0eded7cd1a860416d45c29</guid>
@@ -1111,15 +1120,6 @@
 <category>science</category>
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03658-z The COP31 climate conference begins, with ‘climate overshoot’ a key talking point. Plus, the surprising benefits of ‘pink noise’ and the role of AI chatbots to support men’s mental health.</description>
-</item>
-<item>
-<title>What postdoc ads ask for and what they leave unsaid</title>
-<link>https://www.nature.com/articles/d41586-026-02903-9</link>
-<guid isPermaLink="false">eabaa733a900f6d36666a6400b9bfb315ca249a8939dd7de32592a7aa8ec7604</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-02903-9 Looking for a postdoc while raising four children made one thing clear to Wenhuan Xu: many adverts describe the ideal applicant much more clearly than they describe the job itself.</description>
 </item>
 <item>
 <title>Scientists discover stunning new Amazon fish that may already be endangered</title>

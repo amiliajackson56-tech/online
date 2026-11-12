@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Euro Leagues</title>
+<link>https://www.bbc.co.uk/sounds/play/p0pmj6yk?at_medium=RSS&amp;at_campaign=rss</link>
+<guid isPermaLink="false">e88c7bd37800ba2c8776ee3792e831db5608455511755e692e71a386bc73a97a</guid>
+<source>BBC Football</source>
+<category>sports</category>
+<pubDate>Wed, 11 Nov 2026 23:08:00 +0000</pubDate>
+<description>John Bennett is joined by Rafa Honigstein and Julien Laurens</description>
+<enclosure url="https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg" type="image/jpeg"/>
+<media:content url="https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg" medium="image"/>
+</item>
+<item>
 <title>Arsenal join Scott chase - Thursday's gossip</title>
 <link>https://www.bbc.co.uk/sport/football/articles/c62l51xyl98no?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">37c8924fdcff0eb25250a1d4ff336ac1ee84fe49a10895646ea8eb3e7ae5c7c7</guid>
@@ -123,6 +134,17 @@
 <description>David Bates has been called up to the Scotland squad as fellow defender Luis Binks drops out for the matches against North Macedonia and Switzerland.</description>
 <enclosure url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg" type="image/jpeg"/>
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18c0/live/44690fd0-ddd3-11f1-9053-236ccb99630c.jpg" medium="image"/>
+</item>
+<item>
+<title>‘An eternal shame’: Bilic and Croatia aim to use 7-0 humbling as fuel against England</title>
+<link>https://www.theguardian.com/football/2026/nov/11/slaven-bilic-croatia-7-0-england-nations-league-wembley</link>
+<guid isPermaLink="false">e32e1128bd3dcba1043dd4c8fabcf96cf2bef42e694d5d12625128a3504fc976</guid>
+<source>The Guardian Football</source>
+<category>sports</category>
+<pubDate>Wed, 11 Nov 2026 12:30:30 +0000</pubDate>
+<description>The home humiliation last month has left a scar on Croatian football but their manager wants them to use it to positive effect in the Wembley rematch As Croatia prepare to face England at Wembley on Thursday in the Nations League, wounds from a humiliating defeat by the same opponents last month are fresh and there is a lingering feeling of unease. No one will say it – certainly not Slaven Bilic, who always believes in achieving goals that may seem unreachable to most others – but the impression is that Croatia would be satisfied to accept another defeat, provided it was gentle enough by score and hard‑fought by approach; that this game is not so much about the points as the (self-)respect they can regain. Continue reading...</description>
+<enclosure url="https://i.guim.co.uk/img/media/b1957807226a9c146fa1bbc432d9f88769e11e69/0_0_3739_2992/master/3739.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b98161cf677c66d103df5c827cd16d92" type="image/jpeg"/>
+<media:content url="https://i.guim.co.uk/img/media/b1957807226a9c146fa1bbc432d9f88769e11e69/0_0_3739_2992/master/3739.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b98161cf677c66d103df5c827cd16d92" medium="image"/>
 </item>
 <item>
 <title>How promotion, relegation and knockouts work in Nations League</title>
@@ -587,7 +609,7 @@
 <media:content url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d01/live/fd81f310-dc5c-11f1-b441-2b33b063138f.jpg" medium="image"/>
 </item>
 <item>
-<title>More than the Score</title>
+<title>Listen: Who is your BBC Women's Footballer of the Year?</title>
 <link>https://www.bbc.co.uk/sounds/play/w3ct9tpb?at_medium=RSS&amp;at_campaign=rss</link>
 <guid isPermaLink="false">ce9d4a84bc42a71b18ab417b5f15abc7e5874debd9a0555bbfc5d03a7a63acd3</guid>
 <source>BBC Football</source>
