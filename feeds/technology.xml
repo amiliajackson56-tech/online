@@ -4,6 +4,514 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Microsoft&amp;#8217;s massive Outlook outage continues</title>
+<link>https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage</link>
+<guid isPermaLink="false">6c41593b576c3b0795c4e7fdcbab96cd1de4ae82e1f6b959dff9c4f8cba99da6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:29:21 +0000</pubDate>
+<description>Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staffers) are reporting that access to their emails has been restored, though the flow of Outlook […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Microsoft blames failed server health checks—not hackers—for global outage</title>
+<link>https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage</link>
+<guid isPermaLink="false">c686db44040ed87ba6f862af088244cc81a8e9affb9051615935d7ea2a9a4959</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:26:53 +0000</pubDate>
+<description>Governments, hospitals, courts scrambled by global Microsoft outage.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple announces release dates for the first Apple Home Collection smart devices</title>
+<link>https://www.theverge.com/tech/1032920/apple-smart-home-collection-release-ship-dates-available-pricing</link>
+<guid isPermaLink="false">13aaac2236e8226237807378e557d635da70662b56baa60f76eb13121d495d4f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:22:14 +0000</pubDate>
+<description>The first few smart home devices and accessories that Apple co-developed with LG Electronics and Schneider Electric for its new Apple Home Collection are now available for preorder through the company's online store, with delivery expected in mid-December. Apple announced the collection a month ago as part of a stronger push into the smart home […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applehome.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/applehome.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Apple Home’s new video doorbell, smart cameras now available to order</title>
+<link>https://9to5mac.com/2026/11/13/apple-homes-new-video-doorbell-smart-cameras-now-available-to-order</link>
+<guid isPermaLink="false">50c2cb710995784af9e8d67c844b3f7477929afb021f2e46bf3672369f9f49f4</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:14:32 +0000</pubDate>
+<description>Today Apple has launched two Home products: HomeView and a new Apple TV 4K . Additionally, the first three accessories in the Apple Home Collection are now available to order: a video doorbell and two smart home security cameras. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/lg-indoor-camera-apple-home-collection.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/lg-indoor-camera-apple-home-collection.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>It's the end of the world as we know it, per a physicist's 1960 prediction</title>
+<link>https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction</link>
+<guid isPermaLink="false">650d65519942a6569d177ee90d69d17cf9ac3ac4b35bec6fcbb5dccaf598118a</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:09:39 +0000</pubDate>
+<description>Heinz von Foerster thought population would grow exponentially and "squeeze" us all to death.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>How one AI agent exposed five critical enterprise security gaps</title>
+<link>https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps</link>
+<guid isPermaLink="false">7c8915ec24c23b444893aab32e2d8621c1b1b569b2b8ade7416f9918c38d253e</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 15:01:11 +0000</pubDate>
+<description>An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]</description>
+</item>
+<item>
+<title>Uber confirms hackers stole thousands of drivers’ license information in data breach</title>
+<link>https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach</link>
+<guid isPermaLink="false">bbae376a6d8b2ff6bc928d28aec4ce6e154a17be6c1a7a7c3be3ea102635c910</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:57:55 +0000</pubDate>
+<description>The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.</description>
+</item>
+<item>
+<title>What&amp;#8217;s really at stake in the Jensen Huang saga</title>
+<link>https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast</link>
+<guid isPermaLink="false">4815b0b06c4331032395d356fc0c0842095b4d32c35fbb0281a9e6f248164888</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:47:16 +0000</pubDate>
+<description>One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much bigger story may be about to unfold. A story about Nvidia's dealings in China, about the US government's willingness […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_VST_111326_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Screenless GPS: Slate Auto says, "Remember the road atlas"</title>
+<link>https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas</link>
+<guid isPermaLink="false">2e6c8fd3389553985d6a899752692954a3cdafc6f80c2964cfd069d10bfe1726</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:45:04 +0000</pubDate>
+<description>What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>ElevenLabs’ new app combines meeting note-taking and dictation for teams</title>
+<link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams</link>
+<guid isPermaLink="false">4d1482722545d06dd16949fb9f0d6a00279824eb0a4d10d62d4d06ff33dcea1a</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:44:48 +0000</pubDate>
+<description>ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.</description>
+</item>
+<item>
+<title>Meta discussed attacking Jonathan Haidt — now even his haters are annoyed</title>
+<link>https://www.theverge.com/policy/1032645/jonathan-haidt-critics-response-meta</link>
+<guid isPermaLink="false">43f859a8adc558331ed84f82e4704b9c94c69db04dc586b0c5685489544ba79d</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:30:00 +0000</pubDate>
+<description>Three years ago, Meta apparently considered a plan to turn public opinion against one of its most influential opponents, Jonathan Haidt. But since the proposal was revealed in court filings last month, it's backfired. In fact, if there's one thing Anxious Generation author Haidt and his critics can agree on, it's being mad at Meta. […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STKS507_FTCxMETA_ANTITRUST_CVIRGINIA_4_F.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Scientists warn 1.5°C climate change threshold could arrive by 2029</title>
+<link>https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029</link>
+<guid isPermaLink="false">9072a5ad3b0a42fdac6b5df787b2df11dfe01b2f8c9bfa25e5f700ce79fe8242</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:29:15 +0000</pubDate>
+<description>Climate action has stalled for five years as fossil fuel development keeps growing.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31-1024x648.jpg" medium="image"/>
+</item>
+<item>
+<title>FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls</title>
+<link>https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html</link>
+<guid isPermaLink="false">d32b5f97fc676bf8272f9f6b95d6e0c8472686ed16071e93e6db39669ab36383</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:28:58 +0000</pubDate>
+<description>The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinated set of actions announced by the U.S. government, the cloud-based</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmjJA-t4vvigohRIfUR6JExYEPR0Dohh29eooVagQOvRyRDgdisxAy3wSWni5iFHjf2Dk8X2BavSeGO8hJ-wCTbDuffsdtamOuqj1PVTb75EWNF5vNe3tCsS6pyS_pSzNhEELOVU0DxHdmGx4Kt8KNqwz8YheAM9kEoVmpnHeVV1qsofLCBYDEt0E2IqX/s1600/flash.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmjJA-t4vvigohRIfUR6JExYEPR0Dohh29eooVagQOvRyRDgdisxAy3wSWni5iFHjf2Dk8X2BavSeGO8hJ-wCTbDuffsdtamOuqj1PVTb75EWNF5vNe3tCsS6pyS_pSzNhEELOVU0DxHdmGx4Kt8KNqwz8YheAM9kEoVmpnHeVV1qsofLCBYDEt0E2IqX/s1600/flash.jpg" medium="image"/>
+</item>
+<item>
+<title>PSA: YouTube app not working on your new Apple TV? Here’s the fix</title>
+<link>https://9to5mac.com/2026/11/13/new-apple-tv-youtube-broken-fix</link>
+<guid isPermaLink="false">b7cf0a4e33bf68e2d09682024a341803f17ef7f5cca9d8b63b864436cae8d1cc</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:21:50 +0000</pubDate>
+<description>If you just unboxed your new Apple TV 4K, you might run into a problem using the YouTube app. Some users report an error message that reads: “YouTube is not yet available on this device.” Here’s how to fix this problem. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-3.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-tv-4k-4th-gen-3.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>tvOS 27.2.1 launching soon with Siri AI for older Apple TV 4K models</title>
+<link>https://9to5mac.com/2026/11/13/tvos-27-2-1-launching-soon-with-siri-ai-for-older-apple-tv-4k-models</link>
+<guid isPermaLink="false">e0d28069a79ce0a33901231ed8d35eb08ded58d9d941ffef12ddbaf20a1e3709</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:15:56 +0000</pubDate>
+<description>Today the new Apple TV 4K has arrived ( order here ) with Siri AI as a major tentpole feature. But older Apple TV 4K models are about to get Siri AI too via a tvOS 27.2.1 software update. more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-tv-homepod-mini-siri-ai.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Claude’s Duet agent is a little neurotic and surprisingly helpful</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on</link>
+<guid isPermaLink="false">0acc674430dfd202ca5a420ecc9e95b9e298e0fae8a88be07e7fd89edd12f879</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DSC04398_processed.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>The Motorola Signature 27 is a beast</title>
+<link>https://www.engadget.com/2315452/motorola-signature-27-hands-on</link>
+<guid isPermaLink="false">73a47b60664705416303e7a7bc2f9b9e3e724491bf706d6c39eb97bfb6592894</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>Motorola's latest phone has a monstrous tandem OLED display, a huge 7,000mah battery, fancy cameras and a massive $1,600 price tag.</description>
+<enclosure url="https://www.engadget.com/img/gallery/the-motorola-signature-27-is-a-beast/l-intro-1794519502.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/the-motorola-signature-27-is-a-beast/l-intro-1794519502.jpg" medium="image"/>
+</item>
+<item>
+<title>Why Apple's HomeView relies so heavily on your iPhone</title>
+<link>https://www.engadget.com/2315338/why-apples-homeview-relies-so-heavily-on-your-iphone</link>
+<guid isPermaLink="false">1825ce0dc55bfd1d6a988300dd91854c498405edfc488da93d89e77118b3c9e0</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 14:00:00 +0000</pubDate>
+<description>To make the HomeView both personal and communal, there was only one place to go.</description>
+<enclosure url="https://www.engadget.com/img/gallery/why-apples-homeview-relies-so-heavily-on-your-iphone/l-intro-1794513145.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/why-apples-homeview-relies-so-heavily-on-your-iphone/l-intro-1794513145.jpg" medium="image"/>
+</item>
+<item>
+<title>New Apple TV 4K and HomeView now available: Here’s everything you need to know</title>
+<link>https://9to5mac.com/2026/11/13/new-apple-tv-4k-and-homeview-now-available-heres-everything-you-need-to-know</link>
+<guid isPermaLink="false">77bdaa6f8691b3f6c404e58a3f297df563d51ab1ee5c48361abc3e1f7e0b64ab</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 13:57:26 +0000</pubDate>
+<description>The new Apple TV 4K and HomeView smart display are officially available. The first pre-orders have arrived for eager shoppers, and you can now also head to your local Apple Store to buy select configurations. Buy HomeView on Amazon Buy Apple TV 4K (4th generation) on Amazon Buy the new Siri Remote on Amazon more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-08.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/homeview-08.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases</title>
+<link>https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html</link>
+<guid isPermaLink="false">ea8f2c6821428bc14d0c57540ec5967cacd227d730d9c6de861c4282b5cc47b4</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 13:54:20 +0000</pubDate>
+<description>Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft’s latest email outage turned into a full blown global cloud crisis</title>
+<link>https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis</link>
+<guid isPermaLink="false">940b542808337faa1a37f2ba2cb291c906cd9a228841d5d504bb13a4baf2b0aa</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 13:15:20 +0000</pubDate>
+<description>Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.</description>
+</item>
+<item>
+<title>Apple should have made the MacBook logo RGB</title>
+<link>https://www.theverge.com/tech/1032550/apple-macbook-pro-proled-xdr-lid-logo-led-rgb-colors</link>
+<guid isPermaLink="false">5b81173ace7b8649a7c1b1fb36d4b4ba9486588bd896ca6a15f81b437c033f4f</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
+<description>When Apple CEO John Ternus announced the first touchscreen Mac last month, the biggest reaction in the room wasn't for the PROLED MacBook Pro's OLED touchscreen or the thinner and lighter chassis; it was for the illuminated lid logo. It's a throwback to the light-up logos on the old MacBooks, which Apple started phasing out […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268868_Apple_added_LEDs_to_its_logo_on_the_MacBook_Pro_and_now_I_want_RGB_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Surface Laptop Ultra review: The most powerful Surface yet, but it still lags behind Apple</title>
+<link>https://www.engadget.com/2314873/surface-laptop-ultra-review</link>
+<guid isPermaLink="false">f3c0c58cf1043e5721cfa57a44b06f5bf9b21d3f6ca3bf7c90e17ba64591fc5e</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 13:00:00 +0000</pubDate>
+<description>Microsoft's latest Surface is a beautiful flagship device for NVIDIA's RTX Spark.</description>
+<enclosure url="https://www.engadget.com/img/gallery/surface-laptop-ultra-review-the-most-powerful-surface-yet-but-it-still-lags-behind-apple/l-intro-1794499551.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/surface-laptop-ultra-review-the-most-powerful-surface-yet-but-it-still-lags-behind-apple/l-intro-1794499551.jpg" medium="image"/>
+</item>
+<item>
+<title>Bloomberg details web of Chinese AI companies with smuggled NVIDIA chips linked to Alice Huang</title>
+<link>https://www.engadget.com/2315710/bloomberg-details-web-of-chinese-ai-companies-with-smuggled-nvidia-chips-linked-to-alice-huang</link>
+<guid isPermaLink="false">fbc7801cbf0a1df5920b158790debf72bde0298332a49311a5159a378272e2ae</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:58:10 +0000</pubDate>
+<description>Bloomberg found evidence of a network of Chinese companies smuggling NVIDIA chips with Alice Huang at the center.</description>
+<enclosure url="https://www.engadget.com/img/gallery/companies-linked-to-alice-huang-reportedly-smuggled-nvidia-chips-installed-at-shanghai-data-center/l-intro-1794574510.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/companies-linked-to-alice-huang-reportedly-smuggled-nvidia-chips-installed-at-shanghai-data-center/l-intro-1794574510.jpg" medium="image"/>
+</item>
+<item>
+<title>Israel’s VCs see opportunity for challengers in Nvidia’s turmoil</title>
+<link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil</link>
+<guid isPermaLink="false">ad83f8c3766bbc41d223258ee060fcca11ca2affb31d1c6dc1c6ed6c9735549b</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:52:19 +0000</pubDate>
+<description>Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.</description>
+</item>
+<item>
+<title>3 Best Walking Pad Treadmills for Homes and Offices (2026)</title>
+<link>https://www.wired.com/story/best-walking-pads</link>
+<guid isPermaLink="false">24f22be6514e8689cab9a64b0791b3955841598e7de8f11bc99d112828d053d5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:34:00 +0000</pubDate>
+<description>Our team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.</description>
+<enclosure url="https://media.wired.com/photos/6af64959c5d481da1362b325/master/pass/The-Best-Walking-Pads-WIRED-Staffers-Use-During-Remote-Days.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af64959c5d481da1362b325/master/pass/The-Best-Walking-Pads-WIRED-Staffers-Use-During-Remote-Days.jpg" medium="image"/>
+</item>
+<item>
+<title>Jensen Huang didn’t show confidence in his successor, report says</title>
+<link>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says</link>
+<guid isPermaLink="false">a17f152d477fce8ebb46c8456a53ac8f1de4def84155cf5cc855056eb7abb1fe</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:28:23 +0000</pubDate>
+<description>Huang described Kress as a "deer in the headlights" during a meeting in summer.</description>
+</item>
+<item>
+<title>Microsoft says November security updates cause printing issues</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues</link>
+<guid isPermaLink="false">99b6dbedc6234c7fb6aed0a3d3ff8284395976023a1cca0cd1a3d14f2d0e8c2c</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:27:40 +0000</pubDate>
+<description>Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]</description>
+</item>
+<item>
+<title>Rocket Report: Starship set for historic test flight; a century of Electron</title>
+<link>https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron</link>
+<guid isPermaLink="false">3f9024d2cc02fdbf62bfd00aa6f4a248379a4eeec98b1ff19dc813b5091aa6ae</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:00:40 +0000</pubDate>
+<description>"You can simplify it as a big tank feeding engines."</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/electron-livery-1152x648.jpeg" medium="image"/>
+</item>
+<item>
+<title>Let’s talk about Jensen Huang’s many affairs!</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow</link>
+<guid isPermaLink="false">b790ef257fc3d1721f2b1f333776088dd30c0c26fbcf944edd315686a965a3f6</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+<description>Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity. If […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25835739/STKP210_JENSEN_HUANG_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>TCL QM7L Mini-LED TV Review (2026)</title>
+<link>https://www.wired.com/review/tcl-qm7l</link>
+<guid isPermaLink="false">f3ab953008ea01999d85006f362e1a1217047ada4556850a202fdf34cc0a35dc</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 12:00:00 +0000</pubDate>
+<description>$1,500 buys you vibrant color, deep blacks, and a fast screen fit for just about anything. Just be sure the wide pedestal fits your setup.</description>
+<enclosure url="https://media.wired.com/photos/6af64cc07d3b549f19bbdcc7/master/pass/Review--TCL-QM7L-Mini-LED-TV.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af64cc07d3b549f19bbdcc7/master/pass/Review--TCL-QM7L-Mini-LED-TV.jpg" medium="image"/>
+</item>
+<item>
+<title>When an AI Agent Goes Wrong, Can You Stop It?</title>
+<link>https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html</link>
+<guid isPermaLink="false">ed1f4b35eca7ef25af3fe07ee5571e4da93951d306a34180acf46d89f5e0a9a6</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:52:31 +0000</pubDate>
+<description>Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenario raises a response question: what does “stop the agent” actually mean? A</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkpxeEuWVGmGvK8wGnGdzjVbMHRyNOYd3GFjgzJZZN7TL2yyLt5Jof4gsujMYS9WfZnxUjFFs3mxFaejShy46vuXK38l_5R3RvospJ6J8IunrLPSDnI0sJgGtvNiNkc89XMR_KDDHWEOxAk800C2fKhwiOLMy433M3ASErPk_jMwoexS_5-1kpdJ8emE/s1600/Keeper.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXkpxeEuWVGmGvK8wGnGdzjVbMHRyNOYd3GFjgzJZZN7TL2yyLt5Jof4gsujMYS9WfZnxUjFFs3mxFaejShy46vuXK38l_5R3RvospJ6J8IunrLPSDnI0sJgGtvNiNkc89XMR_KDDHWEOxAk800C2fKhwiOLMy433M3ASErPk_jMwoexS_5-1kpdJ8emE/s1600/Keeper.jpg" medium="image"/>
+</item>
+<item>
+<title>Specialized’s Tarmac SL9 S-Level is built to wreck your Zone 2 ride</title>
+<link>https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride</link>
+<guid isPermaLink="false">01a45cf099fe530158819c070c7db676fd3c29c9ce44cee0fc0d14d4973588da</guid>
+<source>Ars Technica</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:50:38 +0000</pubDate>
+<description>Specialized’s second-fastest bike may be the smart buy.</description>
+<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg" type="image/jpeg"/>
+<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/specialized_3170-1152x648.jpg" medium="image"/>
+</item>
+<item>
+<title>This Startup Is Betting on AI Microdramas to Get More Black Stories in Hollywood</title>
+<link>https://www.wired.com/story/black-roles-are-disappearing-in-hollywood-this-startup-is-using-ai-microdramas-to-fight-back</link>
+<guid isPermaLink="false">cd9a227217501d9b400b62c3136e3f80120321b8e0a2cf4844114b7592f8a1ff</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:45:00 +0000</pubDate>
+<description>Mansa says its AI microdramas can serve as proofs of concept for what Black audiences want. Critics say the studio is selling out.</description>
+<enclosure url="https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af65ba58bac4203b57b5ba0/master/pass/Startup-Betting-on-AI-Microdramas-Culture.jpg" medium="image"/>
+</item>
+<item>
+<title>Even Black Friday Will Be More Expensive Than Usual</title>
+<link>https://www.wired.com/story/even-black-friday-2026-will-be-more-expensive-than-usual</link>
+<guid isPermaLink="false">63d39c707ebff3e3162720e102d98838045132d3abb471294bbe50b4f482c6dd</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:30:00 +0000</pubDate>
+<description>The AI memory crunch is coming for your holiday shopping list.</description>
+<enclosure url="https://media.wired.com/photos/6af7131c24bd9dbe89f314cb/master/pass/111326-Black%20Friday%20Memory%20Chip.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af7131c24bd9dbe89f314cb/master/pass/111326-Black%20Friday%20Memory%20Chip.jpg" medium="image"/>
+</item>
+<item>
+<title>‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next</title>
+<link>https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next</link>
+<guid isPermaLink="false">26e5b6b57e770e2f981aec0e921d990e858f7ec92ef971c0393022ec30628f8f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:15:00 +0000</pubDate>
+<description>Jean Guerrero, Stephen Miller’s biographer, sees him as “a case study in oligarchic capture”—and as a way for Donald Trump to double down.</description>
+<enclosure url="https://media.wired.com/photos/6af48b9f1bbf3e7f3fba04d9/master/pass/GettyImages-2214264559.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af48b9f1bbf3e7f3fba04d9/master/pass/GettyImages-2214264559.jpg" medium="image"/>
+</item>
+<item>
+<title>SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users</title>
+<link>https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html</link>
+<guid isPermaLink="false">7f22b6cf300a8942da8fe9a0870fb66247b6fc42f4b0085fe3387cbc76540282</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:10:40 +0000</pubDate>
+<description>A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg" medium="image"/>
+</item>
+<item>
+<title>Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen</title>
+<link>https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews</link>
+<guid isPermaLink="false">5afdff9ac24ccdd36f747e28d8edc6f04c62966bec37829894b3c51c3c0e104e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
+<description>William Gibson released his seminal novel Neuromancer in 1984. WIRED has an exclusive look at how it eventually made its way to Apple TV—thanks in no small part to Drake.</description>
+<enclosure url="https://media.wired.com/photos/6aee55c49c22209c9f013e23/master/pass/Neuromancer-BTS-Culture_102_18753F.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6aee55c49c22209c9f013e23/master/pass/Neuromancer-BTS-Culture_102_18753F.jpg" medium="image"/>
+</item>
+<item>
+<title>Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins</title>
+<link>https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html</link>
+<guid isPermaLink="false">d25f99854f909af54099cfc40f5de8da9f0d19bbfb833557978ef6ead30cca94</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 10:55:03 +0000</pubDate>
+<description>An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg" medium="image"/>
+</item>
+<item>
+<title>Check Point warns of zero-day flaw exploited for root access</title>
+<link>https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access</link>
+<guid isPermaLink="false">1b4785a1c9f30cfa8328bdffc2b68c43f886866c702e8e5f725d7ad2f055261d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 10:44:22 +0000</pubDate>
+<description>Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]</description>
+</item>
+<item>
+<title>Whoop Humans is a social network designed for fitness enthusiasts</title>
+<link>https://www.engadget.com/2315689/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts</link>
+<guid isPermaLink="false">fcc39a2ccae2899e5484194fcd1941406501c0c072ae04a533d1ea1ab621f143</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 10:39:44 +0000</pubDate>
+<description>Whoop, a company that makes screenless fitness trackers, has launched its own social network.</description>
+<enclosure url="https://www.engadget.com/img/gallery/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/l-intro-1794566195.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/whoop-humans-is-a-social-network-designed-for-fitness-enthusiasts/l-intro-1794566195.jpg" medium="image"/>
+</item>
+<item>
+<title>‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk</title>
+<link>https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise</link>
+<guid isPermaLink="false">e386f5e51dfde88362d47dd1c0cda017e40912e17002f1b4fea6775f687a0d6d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 10:30:00 +0000</pubDate>
+<description>Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.</description>
+<enclosure url="https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/master/pass/Cybertruck-Mourning-Culture.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/master/pass/Cybertruck-Mourning-Culture.jpg" medium="image"/>
+</item>
+<item>
+<title>The Hubble Space Telescope Is Sinking. NASA Is Looking for Ways to Keep It Afloat</title>
+<link>https://www.wired.com/story/nasa-wants-to-keep-the-hubble-space-telescope-afloat</link>
+<guid isPermaLink="false">b4e72a8591752fac491ef4384f06bc0fba804612a88046634ad0907b60dabdb3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+<description>With Hubble expected to reenter the atmosphere by 2034 and several malfunctions on board, NASA is asking commercial space companies for proposals on how to extend the telescope’s lifespan.</description>
+<enclosure url="https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/master/pass/27990737266_8b321346a4_o.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af5dcf2d057d0b5e841ea04/master/pass/27990737266_8b321346a4_o.jpg" medium="image"/>
+</item>
+<item>
+<title>Bitdefender Antivirus Plus Review: Undercutting the Competition</title>
+<link>https://www.wired.com/review/bitdefender-antivirus-plus</link>
+<guid isPermaLink="false">fb7e89d9ce9c25f403e8391dc1f848d9e00c5d83e9b1f591b5e42f0f490f9314</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 10:00:00 +0000</pubDate>
+<description>It’s not promoted very much, but Bitdefender’s stand-alone Antivirus Plus software is both effective and affordable.</description>
+<enclosure url="https://media.wired.com/photos/6ab18d47c9d4d635b849cb4e/master/pass/Review--Bitdefender-Antivirus-Plus.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6ab18d47c9d4d635b849cb4e/master/pass/Review--Bitdefender-Antivirus-Plus.jpg" medium="image"/>
+</item>
+<item>
+<title>Microsoft confirms Windows activation failures after November updates</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates</link>
+<guid isPermaLink="false">a5f7a5d903c7d49d7035f84b339738cd83bef20a32237965a933cf20d21a2acd</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 09:36:18 +0000</pubDate>
+<description>Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]</description>
+</item>
+<item>
+<title>Police arrest 354 suspects in dark web cybercrime crackdown</title>
+<link>https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown</link>
+<guid isPermaLink="false">981f9e3bd15be954421bef1021f4b5ec080d400426a01f65ac81d3c64f6cb8d6</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 08:34:20 +0000</pubDate>
+<description>Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]</description>
+</item>
+<item>
+<title>BYD admits wheel assembly error on its flagship electric SUV</title>
+<link>https://www.engadget.com/2315638/byd-wheel-assembly-error-great-tang-electric-suv</link>
+<guid isPermaLink="false">5facff41dbd2364a85d4aceafea6076a629825e8de387762911288ff353f4e48</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 08:12:48 +0000</pubDate>
+<description>The electric automaker has apologized and said it will fix the issue for affected vehicles.</description>
+<enclosure url="https://www.engadget.com/img/gallery/byd-admits-wheel-assembly-error-on-its-flagship-electric-suv/l-intro-1794557448.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/byd-admits-wheel-assembly-error-on-its-flagship-electric-suv/l-intro-1794557448.jpg" medium="image"/>
+</item>
+<item>
+<title>Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files</title>
+<link>https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html</link>
+<guid isPermaLink="false">69d1a63879fd152b3ec7ee2e666f0ba12fe3b0a54d2ab668c2bdd0f0547ed489</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 08:05:49 +0000</pubDate>
+<description>An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg" medium="image"/>
+</item>
+<item>
 <title>Gametime Promo Code: Save on Tickets in November 2026</title>
 <link>https://www.wired.com/story/gametime-promo-code</link>
 <guid isPermaLink="false">3421367f183dde6dd1542c7a9e915fdd2630771db66df9619139b859a3a356f6</guid>
@@ -48,6 +556,17 @@
 <media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
+<title>Chatbooks Promo Code: 40% Off | November 2026</title>
+<link>https://www.wired.com/story/chatbooks-promo-code</link>
+<guid isPermaLink="false">3fffa1d94b5b03e2e2ffb59aefc4961c8200e933ed0a23d79c2c31a8c7dd7d18</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
+<description>Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.</description>
+<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
+</item>
+<item>
 <title>Western Digital Promo Code: 15% Off</title>
 <link>https://www.wired.com/story/western-digital-promo-code</link>
 <guid isPermaLink="false">d9601177afc3d7bb77e7f027608e874beabc1a8d3869a725ef632e0c33df004a</guid>
@@ -68,17 +587,6 @@
 <description>Score up to $100 off refurbished premium products, free shipping on orders of $29+, and more at Logitech.</description>
 <enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
-<title>Chatbooks Promo Code: 40% Off | November 2026</title>
-<link>https://www.wired.com/story/chatbooks-promo-code</link>
-<guid isPermaLink="false">3fffa1d94b5b03e2e2ffb59aefc4961c8200e933ed0a23d79c2c31a8c7dd7d18</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 06:00:00 +0000</pubDate>
-<description>Keep your memories alive without breaking the bank by using these top Chatbooks coupon codes and saving strategies.</description>
-<enclosure url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
 <title>Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2</title>
@@ -167,39 +675,6 @@
 <description>The AI agent can schedule appointments, make reservations and wait on hold for you.</description>
 <enclosure url="https://www.engadget.com/img/gallery/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/l-intro-1794526142.jpg" type="image/jpeg"/>
 <media:content url="https://www.engadget.com/img/gallery/metas-muse-can-now-make-calls-on-your-behalf-if-you-have-a-paid-subscription/l-intro-1794526142.jpg" medium="image"/>
-</item>
-<item>
-<title>Humble Bundle redesign removes two-factor verification from settings</title>
-<link>https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings</link>
-<guid isPermaLink="false">ecab0e7e397b310858703dd127ac2b30c5fa48d4a9750f474c4a50a8215ec86f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:30:52 +0000</pubDate>
-<description>The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support pages discussing two-factor verification, and the writer […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,88.092261904762" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;strip=all&amp;crop=0,0,100,88.092261904762" medium="image"/>
-</item>
-<item>
-<title>Microsoft Outlook is still down</title>
-<link>https://www.theverge.com/tech/1032226/microsoft-outlook-is-down</link>
-<guid isPermaLink="false">a487e36889862acfd354c53b852f2fdde6adaf452954ae1bfe079f6788e8f882</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:24:13 +0000</pubDate>
-<description>Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that "We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK153_MICROSOFT_OUTLOOK_B_66565e.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>Xbox owners are getting more customizations for backgrounds and the Guide menu</title>
-<link>https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature</link>
-<guid isPermaLink="false">d5cc30ce1b8a71cb5403e861691c5722f96ff5d51ef0a208a59cacdc76a4b3de</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
-<description>Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. "Xbox Insiders can now save favorite dynamic backgrounds and shuffle through them automatically," […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_3_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>In reversal, American Cancer Society urges routine prostate cancer screening</title>
@@ -315,28 +790,6 @@
 <media:content url="https://media.wired.com/photos/6af5ee2157e0a3ee177875cd/master/pass/Uncanny-Valley-Jensen-Emergency-Pod.jpg" medium="image"/>
 </item>
 <item>
-<title>Google’s new Gemini model is better at understanding complicated questions</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen</link>
-<guid isPermaLink="false">a3e1afb4a33deb1bb631451a45d8fdfb08bde4f0c9c5460efe356e0b7f30baa6</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 21:55:32 +0000</pubDate>
-<description>Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including "questions with multiple parts, hard-to-understand typos, or highly specific requests." The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>‘It’s a mistake’: reactions from tech leaders on Jensen Huang’s resignation</title>
-<link>https://www.theverge.com/tech/1032434/nvidia-jensen-huang-resignation-reactions</link>
-<guid isPermaLink="false">7c88fba49af3393002592f2a268748113da34512114cc0c000347b10f6a0137d</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 21:45:00 +0000</pubDate>
-<description>Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded quickly, with The New York Times only reporting on Friday that Huang and the suspected spy were "close" before other […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
 <title>The unfolding Jensen Huang scandal: a timeline</title>
 <link>https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline</link>
 <guid isPermaLink="false">104f40efd6071a516b0a97bd04daf5503b3c4b93f97e69c891c4c431b5a18035</guid>
@@ -344,17 +797,6 @@
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 21:35:00 +0000</pubDate>
 <description>Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.</description>
-</item>
-<item>
-<title>The Oura Ring 4 is almost as good as the newer model, but $150 cheaper</title>
-<link>https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale</link>
-<guid isPermaLink="false">ecc59add54f7f7e9d8be14946c6234c0d0d8a88c7713120e83ca33ed9dc7b98c</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 21:28:53 +0000</pubDate>
-<description>The previous-generation Oura Ring 4 is on sale for as low as $249 at Amazon, Best Buy, and Target, $100 off the retail price, and the first big discount on the device since July. The price varies a bit by size and color, with most silver and black models in stock at the lowest price […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25665142/247314_Oura_Ring_4_AKrales_0105.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>Nebius tests the neocloud playbook with $40 billion in planned spending</title>
@@ -386,17 +828,6 @@
 <description>While the first HomeView units won’t reach customers until tomorrow, Apple today released a software update addressing nine security vulnerabilities. Here are the details. Pre-order Apple HomeView more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-siri-calendar.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homeview-siri-calendar.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Here are the 25 original Xbox games you can now play on PC</title>
-<link>https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility</link>
-<guid isPermaLink="false">49b41ef813d753913dd21a5d1a0e3a1c06aa4e6c01a32fb66c808c3bb2b9548f</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 21:00:00 +0000</pubDate>
-<description>For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid "next-gen game preservation" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July, Microsoft originally launched the idea with just […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,93.955555555556" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,93.955555555556" medium="image"/>
 </item>
 <item>
 <title>Opera One for iOS adds Data Saver feature, cutting browsing data usage by up to 80%</title>
@@ -523,7 +954,7 @@
 <description>Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.</description>
 </item>
 <item>
-<title>Who is Collette Kress, NVIDIA's interim CEO?</title>
+<title>Who is Colette Kress, NVIDIA's interim CEO?</title>
 <link>https://www.engadget.com/2315274/who-is-collette-kress-nvidia-ceo</link>
 <guid isPermaLink="false">be053eee0b45b0ed1baf91ce69d813869220b67e946cc1eb9822c23e2db90dd9</guid>
 <source>Engadget</source>
@@ -563,8 +994,8 @@
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 19:17:32 +0000</pubDate>
 <description>Outlook and Teams are among the platforms impacted by "elevated load" issues.</description>
-<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794524102.jpg" medium="image"/>
+<enclosure url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794579008.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/multiple-microsoft-365-services-are-experiencing-an-outage/l-intro-1794579008.jpg" medium="image"/>
 </item>
 <item>
 <title>Apache HTTP Server patches critical HTTP/2 remote code execution flaw</title>
@@ -594,15 +1025,6 @@
 <description>Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.</description>
 <enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg" type="image/jpeg"/>
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg" medium="image"/>
-</item>
-<item>
-<title>Microsoft’s Outlook email hit by new outage</title>
-<link>https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage</link>
-<guid isPermaLink="false">8eb3fdcba3e8dec97eada83b0d89fe7f627eee319dc281c1a1cf7623ac487d3c</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 19:03:39 +0000</pubDate>
-<description>Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.</description>
 </item>
 <item>
 <title>Climate Change Has Pushed the World's Ice Out of Its Safe Zone</title>
@@ -939,15 +1361,6 @@
 <description>Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]</description>
 </item>
 <item>
-<title>Whoop just launched a social network</title>
-<link>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network</link>
-<guid isPermaLink="false">41ad83e0a841401807839b76ff2cb47ab8335f04b4a17b6b3bd929ed0b4c15c7</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 16:00:00 +0000</pubDate>
-<description>Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.</description>
-</item>
-<item>
 <title>Synchron Pauses Trials of Its Brain Implant Due to Performance Issues</title>
 <link>https://www.wired.com/story/synchron-pauses-trials-of-its-brain-implant-due-to-performance-issues</link>
 <guid isPermaLink="false">d1a09ea50a9f1ccd1745a8f419fc88593003a5d0152fe7ae0f0740cf44323735</guid>
@@ -981,15 +1394,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDDv_B4B-cVtvwKyLiGQsL804yGC7_xHF7y3yD5_C284fRXBVRAn5Ashy2apgJr-jaoBHRa3ujgXv1jskM53EvP_pFt41CTazYqFT-tQdcukNBeOTzVIpZXVDsdgtup4MJOEdNNZP9SP0FAdIpG1Cnfgo0YgBXzmI_boLV4qSAsVrmYn5wA3GxnPuj21JO/s1600/citrix.jpg" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?</title>
-<link>https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement</link>
-<guid isPermaLink="false">cfa2c9ae8aed46f742e8a1ad8eae9eeb4499da7d7ebbad8e9577bc37481ebf65</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 15:37:29 +0000</pubDate>
-<description>Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.</description>
-</item>
-<item>
 <title>New Apple TV comedy starring Elizabeth Banks, Ted Danson coming soon</title>
 <link>https://9to5mac.com/2026/11/12/new-apple-tv-comedy-starring-elizabeth-banks-ted-danson-coming-soon</link>
 <guid isPermaLink="false">eca215213042339905ec0f113b159286d69678a5dbdad32ac832c02d3f34b2e0</guid>
@@ -999,15 +1403,6 @@
 <description>Apple TV has announced a new comedy, She’s Fine, that’s coming soon with stars Elizabeth Banks and Ted Danson. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/shes-fine-banks-delaney.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/shes-fine-banks-delaney.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Norwest pushes deeper into AI with new $4B fund</title>
-<link>https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund</link>
-<guid isPermaLink="false">d57ecdb55e1ef8ef67069ae4a9e2f84310ee511fd61cd5107b132b31b0c0e6f3</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 15:18:14 +0000</pubDate>
-<description>This is the investment firm's largest fund to date.</description>
 </item>
 <item>
 <title>Pre-orders for some Apple Home Collection devices will open November 13</title>
@@ -1039,15 +1434,6 @@
 <category>technology</category>
 <pubDate>Thu, 12 Nov 2026 15:07:20 +0000</pubDate>
 <description>Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]</description>
-</item>
-<item>
-<title>Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts</title>
-<link>https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts</link>
-<guid isPermaLink="false">a3523f73e3129004ac0d14f9d705010c8a04b9d6cafdeae8ccf48e8da2da4b81</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 15:02:28 +0000</pubDate>
-<description>This is Fireworks' second data breach in as many months.</description>
 </item>
 <item>
 <title>Your Endpoint Management Platform Could Be Your Biggest Security Risk</title>
@@ -1374,17 +1760,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEkIc_eg4_tE5XE6CQrLFl74Gk0QwxcqaGXBnDAlitVIbzreq8faf57QtAqFh8rEn7HgTJzvGUZl2yNBhWVKOKo9KqnJHfduQfoT_HqUTlKhE-FzshzDrpIskiMQ3_Lz2hImNMbt9VdCj0O725_WyZsDXDB91phFceXh6Y_qzHgv1nJPMNjv8a7AU52c/s1600/amd.jpg" medium="image"/>
 </item>
 <item>
-<title>Review: Apple's M6 iMac is pricey, but it's still a good choice for a clean desk</title>
-<link>https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk</link>
-<guid isPermaLink="false">d85e81aac2bdecb40108ed647d6ac1df814e24b13b4f7d6192dad2a82a5e894e</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 12:00:37 +0000</pubDate>
-<description>Apple's M6 keeps the iMac current without shaking things up much.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/IMG_9812-1152x648.jpeg" medium="image"/>
-</item>
-<item>
 <title>Nvidia CEO Jensen Huang set to be fired, with Johny Srouji among possible replacements [U]</title>
 <link>https://9to5mac.com/2026/11/12/nvidia-ceo-jensen-huang-set-to-be-fired-with-johny-srouji-listed-among-possible-replacements</link>
 <guid isPermaLink="false">06d69680f6efb09d5bbb4f563e8e60121e04623b03667fbd15d90b95678b3eec</guid>
@@ -1473,15 +1848,6 @@
 <media:content url="https://media.wired.com/photos/6af4c862c4fc953ed4f6f19b/master/pass/Palantir-Progressive-Company-Business-2297745126.jpg" medium="image"/>
 </item>
 <item>
-<title>Microsoft confirms Windows security updates installation issues</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors</link>
-<guid isPermaLink="false">fcc57de80bcbc5283817d9cd044bb4908ce4e8fe256d00d1f397c2fb5edfae9d</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 10:24:07 +0000</pubDate>
-<description>Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]</description>
-</item>
-<item>
 <title>Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out</title>
 <link>https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out</link>
 <guid isPermaLink="false">eb81dbba908191602ed97e71dd2e9a1d3da96f220e44ce7870e48a4542f59f36</guid>
@@ -1502,15 +1868,6 @@
 <description>Some of this beverage fridge’s smart features could be better, but let’s be real—you’re probably buying it for the aesthetic.</description>
 <enclosure url="https://media.wired.com/photos/6af40664420c0dad2c15d637/master/pass/Review--Rocco-Classic-Smart-Fridge.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af40664420c0dad2c15d637/master/pass/Review--Rocco-Classic-Smart-Fridge.jpg" medium="image"/>
-</item>
-<item>
-<title>Hackers plant GSocket on Linux servers for persistent access</title>
-<link>https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access</link>
-<guid isPermaLink="false">120f5dd5fa9bf3c4318242310671299a4c8d9ed763dcae23b2839b16bd695651</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 09:38:00 +0000</pubDate>
-<description>Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]</description>
 </item>
 <item>
 <title>Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover</title>
@@ -1612,6 +1969,17 @@
 <media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
 </item>
 <item>
+<title>AirDoctor Coupon Codes: 40% Off | November 2026</title>
+<link>https://www.wired.com/story/airdoctor-coupon-code</link>
+<guid isPermaLink="false">5693223cb76ce3bef834855aa2b9e1af7f566545772e130d39cecf317f7c2b35</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.</description>
+<enclosure url="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
+</item>
+<item>
 <title>HelloFresh Promo Codes: 55% Off for November 2026</title>
 <link>https://www.wired.com/story/hellofresh-coupon</link>
 <guid isPermaLink="false">dfdf087772309fe61c785564fbda66f6a24e85dca53c0c380a49a44322dfe395</guid>
@@ -1643,94 +2011,6 @@
 <description>Check out our deals for Nike this October 2026, including 15% off select purchases.</description>
 <enclosure url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
-</item>
-<item>
-<title>Ruggable Discount Code: 30% Off Rugs | November 2026</title>
-<link>https://www.wired.com/story/ruggable-discount-code</link>
-<guid isPermaLink="false">2aa746230d3f2d02fe00520de84ba53a3ddb60b600ed87851b8a5dbd3866ac74</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Keep your floors pristine and your budget intact. Save up to 30% off machine-washable rugs, runners, mats, and pillows using Ruggable coupons plus our expert advice.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
-</item>
-<item>
-<title>AirDoctor Coupon Codes: 40% Off | November 2026</title>
-<link>https://www.wired.com/story/airdoctor-coupon-code</link>
-<guid isPermaLink="false">5693223cb76ce3bef834855aa2b9e1af7f566545772e130d39cecf317f7c2b35</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.</description>
-<enclosure url="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea07733dd51041d9bb38c6/master/pass/WIRED-Coupons-1.jpg" medium="image"/>
-</item>
-<item>
-<title>Ring Promo Code: 50% Off</title>
-<link>https://www.wired.com/story/ring-promo-code</link>
-<guid isPermaLink="false">3e50d4182d2705dd2f2a1db2d3ac0a05deade9a2c323902e5bc07ca1e424e97b</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Discover how to save on Ring cameras, doorbells, outdoor cameras, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
-</item>
-<item>
-<title>L.L.Bean Promo Codes and Coupons: 75% Off</title>
-<link>https://www.wired.com/story/ll-bean-promo-code</link>
-<guid isPermaLink="false">a580750173b5f396181820fe463299c1c9b4b9339b6ce8c93f5894f919503dff</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Find the best L.L.Bean promo codes and coupons for 10% off your first order, major sale discounts, free shipping on $75+, and extra savings for select groups.</description>
-<enclosure url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b9a4816461befb48207/master/pass/WIRED-Coupons-R2_12.png" medium="image"/>
-</item>
-<item>
-<title>Acer Promo Codes: 40% Off</title>
-<link>https://www.wired.com/story/acer-promo-code</link>
-<guid isPermaLink="false">e3a996bcc36516d9208e1fb343b285c6910484f1e1985c761ba59add878bcc51</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>From 40% off accessory bundles to verified student and military discounts, here's how to save on Predator, Nitro, and Swift laptops and monitors at Acer.com.</description>
-<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
-</item>
-<item>
-<title>Vitamix Promo Codes and Deals: $25 Off + Free Shipping</title>
-<link>https://www.wired.com/story/vitamix-promo-code</link>
-<guid isPermaLink="false">b975ca605bdcff0741d1354c9d6a1fa7848ac0032976a9eac7b18ed51ae3430f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Score discounts on blenders, food processors, immersion blenders, and more with our selection of Vitamix coupons and deals.</description>
-<enclosure url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea077039cb65abef27cd6f/master/pass/WIRED-Coupons-9.jpg" medium="image"/>
-</item>
-<item>
-<title>Design Within Reach Promo Codes: 30% Off | November 2026</title>
-<link>https://www.wired.com/story/design-within-reach-promo-code</link>
-<guid isPermaLink="false">997d9379f29ebd92d42238ba7e1ffd0de997c9dc0e9e80cd2a07dbc48a50c87f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 30% off, 20% off, and free shipping with our Design Within Reach coupon codes, plus up to 50% off furniture with these special discounts.</description>
-<enclosure url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
-</item>
-<item>
-<title>SelectBlinds Promo Codes &amp; Coupons: 10% Off</title>
-<link>https://www.wired.com/story/select-blinds-promo-code</link>
-<guid isPermaLink="false">5052b0097b0581939f196d21de5b03dab5d6f5a971af614cac45c90fdc82453f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 06:00:00 +0000</pubDate>
-<description>Redecorate your home for less with our expert tips on applying SelectBlinds coupons, maximizing holiday sales, and locking in new customer discounts.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png" medium="image"/>
 </item>
 <item>
 <title>Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely</title>
@@ -1766,46 +2046,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>The Best Early Black Friday MacBook Air Deal: $200 Off</title>
-<link>https://www.wired.com/story/early-black-friday-macbook-air-deal</link>
-<guid isPermaLink="false">1f7e6846b8443f4b41dd9f16937309428ac0cd245dc483ec6797f4c8d599bb8f</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 02:33:02 +0000</pubDate>
-<description>The holiday is still two weeks out, but this MacBook Air discount may be the must-buy laptop deal of the season.</description>
-<enclosure url="https://media.wired.com/photos/6af51c9e7a2daea6b751d279/master/pass/Take-$200-Off-the-MacBook-Air-With-This-Early-Black-Friday-Deal.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af51c9e7a2daea6b751d279/master/pass/Take-$200-Off-the-MacBook-Air-With-This-Early-Black-Friday-Deal.jpg" medium="image"/>
-</item>
-<item>
-<title>Walking Pad Deals to Shop Ahead of Black Friday (2026)</title>
-<link>https://www.wired.com/story/best-black-friday-walking-pad-treadmill-deals-11-11-26</link>
-<guid isPermaLink="false">770d9bc6aa9243666644ea97443da836774fa515663ae4644dbfeb5c9345d928</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 01:53:24 +0000</pubDate>
-<description>Don’t let cold weather stop you from getting your steps in. These under-desk treadmills are already marked down.</description>
-<enclosure url="https://media.wired.com/photos/6af51ba69181a13e281c8875/master/pass/The-Best-Early-Black-Friday-Walking-Pad-Deals-Are-Already-Here.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af51ba69181a13e281c8875/master/pass/The-Best-Early-Black-Friday-Walking-Pad-Deals-Are-Already-Here.jpg" medium="image"/>
-</item>
-<item>
-<title>Baker Tilly notifies clients of data breach at third-party provider</title>
-<link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider</link>
-<guid isPermaLink="false">54d780c30fec13d20874fd3a9a056bab4f423a997a15954b521df8a82a351a12</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 23:01:31 +0000</pubDate>
-<description>The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]</description>
-</item>
-<item>
-<title>Active ScreenConnect attacks breach MSPs, impact dozens of organizations</title>
-<link>https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations</link>
-<guid isPermaLink="false">99798711eb74097d76dafaccac802ab00892df71fe767109ac98e180b1f5a965</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 22:56:21 +0000</pubDate>
-<description>ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]</description>
-</item>
-<item>
 <title>New York is forcing T-Mobile to stop putting data caps on low-income home internet plans</title>
 <link>https://www.engadget.com/2314341/new-york-is-forcing-t-mobile-to-stop-putting-data-caps-on-low-income-home-internet-plans</link>
 <guid isPermaLink="false">c0be713c66472f0b10e715cc25c9255d7c22fd51a3314712aec0eef681f346ac</guid>
@@ -1826,15 +2066,6 @@
 <description>My iPhone Duo arrived last Thursday, so I’ve had a week to use it as my daily carry. My early experience has been mixed, so I keep asking myself an important question: is this the iPhone’s future and I just need to adapt, or is the Duo simply not for everyone? more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/iphone-duo-23.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>eMudhra revokes 8 more CA certificates after private key mishap</title>
-<link>https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap</link>
-<guid isPermaLink="false">099a6b7783e3c7d3e58f8645e9fe92ae3dd0d8856c5634fabae2e3a8320b6c6a</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 21:27:40 +0000</pubDate>
-<description>Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]</description>
 </item>
 <item>
 <title>Binance warns iPhone crypto holders of security flaw researchers say remains unpatched</title>
@@ -1859,28 +2090,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-invites-app.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says</title>
-<link>https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says</link>
-<guid isPermaLink="false">e8ecb6b75613dd7c5cd4d269ca2b75df0cd7acbd4755ab4a8cf9d8d9273958e9</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 20:32:21 +0000</pubDate>
-<description>Law requires 25Mbps home Internet. T-Mobile lowers speed to 600Kbps after 50GB cap.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2024/06/t-mobile-5g-1152x648-1794428350.jpg" medium="image"/>
-</item>
-<item>
-<title>Anduril says its first satellite can see adversaries maneuver in orbital night</title>
-<link>https://arstechnica.com/space/2026/11/anduril-demos-night-vision-sensor-for-tracking-satellites-in-darkness</link>
-<guid isPermaLink="false">78c34c8f8ab330b8f6fc6d2df2e9a37615709f8bcaed29b9338377a5df89f0e3</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 20:22:03 +0000</pubDate>
-<description>"What's unique is it's got a huge dynamic range. We can see things in full dark."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/longwaveirsensor-1152x648.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple reportedly met with Thai officials over spyware alerts sent to politicians</title>
 <link>https://9to5mac.com/2026/11/11/apple-reportedly-met-with-thai-officials-over-spyware-alerts-sent-to-politicians</link>
 <guid isPermaLink="false">0fe537fce0817d72b321944e5775204b6f87948ea4f2974737e08b9610e9da88</guid>
@@ -1890,17 +2099,6 @@
 <description>Bloomberg reports that Apple has met with Thai government officials in the wake of its recent wave of iPhone alerts about mercenary spyware attacks. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/mercenary-alert-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>United is restricting AI agents from booking flights</title>
-<link>https://www.engadget.com/2314121/united-is-restricting-ai-agents-from-booking-flights</link>
-<guid isPermaLink="false">dbb2cd951b1601b5fb1c78789fdc6ef654c42f2f1d2e89ecc86f5d78e8eedaf7</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 20:09:44 +0000</pubDate>
-<description>The airline believes AI poses security risks and may violate DOT and FAA rules.</description>
-<enclosure url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/united-is-restricting-ai-agents-from-booking-flights/l-intro-1794427706.jpg" medium="image"/>
 </item>
 <item>
 <title>OpenAI’s personal finance features for ChatGPT expands to Mac app</title>
@@ -1914,28 +2112,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/chatgpt-green.webp?w=1600" medium="image"/>
 </item>
 <item>
-<title>Google brings the Gemini app to Apple CarPlay</title>
-<link>https://www.engadget.com/2314093/google-brings-the-gemini-app-to-apple-carplay</link>
-<guid isPermaLink="false">c68ebfc0893a8d69ab749d3d7cd20e2aebdb5fccee2b992fed7b91a814b05d08</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 19:54:55 +0000</pubDate>
-<description>The chatbot was already available through the Google Maps app.</description>
-<enclosure url="https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/google-brings-the-gemini-app-to-apple-carplay/l-intro-1794426857.jpg" medium="image"/>
-</item>
-<item>
-<title>ByteDance is reportedly working on its own AI agent</title>
-<link>https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent</link>
-<guid isPermaLink="false">f60f7fd55d854183aee784c3c3e07b80653547d4ca5a97cf47e17dbcf1652943</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 19:42:19 +0000</pubDate>
-<description>The Chinese company wants to compete with Meta's Muse.</description>
-<enclosure url="https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/bytedance-is-reportedly-working-on-its-own-ai-agent/l-intro-1794426101.jpg" medium="image"/>
-</item>
-<item>
 <title>iCloud+ has new perk in iOS 27 if you pay for more storage</title>
 <link>https://9to5mac.com/2026/11/11/icloud-has-new-perk-in-ios-27-if-you-pay-for-more-storage</link>
 <guid isPermaLink="false">f3fe02ba81417c6683c2044e712e41b6787a3c6e94bd766881320b09f5e7167d</guid>
@@ -1945,72 +2121,6 @@
 <description>The tentpole feature of iCloud+ is cloud storage, but Apple keeps improving and expanding the service to include other perks too. And in iOS 27, iCloud+ has a new benefit for high-storage tiers: AI features for HomeKit cameras. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/08/icloud-ios-27-blue.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>How many SpaceX Starship rocket tests have failed?</title>
-<link>https://www.engadget.com/2314045/how-many-spacex-starship-rocket-tests-failed</link>
-<guid isPermaLink="false">350b4fee225101871a2ab0eca3087aae1ac3cdfcffdced1b691451c8cd5ea612</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 19:27:00 +0000</pubDate>
-<description>Thanks to SpaceX's unique approach to testing, the answer isn't so clear-cut.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-many-spacex-starship-rocket-tests-have-failed/l-intro-1794424186.jpg" medium="image"/>
-</item>
-<item>
-<title>NASA's secret weapon in the lunar space race may be ... procurement reform?</title>
-<link>https://arstechnica.com/space/2026/11/nasa-takes-an-all-hands-on-deck-approach-in-its-return-to-the-moon</link>
-<guid isPermaLink="false">2cbe99d1755e50d93b52af7e055d690ff7f3273ca3acfda0342b145bdd967f03</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 19:00:26 +0000</pubDate>
-<description>"The pace that's occurring, and the nature of the procurements, is unprecedented."</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/moon-base-artists-concept-1152x648.webp" medium="image"/>
-</item>
-<item>
-<title>Cash App founder's killer gets 16 years to life in prison</title>
-<link>https://www.engadget.com/2313991/cash-app-founders-killer-gets-16-years-to-life-in-prison</link>
-<guid isPermaLink="false">d1b1bbe76bbd5dd8442ab235a62ce5c7f7c4a4c8f37ada2bd22aec0d66e64b0a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 18:57:37 +0000</pubDate>
-<description>Bob Lee died from multiple stab wounds in 2023.</description>
-<enclosure url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/cash-app-founders-killer-gets-16-years-to-life-in-prison/l-intro-1794423509.jpg" medium="image"/>
-</item>
-<item>
-<title>Peacock is redesigning its mobile app to focus more on vertical videos</title>
-<link>https://www.engadget.com/2313912/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos</link>
-<guid isPermaLink="false">3d05aecba2f5d302cc68146da181db19365785c5c32cfb9da39eb7a6645b04ed</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 18:24:40 +0000</pubDate>
-<description>This is an attempt to "win another hour per user, per month."</description>
-<enclosure url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/peacock-is-redesigning-its-mobile-app-to-focus-more-on-vertical-videos/l-intro-1794421435.jpg" medium="image"/>
-</item>
-<item>
-<title>Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI</title>
-<link>https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai</link>
-<guid isPermaLink="false">bb27561db5d10d5000250d842c4d9570b64556b73c6d2919c9f388d9da9b180c</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 18:16:40 +0000</pubDate>
-<description>Latest example of the AI boom’s circular financing comes as AI trade wobbles.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/TSMC-Fab-18-1152x648.jpg" medium="image"/>
-</item>
-<item>
-<title>Trump admin loses fight to spy on random journalists’ LinkedIn DMs</title>
-<link>https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms</link>
-<guid isPermaLink="false">f9f40f11a8068da6a829e854ae247b5e26340f5b497b032ed836fc5ba8bb110d</guid>
-<source>Ars Technica</source>
-<category>technology</category>
-<pubDate>Wed, 11 Nov 2026 18:05:26 +0000</pubDate>
-<description>Confidential sources “lifeblood” of free press, court rules in LinkedIn fight.</description>
-<enclosure url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg" type="image/jpeg"/>
-<media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292869198-1024x648.jpg" medium="image"/>
 </item>
 <item>
 <title>Apple offers a military discount, here’s how to get it</title>
@@ -2948,28 +3058,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/ios-27-2-iphone-18-pro-burgundy.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data</title>
-<link>https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html</link>
-<guid isPermaLink="false">ee5e2ceda03abe1e3e50107e66b55dd1b6946aaa557a689bc746ce443472aac7</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 17:51:21 +0000</pubDate>
-<description>An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg" medium="image"/>
-</item>
-<item>
-<title>Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware</title>
-<link>https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html</link>
-<guid isPermaLink="false">2ba6cb1be9af9cf5c4949d27312809f69218f914960dcb1a9478518527a1d653</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 17:36:28 +0000</pubDate>
-<description>Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple to stream Las Vegas Formula 1 race for free in the United States</title>
 <link>https://9to5mac.com/2026/11/09/apple-tv-las-vegas-formula-1</link>
 <guid isPermaLink="false">b467527284bf66021a95ad0d22d9f0adfb4bde22395e4a17adb56fff69fc8b97</guid>
@@ -2979,93 +3067,5 @@
 <description>Apple today announced that the Formula 1 Las Vegas Grand Prix will be streaming for free on the Apple TV app , no subscription required. This means anyone in the US can log on to the Apple TV app on their device of choice and watch practice, qualifying and the race — without having to pay for an Apple TV subscription or anything else. The Las Vegas F1 Grand Prix is coming up next week, running Thursday through Saturday. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-las-vegas-f1.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/apple-tv-las-vegas-f1.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple launches $50 ‘intelligence usage packs’ for select AI features</title>
-<link>https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features</link>
-<guid isPermaLink="false">098c95b1350834a6ad98a878ff860e3db4df4ea0002cf3e1993f875f4244a34c</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:32:12 +0000</pubDate>
-<description>Apple has said it will eventually charge for expanded usage of select AI features. Now the first ‘intelligence usage packs’ have arrived tied to Apple Creator Studio apps. Here are the details. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-intelligence.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-intelligence.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Here’s how Webex adapts meetings and multitasking for iPhone Duo</title>
-<link>https://9to5mac.com/2026/11/09/heres-how-webex-adapts-meetings-and-multitasking-for-iphone-duo</link>
-<guid isPermaLink="false">f78d23cd35432e4a442f27a3e1259784387d6102a6132f2911d5ba85829318f8</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:29:58 +0000</pubDate>
-<description>Webex has supported iPhone Duo since launch, and now Cisco is detailing how its collaboration app takes advantage of Apple’s first foldable iPhone. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/webex-iphone-duo.webp?w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/webex-iphone-duo.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>Deals: M5 MacBook Air $250 off, touch display MacBook PROLED $150 gift card, Apple Watch Ultra 4, more from $13</title>
-<link>https://9to5mac.com/2026/11/09/deals-m5-macbook-touch-display-proled-ultra-4</link>
-<guid isPermaLink="false">02f49070ebb5d29a5bd5d292565bf6033db9c670f07d2452030e00c6e1cf5f07</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:29:04 +0000</pubDate>
-<description>The pre-order deals on the new Apple HomeView are still rolling alongside the $50 price drop on AirPods Pro 3 and a chance to secure some 2026 Apple Polishing Cloths at $9 Prime shipped , but we do have a series of other deals to scope out as we move into Week 2 of Black Friday month. Alongside Apple’s most affordable M5 MacBook Air now $200 off and the 1TB models at $250 off via Amazon, we also have some MacBook Pro PROLED XDR touch display deals to scope out – up to $150 gift card with purchase or open-box units at nearly $150 off. You will still find a range of Apple Watch Ultra 4 models at nearly $100 off , a deal on Apple’s Dynamic Power Adapter to fast charge iPhone Duo, and new all-time lows on the latest Beats 10-foot 240W Braided USB-C cables from $13 Prime shipped . All of that and more awaits below. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-PROLED-XDR-MacBook-HomeView-Ultra-4.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Apple-deals-PROLED-XDR-MacBook-HomeView-Ultra-4.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Apple Music launches ‘Best of 2026’ content, reveals Artist of the Year</title>
-<link>https://9to5mac.com/2026/11/09/apple-music-launches-best-of-2026-content-reveals-artist-of-the-year</link>
-<guid isPermaLink="false">e3848d5a6932015df62840f60ca707a77042f31d6046773811f9a2449906649d</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 16:13:47 +0000</pubDate>
-<description>Apple Music has launched new playlists and curated content for the ‘Best of 2026’ and also revealed its new Artist of the Year. more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/apple-music-rebrand-logo-new.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia</title>
-<link>https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html</link>
-<guid isPermaLink="false">99ca2ce9ce5fc1e7f33e8d0bc434b25185d752aff65d793e56dedc574f01efb4</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 14:31:29 +0000</pubDate>
-<description>The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. "PapRAT has both C++ and Rust implementations," Fortinet FortiGuard Labs researcher Cara Lin said. "Its capabilities include command execution, file</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg" medium="image"/>
-</item>
-<item>
-<title>⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More</title>
-<link>https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html</link>
-<guid isPermaLink="false">dca9748487c3dfb8451ed81d535965a5b6322da96c222ec4b31258697bdfc65e</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 13:28:25 +0000</pubDate>
-<description>A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQ4v79OUmrbGdf2uJWMlUUmpCSu70Pr6v7oyodgSjFMfLU6JIe6Mr7xpp7AnqIX_vmKca44ImxEkczL88e_4sr2oBw0NL3Zh_JVEOb4cYmYg5pjbrITVv6KgPsv13-RrlBjq6bu7inR7w5-seDsUZvoqn6q7idkElfWysH1itsfgI5-NmFZ-BybjG0gR0/s1600/rr.jpg" medium="image"/>
-</item>
-<item>
-<title>Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars</title>
-<link>https://thehackernews.com/2026/11/default-adminadmin-server-password.html</link>
-<guid isPermaLink="false">3b71139034dea3967b03e2c0889322749175dc1df9ea16c5a4e512666cb00213</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 11:27:53 +0000</pubDate>
-<description>The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg" medium="image"/>
-</item>
-<item>
-<title>Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety</title>
-<link>https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html</link>
-<guid isPermaLink="false">ea46f00bd91b0c6562a5c96a0aa8c0a9f6f1d6000b9c404ec068c9d60fbc939a</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 09 Nov 2026 10:56:25 +0000</pubDate>
-<description>Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week. Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg" medium="image"/>
 </item>
 </channel></rss>
