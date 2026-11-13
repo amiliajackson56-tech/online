@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>I Am Artemis Katie Spicer</title>
+<link>https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer</link>
+<guid isPermaLink="false">da9b1cc7c4c966319bebd2de2a2bfb47ee26592c68021eb9cb455a75a0cead91</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 12 Nov 2026 20:10:02 +0000</pubDate>
+<description>For Katie Spicer, embracing opportunity and challenge has led to giant leaps during her time at NASA. Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history. Spicer works in the […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg?w=1536" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e402724-i-am-artemis-katie.jpeg?w=1536" medium="image"/>
+</item>
+<item>
 <title>Heart in the Sky at NASA Kennedy</title>
 <link>https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy</link>
 <guid isPermaLink="false">0e414f6d88aa72b3ae0f412f1b2fc29a0923c41550d9237805d9fceaaf46563d</guid>
@@ -196,6 +207,15 @@
 <category>science</category>
 <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03573-3 Vaccines and monoclonal-antibody injections are cutting hospitalizations linked to the respiratory virus.</description>
+</item>
+<item>
+<title>Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body</title>
+<link>https://www.nature.com/articles/d41586-026-03705-9</link>
+<guid isPermaLink="false">d0482e648b43b58e92f45d1a8e032d866d667f35d8770b19dce9a51a28e11beb</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03705-9 Earlier CRISPR treatments require removal of a participant’s cells, a complex and costly approach.</description>
 </item>
 <item>
 <title>Scientists discover that necks didn't evolve for the reason we thought</title>
@@ -841,17 +861,6 @@
 <description>A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight. Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods. The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more.</description>
 </item>
 <item>
-<title>NASA Invites Media, Public to Join Voyager 1 One-Light Day Activities</title>
-<link>https://www.nasa.gov/news-release/nasa-invites-media-public-to-join-voyager-1-one-light-day-activities</link>
-<guid isPermaLink="false">c45c5c281dd2928f93deb802d6f0143bfb5cd37b5086b21cbd8d7f80d79cbe0b</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 10 Nov 2026 19:22:45 +0000</pubDate>
-<description>Launched nearly 50 years ago in 1977, NASA’s Voyager 1 on Wednesday, Nov. 18 will have traveled one light-day from Earth, which is more than 16 billion miles (25.9 billion kilometers). Voyager 1 is the most distant human-made object, and any light from Earth would take 24 hours to reach the spacecraft. NASA will highlight […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-advisory-image-2-nov-10.jpg?w=2048" medium="image"/>
-</item>
-<item>
 <title>Eating less protein could slow aging, review of 350 studies finds</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261108203714.htm</link>
 <guid isPermaLink="false">b9674bc3102d48d69b01f7d349cefdf339f1324957d5dc80b96eedeb2c2199f8</guid>
@@ -1174,15 +1183,6 @@
 <category>science</category>
 <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03588-w Engineer Matthew Montgomery, who has just finished a 378-day simulated Mars mission, talks about what it was like to be out of contact with the rest of humanity for a two-week blackout.</description>
-</item>
-<item>
-<title>The super El Niño is more than a climate shock – it’s a health one, too</title>
-<link>https://www.nature.com/articles/d41586-026-03628-5</link>
-<guid isPermaLink="false">32b61793e72583908c0c24df5a142301459b555ec60618e97ffae02a06bcf183</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 09 November 2026; doi:10.1038/d41586-026-03628-5 Food shortages and disease outbreaks are to be expected and need to be addressed together.</description>
 </item>
 <item>
 <title>Scientists discover stunning new Amazon fish that may already be endangered</title>
