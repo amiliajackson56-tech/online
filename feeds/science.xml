@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Outbursts from a Massive Star</title>
+<link>https://www.nasa.gov/image-article/outbursts-from-a-massive-star</link>
+<guid isPermaLink="false">48f4c41fb88a6ee287fd565da2b1c455cfb012f9b984c186ac9d566a10e4c64c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 13 Nov 2026 16:39:33 +0000</pubDate>
+<description>Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from Earth. Astronomers estimate the […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/at2016blu.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>Gemini Astronaut Photos Inspired Early Earth Observation Program</title>
+<link>https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program</link>
+<guid isPermaLink="false">22eb3de9760f07c5c415c45a4037f6c9c0797750cb4f499299b9fa51ec83c3c5</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 13 Nov 2026 16:05:54 +0000</pubDate>
+<description>Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/s66-63535-f.png?w=2006" medium="image"/>
+</item>
+<item>
 <title>Scientists discover a hidden danger of viral infections that vaccines may prevent</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261112025531.htm</link>
 <guid isPermaLink="false">39de7efce9733b77150c0757ef7e428b7fe56e35311aa687e35c8a51f5105d22</guid>
@@ -74,8 +96,8 @@
 <category>science</category>
 <pubDate>Fri, 13 Nov 2026 05:05:00 +0000</pubDate>
 <description>APOD Science APOD APOD: 2026 November 13 – NGC… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. NGC 206 […]</description>
-<enclosure url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" medium="image"/>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&amp;h=1451&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/Andromeda_closeupCruz4096.jpg?w=2048&amp;h=1451&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>A Global Rebound for Mangroves</title>
@@ -114,6 +136,15 @@
 <category>science</category>
 <pubDate>Fri, 13 Nov 2026 00:29:34 +0000</pubDate>
 <description>A surprising new study suggests that where men get their protein may be linked to their testosterone levels. Researchers studying more than 2,500 men found that higher animal protein intake, particularly from dairy, was associated with lower testosterone, while plant protein was linked to higher levels. The findings raise intriguing questions about how everyday food choices might relate to male hormone levels.</description>
+</item>
+<item>
+<title>Number of international students arriving in US plunges — worrying scientists</title>
+<link>https://www.nature.com/articles/d41586-026-03668-x</link>
+<guid isPermaLink="false">1c5586a931ce524ab6d5ad4828486c2914581e4e2360fd9ace801566b0c12282</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.</description>
 </item>
 <item>
 <title>Chinese graduate students are now choosing to stay closer to home</title>
@@ -299,17 +330,6 @@
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/conjunction-bubak.jpg?w=1638&amp;h=2048&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
-<title>Scotland’s Flow Country</title>
-<link>https://science.nasa.gov/earth/earth-observatory/scotlands-flow-country</link>
-<guid isPermaLink="false">7de7b8fcd5a8812cfae2ef044f146077e15bf6ec03a66e9c84607b0be897bcf0</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 05:01:00 +0000</pubDate>
-<description>Blanket bogs in the Scottish Highlands store vast amounts of carbon.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&amp;h=600&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/scotland’s-flow-country-/scotland_flowcountry_oli2_20240304.jpg?w=720&amp;h=600&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
-</item>
-<item>
 <title>Scientists discover a common sugar may help cancer cells break free and spread</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261111221501.htm</link>
 <guid isPermaLink="false">3bf72f0a79e701ba9e38b25b9910a8488afa416ad0ac45805db797cbd8a531c0</guid>
@@ -344,17 +364,6 @@
 <category>science</category>
 <pubDate>Thu, 12 Nov 2026 01:45:09 +0000</pubDate>
 <description>NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales. The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms.</description>
-</item>
-<item>
-<title>Curiosity Blog, Sols 5063-5069 Rocks and Chips</title>
-<link>https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips</link>
-<guid isPermaLink="false">5cf497c37d8467081586543e48eee043ad2c4f7e79f725787d68a7b549297c42</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 12 Nov 2026 00:41:35 +0000</pubDate>
-<description>Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg?w=480&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/msl/2026/curiosity-rover-updates/november/https___mars.nasa.gov_msl-raw-images_msss_05067_mhli_5067MH0009180001804584C00_DXXX.jpg?w=480&amp;h=480&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
 </item>
 <item>
 <title>Walking and weight training may not be enough to keep your bones strong</title>
@@ -1192,15 +1201,6 @@
 <category>science</category>
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03629-4 To sustain supplies of key metals, policymakers should support the infrastructure needed to deploy mining biotechnologies on a large scale.</description>
-</item>
-<item>
-<title>Mongolia’s iconic grasslands are in crisis — invisible fungi could help save them</title>
-<link>https://www.nature.com/articles/d41586-026-03589-9</link>
-<guid isPermaLink="false">e2cd939d0dbc3317f4cbceb3b4bf2a241c6f580f575e8497f6dd7242301b6eb5</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 10 November 2026; doi:10.1038/d41586-026-03589-9 Clues suggest that underground fungal networks might be key to reviving degraded land and preserving plant biodiversity.</description>
 </item>
 <item>
 <title>Scientists finally discover why we learn to love bitter coffee</title>
