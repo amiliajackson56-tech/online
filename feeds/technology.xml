@@ -4,6 +4,139 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Australian retail giant Coles investigates cybersecurity incident</title>
+<link>https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident</link>
+<guid isPermaLink="false">f6f3a92fbc1f355d228cdb8e2e2b5e4b48892080ad72a8e5017a962885997f0d</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 11:18:09 +0000</pubDate>
+<description>Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a "cyber security incident" that has not impacted the company's stores. [...]</description>
+</item>
+<item>
+<title>Senator slams Commerce Secretary for flow of Nvidia AI chips to China</title>
+<link>https://www.theverge.com/policy/1034047/nvidia-us-commerce-department-cantwell-lutnick</link>
+<guid isPermaLink="false">02d1d44b7f990772859bcf4ece1fb018826864f839f8ffffcc3752f522be4605</guid>
+<source>The Verge</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+<description>Washington Senator Maria Cantwell, one of the top Democrats on the Senate commerce committee, has taken fire at the Department of Commerce (DOC) under Secretary Howard Lutnick for neglecting to enforce protections intended to keep Nvidia's AI chips away from China. In a letter to Lutnick on Sunday, Cantwell said the DOC has "undermined America's […]</description>
+<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
+<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CVIRGINIA_I__0003_1.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
+</item>
+<item>
+<title>Nvidia Was Already in Trouble Before the Jensen Huang Mess</title>
+<link>https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess</link>
+<guid isPermaLink="false">f6f110911c6baac10e04db0cef2ef56730b353e8ce961a6f80dd4035c469cacc</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+<description>AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.</description>
+<enclosure url="https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af5e8bf5864e5f624e083f1/master/pass/111226-Nvidia%20In%20Trouble.jpg" medium="image"/>
+</item>
+<item>
+<title>Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs</title>
+<link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs</link>
+<guid isPermaLink="false">85689c23fd19b57765e3e48b765c2f9ce6b59eac636f282312046dcda8daae01</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+<description>Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]</description>
+</item>
+<item>
+<title>Best Apple 3-in-1 Travel Chargers (2026): Anker, ESR, Satechi</title>
+<link>https://www.wired.com/gallery/best-apple-3-in-1-travel-chargers</link>
+<guid isPermaLink="false">20a0bbb61ab51446f6ebdcb886b30e9640c83c22038d0ddf57714824ca326ca6</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
+<description>Keep your trio of Apple gadgets powered up wherever you go with these compact folding chargers.</description>
+<enclosure url="https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/master/pass/The-Best-Apple-3-in-1-Travel-Chargers.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af7da955e4ca9026ac50ea4/master/pass/The-Best-Apple-3-in-1-Travel-Chargers.jpg" medium="image"/>
+</item>
+<item>
+<title>SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity</title>
+<link>https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html</link>
+<guid isPermaLink="false">5ceeaae8e26f5eb828b8ffe14f197db9867c114455bbaede4a59eaa4dd7a4a85</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 09:32:57 +0000</pubDate>
+<description>A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives commands over the TOR anonymity network to manage CPU and GPU miners. The activity was observed in</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpR04waLSDZNCb2048kfy5iSlIXa_Ek3PI5qLRaBksxvyI9k_8Z6bwl6Og4Mc-AGqmHcpL7YlYVd48895FJtKlOoaqgi658-H3FZTxdjf_w32w5eJYzm_BUdXlH7M7Vb40uPUI73CDbXtQCdZAEkFruSBXvc0_B84hCQ-em0ZQk2uTIIHxRdGCxQ6bx1C/s1600/nv.jpg" medium="image"/>
+</item>
+<item>
+<title>New NoisyTCP vulnerability lets attackers crash Linux servers</title>
+<link>https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers</link>
+<guid isPermaLink="false">c250e3a4381699d1a172a94d45a4e0de8b108d68019966278f0488e65133291a</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 09:30:04 +0000</pubDate>
+<description>An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]</description>
+</item>
+<item>
+<title>Microsoft pushes Windows emergency updates to fix activation failures</title>
+<link>https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures</link>
+<guid isPermaLink="false">b644e2010a0630fa1cadc5d4a370276afae9c23fe7630bea73105a7662637ded</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 08:26:52 +0000</pubDate>
+<description>Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]</description>
+</item>
+<item>
+<title>Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys</title>
+<link>https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html</link>
+<guid isPermaLink="false">d6a0c3df6c7fff40e930551d8ba0fc12d9365fc03422dd9ebb5ed951b2e5d812</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 07:34:21 +0000</pubDate>
+<description>Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigoyCtEKcD7TM_5vDkKiZYFdk_l4-js7HNuvMXzZbVqUbEgq1nnD2vEZgZ0kL9CdmOkITC0Rbd-ebTkSX-R4NPKwWZXzUD6zS0g9nEfnlXw3njm3oW2Se97qbT7lIfZEL56X3IIaZAildTni9-zQJu5sa4Lhvi_mVlbTeZFyFtezOMHJ_bDhJWfG7KQ8eh/s1600/amazon.jpg" medium="image"/>
+</item>
+<item>
+<title>Helsing backer Plural raises $1.1B to fund Europe’s next moonshots</title>
+<link>https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots</link>
+<guid isPermaLink="false">ae3f0447eb93f026830b2f08af8424becae26936eaddfa5d01d6a13b9c568df8</guid>
+<source>TechCrunch</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 07:00:00 +0000</pubDate>
+<description>Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.</description>
+</item>
+<item>
+<title>BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server</title>
+<link>https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</link>
+<guid isPermaLink="false">1abe8912cb223ae43799b6e47fe374ee7e72d6c8d8a454e8df0406d2a84b9853</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 06:53:34 +0000</pubDate>
+<description>An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAvzoKykaMIpa6xx92YudipfUoEQnSkrE6p2CiWEVra5izr5GfuNQGOnfRuF0XV99v1IPRFe2Q6BF27UEq3BnWFS5onw97dt3hvszilQDANdtRdYi0_hTDOrKQvuwGn1mY_m-QTabV3jwWCNwXs_OizK2GLF3Eks5HJj5I7kbmA2IztruSBVjq5WOcxEM-/s1600/log4shell.jpg" medium="image"/>
+</item>
+<item>
+<title>Apple's new research app is designed to make AI health tools more user-friendly</title>
+<link>https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly</link>
+<guid isPermaLink="false">32afeecbe28656cb0f4263009ccf4f172abd9ac0ac4af1cf1f23642a76363dd8</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 06:06:05 +0000</pubDate>
+<description>Apple has unveiled a new research study with the aim of learning how people use AI health tools.</description>
+<enclosure url="https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/apples-new-research-app-is-designed-to-make-ai-health-tools-more-user-friendly/l-intro-1794809079.jpg" medium="image"/>
+</item>
+<item>
+<title>ULA Vulcan rocket failure destroys 40 Amazon Leo satellites</title>
+<link>https://www.engadget.com/2317283/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites</link>
+<guid isPermaLink="false">cd5c45d4a80f0663d7240ec78a598b44d06011b4b48edb19b91003fc95f9d28a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Mon, 16 Nov 2026 04:56:53 +0000</pubDate>
+<description>United Launch Alliance is known for its ultra-dependable Atlas V, but its its latest rocket is off to a shaky start.</description>
+<enclosure url="https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites/l-intro-1794804851.jpg" medium="image"/>
+</item>
+<item>
 <title>Apple launches new app to study how people use AI for health</title>
 <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health</link>
 <guid isPermaLink="false">87b76e5b13944ae023be72d1f66062e704cdb18dc04605e0679e07757bd73d9e</guid>
@@ -306,17 +439,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_03.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How to find your IP address</title>
-<link>https://www.engadget.com/2313878/how-to-find-ip-address</link>
-<guid isPermaLink="false">171ed3ac2b213b36dd076689157573b474f3e0ae20c7eae7e4975eacb13c510a</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 20:30:00 +0000</pubDate>
-<description>You may need to find your IP address for network troubleshooting reasons or to remotely access your computer.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-find-your-ip-address/l-intro-1793996600.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-find-your-ip-address/l-intro-1793996600.jpg" medium="image"/>
-</item>
-<item>
 <title>SNL gathers all the tech tycoons for a lesson in dating and spycraft</title>
 <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft</link>
 <guid isPermaLink="false">3ea624e61126b81c7ebfb1fd0d1075e8a00c1ecd260bcad4a1e50135123b479b</guid>
@@ -324,17 +446,6 @@
 <category>technology</category>
 <pubDate>Sun, 15 Nov 2026 20:20:57 +0000</pubDate>
 <description>While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.</description>
-</item>
-<item>
-<title>Amazon is reportedly working on a database for 'virtually every item for sale on Earth'</title>
-<link>https://www.engadget.com/2317210/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth</link>
-<guid isPermaLink="false">6cebf9a346b0d9af742cb89173b44d76b919041bc7a4e49711ec23d5d5df5a90</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 20:19:05 +0000</pubDate>
-<description>This would include products that the online commerce giant doesn't even sell.</description>
-<enclosure url="https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/amazon-is-reportedly-working-on-a-database-for-virtually-every-item-for-sale-on-earth/l-intro-1794770193.jpg" medium="image"/>
 </item>
 <item>
 <title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title>
@@ -479,17 +590,6 @@
 <description>LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent off, dropping it to an all-time low of $699.99 […]</description>
 <enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/lg-oled-b6e-2026.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
-</item>
-<item>
-<title>The Sony Aibo was a robot revolution dressed like a dog</title>
-<link>https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history</link>
-<guid isPermaLink="false">977e6d447dbae91015063120b63d77a08f3c293142e993d2d05fe1522276e133</guid>
-<source>The Verge</source>
-<category>technology</category>
-<pubDate>Sun, 15 Nov 2026 13:57:30 +0000</pubDate>
-<description>In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And "pet" was exactly what Sony was […]</description>
-<enclosure url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" type="image/jpeg"/>
-<media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
 <title>AirPods Pro 3 hit Black Friday pricing early at $179 (Reg. $249)</title>
@@ -943,17 +1043,6 @@
 <media:content url="https://media.wired.com/photos/6af7364ac76e30186375551b/master/pass/111326-Jensen%20Style.jpg" medium="image"/>
 </item>
 <item>
-<title>Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target</title>
-<link>https://www.wired.com/story/thanksgiving-meal-deals-2026</link>
-<guid isPermaLink="false">0fad0291e3b5a04c84a68fb8e107a41f26ae45dab7a8da7579ad5858ce0e4c45</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
-<description>Here’s how to get your bird and all the trimmings on a budget.</description>
-<enclosure url="https://media.wired.com/photos/6af78b0965e40024232d7e36/master/pass/These-Stores-Are-Offering-Complete-Thanksgiving-Meal-Deals-for-$35-or-Less.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af78b0965e40024232d7e36/master/pass/These-Stores-Are-Offering-Complete-Thanksgiving-Meal-Deals-for-$35-or-Less.jpg" medium="image"/>
-</item>
-<item>
 <title>These ‘Ghostly’ Galaxies Have Lost Their Dark Matter</title>
 <link>https://www.wired.com/story/these-ghostly-galaxies-have-lost-their-dark-matter</link>
 <guid isPermaLink="false">e29731210ef93c220263aaf74dd6d90a9de428ad975da2b5cc77ad50834cca1d</guid>
@@ -963,6 +1052,17 @@
 <description>The galaxies’ dark matter was ejected during a collision, but ironically, its absence is some of the best evidence of the elusive substance yet.</description>
 <enclosure url="https://media.wired.com/photos/6af47d34e9ef28e062a72826/master/pass/Dark-Matter-Galaxies-cr.several-Lede.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/6af47d34e9ef28e062a72826/master/pass/Dark-Matter-Galaxies-cr.several-Lede.jpg" medium="image"/>
+</item>
+<item>
+<title>Thanksgiving Meal Deals Roundup (2026): Walmart, Amazon, Target</title>
+<link>https://www.wired.com/story/thanksgiving-meal-deals-2026</link>
+<guid isPermaLink="false">0fad0291e3b5a04c84a68fb8e107a41f26ae45dab7a8da7579ad5858ce0e4c45</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 14 Nov 2026 10:00:00 +0000</pubDate>
+<description>Here’s how to get your bird and all the trimmings on a budget.</description>
+<enclosure url="https://media.wired.com/photos/6af78b0965e40024232d7e36/master/pass/These-Stores-Are-Offering-Complete-Thanksgiving-Meal-Deals-for-$35-or-Less.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/6af78b0965e40024232d7e36/master/pass/These-Stores-Are-Offering-Complete-Thanksgiving-Meal-Deals-for-$35-or-Less.jpg" medium="image"/>
 </item>
 <item>
 <title>Outlook Went Down? Microsoft May Owe You Money</title>
@@ -1393,15 +1493,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/10/ios-27-3-iphone-fi.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!</title>
-<link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen</link>
-<guid isPermaLink="false">a5cbeaaf0b4df56fac42b355269cd9f2ddbe11ceac7d918be68f354b6e800abd</guid>
-<source>TechCrunch</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 18:40:30 +0000</pubDate>
-<description>New research shows the most advanced AI models from China were trained on banned Nvidia chips.</description>
-</item>
-<item>
 <title>9to5Mac Daily: November 13, 2026 – New Apple TV 4K and HomeView now available</title>
 <link>https://9to5mac.com/2026/11/13/daily-november-13-2026</link>
 <guid isPermaLink="false">2d696cce2c5a3a8db10d5861cd7849222449a9e06f1f315826f558249cc68aa5</guid>
@@ -1790,17 +1881,6 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg" medium="image"/>
 </item>
 <item>
-<title>Inside the 42-Year Journey to Bring ‘Neuromancer’ to the Screen</title>
-<link>https://www.wired.com/story/exclusive-apple-tv-neuromancer-creator-interviews</link>
-<guid isPermaLink="false">5afdff9ac24ccdd36f747e28d8edc6f04c62966bec37829894b3c51c3c0e104e</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 11:00:00 +0000</pubDate>
-<description>William Gibson released his seminal novel Neuromancer in 1984. WIRED has an exclusive look at how it eventually made its way to Apple TV—thanks in no small part to Drake.</description>
-<enclosure url="https://media.wired.com/photos/6aee55c49c22209c9f013e23/master/pass/Neuromancer-BTS-Culture_102_18753F.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6aee55c49c22209c9f013e23/master/pass/Neuromancer-BTS-Culture_102_18753F.jpg" medium="image"/>
-</item>
-<item>
 <title>Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins</title>
 <link>https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html</link>
 <guid isPermaLink="false">d25f99854f909af54099cfc40f5de8da9f0d19bbfb833557978ef6ead30cca94</guid>
@@ -1821,17 +1901,6 @@
 <description>Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]</description>
 </item>
 <item>
-<title>‘Call Him Out’: Cybertruck Loyalists Are in Mourning—and They Want Answers From Elon Musk</title>
-<link>https://www.wired.com/story/cybertruck-fans-demand-answers-from-elon-musk-about-the-vehicles-demise</link>
-<guid isPermaLink="false">e386f5e51dfde88362d47dd1c0cda017e40912e17002f1b4fea6775f687a0d6d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 10:30:00 +0000</pubDate>
-<description>Tesla’s unpredictable CEO is ready to move on from the company’s most controversial vehicle, but owners aren’t about to let him off the hook for what they see as a poor decision.</description>
-<enclosure url="https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/master/pass/Cybertruck-Mourning-Culture.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af663e1fcffa2a0af03f00a/master/pass/Cybertruck-Mourning-Culture.jpg" medium="image"/>
-</item>
-<item>
 <title>Microsoft confirms Windows activation failures after November updates</title>
 <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates</link>
 <guid isPermaLink="false">a5f7a5d903c7d49d7035f84b339738cd83bef20a32237965a933cf20d21a2acd</guid>
@@ -1839,15 +1908,6 @@
 <category>technology</category>
 <pubDate>Fri, 13 Nov 2026 09:36:18 +0000</pubDate>
 <description>Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]</description>
-</item>
-<item>
-<title>Police arrest 354 suspects in dark web cybercrime crackdown</title>
-<link>https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown</link>
-<guid isPermaLink="false">981f9e3bd15be954421bef1021f4b5ec080d400426a01f65ac81d3c64f6cb8d6</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Fri, 13 Nov 2026 08:34:20 +0000</pubDate>
-<description>Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]</description>
 </item>
 <item>
 <title>Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files</title>
@@ -1894,15 +1954,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/Prostate-Cancer.jpg" medium="image"/>
 </item>
 <item>
-<title>New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks</title>
-<link>https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks</link>
-<guid isPermaLink="false">7434649087922c0548e2de3696ae4d6e3f08e2f324f2537f01b2890bb59ba702</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 22:53:10 +0000</pubDate>
-<description>A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]</description>
-</item>
-<item>
 <title>9to5Mac Daily: November 12, 2026 – OLED iPad Air rumors, MacBook Pro teardown</title>
 <link>https://9to5mac.com/2026/11/12/daily-november-12-2026</link>
 <guid isPermaLink="false">5a0c0de1c094ed3321e8ee65a071ff0f7ed5117b5b0f331da9170dc55d0b5000</guid>
@@ -1912,15 +1963,6 @@
 <description>Listen to a recap of the top stories of the day from 9to5Mac . 9to5Mac Daily is available on iTunes and Apple’s Podcasts app , Stitcher , TuneIn , Google Play , or through our dedicated RSS feed for Overcast and other podcast players. Sponsored by Backblaze : Backup you can rely on. Save 20% with code 9to5daily . more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Hackers compromise 4,800 GitHub accounts to steal cloud credentials</title>
-<link>https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials</link>
-<guid isPermaLink="false">6abd62e4f49f309c04d1126f14148f2ac2af862777a1701719345d04f1d960e5</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 22:25:30 +0000</pubDate>
-<description>A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]</description>
 </item>
 <item>
 <title>Apple HomeView launches tomorrow, but its first security update is already here</title>
@@ -1943,15 +1985,6 @@
 <description>Opera today announced that its Data Saver feature is now available on iOS, in a press release that also revealed a 20% year-over-year increase in the browser’s monthly active users. Here are the details. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/opera-one.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/opera-one.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide</title>
-<link>https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide</link>
-<guid isPermaLink="false">80787513604626539d2dbe88b4ed512968ac06c6bedadbe460fc6ffa63eac372</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 20:15:16 +0000</pubDate>
-<description>Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]</description>
 </item>
 <item>
 <title>Apple TV announces new film ‘Connector’ starring Brad Pitt</title>
@@ -3030,38 +3063,5 @@
 <description>At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in. After the alert The alert tells you something happened. However, gaining</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2keP-LKMaj66fcb6TF9mNwdN01ndHv16r6WcnXbXwTwCNvUJXDxuyG_WacuYRt2DNFA7Fy_Hb4cyDvXeRsWrUWrql4RyMK4dD9s2adlVOnPWyR04wDmPu5jUlZL3-kGiDgPY2NU8yptKV1o21Wsuyu6IOSxico18zjLqDNLoA1bkl_DheKZevChrO6ZE/s1600/Corelights.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2keP-LKMaj66fcb6TF9mNwdN01ndHv16r6WcnXbXwTwCNvUJXDxuyG_WacuYRt2DNFA7Fy_Hb4cyDvXeRsWrUWrql4RyMK4dD9s2adlVOnPWyR04wDmPu5jUlZL3-kGiDgPY2NU8yptKV1o21Wsuyu6IOSxico18zjLqDNLoA1bkl_DheKZevChrO6ZE/s1600/Corelights.jpg" medium="image"/>
-</item>
-<item>
-<title>Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities</title>
-<link>https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html</link>
-<guid isPermaLink="false">fdab5e09d527af8f412eecd73b58f8ee6056526508c458bf333de8be520209ce</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 10:16:51 +0000</pubDate>
-<description>An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM6RGvSNUqube0TIXYpzHhs7uSvT0k28f2Q8s-GVOexnCI4T5mzFMUs3Lz4_aS6gNuS71DSTvtfOO-tfVFXvVu82pBmj5gO5_jO5g1ndVQQX8xjBY8A_IDAVNkO7oE1s5FRyEsxXQ_HEM_5_KI4g9VWN8BLgCmQTS1DaFt6lRlfgEJMsxyC5bxQW1qhM/s1600/apple-patch.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM6RGvSNUqube0TIXYpzHhs7uSvT0k28f2Q8s-GVOexnCI4T5mzFMUs3Lz4_aS6gNuS71DSTvtfOO-tfVFXvVu82pBmj5gO5_jO5g1ndVQQX8xjBY8A_IDAVNkO7oE1s5FRyEsxXQ_HEM_5_KI4g9VWN8BLgCmQTS1DaFt6lRlfgEJMsxyC5bxQW1qhM/s1600/apple-patch.jpg" medium="image"/>
-</item>
-<item>
-<title>Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers</title>
-<link>https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html</link>
-<guid isPermaLink="false">f91af9aa9454d040d24b0d91837eaaa40a0d5b6723018acc4f07679b0c40c95a</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 10:07:29 +0000</pubDate>
-<description>The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5658vTd_mkm0NXhB4ueRe7z7purQPsvIa5Ik8qqEMo0dN5DU5bTpprIJeXFEj7XKLIOP3ykE4ZlNnixosysJ8YmGXzuRqEA1YoDvaQUFUgdXGfX2gj4f3hgUzop1wizxyv9olPYRDIb6CBW09bFVYAVqvpJk1zRqp3N5QCDBdfXTeoJuGCRkgy227_TgN/s1600/russian-emails.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5658vTd_mkm0NXhB4ueRe7z7purQPsvIa5Ik8qqEMo0dN5DU5bTpprIJeXFEj7XKLIOP3ykE4ZlNnixosysJ8YmGXzuRqEA1YoDvaQUFUgdXGfX2gj4f3hgUzop1wizxyv9olPYRDIb6CBW09bFVYAVqvpJk1zRqp3N5QCDBdfXTeoJuGCRkgy227_TgN/s1600/russian-emails.jpg" medium="image"/>
-</item>
-<item>
-<title>SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution</title>
-<link>https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html</link>
-<guid isPermaLink="false">c110ef77ed0278863603bba8ea1c06d49f2fa6c755aaf353522fcf6141cf98b8</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Tue, 10 Nov 2026 10:02:40 +0000</pubDate>
-<description>Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4snqwJ4uD_sRDyI8zs23mcfFTWfZoSrn9n1hbUrsHbyWy-1VFL8amxqQnLb7LSTPkuSwnsPofUJT6anObg-nU4Q5e01WBb3IixN_PdL-1MJ2nOip4qSTEoVDmePRlOgjSVjvtbH8vFlQgxtGuKuqmuHWLyzIavw2Sj4VtZBlTYhUqeySbQcDMEr4Wns/s1600/sap-flaws.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo4snqwJ4uD_sRDyI8zs23mcfFTWfZoSrn9n1hbUrsHbyWy-1VFL8amxqQnLb7LSTPkuSwnsPofUJT6anObg-nU4Q5e01WBb3IixN_PdL-1MJ2nOip4qSTEoVDmePRlOgjSVjvtbH8vFlQgxtGuKuqmuHWLyzIavw2Sj4VtZBlTYhUqeySbQcDMEr4Wns/s1600/sap-flaws.jpg" medium="image"/>
 </item>
 </channel></rss>
