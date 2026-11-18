@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NASA Launches Nuclear Power Systems Student Contest</title>
+<link>https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest</link>
+<guid isPermaLink="false">0c5fad1c6ec664104725bb674f4a69692e3d0dd457509c6367ecb49a9caffd68</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 17 Nov 2026 22:02:48 +0000</pubDate>
+<description>NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&amp;h=676&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/psd/planetary-science-division/radioisotope-power-systems/power-to-explore-contest/2027-power-to-explore/PTE_2026-2027_X%20-%201200x675-80.jpg?w=1201&amp;h=676&amp;fit=clip" medium="image"/>
+</item>
+<item>
+<title>NASA Space Apps Challenge Breaks Global Hackathon Records</title>
+<link>https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records</link>
+<guid isPermaLink="false">231b826ea9d0e37a20b30bec21093dd920befdc7115154a303d30bd13b7fd6e4</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Tue, 17 Nov 2026 21:50:34 +0000</pubDate>
+<description>On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg?w=2048&amp;h=1706&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/open-science/Space%20Apps%20Challenge%202026%20Brazil.jpeg?w=2048&amp;h=1706&amp;fit=clip" medium="image"/>
+</item>
+<item>
 <title>BPS Digital AVATAR Challenge</title>
 <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/bps-digital-avatar-challenge</link>
 <guid isPermaLink="false">ae3bcf4f2f8dd60bf1be4f9dff6633f129e32f48bcf84a258889f83c7b84a89e</guid>
@@ -144,28 +166,6 @@
 <category>science</category>
 <pubDate>Tue, 17 Nov 2026 10:45:41 +0000</pubDate>
 <description>Europe’s Hera spacecraft has arrived at the scene of NASA’s historic asteroid collision to uncover what really happened when a spacecraft slammed into Dimorphos in 2022. Its close-up investigation could reveal whether the impact left a crater or reshaped the asteroid entirely, providing crucial clues for protecting Earth from future threats.</description>
-</item>
-<item>
-<title>APOD: 2026 November 17 – Milky Way versus Aurora</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora</link>
-<guid isPermaLink="false">5cf4301583bea7d8db6f5ed62f533202dae9d09bdc87322e4a4d5b8c2ed096eb</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 17 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Milky Way […]</description>
-<enclosure url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/GalaxyVsAurora_Scheib_960.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" medium="image"/>
-</item>
-<item>
-<title>Tossing Fireworks from Cloud to Cloud</title>
-<link>https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud</link>
-<guid isPermaLink="false">ff29f8a875bc688b7e23c711bd666e26055802ad3b91dfb424d7be7ddf7c7f7d</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Tue, 17 Nov 2026 05:01:00 +0000</pubDate>
-<description>For many astronauts, the spectacular sight of lightning stands out when looking back at Earth from the International Space Station.</description>
-<enclosure url="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/content/dam/science/esd/eo/images/iotd/2026/tossing-fireworks-from-cloud-to-cloud/ISS075-E-250951.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg" medium="image"/>
 </item>
 <item>
 <title>Wine, beer, or spirits? Massive study reveals a surprising health divide</title>
