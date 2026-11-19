@@ -4,6 +4,213 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>NVIDIA investigating Gentlemen ransomware breach claims</title>
+<link>https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims</link>
+<guid isPermaLink="false">b4e22decd8f2a42368e4c5c11202014921a6a8b2029e6da5a9e7d6469b6e1d9a</guid>
+<source>BleepingComputer</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 09:23:21 +0000</pubDate>
+<description>NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]</description>
+</item>
+<item>
+<title>Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE</title>
+<link>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</link>
+<guid isPermaLink="false">29eb33240b0fe5717515a5b0fa724d76dc4bcd82149007bd86c49e61ecc87c44</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 08:42:11 +0000</pubDate>
+<description>Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. "We are aware of PoCs that prove some of them can be used to trigger remote code execution," the maintainers said. The project released fixed versions</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg" medium="image"/>
+</item>
+<item>
+<title>Elon Musk accuses Ukraine of being 'untruthful' about Starshield disruptions</title>
+<link>https://www.engadget.com/2321464/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions</link>
+<guid isPermaLink="false">33d7ff0bdbf08a1ef9d4823df4f19d2465f3881d74f62f4f02867e92c87f14dd</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 08:36:56 +0000</pubDate>
+<description>Elon Musk has accused Ukraine president Volodymyr Zelenskyy of being 'untruthful' about Starshield disruptions.</description>
+<enclosure url="https://www.engadget.com/img/gallery/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/l-intro-1795077250.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/elon-musk-accuses-ukraine-of-being-untruthful-about-starshield-disruptions/l-intro-1795077250.jpg" medium="image"/>
+</item>
+<item>
+<title>Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle</title>
+<link>https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html</link>
+<guid isPermaLink="false">3914c4d93285bf9341fb41eae6e914bfe6b9431ae6bf539dc3683f4716e4786f</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 08:14:00 +0000</pubDate>
+<description>Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg" medium="image"/>
+</item>
+<item>
+<title>Official 2026 Amazon Black Friday sale now live! Millions of deals: Apple, Google, TVs, home, more</title>
+<link>https://9to5toys.com/2026/11/19/amazon-2026-black-friday-sale-now-live</link>
+<guid isPermaLink="false">84433c84e07ea968aa6789adf57fe2421a20669b756b8d9f5976d53ad14690e6</guid>
+<source>9to5Mac</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 08:01:40 +0000</pubDate>
+<description>The official Amazon Black Friday sale is now live ! Today marks the beginning of its massive 12-day long Black Friday event leading right up to and beyond Thanksgiving and Black Friday with millions of price drops on just about everything. You’ll find loads of Apple deals from AirPods Pro 3 and the lowest prices ever on Apple Watch Series 12 , to rare deals on MacBook Neo from $649 . All of which join as much as $400 off Google Pixel and Samsung Galaxy gear , you’ll find thousands in savings on TVs, apparel from top brands, kitchen and home goods, gaming gear for your battlestation, the lowest prices ever on the brand new Amazon Android Alexa Tablets , and much more now on sale and up for grabs right here . more…</description>
+<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Amazon-Black-Friday-Week-Now-live-2026.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
+<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Amazon-Black-Friday-Week-Now-live-2026.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
+</item>
+<item>
+<title>Lego Promo Code | 20% Off November 2026</title>
+<link>https://www.wired.com/story/lego-promo-code</link>
+<guid isPermaLink="false">94a111a844abddf618ecfaeebfa7b1861613b377fca2e6fbf18c7f34cfbc0f01</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get the best deals on your favorite building sets, from free shipping over $35 to exclusive gifts with purchase using a Lego coupon code.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9b7d355db73b38e0c2/master/pass/WIRED-Coupons-R2_11.png" medium="image"/>
+</item>
+<item>
+<title>Reebok Discount Code: 15% Off: November 2026</title>
+<link>https://www.wired.com/story/reebok-discount-code</link>
+<guid isPermaLink="false">f4c9213d77157782f7938529a698fa5d74cc442981584e2dd8c74a169ca68a83</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Score deep discounts on running shoes, athletic apparel, and classics with the latest verified Reebok promo codes, student discounts, and member-only savings.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9c2c751893c256c1e8/master/pass/WIRED-Coupons-R2_13.png" medium="image"/>
+</item>
+<item>
+<title>We-Vibe Discount Codes and Deals: Up to 60% Off</title>
+<link>https://www.wired.com/story/we-vibe-discount-code</link>
+<guid isPermaLink="false">3dab361944e156446c0fd87e93e24854299b25f053992eecd4bb6cd671a46251</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>TurboTax Full Service Coupons This November 2026</title>
+<link>https://www.wired.com/story/turbotax-coupon</link>
+<guid isPermaLink="false">80d04aa731f128bbf642a31f154ec69591d7abc25cd478a59b0982e21d21eb43</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Tax season doesn’t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076fca863bb4c1028b64/master/pass/WIRED-Coupons-11.jpg" medium="image"/>
+</item>
+<item>
+<title>Sportsman's Warehouse Promo Code: Save in November 2026</title>
+<link>https://www.wired.com/story/sportsmans-warehouse-promo-code</link>
+<guid isPermaLink="false">e34c8f135263da23450bceac2825f59fce6ecf72e2d70a4221c3103bfdf00dd5</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman’s Warehouse coupons to maximize your savings in November 2026.</description>
+<enclosure url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b909468ebbf8f0cbc77/master/pass/WIRED-Coupons-R2_8.png" medium="image"/>
+</item>
+<item>
+<title>Lowe’s Promo Codes and Deals: Up to $300 Off Appliances</title>
+<link>https://www.wired.com/story/lowes-promo-code</link>
+<guid isPermaLink="false">66fa3a2cfcd9c0438d7d6de09ed95699048510f09df4cd1f0bdd1ad9fc911518</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.</description>
+<enclosure url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png" medium="image"/>
+</item>
+<item>
+<title>Home Chef Promo Codes for November 2026</title>
+<link>https://www.wired.com/story/home-chef-promo-code</link>
+<guid isPermaLink="false">580603dccec2c7644d73d5998c27cfaa2ab8eaf3c3382d424af8406f13ec7f1e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Enjoy up to 50% off deliveries, free meals, and more with the latest Home Chef coupons.</description>
+<enclosure url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
+</item>
+<item>
+<title>Fanatics Promo Code: 10% Off</title>
+<link>https://www.wired.com/story/fanatics-promo-code</link>
+<guid isPermaLink="false">528a14aa65e7739e8d1339469e3a2a3d096c14af972bdd4e4f311990b5d64fe4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Gear up for the season with verified Fanatics coupons, free shipping codes, and student or military discounts on jerseys, hats, and team gear.</description>
+<enclosure url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b9079f27a355461c964/master/pass/WIRED-Coupons-R2_2.png" medium="image"/>
+</item>
+<item>
+<title>50% Off Blue Apron Promo Codes | November 2026</title>
+<link>https://www.wired.com/story/blue-apron-coupon</link>
+<guid isPermaLink="false">8001b4ebba66e1242d5864eb5614ad1459148e96de3e421845ddc3bf698c03e3</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Browse chef-curated meal plans, plus get $25 off with an exclusive Blue Apron coupon code, plus 50% off your first 2 orders, and more top coupons on WIRED.</description>
+<enclosure url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg" medium="image"/>
+</item>
+<item>
+<title>Litter-Robot Promo Codes: Up to $150 Off</title>
+<link>https://www.wired.com/story/litter-robot-promo-code</link>
+<guid isPermaLink="false">762b433441f24218f1ee22d4f82ffcc26e660eb6e944fbba5bf30cb17b4b761e</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get the latest Litter-Robot Discounts on Litter-Robot self-cleaning litter boxes, accessories, and more.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
+<title>Sony Coupons: 45% Off Sony Headphones and Sony Cameras November 2026</title>
+<link>https://www.wired.com/story/sony-promo-code</link>
+<guid isPermaLink="false">0f399e0ab0c37de2deb24e306e8f5cca162f36ec5caf00ebe204248b7dc4fee4</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Upgrade your setup with Sony’s newest releases. Save on industry-leading noise-canceling audio, and pro-level Alpha cameras.</description>
+<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+</item>
+<item>
+<title>ExpressVPN Coupons: 80% Off</title>
+<link>https://www.wired.com/story/expressvpn-coupons</link>
+<guid isPermaLink="false">cf9614bbd3c6cd0c9cd93f3954854f0cee34f3df9319e3f1ba7bff3670aa9a1d</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Learn how to get the best value from your ExpressVPN subscription plans, whether you need a flexible 1-month plan or want to lock in up to 61% savings on multi-year deals.</description>
+<enclosure url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png" medium="image"/>
+</item>
+<item>
+<title>Target Promo Code: $50 Off | November 2026</title>
+<link>https://www.wired.com/story/target-promo-code</link>
+<guid isPermaLink="false">14db8fed4c0c298a832baac557e582d2a5cf3b1ef910627965cacc7a52bf4e9f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 06:00:00 +0000</pubDate>
+<description>Get $50 off your next order or up to 50% off site wide with Target coupon codes and Circle deals.</description>
+<enclosure url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea077283cd4f2fbb17d478/master/pass/WIRED-Coupons-2.jpg" medium="image"/>
+</item>
+<item>
+<title>PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19</title>
+<link>https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html</link>
+<guid isPermaLink="false">75b5f95941280ec24fc1cc156dcc25c290b29bbe238a86037e0e0b33dbb9fb27</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Thu, 19 Nov 2026 04:33:46 +0000</pubDate>
+<description>The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. "These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions," the maintainers said.</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg" medium="image"/>
+</item>
+<item>
 <title>Elon Musk tries to explain what&amp;#8217;s going on with Ukraine and Starlink</title>
 <link>https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook</link>
 <guid isPermaLink="false">b863bb1d729a35212c0b34317061e9270c83b3fb39146afbda3448fac1cd91f6</guid>
@@ -177,7 +384,7 @@
 <media:content url="https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg" medium="image"/>
 </item>
 <item>
-<title>Anthropic reportedly prices IPO at $83 a share, above projected range</title>
+<title>Anthropic prices IPO at $83 a share, above projected range</title>
 <link>https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range</link>
 <guid isPermaLink="false">9cd84c2455ae281d32d9b6a476bee2ad7b803f734bb08c8f8ee16c27c26d624f</guid>
 <source>TechCrunch</source>
@@ -1596,17 +1803,6 @@
 <media:content url="https://media.wired.com/photos/6afce0f6ee5c9e07415dd40b/master/pass/4%20Nubia%20Redmagic%2012%20Pro%20Main%20Camera%20SOURCE%20Simon%20Hill.jpg" medium="image"/>
 </item>
 <item>
-<title>5 old-school charging ports you probably forgot phones had before USB-C</title>
-<link>https://www.engadget.com/2315473/old-school-charging-ports-phones-used-before-usb-c</link>
-<guid isPermaLink="false">8cba239edccd25171847d280a3435f340f80a5f57aab1a8b5ec8c026693d6692</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 23:30:00 +0000</pubDate>
-<description>While USB-C is the standard today, we saw a lot of phone charging ports before the days of Micro-USB and Mini-USB.</description>
-<enclosure url="https://www.engadget.com/img/gallery/5-old-school-charging-ports-you-probably-forgot-phones-had-before-usb-c/l-intro-1794520920.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/5-old-school-charging-ports-you-probably-forgot-phones-had-before-usb-c/l-intro-1794520920.jpg" medium="image"/>
-</item>
-<item>
 <title>San Diego dumps both Flock cameras and smart streetlights</title>
 <link>https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights</link>
 <guid isPermaLink="false">20721672b7ad219aa5e07bc800101156f59d189bf7b8c1d859e16ac96798d4be</guid>
@@ -1671,17 +1867,6 @@
 <media:content url="https://cdn.arstechnica.net/wp-content/uploads/2026/11/malicious-website-1152x648.jpg" medium="image"/>
 </item>
 <item>
-<title>Nvidia’s Board Has No Plans to Bring Back Jensen Huang</title>
-<link>https://www.wired.com/story/nvidias-board-has-no-plans-to-reinstate-jensen-huang</link>
-<guid isPermaLink="false">afd67ab8557789c682ac59b825cfe6e2fbbce7f24d3b186d4400a6022e87cdbf</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 22:19:19 +0000</pubDate>
-<description>Despite pressure from President Trump, Elon Musk, and Silicon Valley executives, Nvidia’s board says it “does not intend” to reinstate the company’s ousted CEO.</description>
-<enclosure url="https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afce5159891667de5f2b6bb/master/pass/Nvidia-Board-Has-No-Plans-to-Bring-Back-Jensen-Business-2299990450.jpg" medium="image"/>
-</item>
-<item>
 <title>Report: iPhone set to gain market share in 2027 amid industry-wide slump</title>
 <link>https://9to5mac.com/2026/11/17/report-iphone-set-to-gain-market-share-in-2027-amid-industry-wide-slump</link>
 <guid isPermaLink="false">494c3e4b86c04ac978c8b7540bb63baf0400fcca1c91d0b371c341e1400d3dcf</guid>
@@ -1731,28 +1916,6 @@
 <description>iOS 27.3 will introduce an all-new Apple Health experience when it ships next month, but you’ll need an AI-compatible iPhone to get it. Here’s why. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/09/health-app-ios-27-2-watchos-27-2.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>How to Tell If It’s a Cyberattack or Just an Outage</title>
-<link>https://www.wired.com/story/how-to-tell-if-its-a-cyberattack-or-just-an-outage</link>
-<guid isPermaLink="false">77b805788426b6398fa118dc8770b7b2d94ce2b6c616cc3109e91e275c671650</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 19:40:57 +0000</pubDate>
-<description>Email, flights, banks; network failures are piling up. Here’s how WIRED investigates if they’re the result of hacker mayhem. (Hint: usually not.)</description>
-<enclosure url="https://media.wired.com/photos/6afc8dfac68fff6545ac192a/master/pass/Security_How%20to%20Tell%20If%20an%20Outage%20Is%20Caused%20by%20a%20Cyberattack_v1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afc8dfac68fff6545ac192a/master/pass/Security_How%20to%20Tell%20If%20an%20Outage%20Is%20Caused%20by%20a%20Cyberattack_v1.jpg" medium="image"/>
-</item>
-<item>
-<title>Waymo Pauses All Highway Rides After California Safety Ban</title>
-<link>https://www.wired.com/story/waymo-pulls-its-robotaxis-from-highways-after-california-incidents</link>
-<guid isPermaLink="false">a330c18d7f7094fa04d646ee185f7b23194aa0668fa630400823151d9170356d</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 19:38:08 +0000</pubDate>
-<description>California’s DMV banned Waymo’s self-driving cars from freeways after determining that they pose “an imminent hazard to public safety.”</description>
-<enclosure url="https://media.wired.com/photos/6afca39792798f56737cb399/master/pass/GettyImages-2289915155-resized.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afca39792798f56737cb399/master/pass/GettyImages-2289915155-resized.jpg" medium="image"/>
 </item>
 <item>
 <title>Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</title>
@@ -1817,26 +1980,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2021/12/9to5Mac-Daily-art-lead.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Tor releases emergency update amid ongoing DDoS attack</title>
-<link>https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack</link>
-<guid isPermaLink="false">0434a2f4d8b692dab4a963a91b28cd1ae64da8863975b9dd73c72e044b7e8566</guid>
-<source>BleepingComputer</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 18:04:15 +0000</pubDate>
-<description>The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]</description>
-</item>
-<item>
-<title>The Nvidia Scandal Could Upend Chip Sales to China. Trump Wants to Keep Them Going</title>
-<link>https://www.wired.com/story/the-nvidia-scandal-is-about-chip-sales-to-china-trump-wants-to-keep-them-going</link>
-<guid isPermaLink="false">c17b6b3785f5f2aa55dd3b838f51422590c1f6aef54a9a78dd9f4190975a8719</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 18:03:32 +0000</pubDate>
-<description>Commerce secretary Howard Lutnick has been under attack for not blacklisting a company caught up in the Jensen Huang scandal. But Trump is on board with the policy.</description>
-<enclosure url="https://media.wired.com/photos/6af7b8ab85c9940326d23123/master/pass/Nvidia-Fiasco-Has-Lutnick-Under-the-Gun-Politics-2201139059.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af7b8ab85c9940326d23123/master/pass/Nvidia-Fiasco-Has-Lutnick-Under-the-Gun-Politics-2201139059.jpg" medium="image"/>
-</item>
-<item>
 <title>OpenAI upgrades ChatGPT and Codex with new GPT-6.2 Astra and Sol models</title>
 <link>https://9to5mac.com/2026/11/17/openai-upgrades-chatgpt-and-codex-with-new-gpt-6-2-astra-and-sol-models</link>
 <guid isPermaLink="false">b738fb0f751612b040d1186ca44ce023b3bb860da42b0f1b45deeb9685b72543</guid>
@@ -1870,17 +2013,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/app-store-app-icon-ios-27.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Jensen Huang Says He’s Open to Coming Back to Nvidia</title>
-<link>https://www.wired.com/story/jensen-huang-says-hes-open-to-coming-back-to-nvidia</link>
-<guid isPermaLink="false">9e89edba44654e62a08a1672469f64b655bd9be66fbfde5e50e33644cc168c94</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 17:32:24 +0000</pubDate>
-<description>Huang said in a statement that he “would be honored” to return as Nvidia CEO if the board of directors supported the decision.</description>
-<enclosure url="https://media.wired.com/photos/6afc8d817073e76a25272b83/master/pass/111726-Jensen%20might%20be%20back.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afc8d817073e76a25272b83/master/pass/111726-Jensen%20might%20be%20back.jpg" medium="image"/>
-</item>
-<item>
 <title>You can now assign Gemini ‘tasks’ for free in six countries</title>
 <link>https://9to5google.com/2026/11/17/gemini-tasks-free</link>
 <guid isPermaLink="false">607cd99dcaccbf724a38cf691de398b2166ae9efac324960288292472d78f928</guid>
@@ -1890,17 +2022,6 @@
 <description>Starting today, the Gemini app’s “tasks” feature, previously known as Spark, is now available for free users after requiring AI Pro in the past. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-task-free-cover.webp?w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Gemini-task-free-cover.webp?w=1600" medium="image"/>
-</item>
-<item>
-<title>VSCO Is Gunning for Adobe Lightroom With Its New Desktop App</title>
-<link>https://www.wired.com/story/vsco-is-gunning-for-adobe-lightroom-with-its-new-desktop-app</link>
-<guid isPermaLink="false">67bb9784c0968a05748f66fff4305977f356af790420a15c6eed4bcdb79fa67c</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 17:00:00 +0000</pubDate>
-<description>The new Studio Pro Desktop app for macOS delivers fast batch editing, RAW support, and more than 200 presets, though a few pro tools are still missing.</description>
-<enclosure url="https://media.wired.com/photos/6afafda61113c366073d3d8a/master/pass/Studio%20Pro%20Desktop%20%E2%80%94%20Announcement%20Hero.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afafda61113c366073d3d8a/master/pass/Studio%20Pro%20Desktop%20%E2%80%94%20Announcement%20Hero.jpg" medium="image"/>
 </item>
 <item>
 <title>VSCO launches its first native Mac photo editor with RAW support, batch editing, more</title>
@@ -2024,17 +2145,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/Major-websites-compromised-to-steal-crypto-from-iPhone-users.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Xreal Aura Review: Stunning Screens, Frustrating Controls</title>
-<link>https://www.wired.com/review/xreal-aura</link>
-<guid isPermaLink="false">5dae5a7c596874164c9a9bdbb570869973b0a45154899a9a4e106d0149db0ea2</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-<description>Xreal’s Aura glasses are much comfier than a bulky VR headset. I just wish they weren’t so frustrating to control.</description>
-<enclosure url="https://media.wired.com/photos/6afb7bb246a62b9dacb0b4a3/master/pass/AURA_2_Edited.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afb7bb246a62b9dacb0b4a3/master/pass/AURA_2_Edited.jpg" medium="image"/>
-</item>
-<item>
 <title>Apple Work Podcast: Kaseya on MSPs, cybersecurity, and managing Apple in one platform</title>
 <link>https://9to5mac.com/2026/11/17/kaseya-on-msps-cybersecurity-and-managing-apple-in-one-platform</link>
 <guid isPermaLink="false">453e45dc9cd4f92d0d3568d2addf9ea2e060742b67887809307a4eae81db27aa</guid>
@@ -2066,17 +2176,6 @@
 <description>When Apple first announced Face ID , the company talked a great deal about how secure the system is, contrasting it to the far less secure image-based facial unlock systems used by the likes of Google and Samsung. Fast-forward to 2026, and Apple is itself now offering that less secure approach as an option on the iPhone Duo – but in a way I consider a sensible balance between convenience and security … more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-duo-face-id.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-duo-face-id.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Best Laptops (2026): My Top Recommendations After Testing Hundreds</title>
-<link>https://www.wired.com/story/best-laptops</link>
-<guid isPermaLink="false">00b2efe45a9000eaa6c380325355fd85b03ffe53246a1f3e5968a67952ccefc8</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 13:00:00 +0000</pubDate>
-<description>I’ve tested laptops for more than a decade, and here’s my advice for finding the right laptop for you.</description>
-<enclosure url="https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6adf7d0fc2758511d53056ad/master/pass/Update%20Best%20Laptops%20102026%20top%20art%20SOURCE%20Amazon-Dell.jpg" medium="image"/>
 </item>
 <item>
 <title>Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap</title>
@@ -2123,17 +2222,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/06/ios-27-device-lineup-apple.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Capillus HairBand Review: Good Looks, Awkward Fit</title>
-<link>https://www.wired.com/review/capillus-hairband</link>
-<guid isPermaLink="false">a16ff2d6310a53b4047d9cf376d1901e7d2d3f420f355ecb7ca6df85e4993aac</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-<description>The Capillus HairBand’s small size is both its biggest attraction and one of its biggest drawbacks.</description>
-<enclosure url="https://media.wired.com/photos/6afb590244f979cc615251c6/master/pass/Review--Capillus-HairBand.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afb590244f979cc615251c6/master/pass/Review--Capillus-HairBand.jpg" medium="image"/>
-</item>
-<item>
 <title>New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels</title>
 <link>https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html</link>
 <guid isPermaLink="false">1f9af5fe35a30d1284da3fb258133904b0886a4ceea87a58c052a375d0e609ae</guid>
@@ -2165,50 +2253,6 @@
 <description>Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access. "Before granting an app such</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfVz_pnzHGcrDTsga77xG6yDhi_sMihXsGCjULyapjweerWHdHByPuWqWYmWQsDAAV37EfmctWtSZgYCHJ-2FMGEE6K94YRDVFjHVO0i1jZxn-TIewKbDqIn3y-pNMH7pqJ9SA1X2Sk_r_vn_SfRdxbPB2kH9-hHkNrigumGuQKXaA6xlHqCdWu4ZDAFH/s1600/apple-macos.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfVz_pnzHGcrDTsga77xG6yDhi_sMihXsGCjULyapjweerWHdHByPuWqWYmWQsDAAV37EfmctWtSZgYCHJ-2FMGEE6K94YRDVFjHVO0i1jZxn-TIewKbDqIn3y-pNMH7pqJ9SA1X2Sk_r_vn_SfRdxbPB2kH9-hHkNrigumGuQKXaA6xlHqCdWu4ZDAFH/s1600/apple-macos.jpg" medium="image"/>
-</item>
-<item>
-<title>Rogue Agents Hacked His Company. Why Is Clément Delangue So Optimistic About AI?</title>
-<link>https://www.wired.com/story/wired-yearbook-2026-clement-delangue</link>
-<guid isPermaLink="false">545744ffa2cfebfca8ade3333683a416c3dd9954b1fad833c10fe9b1a95e2afb</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
-<description>The French CEO of Hugging Face, a mega-hub of open-source AI software, says the attack by OpenAI models earlier this year proved one thing: Humanity can’t let AI be controlled by the few.</description>
-<enclosure url="https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af4d05353156106eee176d7/master/pass/WWF-Clement-Delangue-1.jpg" medium="image"/>
-</item>
-<item>
-<title>The Dark Side of the Moon Was the Brightest Part of 2026</title>
-<link>https://www.wired.com/story/wired-yearbook-2026-artemis-crew</link>
-<guid isPermaLink="false">3a6a845f9cdc62cba967bd758f7c49105d292dc21a7b8a97b93b957146c76804</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
-<description>Through personality clashes, blaring smoke detectors, and a broken pee vent, the Artemis II astronauts made history—and bonded for life.</description>
-<enclosure url="https://media.wired.com/photos/6afb64c4d5ce52bfaa9da9f8/master/pass/SH010_WIRED_FRAMES_ARTEMIS_16x9_SINGLE_v04.gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afb64c4d5ce52bfaa9da9f8/master/pass/SH010_WIRED_FRAMES_ARTEMIS_16x9_SINGLE_v04.gif" medium="image"/>
-</item>
-<item>
-<title>The Apple Watch’s Live Rewind Can Record and Rewind Spoken Conversations. It’s Pretty Awkward</title>
-<link>https://www.wired.com/story/apple-watch-audio-intelligence-live-rewind-siri-recap</link>
-<guid isPermaLink="false">27d58dad16bf5b09bd290ccdca24d4470910a0cbcaef950168ab206e6446b0af</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
-<description>Live Rewind and Siri Recap can transcribe missed moments and summarize your day—if you don’t mind a little social clumsiness.</description>
-<enclosure url="https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6af73f064e708cb7030f047d/master/pass/DSC_0242.jpg" medium="image"/>
-</item>
-<item>
-<title>Ms. Rachel Is for Littles. Her Best Lessons This Year Were Meant for Adults</title>
-<link>https://www.wired.com/story/wired-yearbook-2026-ms-rachel</link>
-<guid isPermaLink="false">203b56a6dd913b1e5c30120d38ee19243fb7adf11089919c561624625ac34e39</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
-<description>Throughout the past year, the children’s entertainer has called for grown-ups to do more to stand up for children everywhere, from ICE detention centers to Gaza.</description>
-<enclosure url="https://media.wired.com/photos/6afb740886acdb63d5b9fac5/master/pass/SH040_WIRED_FRAMES_RACHEL_16x9_SINGLE_v04.gif" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/6afb740886acdb63d5b9fac5/master/pass/SH040_WIRED_FRAMES_RACHEL_16x9_SINGLE_v04.gif" medium="image"/>
 </item>
 <item>
 <title>Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors</title>
@@ -2849,17 +2893,6 @@
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04326-2616x1308.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
 </item>
 <item>
-<title>Beats 360 vs Studio Pro: Here’s which Beats headphones you should buy</title>
-<link>https://9to5mac.com/2026/11/14/apple-beats-studio-pro-vs-beats-360-comparison</link>
-<guid isPermaLink="false">43d0966358895978dd105e97ef6aac084c2e5d4e4ae6307622fdd79bee4bd1f4</guid>
-<source>9to5Mac</source>
-<category>technology</category>
-<pubDate>Sat, 14 Nov 2026 22:02:41 +0000</pubDate>
-<description>In September, Apple introduced the new Beats 360 headphones, the first overears from Beats since the Beats Studio Pro in 2023. That said, the older Beats Studio Pro still remain on sale at a lower price point – so it begs the question, which Beats headphones are more worthwhile? more…</description>
-<enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
-<media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/DSC04319-2278x1139.jpg.jpeg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
 <title>Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection</title>
 <link>https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</link>
 <guid isPermaLink="false">e577b898eca3316fd935fc7a4df7581c97404779a3c38de8336c453132c69549</guid>
@@ -3034,38 +3067,5 @@
 <description>Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. "AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg" medium="image"/>
-</item>
-<item>
-<title>SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths</title>
-<link>https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html</link>
-<guid isPermaLink="false">0c7b196fe26ffd911c70b2b3ea704ccc7e40be9c704f0ea9f839c8667871946c</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 13:08:28 +0000</pubDate>
-<description>The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4r5n0I6Rd7yb3jS6hfXTyM5foZU5uEiCD1I2Kgth1qgf_pzohrD9jPeDesEopB6Gjo0VaQZF2XesdqU6W32eFADzI3_xhBF4026h6uGqn6eExdfS_A29SvYA3cdIJkhWmPG-k15_DdsGGcqFfWS-E3cgyKkdEQ3Sxa9gayFkkMXggVJpkeH7DoLNLZxm9/s1600/screen.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4r5n0I6Rd7yb3jS6hfXTyM5foZU5uEiCD1I2Kgth1qgf_pzohrD9jPeDesEopB6Gjo0VaQZF2XesdqU6W32eFADzI3_xhBF4026h6uGqn6eExdfS_A29SvYA3cdIJkhWmPG-k15_DdsGGcqFfWS-E3cgyKkdEQ3Sxa9gayFkkMXggVJpkeH7DoLNLZxm9/s1600/screen.jpg" medium="image"/>
-</item>
-<item>
-<title>Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs</title>
-<link>https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html</link>
-<guid isPermaLink="false">34b40f857b9f9cf5347564c8197523410135d4f8918dd07a18acddc17568f951</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 12:09:14 +0000</pubDate>
-<description>Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same processor core infer data from other processes or the kernel. The affected</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEkIc_eg4_tE5XE6CQrLFl74Gk0QwxcqaGXBnDAlitVIbzreq8faf57QtAqFh8rEn7HgTJzvGUZl2yNBhWVKOKo9KqnJHfduQfoT_HqUTlKhE-FzshzDrpIskiMQ3_Lz2hImNMbt9VdCj0O725_WyZsDXDB91phFceXh6Y_qzHgv1nJPMNjv8a7AU52c/s1600/amd.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikEkIc_eg4_tE5XE6CQrLFl74Gk0QwxcqaGXBnDAlitVIbzreq8faf57QtAqFh8rEn7HgTJzvGUZl2yNBhWVKOKo9KqnJHfduQfoT_HqUTlKhE-FzshzDrpIskiMQ3_Lz2hImNMbt9VdCj0O725_WyZsDXDB91phFceXh6Y_qzHgv1nJPMNjv8a7AU52c/s1600/amd.jpg" medium="image"/>
-</item>
-<item>
-<title>New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access</title>
-<link>https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html</link>
-<guid isPermaLink="false">e8aac6829dfb0bdd4a80da6d5d2790d17efaeaef049684f0f9d27646f1b4c56b</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Thu, 12 Nov 2026 11:51:43 +0000</pubDate>
-<description>N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. "Based on our initial review, the server issue described depends on a non-default configuration in which the Legacy API is turned on and exposed to the public internet," N-able said in a new advisory. "Legacy API is</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4KdRS0v77uQIdhC0i5aopa8XIAZIRnTzVCVqto7dEdfUH2QyWgrAy1EKu-hARXS4pxNGQQEFroRHOtwSq_9Q8b92tmgw_97JMJoBfC72sl8pOcUYM9nU6YCJht4yD7ALWfERwhUwLsN8wo9t8YnKyIWzHhEAux5ox5WV4wvxe6l1cUmf58P1md2Ekziy/s1600/nable.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR4KdRS0v77uQIdhC0i5aopa8XIAZIRnTzVCVqto7dEdfUH2QyWgrAy1EKu-hARXS4pxNGQQEFroRHOtwSq_9Q8b92tmgw_97JMJoBfC72sl8pOcUYM9nU6YCJht4yD7ALWfERwhUwLsN8wo9t8YnKyIWzHhEAux5ox5WV4wvxe6l1cUmf58P1md2Ekziy/s1600/nable.jpg" medium="image"/>
 </item>
 </channel></rss>
