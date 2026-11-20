@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 November 20 – V-G-R</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r</link>
+<guid isPermaLink="false">c1c4abb28a31401638c79505ebce3ef8bf9553e06886e01833e81860b597b4af</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. V-G-R Explanation: On November 17, […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&amp;h=2048&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/IMG_4364N_Kyriazis.jpg?w=2048&amp;h=2048&amp;fit=clip" medium="image"/>
+</item>
+<item>
+<title>The Stormy Southwest Pacific</title>
+<link>https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific</link>
+<guid isPermaLink="false">a92cc23a668bfe4b397d68bda61deee81a28977c97da17850de73a278000fe5b</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 05:01:00 +0000</pubDate>
+<description>Tropical Cyclone Xavier launched the basin’s storm season with a bang.</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg?w=1440&amp;h=960&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-stormy-southwest-pacific--/cyclonexavier_amo_20261116.jpg?w=1440&amp;h=960&amp;fit=clip" medium="image"/>
+</item>
+<item>
 <title>Experimental compound burns fat without sacrificing muscle</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261118073918.htm</link>
 <guid isPermaLink="false">f11d27f422c6eecfac062b364b5d119737eac7705d73e9046b258e112e05a8c4</guid>
@@ -11,6 +33,15 @@
 <category>science</category>
 <pubDate>Fri, 20 Nov 2026 00:19:49 +0000</pubDate>
 <description>Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.</description>
+</item>
+<item>
+<title>Lifting weights reduces muscle loss from obesity drugs</title>
+<link>https://www.nature.com/articles/d41586-026-03751-3</link>
+<guid isPermaLink="false">688b29525d6436132edee7848dc2e37cc209b139100d55de0862a62e41539622</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03751-3 Resistance exercise could help middle-aged and older individuals to maintain muscle mass and strength during weight-loss treatment.</description>
 </item>
 <item>
 <title>Challenge: Public Input on Life and the World in 2075</title>
@@ -315,28 +346,6 @@
 <category>science</category>
 <pubDate>Wed, 18 Nov 2026 21:28:29 +0000</pubDate>
 <description>Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help explain why overtrained athletes sometimes struggle with insomnia, anxiety, and persistent fatigue, although these symptoms were not directly measured.</description>
-</item>
-<item>
-<title>MAF EAP – Holidays – How to manage the BAH HUMBUG that tries to sneak in</title>
-<link>https://www.nasa.gov/centers-and-facilities/michoud/maf-eap/maf-eap-holidays-how-to-manage-the-bah-humbug-that-tries-to-sneak-in</link>
-<guid isPermaLink="false">6eed1609012d8d914fc8fc1928049d9221d36764f988a99200d96da95bebefd3</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 18:58:27 +0000</pubDate>
-<description>Holidays are often a fun break during a busy year – a long weekend here and there is an event many of us can get behind. However, when a short holiday break turns into a full holiday season, we know that this is a different “ball game”. Everyone has stress about something – some people […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/mafeap-holidays.jpeg?w=2048" medium="image"/>
-</item>
-<item>
-<title>NASA Announces Mid-Power Electric Rocket Challenge for US Companies</title>
-<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies</link>
-<guid isPermaLink="false">ab277d730263b66d7fab351886deae78286dbb2fa2a233d1f6b10e87c43e0d2c</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 18:12:32 +0000</pubDate>
-<description>NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" medium="image"/>
 </item>
 <item>
 <title>A rare disease reveals a hidden flaw in the immune system</title>
@@ -1201,15 +1210,6 @@
 <category>science</category>
 <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 16 November 2026; doi:10.1038/s41586-026-11399-2 Architecture of a portal complex embedded in the poxvirus core</description>
-</item>
-<item>
-<title>As El Niño builds, studies of extreme marine heatwaves must start now</title>
-<link>https://www.nature.com/articles/d41586-026-03715-7</link>
-<guid isPermaLink="false">66e0444ed63fd2185e071dbcbb5512865c3b7ac164d6c789159a6a0a724d0e0e</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 16 November 2026; doi:10.1038/d41586-026-03715-7 Researchers must track warming oceans and use the knowledge gained to inform strategies for sustaining fisheries and communities that depend on them.</description>
 </item>
 <item>
 <title>Vitamin C could help block cancer-linked chemicals in your stomach, study finds</title>
