@@ -4,6 +4,26 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Experimental compound burns fat without sacrificing muscle</title>
+<link>https://www.sciencedaily.com/releases/2026/11/261118073918.htm</link>
+<guid isPermaLink="false">f11d27f422c6eecfac062b364b5d119737eac7705d73e9046b258e112e05a8c4</guid>
+<source>ScienceDaily</source>
+<category>science</category>
+<pubDate>Fri, 20 Nov 2026 00:19:49 +0000</pubDate>
+<description>Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.</description>
+</item>
+<item>
+<title>Challenge: Public Input on Life and the World in 2075</title>
+<link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075</link>
+<guid isPermaLink="false">1aefc3b058a85a50b2d8eb39a5c192edd60e00633bea92b150733685104d786c</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Thu, 19 Nov 2026 19:34:20 +0000</pubDate>
+<description>NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/ttt-publicinputonlife-2026.png?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ttt-publicinputonlife-2026.png?w=2048" medium="image"/>
+</item>
+<item>
 <title>NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars</title>
 <link>https://science.nasa.gov/open-science/fermi-data-pulsar-discovery</link>
 <guid isPermaLink="false">4ccd1aa0a4d5150142d9a36c3a27862406a8b7536e8e7f88d5457a59ee8d11b9</guid>
@@ -317,17 +337,6 @@
 <description>NASA launched a new competition inviting U.S. companies to produce prototypes of mid-power Hall effect thrusters – a type of electric propulsion system considered crucial for future space operations and exploration. Hall effect thrusters use an electric field to accelerate a propellant gas, producing efficient thrust for long-duration missions. Used for propelling satellites and deep […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2023/03/hall-thruster.jpg?w=1041" medium="image"/>
-</item>
-<item>
-<title>Empire State Building Goes Gold for Voyager</title>
-<link>https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager</link>
-<guid isPermaLink="false">52151548bbbfb76999efdc546ab37cfed768dffe5afda350964f965b55c7b590</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 18 Nov 2026 17:50:26 +0000</pubDate>
-<description>The Empire State Building is seen illuminated in gold to celebrate NASA’s Voyager 1 spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; the Golden Record contains […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/55658604092-c6f0765cc5-o.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>A rare disease reveals a hidden flaw in the immune system</title>
@@ -1318,14 +1327,5 @@
 <category>science</category>
 <pubDate>Sat, 14 Nov 2026 12:48:01 +0000</pubDate>
 <description>A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules reported less physical pain and fewer symptoms of depression, even when they struggled with insomnia. Keeping regular times for sleeping, eating, and other activities may help regulate the body's internal clock, which influences mood, sleep, and overall health.</description>
-</item>
-<item>
-<title>Yale scientists reveal what really slows aging and what doesn't</title>
-<link>https://www.sciencedaily.com/releases/2026/11/261112230452.htm</link>
-<guid isPermaLink="false">087c94269b0e41c9db7a9a0c53ef4b67e85e5ee7bef92bd99db8c9f52f70329b</guid>
-<source>ScienceDaily</source>
-<category>science</category>
-<pubDate>Sat, 14 Nov 2026 04:26:12 +0000</pubDate>
-<description>Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 studies could transform how scientists evaluate anti-aging treatments, although whether these biological changes actually extend life remains uncertain.</description>
 </item>
 </channel></rss>
