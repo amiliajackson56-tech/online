@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno</link>
+<guid isPermaLink="false">f5ce4a0fe482d320ff6f5d440caf9cbec544478d90292dc359c018a2739b3749</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sun, 22 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Swirls and Colors […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg?w=2048&amp;h=2048&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/JupiterSwirls_JunoBrealey_3709.jpg?w=2048&amp;h=2048&amp;fit=clip" medium="image"/>
+</item>
+<item>
 <title>AI may not work like the human brain after all, scientists discover</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261120075701.htm</link>
 <guid isPermaLink="false">a79ba71ddbc0f5093b007ee9ad1de54bb6d46a20851f2495eba6df5f8410cc3a</guid>
@@ -443,17 +454,6 @@
 <description>Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.</description>
 <enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1652&amp;h=928&amp;fit=clip" type="image/jpeg"/>
 <media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/05/screenshot-2023-06-06-at-2.57.05-pm.png?w=1652&amp;h=928&amp;fit=clip" medium="image"/>
-</item>
-<item>
-<title>Lake Pelku</title>
-<link>https://www.nasa.gov/image-article/lake-pelku</link>
-<guid isPermaLink="false">438a9e6570896922c8a5b50e085d1d7db0dcfacc56ff03760573df4d0a828c5f</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Thu, 19 Nov 2026 15:32:39 +0000</pubDate>
-<description>An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia. The International Space Station serves as a unique platform for observing Earth with both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0267074orig.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Scientists tested 212 plant-based foods. Every single one contained fungal toxins</title>

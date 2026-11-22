@@ -4,6 +4,83 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</title>
+<link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
+<guid isPermaLink="false">6d087c898942cc0c2503082abebf929ab7e0d4a3ca4293f9919606c8fd9cc88c</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 05:06:55 +0000</pubDate>
+<description>Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png" medium="image"/>
+</item>
+<item>
+<title>Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</title>
+<link>https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html</link>
+<guid isPermaLink="false">a3c63e958cb92eef3df0aa513c9e2bcc89f1a4d836647a4f3bac9eefc4d8cd48</guid>
+<source>The Hacker News</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 05:03:41 +0000</pubDate>
+<description>A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,</description>
+<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg" type="image/jpeg"/>
+<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg" medium="image"/>
+</item>
+<item>
+<title>Attention Pixel 9 and 10 owners: is it actually worth upgrading to the Pixel 11?</title>
+<link>https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10</link>
+<guid isPermaLink="false">b795287462f8ff48684c43631d7577af3b949b07b0ca7aa85bcc74c04aa3f28a</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 01:00:00 +0000</pubDate>
+<description>New doesn't always mean better, especially in this economy. Here's what you need to know before deciding if the new Google Pixel 11 is the worth your money.</description>
+<enclosure url="https://www.engadget.com/img/gallery/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11/l-intro-1794595499.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/attention-pixel-9-and-10-owners-is-it-actually-worth-upgrading-to-the-pixel-11/l-intro-1794595499.jpg" medium="image"/>
+</item>
+<item>
+<title>Samsung vs. LG OLED TVs: What's the difference between them?</title>
+<link>https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between</link>
+<guid isPermaLink="false">f93b3529f6144f31c76dc68a105bace1567632d328c2d2c0c491f338a6ec98d5</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 01:00:00 +0000</pubDate>
+<description>It's not simple to say that one is better than the other.</description>
+<enclosure url="https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/samsung-vs-lg-oled-tvs-whats-the-difference-between-them/l-intro-1794240636.jpg" medium="image"/>
+</item>
+<item>
+<title>This is what can happen if too many devices are sharing your home network</title>
+<link>https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network</link>
+<guid isPermaLink="false">398ecf339b0d0a9aa3bb5ceabaa0f88cc1d86d5ee73a7ef2d46ca5690266e06b</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 00:45:00 +0000</pubDate>
+<description>If you play your numbers right, you may be able to avoid internet connectivity issues at home without shelling out more money.</description>
+<enclosure url="https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/this-is-what-can-happen-if-too-many-devices-are-sharing-your-home-network/l-intro-1794517083.jpg" medium="image"/>
+</item>
+<item>
+<title>Your PC's USB port can charge your phone, even when it's turned off — Here's how</title>
+<link>https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off</link>
+<guid isPermaLink="false">f864bb866c6b947c0556a533ac784a8415e5a46e0f4a69b74e8218fc8138cc7d</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 00:30:00 +0000</pubDate>
+<description>Yes, a powered-off PC can still charge your phone, but only if the right feature is on. Here's what to check before you shut down and walk away.</description>
+<enclosure url="https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/your-pcs-usb-port-can-charge-your-phone-even-when-its-turned-off-heres-how/l-intro-1794604560.jpg" medium="image"/>
+</item>
+<item>
+<title>10 things you should never do on your Android phone</title>
+<link>https://www.engadget.com/2317775/never-do-these-things-on-android-phone</link>
+<guid isPermaLink="false">50d8a262cb4dedd3cf076a628f3b1c6166323e7a1c9ffdcb3b30a912a4b228ba</guid>
+<source>Engadget</source>
+<category>technology</category>
+<pubDate>Sun, 22 Nov 2026 00:15:00 +0000</pubDate>
+<description>Every Android user should know what to avoid so they don't make mistakes that shorten their phone's useful life.</description>
+<enclosure url="https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg" type="image/jpeg"/>
+<media:content url="https://www.engadget.com/img/gallery/10-things-you-should-never-do-on-your-android-phone/l-intro-1793984732.jpg" medium="image"/>
+</item>
+<item>
 <title>This is the best type of wireless earbuds for audio output</title>
 <link>https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output</link>
 <guid isPermaLink="false">051dd0a05a8dadfe26bef6622fb6233f3efab7981cb5d3ce8c885683a6ec86b9</guid>
@@ -251,39 +328,6 @@
 <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image"/>
 </item>
 <item>
-<title>How to block a device from your home network</title>
-<link>https://www.engadget.com/2318874/how-to-block-device-home-network</link>
-<guid isPermaLink="false">17e38c7c0355fa7e29b253945f7f202a5fa8c57cf12591dc0581adbae95a8b3f</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 20:00:00 +0000</pubDate>
-<description>Did a strange device just connect to your home Wi-Fi? Don't panic. Here is how to identify exactly what it is and securely block it from your network.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-to-block-a-device-from-your-home-network/l-intro-1794821930.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-to-block-a-device-from-your-home-network/l-intro-1794821930.jpg" medium="image"/>
-</item>
-<item>
-<title>Anthropic employee claims to have proven the most famous math problem using Claude</title>
-<link>https://www.engadget.com/2324141/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude</link>
-<guid isPermaLink="false">a3b191eee961261d681815baa11c73f5d08fe2f0dca74b9bd18836ffc1dfa4c5</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 19:45:01 +0000</pubDate>
-<description>Levent Alpöge says he worked with Claude to discover a proof of the Riemann Hypothesis.</description>
-<enclosure url="https://www.engadget.com/img/gallery/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/l-intro-1795290107.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/anthropic-employee-claims-to-have-proven-the-most-famous-math-problem-using-claude/l-intro-1795290107.jpg" medium="image"/>
-</item>
-<item>
-<title>Here's how much a Sony Walkman cost in 1980 vs. 2026</title>
-<link>https://www.engadget.com/2318873/how-much-sony-walkman-cost-1980-vs-2026</link>
-<guid isPermaLink="false">5fc902ce0b422475c38cb1ff2d667c8375442e6a361cc8db819354a3fecd5b95</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 19:45:00 +0000</pubDate>
-<description>What would the original Sony Walkman cost today? Here's the inflation-adjusted price of the TPS-L2 and how it paved the way for modern hi-res audio players.</description>
-<enclosure url="https://www.engadget.com/img/gallery/heres-how-much-a-sony-walkman-cost-in-1980-vs-2026/l-intro-1794562570.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/heres-how-much-a-sony-walkman-cost-in-1980-vs-2026/l-intro-1794562570.jpg" medium="image"/>
-</item>
-<item>
 <title>Not upgrading to iPhone 18 Pro or Duo? Here’s what’s coming in 2027</title>
 <link>https://9to5mac.com/2026/11/21/heres-what-next-years-iphone-lineup-will-look-like</link>
 <guid isPermaLink="false">da8ffa40ee48ea086f871a4b0eb4566fa9f9ec67751f7e8470b694a2f1798865</guid>
@@ -293,28 +337,6 @@
 <description>iPhone 18 Pro and iPhone Duo have been out for quite some time now, and despite that, it’s still incredibly challenging to order an iPhone Duo in a timely manner. If for whatever reason you’re considering skipping out on this year’s iPhones, here’s what you have to look forward to next year. more…</description>
 <enclosure url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" type="image/jpeg"/>
 <media:content url="https://9to5mac.com/wp-content/uploads/sites/6/2026/11/iphone-20-pro-blue-mockup.jpg?quality=82&amp;strip=all&amp;w=1600" medium="image"/>
-</item>
-<item>
-<title>Signs it's time to replace your phone's screen protector</title>
-<link>https://www.engadget.com/2318871/signs-when-replace-phone-screen-protector</link>
-<guid isPermaLink="false">524aa848d8b2b4218bedeb21fac2c86006816d104cbf24777d438fb0b95f18c6</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 19:30:00 +0000</pubDate>
-<description>Should you stick with a smashed screen protector or not bother? Here's how to tell when it's time for a new one and unsuspecting signs you need to look for.</description>
-<enclosure url="https://www.engadget.com/img/gallery/signs-its-time-to-replace-your-phones-screen-protector/l-intro-1794579381.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/signs-its-time-to-replace-your-phones-screen-protector/l-intro-1794579381.jpg" medium="image"/>
-</item>
-<item>
-<title>How does iCloud Private Relay's security compare to VPN alternatives?</title>
-<link>https://www.engadget.com/2318772/how-does-icloud-private-relay-security-compare-vpn-alternatives</link>
-<guid isPermaLink="false">8d402164982809c9b98b4d167bcd4e886e609a636f10b1064d7d26707887b318</guid>
-<source>Engadget</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 19:15:00 +0000</pubDate>
-<description>iCloud+ subscribers get access to Private Relay, which protects some of their online privacy without being an outright replacement for a traditional VPN.</description>
-<enclosure url="https://www.engadget.com/img/gallery/how-does-icloud-private-relays-security-compare-to-vpn-alternatives/l-intro-1794890895.jpg" type="image/jpeg"/>
-<media:content url="https://www.engadget.com/img/gallery/how-does-icloud-private-relays-security-compare-to-vpn-alternatives/l-intro-1794890895.jpg" medium="image"/>
 </item>
 <item>
 <title>Trump says reported FBI database hack is ‘not good’</title>
@@ -655,15 +677,15 @@
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg" medium="image"/>
 </item>
 <item>
-<title>Mint Mobile Discounts for November 2026</title>
-<link>https://www.wired.com/story/mint-mobile-promo-code</link>
-<guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
+<title>Therabody Promo Codes: 15% Off November 2026</title>
+<link>https://www.wired.com/story/therabody-promo-code</link>
+<guid isPermaLink="false">c8135deb00271f4a90d857f880b819017fa41294172792e9781c51df82ccde15</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
-<description>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</description>
-<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+<description>Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.</description>
+<enclosure url="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" medium="image"/>
 </item>
 <item>
 <title>Mountain Hardwear Coupon Code 15% Off November</title>
@@ -688,6 +710,28 @@
 <media:content url="https://media.wired.com/photos/67b63b967f8fc45af4896200/master/pass/WIRED-Coupons-R2_7.png" medium="image"/>
 </item>
 <item>
+<title>Nike Promo Codes and Discounts: 30% for November 2026</title>
+<link>https://www.wired.com/story/nike-promo-code</link>
+<guid isPermaLink="false">697187ea47083ab3a1d97ee7ca42e3abd74f23844bd61633d96e65adda781f59</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+<description>Check out our deals for Nike this November 2026, including 15% off select purchases.</description>
+<enclosure url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
+</item>
+<item>
+<title>Mint Mobile Discounts for November 2026</title>
+<link>https://www.wired.com/story/mint-mobile-promo-code</link>
+<guid isPermaLink="false">b8f96101317d5d3aeee56f938d848113e17452daebaf04df30932d350ea9d27f</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+<description>Reduce your monthly cell phone bill with these active Mint Mobile coupons and promos, limited-time promotions, and 5G plan savings.</description>
+<enclosure url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png" medium="image"/>
+</item>
+<item>
 <title>Motorola Coupon Code for November 2026</title>
 <link>https://www.wired.com/story/motorola-coupon-code</link>
 <guid isPermaLink="false">dd07c1bd9a0e565ce30201750989ee34557b6917ef8432c53900c0833d630279</guid>
@@ -710,17 +754,6 @@
 <media:content url="https://media.wired.com/photos/66ea0772ca863bb4c1028b66/master/pass/WIRED-Coupons-4.jpg" medium="image"/>
 </item>
 <item>
-<title>Nike Promo Codes and Discounts: 30% for November 2026</title>
-<link>https://www.wired.com/story/nike-promo-code</link>
-<guid isPermaLink="false">697187ea47083ab3a1d97ee7ca42e3abd74f23844bd61633d96e65adda781f59</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
-<description>Check out our deals for Nike this November 2026, including 15% off select purchases.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg" medium="image"/>
-</item>
-<item>
 <title>Ulta Promo Codes: Up to 20% Off in November 2026</title>
 <link>https://www.wired.com/story/ulta-coupon</link>
 <guid isPermaLink="false">3499b2393ffc6e8e65cd2e4147262fc16aea01fccc2c84cb66f0c59c3e282ead</guid>
@@ -732,17 +765,6 @@
 <media:content url="https://media.wired.com/photos/67b63b9283a9f95e0ab9b215/master/pass/WIRED-Coupons-R2_3.png" medium="image"/>
 </item>
 <item>
-<title>Therabody Promo Codes: 15% Off November 2026</title>
-<link>https://www.wired.com/story/therabody-promo-code</link>
-<guid isPermaLink="false">c8135deb00271f4a90d857f880b819017fa41294172792e9781c51df82ccde15</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
-<description>Save on the science-backed devices you’ve been eyeing with 15% off Theragun discount code and 30% off other great deals.</description>
-<enclosure url="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/66ea076ea8e714f02ce0d63e/master/pass/WIRED-Coupons-15.jpg" medium="image"/>
-</item>
-<item>
 <title>20% Off Brooks Promo Code | November 2026</title>
 <link>https://www.wired.com/story/brooks-promo-code</link>
 <guid isPermaLink="false">5639e065fd141e2738b7399a3115318fc06c3cb734ac9bdf98ec4296c53e8ab4</guid>
@@ -752,17 +774,6 @@
 <description>Enjoy 20% off your first order with a Brooks coupon code, plus top discounts and deals on our favorite Brooks running shoes.</description>
 <enclosure url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/66ea076ee8502211cd1d9a42/master/pass/WIRED-Coupons-13.jpg" medium="image"/>
-</item>
-<item>
-<title>Uplift Promo Codes: $300 Off</title>
-<link>https://www.wired.com/story/uplift-desk-coupon-code</link>
-<guid isPermaLink="false">dcabe22c8051e6638cc2b1ec77083dbcb1a219114bd2bfb3db5e2d44814ef03a</guid>
-<source>Wired</source>
-<category>technology</category>
-<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
-<description>Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.</description>
-<enclosure url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
 <title>Hostinger Promo Code: 85% Off for November 2026</title>
@@ -785,6 +796,17 @@
 <description>Unlock massive savings on HostGator web hosting, WordPress, VPS, and business email plans with our exclusive HostGator promo codes and deals.</description>
 <enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" type="image/jpeg"/>
 <media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png" medium="image"/>
+</item>
+<item>
+<title>Uplift Promo Codes: $300 Off</title>
+<link>https://www.wired.com/story/uplift-desk-coupon-code</link>
+<guid isPermaLink="false">dcabe22c8051e6638cc2b1ec77083dbcb1a219114bd2bfb3db5e2d44814ef03a</guid>
+<source>Wired</source>
+<category>technology</category>
+<pubDate>Sat, 21 Nov 2026 06:00:00 +0000</pubDate>
+<description>Upgrade your home office with the best Uplift Desk discount codes. Save on standing desks, ergonomic chairs, and accessories.</description>
+<enclosure url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b985c0507c1bb18ab66/master/pass/WIRED-Coupons-R2_14.png" medium="image"/>
 </item>
 <item>
 <title>Startup sues Apple in India over tap-to-share contacts feature</title>
@@ -1781,15 +1803,15 @@
 <media:content url="https://media.wired.com/photos/66ea07715f7a3326e9fe7ca3/master/pass/WIRED-Coupons-5.jpg" medium="image"/>
 </item>
 <item>
-<title>Dyson Promo Codes: 25% Off in November 2026</title>
-<link>https://www.wired.com/story/dyson-cordless-vacuum-promo-code</link>
-<guid isPermaLink="false">541a8b807b45fd0657ab58134dbe7c01c675234ea730a5025381c524458fd6bd</guid>
+<title>iRobot Promo Code: 15% Off</title>
+<link>https://www.wired.com/story/irobot-promo-code</link>
+<guid isPermaLink="false">b97ee58c59407c309f0d8a1d3fd38d3936aa0bd385313d12916b5f227f72e67e</guid>
 <source>Wired</source>
 <category>technology</category>
 <pubDate>Fri, 20 Nov 2026 06:00:00 +0000</pubDate>
-<description>Get 25% off with a Dyson coupon code, plus save up to $600 with discounts on vacuums, $150 off Airwraps, and more.</description>
-<enclosure url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" type="image/jpeg"/>
-<media:content url="https://media.wired.com/photos/67b63b919468ebbf8f0cbc7a/master/pass/WIRED-Coupons-R2_9.png" medium="image"/>
+<description>Save on iRobot products, including robot vacuums and mops designed to handle pet hair, daily messes, and hands-free cleaning with smart home integration.</description>
+<enclosure url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" type="image/jpeg"/>
+<media:content url="https://media.wired.com/photos/67b63b917d355db73b38e0c0/master/pass/WIRED-Coupons-R2_1.png" medium="image"/>
 </item>
 <item>
 <title>New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
@@ -3045,27 +3067,5 @@
 <description>Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)</description>
 <enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg" type="image/jpeg"/>
 <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg" medium="image"/>
-</item>
-<item>
-<title>⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days</title>
-<link>https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html</link>
-<guid isPermaLink="false">e021b9febf9ed0b72381678ae1e4f38416a2854947429d039f6506c3c5ee0c2c</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 13:27:20 +0000</pubDate>
-<description>A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg" medium="image"/>
-</item>
-<item>
-<title>Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login</title>
-<link>https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html</link>
-<guid isPermaLink="false">a989c64e51ebb71dbd1d9ff22e39b9fd0ee730efd9a714120880524317739baa</guid>
-<source>The Hacker News</source>
-<category>technology</category>
-<pubDate>Mon, 16 Nov 2026 12:34:21 +0000</pubDate>
-<description>Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to</description>
-<enclosure url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg" type="image/jpeg"/>
-<media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg" medium="image"/>
 </item>
 </channel></rss>
