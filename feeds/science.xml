@@ -4,6 +4,28 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>Artemis III Astronaut Andre Douglas Visits VAB</title>
+<link>https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab</link>
+<guid isPermaLink="false">1380af4ce3b5ec939865d5a06ca862ab8e2c126deb3f7641b13dd19e6256812d</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 27 Nov 2026 15:01:00 +0000</pubDate>
+<description>NASA astronaut Andre Douglas, Artemis III mission specialist, stands inside an RS-25 engine test article during a visit to the Vehicle Assembly Building at NASA’s Kennedy Space Center in Florida on Tuesday, Nov. 17, 2026. During Artemis III, four RS-25 engines will power the SLS (Space Launch System) rocket core stage to send the Orion […]</description>
+<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg?w=2048" type="image/jpeg"/>
+<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ksc-20261117-ph-kls02-0020orig.jpg?w=2048" medium="image"/>
+</item>
+<item>
+<title>NASA’s NG-25 Mission to Launch Pioneering Space Crops Research</title>
+<link>https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research</link>
+<guid isPermaLink="false">606ac8fb55254a3b156a68d2ccb66b8a392c366b8404f0fabace210f07e4b75f</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Fri, 27 Nov 2026 14:22:00 +0000</pubDate>
+<description>NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […]</description>
+<enclosure url="https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg?w=1920&amp;h=1080&amp;fit=clip&amp;crop=faces%2Cfocalpoint" type="image/jpeg"/>
+<media:content url="https://images-assets.nasa.gov/image/jsc2026e415098/jsc2026e415098~large.jpg?w=1920&amp;h=1080&amp;fit=clip&amp;crop=faces%2Cfocalpoint" medium="image"/>
+</item>
+<item>
 <title>The narwhal’s legendary “unicorn horn” holds a remarkable engineering secret</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261126063316.htm</link>
 <guid isPermaLink="false">8ac033fb31a1e35f23674c66f1d891d9a7ef1d93c02cf23721e85ba0a51eae1f</guid>
@@ -132,6 +154,33 @@
 <category>science</category>
 <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.</description>
+</item>
+<item>
+<title>Audio long read: The world’s most precious brain samples — and what they teach us about being human</title>
+<link>https://www.nature.com/articles/d41586-026-03900-8</link>
+<guid isPermaLink="false">27a0ea4c4978b470bde7d2ebe7bbbf39f0825411872de0c1ec858a61b46b913a</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03900-8 Rare neurons taken from living humans are helping researchers test how brain cells behave in their natural environment.</description>
+</item>
+<item>
+<title>Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat</title>
+<link>https://www.nature.com/articles/s41586-026-11411-9</link>
+<guid isPermaLink="false">62585f6fa829a1c537624954c1320b6e4ba5146865d9e250e465aaa21ec24bc2</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 27 November 2026; doi:10.1038/s41586-026-11411-9 Author Correction: Artificial intelligence-enabled clinical phenotyping of human brown fat</description>
+</item>
+<item>
+<title>Want your research cited in patents? Publishing open access increases your chances</title>
+<link>https://www.nature.com/articles/d41586-026-03754-0</link>
+<guid isPermaLink="false">f210f514c2c12e926f013a8c9f9ef36e383a1b08e48564d0301a3472f8bacd0a</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03754-0 Studies are more likely to be cited in patents if they are freely available — legitimately or otherwise — researchers have found.</description>
 </item>
 <item>
 <title>Postcards from your graves</title>
@@ -380,17 +429,6 @@
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048" medium="image"/>
 </item>
 <item>
-<title>NASA’s Hubble Views Ocean of Stars in Groundwork for Roman</title>
-<link>https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman</link>
-<guid isPermaLink="false">89bd132084d4900f861924f0626e21abca7ef3aec2fefdea3ed98b17d80be747</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 25 Nov 2026 14:56:54 +0000</pubDate>
-<description>These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.</description>
-<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg?w=1536&amp;h=1536&amp;fit=clip" type="image/jpeg"/>
-<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/milky-way/Hubble_GalacticBulge_HD70_1_FINAL.jpg?w=1536&amp;h=1536&amp;fit=clip" medium="image"/>
-</item>
-<item>
 <title>Common sleep and anxiety drugs could be harming aging brains</title>
 <link>https://www.sciencedaily.com/releases/2026/11/261124055854.htm</link>
 <guid isPermaLink="false">a2bf285ae0eb5f9358a31e1b8c76321c974ec382e6494605ae170a34211811f2</guid>
@@ -443,15 +481,6 @@
 <category>science</category>
 <pubDate>Wed, 25 Nov 2026 09:30:54 +0000</pubDate>
 <description>A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals. Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought. Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness.</description>
-</item>
-<item>
-<title>APOD: 2026 November 25 – SPHEREx Seeing Through Dust</title>
-<link>https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust</link>
-<guid isPermaLink="false">c2dcde0f0be44afb558ac916c17f0d090cde3427fd1765ca79f88ac82cf049aa</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 25 Nov 2026 05:05:00 +0000</pubDate>
-<description>APOD Science APOD APOD: 2026 November 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. To view this […]</description>
 </item>
 <item>
 <title>Stanford scientists discover 3 hidden brain types behind ADHD and anxiety</title>
@@ -623,6 +652,15 @@
 <category>science</category>
 <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03492-3 The stochastic activation of specific genes is needed for the proper formation of neuronal circuits. Opposing forces act on inactive DNA to balance this process.</description>
+</item>
+<item>
+<title>Daily briefing: A powerful HIV vaccine is finally within reach</title>
+<link>https://www.nature.com/articles/d41586-026-03879-2</link>
+<guid isPermaLink="false">430c142760ca68424f277b9117cb4b65720e25d3b15fdbfb5ef53eeeaea68277</guid>
+<source>Nature News</source>
+<category>science</category>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<description>Nature, Published online: 25 November 2026; doi:10.1038/d41586-026-03879-2 The world has a golden chance to improve HIV prevention — if we don’t squander it. Plus, how pregnancy changes the brain and general-purpose chatbots are getting better at science.</description>
 </item>
 <item>
 <title>Helsinki puts trust at the heart of its smart-city model</title>
@@ -1145,42 +1183,6 @@
 <category>science</category>
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 <description>Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03723-7 Common health conditions lack medicines and treatments because industry finds them too risky to invest in. Here’s what would help.</description>
-</item>
-<item>
-<title>Daily briefing: Is AI ‘the end of mathematics as we know it’?</title>
-<link>https://www.nature.com/articles/d41586-026-03841-2</link>
-<guid isPermaLink="false">423fd1a3ae37124c75a3a509a2c2b7641e10167f12e585d718b4ef38d9c12d77</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03841-2 Mathematicians are grappling with the future of their field in the age of AI. Plus, trauma leaves molecular scars in brain cells and whether scientists are responsible for their tooting their own horns.</description>
-</item>
-<item>
-<title>‘The worst COP ever’ offers a chance to learn from failure</title>
-<link>https://www.nature.com/articles/d41586-026-03810-9</link>
-<guid isPermaLink="false">999211149df692200457a37f14d8662a2df0d0ec113ac60efdee02cd91875e36</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03810-9 COP31 ended without agreement, but consensus-based approaches are essential to solve global issues, and ‘failures’ can lead to decisive action at future talks.</description>
-</item>
-<item>
-<title>AI is ‘the end of mathematics as we know it’ — where does the field go next?</title>
-<link>https://www.nature.com/articles/d41586-026-03719-3</link>
-<guid isPermaLink="false">d9f765579f63b4f994466cd1a4cd76e3535e6016f9df79647725e4aafa230bfc</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03719-3 Mathematicians are bracing for a future when their profession could be mostly delegated to machines.</description>
-</item>
-<item>
-<title>Menopause can speed up brain ageing — hormone therapy might protect it</title>
-<link>https://www.nature.com/articles/d41586-026-03667-y</link>
-<guid isPermaLink="false">7ee33b797efb155487e45f44a1dc282a3f58ab61d42ca128a6cc92d052815cf0</guid>
-<source>Nature News</source>
-<category>science</category>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<description>Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03667-y Studies are revealing how menopause can also affect the progression of Alzheimer’s disease.</description>
 </item>
 <item>
 <title>New gum disease treatment kills bad bacteria while sparing the good</title>
