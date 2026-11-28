@@ -4,6 +4,17 @@
 <link>https://example.com/</link>
 <description>Aggregated headlines linking to original publishers</description>
 <item>
+<title>APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph</title>
+<link>https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph</link>
+<guid isPermaLink="false">073b49d2435cb7556ac0d6e2ca9e8f2c28b94f723de2e2b59d83d4b22fdc431e</guid>
+<source>NASA Breaking News</source>
+<category>science</category>
+<pubDate>Sat, 28 Nov 2026 05:05:00 +0000</pubDate>
+<description>APOD Science APOD APOD: 2026 November 28 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Apollo 17 VIP […]</description>
+<enclosure url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg?w=2014&amp;h=2048&amp;fit=clip" type="image/jpeg"/>
+<media:content url="https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/a17anaglyph_vanMeijgaarden_f.jpg?w=2014&amp;h=2048&amp;fit=clip" medium="image"/>
+</item>
+<item>
 <title>Artemis III Astronaut Andre Douglas Visits VAB</title>
 <link>https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab</link>
 <guid isPermaLink="false">1380af4ce3b5ec939865d5a06ca862ab8e2c126deb3f7641b13dd19e6256812d</guid>
@@ -416,17 +427,6 @@
 <description>Conversations about NASA were the norm around the dinner table during Ashley Knight’s childhood. Her parents worked at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, and discussions about happenings at the agency continued even when they came home from the office. “I remember a poignant dialogue we had after the space shuttle Challenger disaster,” […]</description>
 <enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/ashley-knight-and-parents.jpg?w=1504" type="image/jpeg"/>
 <media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/ashley-knight-and-parents.jpg?w=1504" medium="image"/>
-</item>
-<item>
-<title>Eye of the Sahara</title>
-<link>https://www.nasa.gov/image-article/eye-of-the-sahara</link>
-<guid isPermaLink="false">ff0501dec8e204f83b6b26a1d2b43f4a11440380c5c11221bcdfeda09678add8</guid>
-<source>NASA Breaking News</source>
-<category>science</category>
-<pubDate>Wed, 25 Nov 2026 16:21:04 +0000</pubDate>
-<description>The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks […]</description>
-<enclosure url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048" type="image/jpeg"/>
-<media:content url="https://www.nasa.gov/wp-content/uploads/2026/11/iss075e0274930orig.jpg?w=2048" medium="image"/>
 </item>
 <item>
 <title>Common sleep and anxiety drugs could be harming aging brains</title>
